@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2064765977116684557",
+    "created_at": "2026-06-10T17:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064765977116684557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "《雾里看花》原 唱：那英填 词：阎肃谱 曲：孙川-------------------------雾里看花...",
+          "display_url": "youtu.be/8XZN1shx1dc?si…",
+          "end": 63,
+          "expanded_url": "https://youtu.be/8XZN1shx1dc?si=LixTB1zYCsZRWZTc",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2064765981529083904/cDIDUUFY?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2064765981529083904/cDIDUUFY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 40,
+          "status": 200,
+          "title": "1995年 那英《雾里看花》经典MV 【高清】",
+          "unwound_url": "https://www.youtube.com/watch?si=LixTB1zYCsZRWZTc&v=8XZN1shx1dc&feature=youtu.be",
+          "url": "https://t.co/Fc8roOHNoZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064765977116684557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这首歌简直是从记忆深处挖出来的，好长时间都不知道叫什么，但是就是觉得莫名亲切（\nhttps://t.co/Fc8roOHNoZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2064765977116684557",
+        "created_at": "2026-06-10T17:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064765977116684557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "《雾里看花》原 唱：那英填 词：阎肃谱 曲：孙川-------------------------雾里看花...",
+              "display_url": "youtu.be/8XZN1shx1dc?si…",
+              "end": 63,
+              "expanded_url": "https://youtu.be/8XZN1shx1dc?si=LixTB1zYCsZRWZTc",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2064765981529083904/cDIDUUFY?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064765981529083904/cDIDUUFY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "1995年 那英《雾里看花》经典MV 【高清】",
+              "unwound_url": "https://www.youtube.com/watch?si=LixTB1zYCsZRWZTc&v=8XZN1shx1dc&feature=youtu.be",
+              "url": "https://t.co/Fc8roOHNoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064765977116684557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这首歌简直是从记忆深处挖出来的，好长时间都不知道叫什么，但是就是觉得莫名亲切（\nhttps://t.co/Fc8roOHNoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4282,
+          "following_count": 7388,
+          "like_count": 7634,
+          "listed_count": 7,
+          "media_count": 1666,
+          "tweet_count": 6679
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

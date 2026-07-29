@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1944384291183759650",
+    "created_at": "2025-07-14T10:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T11:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944705520532865320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1407034837953748995",
+          "start": 0,
+          "username": "Kinaiyurun0128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944705520532865320",
+    "in_reply_to_user_id": "1407034837953748995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944548506947215564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinaiyurun0128 选后面的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1944384291183759650",
+        "created_at": "2025-07-14T10:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T11:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944705520532865320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1407034837953748995",
+              "start": 0,
+              "username": "Kinaiyurun0128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944705520532865320",
+        "in_reply_to_user_id": "1407034837953748995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944548506947215564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinaiyurun0128 选后面的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407034837953748995",
+        "conversation_id": "1944384291183759650",
+        "created_at": "2025-07-14T00:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T01:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944548506947215564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944548506947215564",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944384291183759650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 扶他 偽娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 7393,
+          "like_count": 3589,
+          "listed_count": 4,
+          "media_count": 773,
+          "tweet_count": 3346
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T17:57:16.000Z",
+        "description": "19歲高中生/善待這個世界 卻被無情折磨/一心同體@_Snow0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "_Snow0717"
+              }
+            ]
+          }
+        },
+        "id": "1407034837953748995",
+        "location": "ナイトコード",
+        "name": "岐奈ゆるん",
+        "pinned_tweet_id": "1915142765773717606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826930572754620416/lWG-a777_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 537,
+          "like_count": 88323,
+          "listed_count": 4,
+          "media_count": 806,
+          "tweet_count": 19530
+        },
+        "username": "Kinaiyurun0128",
+        "verified": false
+      }
+    ]
+  }
+}

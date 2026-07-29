@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2039713797318074788",
+    "created_at": "2026-04-02T14:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039713797318074788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OnlyLenKagamin…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/OnlyLenKagamine/status/2039709951749480653",
+          "start": 107,
+          "url": "https://t.co/drk9cG28zv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039713797318074788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039709951749480653",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然想起日语当中有一个词叫“青い恋”，是一种像蓝色一样懵懂，浪漫，青涩的意境，但是对于我来讲，看到这个词以后，不怎么能品得出那种青涩，恐怕也只剩酸涩了……（另外说一下，日语当中几乎没有发展出对这种情况表负面的词汇 https://t.co/drk9cG28zv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2039713797318074788",
+        "created_at": "2026-04-02T14:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039713797318074788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OnlyLenKagamin…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/OnlyLenKagamine/status/2039709951749480653",
+              "start": 107,
+              "url": "https://t.co/drk9cG28zv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039713797318074788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039709951749480653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想起日语当中有一个词叫“青い恋”，是一种像蓝色一样懵懂，浪漫，青涩的意境，但是对于我来讲，看到这个词以后，不怎么能品得出那种青涩，恐怕也只剩酸涩了……（另外说一下，日语当中几乎没有发展出对这种情况表负面的词汇 https://t.co/drk9cG28zv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804849792121499648",
+        "conversation_id": "2039709951749480653",
+        "created_at": "2026-04-02T14:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039709951749480653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039709951749480653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是只有中国才有“早恋”这个词？他应该如何被翻译成其他语种呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4140,
+          "following_count": 7135,
+          "like_count": 6908,
+          "listed_count": 7,
+          "media_count": 1433,
+          "tweet_count": 5914
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "2008年生｜Korea University｜行政专业｜平权 ｜梦想是新闻行业｜",
+        "id": "1804849792121499648",
+        "location": "고려대학교 2008.12.27",
+        "name": "阿莫🔜Lavie🇹🇼🇰🇷🏳️‍🌈🇨🇳Amoris",
+        "pinned_tweet_id": "2030712090760290682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009266813008531462/vUT2WQ8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4890,
+          "following_count": 423,
+          "like_count": 29438,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 3857
+        },
+        "username": "OnlyLenKagamine",
+        "verified": true
+      }
+    ]
+  }
+}

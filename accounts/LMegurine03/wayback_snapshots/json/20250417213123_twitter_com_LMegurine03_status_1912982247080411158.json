@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1912871615354077474",
+    "created_at": "2025-04-17T21:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T22:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912982247080411158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1855890157989412864",
+          "start": 0,
+          "username": "tobisawam1saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912982247080411158",
+    "in_reply_to_user_id": "1855890157989412864",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912871615354077474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tobisawam1saki 16.79"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1912871615354077474",
+        "created_at": "2025-04-17T21:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T22:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912982247080411158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1855890157989412864",
+              "start": 0,
+              "username": "tobisawam1saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912982247080411158",
+        "in_reply_to_user_id": "1855890157989412864",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912871615354077474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tobisawam1saki 16.79"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1912871611201658880"
+          ]
+        },
+        "author_id": "1855890157989412864",
+        "conversation_id": "1912871615354077474",
+        "created_at": "2025-04-17T14:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T15:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912871615354077474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912871615354077474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 995,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近似乎好多人在减肥\n来玩bmi大调查"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 5955,
+          "like_count": 1991,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 2079
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T08:27:58.000Z",
+        "description": "灭绝人性的法西斯跨🌈 华川粉支那人研究员🧑‍🔬共党最忠诚的网评员🇨🇳爱乌克兰东突的汉出🇺🇦支黑可以找我贴贴喵🫶里@R18misaki1 12.13🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "R18misaki1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/8AweF7sw",
+                "end": 23,
+                "expanded_url": "https://discord.gg/8AweF7sw",
+                "start": 0,
+                "url": "https://t.co/zRgWxSbsHe"
+              }
+            ]
+          }
+        },
+        "id": "1855890157989412864",
+        "location": "南京",
+        "name": "鳶沢 みさき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908937893714055168/RIevRG0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 1069,
+          "like_count": 12352,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 2400
+        },
+        "url": "https://t.co/zRgWxSbsHe",
+        "username": "tobisawam1saki",
+        "verified": false
+      }
+    ]
+  }
+}

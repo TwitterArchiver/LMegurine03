@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1938258047769468994",
+    "created_at": "2025-06-26T15:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T16:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938258078496907552"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938258078496907552",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938258072239259904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或许只有接受了这一点，才有不彻底崩溃，而是重新开始的动力吧，这样才算是得到了对自己的掌控权，这种本身早就已经失去的权利，或许是这样吧，但说不定也就是一种自我安慰，谁知道呢，感觉还是好难，还是很害怕，还是不知道接下来要做什么……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938258047769468994",
+        "created_at": "2025-06-26T15:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938258078496907552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938258078496907552",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938258072239259904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许只有接受了这一点，才有不彻底崩溃，而是重新开始的动力吧，这样才算是得到了对自己的掌控权，这种本身早就已经失去的权利，或许是这样吧，但说不定也就是一种自我安慰，谁知道呢，感觉还是好难，还是很害怕，还是不知道接下来要做什么……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938258047769468994",
+        "created_at": "2025-06-26T15:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938258072239259904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938258072239259904",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938258066572526018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也许现实其实也没有那么差，至少我现在好像可以不用后悔了，我有一种感知他们预设的轨迹从来就不会是既定现实，我什么都没错过，只是选了另一条路而已，可能未来的某一天我会说我累了，坚持不下去了，或者哪件重要的事情没做成，但是我都会认为这没什么不正常的，也并没有错过那些预设的成功"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 7443,
+          "like_count": 3293,
+          "listed_count": 4,
+          "media_count": 739,
+          "tweet_count": 3013
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

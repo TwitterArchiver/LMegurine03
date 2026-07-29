@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1941089866953138415",
+    "created_at": "2025-07-04T19:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T20:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941218196209664265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1915037801005084673",
+          "start": 0,
+          "username": "anyi3614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941218196209664265",
+    "in_reply_to_user_id": "1915037801005084673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941089866953138415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anyi3614 嗯，对的，负压造成皮肤受力形变，进而导致毛细血管破裂形成淤血，本质上一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1941089866953138415",
+        "created_at": "2025-07-04T19:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T20:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941218196209664265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1915037801005084673",
+              "start": 0,
+              "username": "anyi3614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941218196209664265",
+        "in_reply_to_user_id": "1915037801005084673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941089866953138415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anyi3614 嗯，对的，负压造成皮肤受力形变，进而导致毛细血管破裂形成淤血，本质上一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915037801005084673",
+        "conversation_id": "1941089866953138415",
+        "created_at": "2025-07-04T11:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T12:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941089866953138415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941089866953138415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吻痕和拔罐是不是一个原理？？？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 7466,
+          "like_count": 3490,
+          "listed_count": 4,
+          "media_count": 757,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T13:39:44.000Z",
+        "description": "日本で留学しています/此账号为粉丝账号，大部分时间在关注adult family相关/请不要和我谈论任何政治🙅/日本語⭕️中文⭕️English ⭕️不礼貌❌/重たい人間で、申し訳ありません/无意义的话语堆放处：@anyi022936",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "anyi022936"
+              }
+            ]
+          }
+        },
+        "id": "1915037801005084673",
+        "name": "あにぃ",
+        "pinned_tweet_id": "1935154158795186504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939334150177124352/WkNEa5ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 69,
+          "like_count": 7434,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 667
+        },
+        "username": "anyi3614",
+        "verified": true
+      }
+    ]
+  }
+}

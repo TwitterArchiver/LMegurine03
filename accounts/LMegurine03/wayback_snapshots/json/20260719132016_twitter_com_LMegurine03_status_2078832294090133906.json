@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2078832290361458941",
+    "created_at": "2026-07-19T13:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078832294090133906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527114974841012225",
+          "start": 0,
+          "username": "Kiger_YuQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078832294090133906",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078832290361458941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiger_YuQing 上次真的很不好意思，我时间都没说清楚，也是我的问题了😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2078832290361458941",
+        "created_at": "2026-07-19T13:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078832294090133906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527114974841012225",
+              "start": 0,
+              "username": "Kiger_YuQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078832294090133906",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078832290361458941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiger_YuQing 上次真的很不好意思，我时间都没说清楚，也是我的问题了😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2078832290361458941",
+        "created_at": "2026-07-19T13:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078832290361458941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2078829983385235855",
+              "start": 81,
+              "url": "https://t.co/5TKoMyPPcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078832290361458941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078829983385235855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果有哪些推友想找我的话，我随时欢迎，但是千万要确保我们能把时间确定好的，感觉大家都挺难确保平常一定没有重要的事情需要做，所以如果真的想的话可以私信和我说一声😊 https://t.co/5TKoMyPPcP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 7501,
+          "like_count": 8149,
+          "listed_count": 8,
+          "media_count": 1879,
+          "tweet_count": 7114
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫小雨丨清水不涩丨娃勤摄三位一体黄金冤种丨可约后勤/拍摄丨键政禁止丨头壳是自设+特蕾西娅丨暴躁社恐丨注孤的Aquarius丨INFP-T 4w5丨不首先不主动不礼貌丨只对友善的人友善丨记得带卡丨中日英OK",
+        "id": "1527114974841012225",
+        "location": "卡兹屯口垃姬桶",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2051280611957186870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074502462749507584/u9v96f39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2775,
+          "following_count": 806,
+          "like_count": 7112,
+          "listed_count": 16,
+          "media_count": 339,
+          "tweet_count": 6925
+        },
+        "url": "",
+        "username": "Kiger_YuQing",
+        "verified": true
+      }
+    ]
+  }
+}

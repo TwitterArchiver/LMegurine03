@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1928656145130135552"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1928656146732061049",
+    "created_at": "2025-05-31T03:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T04:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928656146732061049"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928656146732061049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "预测一下谁是本届欧冠冠军"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1140,
+        "end_datetime": "2025-05-31T22:33:52.000Z",
+        "id": "1928656145130135552",
+        "options": [
+          {
+            "label": "巴黎圣日耳曼",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "国际米兰",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1928656145130135552"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1928656146732061049",
+        "created_at": "2025-05-31T03:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T04:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928656146732061049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928656146732061049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "预测一下谁是本届欧冠冠军"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 7499,
+          "like_count": 2689,
+          "listed_count": 3,
+          "media_count": 644,
+          "tweet_count": 2678
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

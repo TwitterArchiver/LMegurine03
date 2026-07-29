@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1917304580410597874",
+    "created_at": "2025-04-29T19:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T20:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917304582767796443"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1917304582767796443",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917304580410597874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这几天突然感觉严重，大概就是精神压力积攒过多已经达到阈值了，一方面准备日语学习有点累过劲，再就是感觉家里的环境太压抑了，家里的人也不怎么理解我，可以说是一点也待不住，但确实没什么办法，就算是留学也要忍一阵子，还得把日语搞好，只能靠自己了，慢慢调整吧，等我状态好点的时候会持续更新的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_1917304576371482625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpuiWpjaYAEK8Nn.jpg",
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1917304580410597874",
+        "created_at": "2025-04-29T19:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T20:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917304582767796443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917304582767796443",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917304580410597874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这几天突然感觉严重，大概就是精神压力积攒过多已经达到阈值了，一方面准备日语学习有点累过劲，再就是感觉家里的环境太压抑了，家里的人也不怎么理解我，可以说是一点也待不住，但确实没什么办法，就算是留学也要忍一阵子，还得把日语搞好，只能靠自己了，慢慢调整吧，等我状态好点的时候会持续更新的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917304576371482625"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1917304580410597874",
+        "created_at": "2025-04-29T19:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T20:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917304580410597874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9PDV2iu5Kl",
+              "end": 161,
+              "expanded_url": "https://x.com/LMegurine03/status/1917304580410597874/photo/1",
+              "media_key": "3_1917304576371482625",
+              "start": 138,
+              "url": "https://t.co/9PDV2iu5Kl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917304580410597874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实在抱歉，这几天发生了一点事情，没什么心思回消息，现在勉强缓过来点，就来发点东西……倒不是像自杀冲动或者是家暴这样紧急的，就是躯体化症状有些严重，导致一定程度失眠和身体不适，几乎每天都是凌晨六七点累到极致才能强行入睡，大多断断续续缺乏深度睡眠，肌肉酸痛和耳鸣的症状也更加明显 https://t.co/9PDV2iu5Kl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 6759,
+          "like_count": 2064,
+          "listed_count": 3,
+          "media_count": 516,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925185209982652417",
+        "3_1925185209491914752",
+        "3_1925185211182268416"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1925185214416036003",
+    "created_at": "2025-05-21T13:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T14:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925185214416036003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UcWRxTgrfL",
+          "end": 123,
+          "expanded_url": "https://x.com/LMegurine03/status/1925185214416036003/photo/1",
+          "media_key": "3_1925185209982652417",
+          "start": 100,
+          "url": "https://t.co/UcWRxTgrfL"
+        },
+        {
+          "display_url": "pic.x.com/UcWRxTgrfL",
+          "end": 123,
+          "expanded_url": "https://x.com/LMegurine03/status/1925185214416036003/photo/1",
+          "media_key": "3_1925185209491914752",
+          "start": 100,
+          "url": "https://t.co/UcWRxTgrfL"
+        },
+        {
+          "display_url": "pic.x.com/UcWRxTgrfL",
+          "end": 123,
+          "expanded_url": "https://x.com/LMegurine03/status/1925185214416036003/photo/1",
+          "media_key": "3_1925185211182268416",
+          "start": 100,
+          "url": "https://t.co/UcWRxTgrfL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925185214416036003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到这有山看看，一个特别有名的网红商场，规模不算特别出众，吃饭还是以连锁店为主，稍微有点同质化，但是挺有文艺风格的，里面有书店，猫咖还有酒店，还有其他的一些小店，在里面待一会还是可以的，总体来说还好吧 https://t.co/UcWRxTgrfL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2191,
+        "media_key": "3_1925185209982652417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grehv5faEAEmjdi.jpg",
+        "width": 936
+      },
+      {
+        "height": 2182,
+        "media_key": "3_1925185209491914752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grehv3qaAAAgvmw.jpg",
+        "width": 932
+      },
+      {
+        "height": 2182,
+        "media_key": "3_1925185211182268416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grehv99awAAcoX7.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925185209982652417",
+            "3_1925185209491914752",
+            "3_1925185211182268416"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1925185214416036003",
+        "created_at": "2025-05-21T13:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T14:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925185214416036003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcWRxTgrfL",
+              "end": 123,
+              "expanded_url": "https://x.com/LMegurine03/status/1925185214416036003/photo/1",
+              "media_key": "3_1925185209982652417",
+              "start": 100,
+              "url": "https://t.co/UcWRxTgrfL"
+            },
+            {
+              "display_url": "pic.x.com/UcWRxTgrfL",
+              "end": 123,
+              "expanded_url": "https://x.com/LMegurine03/status/1925185214416036003/photo/1",
+              "media_key": "3_1925185209491914752",
+              "start": 100,
+              "url": "https://t.co/UcWRxTgrfL"
+            },
+            {
+              "display_url": "pic.x.com/UcWRxTgrfL",
+              "end": 123,
+              "expanded_url": "https://x.com/LMegurine03/status/1925185214416036003/photo/1",
+              "media_key": "3_1925185211182268416",
+              "start": 100,
+              "url": "https://t.co/UcWRxTgrfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925185214416036003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到这有山看看，一个特别有名的网红商场，规模不算特别出众，吃饭还是以连锁店为主，稍微有点同质化，但是挺有文艺风格的，里面有书店，猫咖还有酒店，还有其他的一些小店，在里面待一会还是可以的，总体来说还好吧 https://t.co/UcWRxTgrfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 7318,
+          "like_count": 2384,
+          "listed_count": 3,
+          "media_count": 613,
+          "tweet_count": 2502
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

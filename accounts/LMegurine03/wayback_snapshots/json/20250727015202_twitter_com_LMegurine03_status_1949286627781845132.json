@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1949286627781845132",
+    "created_at": "2025-07-27T01:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T02:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949286627781845132"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949286627781845132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现一个挺有意思的事情，最近热门好多都是14号，哲凯赖什加盟阿森纳，拉什福德租借巴萨，莫德里奇加盟米兰，基耶萨加盟利物浦，还有杜埃加盟巴黎都穿的是14号……我觉得虽然不排除正好有号码空缺的情况，但是也有可能是因为14号已经成为了一种流行文化，最早追溯到克鲁伊夫时期，他的全攻全守战术理念"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1949286627781845132",
+        "created_at": "2025-07-27T01:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T02:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949286627781845132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949286627781845132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个挺有意思的事情，最近热门好多都是14号，哲凯赖什加盟阿森纳，拉什福德租借巴萨，莫德里奇加盟米兰，基耶萨加盟利物浦，还有杜埃加盟巴黎都穿的是14号……我觉得虽然不排除正好有号码空缺的情况，但是也有可能是因为14号已经成为了一种流行文化，最早追溯到克鲁伊夫时期，他的全攻全守战术理念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 7482,
+          "like_count": 3978,
+          "listed_count": 4,
+          "media_count": 794,
+          "tweet_count": 3488
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

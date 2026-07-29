@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1952908067143573819",
+    "created_at": "2025-08-06T03:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T04:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952929892611526935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1949484367857803264",
+          "start": 0,
+          "username": "Main_Itirric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952929892611526935",
+    "in_reply_to_user_id": "1949484367857803264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952926638985101369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Main_Itirric 主要是舱内配置的问题，同样是A320，南航和春秋的座椅间距明显不一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1952908067143573819",
+        "created_at": "2025-08-06T03:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T04:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952929892611526935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1949484367857803264",
+              "start": 0,
+              "username": "Main_Itirric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952929892611526935",
+        "in_reply_to_user_id": "1949484367857803264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952926638985101369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Main_Itirric 主要是舱内配置的问题，同样是A320，南航和春秋的座椅间距明显不一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949484367857803264",
+        "conversation_id": "1952908067143573819",
+        "created_at": "2025-08-06T02:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952926638985101369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952926638985101369",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952908067143573819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 其实国内航班飞机都不大，都是小飞机\n大飞机多用于两个发达地区直达航班以及国际航班。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 7500,
+          "like_count": 4152,
+          "listed_count": 5,
+          "media_count": 824,
+          "tweet_count": 3608
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T14:58:17.000Z",
+        "description": "没啥好说的， 第一次来推特 想和更多的国际友人和海外同胞交往！ 欢迎给我发DM✌ 希望咱们能好好相处❤ 没有啥立场，但尊重史实 👉Sub account：@Sub_Itirric （子账号被冻结正在申诉） ❗️暂时被限制功能，不能发帖，评论与关注，有事请发DM，谢谢❗️现在拒绝一切讨论和江油事件有关的事。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "Sub_Itirric"
+              }
+            ]
+          }
+        },
+        "id": "1949484367857803264",
+        "location": "ARK",
+        "name": "Main：Itirric-小月秋（再次被官方堵嘴版）",
+        "pinned_tweet_id": "1952004503412298051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951665516600565760/jXW73C9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 207,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1192
+        },
+        "username": "Main_Itirric",
+        "verified": false
+      }
+    ]
+  }
+}

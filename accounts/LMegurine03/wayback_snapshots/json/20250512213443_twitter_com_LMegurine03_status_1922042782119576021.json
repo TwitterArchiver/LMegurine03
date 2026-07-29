@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1922006312235249982",
+    "created_at": "2025-05-12T21:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T22:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922042782119576021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4699490881",
+          "start": 0,
+          "username": "now_arsenaI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922042782119576021",
+    "in_reply_to_user_id": "4699490881",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922006312235249982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@now_arsenaI Trossard"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1922006306409394176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqxWjW2XsAAjNNr.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1922006312235249982",
+        "created_at": "2025-05-12T21:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T22:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922042782119576021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4699490881",
+              "start": 0,
+              "username": "now_arsenaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922042782119576021",
+        "in_reply_to_user_id": "4699490881",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922006312235249982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@now_arsenaI Trossard"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922006306409394176"
+          ]
+        },
+        "author_id": "4699490881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774037453705217",
+              "name": "Leandro Trossard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1146431174337683457",
+              "name": "Gabriel Martinelli"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774037453705217",
+              "name": "Leandro Trossard"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1146431174337683457",
+              "name": "Gabriel Martinelli"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774037453705217",
+              "name": "Leandro Trossard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146431174337683457",
+              "name": "Gabriel Martinelli"
+            }
+          }
+        ],
+        "conversation_id": "1922006312235249982",
+        "created_at": "2025-05-12T19:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T20:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922006312235249982"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Gabriel Martinelli",
+              "probability": 0.9477,
+              "start": 30,
+              "type": "Person"
+            },
+            {
+              "end": 67,
+              "normalized_text": "Leandro Trossard",
+              "probability": 0.9296,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 130,
+              "normalized_text": "Gabriel Martinelli",
+              "probability": 0.9122,
+              "start": 113,
+              "type": "Person"
+            },
+            {
+              "end": 150,
+              "normalized_text": "Leandro Trossard",
+              "probability": 0.8839,
+              "start": 135,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7PyBdLLmz",
+              "end": 175,
+              "expanded_url": "https://x.com/now_arsenaI/status/1922006312235249982/photo/1",
+              "media_key": "3_1922006306409394176",
+              "start": 152,
+              "url": "https://t.co/t7PyBdLLmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922006312235249982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 55344,
+          "like_count": 813,
+          "quote_count": 39,
+          "reply_count": 352,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "If you could only keep one of Gabriel Martinelli or Leandro Trossard this summer, which one are you picking?\n\n🇧🇷 Gabriel Martinelli\n🇧🇪 Leandro Trossard https://t.co/t7PyBdLLmz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 7269,
+          "like_count": 2270,
+          "listed_count": 3,
+          "media_count": 562,
+          "tweet_count": 2361
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-03T00:24:23.000Z",
+        "description": "Everything Arsenal. From the latest transfer news to match updates & edits. Instagram: now.afc (325k) Enquires: instanow.arsenal@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nowarsenal.com",
+                "end": 23,
+                "expanded_url": "http://www.nowarsenal.com",
+                "start": 0,
+                "url": "https://t.co/t7aQT9F508"
+              }
+            ]
+          }
+        },
+        "id": "4699490881",
+        "location": "London, England",
+        "name": "now.arsenal",
+        "pinned_tweet_id": "1887269345392275865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571883925605064706/3mmf9MHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410618,
+          "following_count": 6448,
+          "like_count": 24679,
+          "listed_count": 1329,
+          "media_count": 14175,
+          "tweet_count": 48170
+        },
+        "url": "https://t.co/t7aQT9F508",
+        "username": "now_arsenaI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1910563271801012671",
+    "created_at": "2025-04-11T05:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T06:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910563271801012671"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1910563271801012671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日语里跟风有关的几个词语，这个分类还是比较有意思的\n風 (かぜ) 这个是常规形式的风，大小均可，但一定要是流动的，比如说春の風，就是春风的意思，除此之外也可以引申成，某一种氛围和风气，時代の風，可以做时代潮流的意思\n\n風邪 (かぜ)这个是特指感冒这种症状，读音和上面一致"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1910563271801012671",
+        "created_at": "2025-04-11T05:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T06:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910563271801012671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910563271801012671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日语里跟风有关的几个词语，这个分类还是比较有意思的\n風 (かぜ) 这个是常规形式的风，大小均可，但一定要是流动的，比如说春の風，就是春风的意思，除此之外也可以引申成，某一种氛围和风气，時代の風，可以做时代潮流的意思\n\n風邪 (かぜ)这个是特指感冒这种症状，读音和上面一致"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 5582,
+          "like_count": 1809,
+          "listed_count": 3,
+          "media_count": 474,
+          "tweet_count": 1987
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

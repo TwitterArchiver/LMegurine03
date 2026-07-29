@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930284993357721602"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1930284998986477862",
+    "created_at": "2025-06-04T15:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T16:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930284998986477862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9mltR8YDoO",
+          "end": 82,
+          "expanded_url": "https://x.com/LMegurine03/status/1930284998986477862/photo/1",
+          "media_key": "3_1930284993357721602",
+          "start": 59,
+          "url": "https://t.co/9mltR8YDoO"
+        },
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/LMegurine03/status/1930278802913165506",
+          "start": 83,
+          "url": "https://t.co/z1ebCYHKB3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930284998986477862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930278802913165506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "40.4，好几次都40左右，真的不知道是怎么量出来的，手头上没别的药，先吃个布洛芬退烧吧，要是再不行的话就直接去医院 https://t.co/9mltR8YDoO https://t.co/z1ebCYHKB3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_1930284993357721602",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsm_-XBasAIDcxw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930284993357721602"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1930284998986477862",
+        "created_at": "2025-06-04T15:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930284998986477862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mltR8YDoO",
+              "end": 82,
+              "expanded_url": "https://x.com/LMegurine03/status/1930284998986477862/photo/1",
+              "media_key": "3_1930284993357721602",
+              "start": 59,
+              "url": "https://t.co/9mltR8YDoO"
+            },
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/LMegurine03/status/1930278802913165506",
+              "start": 83,
+              "url": "https://t.co/z1ebCYHKB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930284998986477862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930278802913165506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "40.4，好几次都40左右，真的不知道是怎么量出来的，手头上没别的药，先吃个布洛芬退烧吧，要是再不行的话就直接去医院 https://t.co/9mltR8YDoO https://t.co/z1ebCYHKB3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1930278802913165506",
+        "created_at": "2025-06-04T15:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930278802913165506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/LMegurine03/status/1930231799407620310",
+              "start": 70,
+              "url": "https://t.co/bcHVauXT8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930278802913165506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 104,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930231799407620310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经39.3度了，有一种特别晕特别没劲的感觉，看来春夏换季的时候还是要注意保暖，最好还是穿个外套的，有的地方打空调打的特别凉，很容易感冒的 https://t.co/bcHVauXT8h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 7501,
+          "like_count": 2983,
+          "listed_count": 5,
+          "media_count": 666,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

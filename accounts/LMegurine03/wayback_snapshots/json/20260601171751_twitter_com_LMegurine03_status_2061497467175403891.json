@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2061478793949360334",
+    "created_at": "2026-06-01T17:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061497467175403891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548577726017089536",
+          "start": 0,
+          "username": "FurenBala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061497467175403891",
+    "in_reply_to_user_id": "1548577726017089536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061478793949360334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurenBala 摸摸（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061477802990563328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvXI7-a8AAUWkM.jpg",
+        "width": 1155
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061477810309656576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvXJXPbcAA8Fdl.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2061478793949360334",
+        "created_at": "2026-06-01T17:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061497467175403891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548577726017089536",
+              "start": 0,
+              "username": "FurenBala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061497467175403891",
+        "in_reply_to_user_id": "1548577726017089536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061478793949360334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurenBala 摸摸（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061477802990563328",
+            "3_2061477810309656576"
+          ]
+        },
+        "author_id": "1548577726017089536",
+        "conversation_id": "2061478793949360334",
+        "created_at": "2026-06-01T16:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061478793949360334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "mtx"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "男娘"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "伪娘"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "眼镜娘"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "银发"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "反差"
+            },
+            {
+              "end": 101,
+              "start": 94,
+              "tag": "femboy"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujuZAiqsbA",
+              "end": 129,
+              "expanded_url": "https://x.com/FurenBala/status/2061478793949360334/photo/1",
+              "media_key": "3_2061477802990563328",
+              "start": 106,
+              "url": "https://t.co/ujuZAiqsbA"
+            },
+            {
+              "display_url": "pic.x.com/ujuZAiqsbA",
+              "end": 129,
+              "expanded_url": "https://x.com/FurenBala/status/2061478793949360334/photo/1",
+              "media_key": "3_2061477810309656576",
+              "start": 106,
+              "url": "https://t.co/ujuZAiqsbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061478793949360334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "照片里却看起来好有料哦～😋\n低角度真的是魔法！谁懂这反差呀～  \n肉肉银发眼镜娘，自拍中练习ing～  \n你们猜猜我实际几杯呀？嘻嘻😁\n#mtx #男娘 #伪娘 #眼镜娘 #银发 #反差 #femboy #药娘 https://t.co/ujuZAiqsbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4204,
+          "following_count": 7304,
+          "like_count": 7482,
+          "listed_count": 7,
+          "media_count": 1636,
+          "tweet_count": 6543
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T07:58:19.000Z",
+        "description": "INTP/大龄男娘💊/🉑互fo/聊天苦手(是真的)/颜性恋➕自体女性恋💓/唯一账号/私信欢迎/现实里没人注意我，所以来这里求抱抱/夸夸/欺负",
+        "id": "1548577726017089536",
+        "name": "balabala酱",
+        "pinned_tweet_id": "2040790655904137690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033164407241592832/2dzzErOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 404,
+          "like_count": 199,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 314
+        },
+        "username": "FurenBala",
+        "verified": false
+      }
+    ]
+  }
+}

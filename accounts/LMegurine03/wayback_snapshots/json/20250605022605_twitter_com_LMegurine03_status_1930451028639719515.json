@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1930440227203805478",
+    "created_at": "2025-06-05T02:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930451028639719515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1507794054511497219",
+          "start": 0,
+          "username": "Miyu__Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930451028639719515",
+    "in_reply_to_user_id": "1507794054511497219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930449867454984209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyu__Z 目前来看症状不太像，支原体一般会干咳，我现在还没有这样的情况，要是有症状了再说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1930440227203805478",
+        "created_at": "2025-06-05T02:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930451028639719515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507794054511497219",
+              "start": 0,
+              "username": "Miyu__Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930451028639719515",
+        "in_reply_to_user_id": "1507794054511497219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930449867454984209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyu__Z 目前来看症状不太像，支原体一般会干咳，我现在还没有这样的情况，要是有症状了再说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507794054511497219",
+        "conversation_id": "1930440227203805478",
+        "created_at": "2025-06-05T02:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930449867454984209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930449867454984209",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930440227203805478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 还有支原体呢（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 7502,
+          "like_count": 2989,
+          "listed_count": 0,
+          "media_count": 666,
+          "tweet_count": 2749
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:58:19.000Z",
+        "description": "虚假的猫猫|| 更多简介在🔗链接里|| infp|| lang:CN/EN/DE|| 有人看我我很开心，会分享很多喜欢的东西~|| 部分照片见亮点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ggl.link/mwwTkxa",
+                "end": 23,
+                "expanded_url": "https://ggl.link/mwwTkxa",
+                "start": 0,
+                "url": "https://t.co/Ca9DiJSquO"
+              }
+            ]
+          }
+        },
+        "id": "1507794054511497219",
+        "location": "月之暗面",
+        "name": "芝士腐竹喵",
+        "pinned_tweet_id": "1925480913326199111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889702352804048896/z7Vp24cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 173,
+          "like_count": 4851,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/Ca9DiJSquO",
+        "username": "Miyu__Z",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1910587205653053652",
+    "created_at": "2025-04-11T06:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T07:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910587213491953837"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1910587213491953837",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910587208244883705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "键政这个东西我看现在没什么必要，喜欢的话自己了解就行，没必要那么着急的去发出来并且还要反驳别人，不是所有人都能看得惯，但是这个方式挺好的，我可以拿这样的方式来搞日语，就当笔记一样，经常性的发一点东西，初学的话就稍微来点简单的，别追求太高，知识匮乏的话无所谓的，哪有人在学之前会呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1910587205653053652",
+        "created_at": "2025-04-11T06:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T07:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910587213491953837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910587213491953837",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910587208244883705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "键政这个东西我看现在没什么必要，喜欢的话自己了解就行，没必要那么着急的去发出来并且还要反驳别人，不是所有人都能看得惯，但是这个方式挺好的，我可以拿这样的方式来搞日语，就当笔记一样，经常性的发一点东西，初学的话就稍微来点简单的，别追求太高，知识匮乏的话无所谓的，哪有人在学之前会呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1910587205653053652",
+        "created_at": "2025-04-11T06:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T07:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910587208244883705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910587208244883705",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910587205653053652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是这都没有关系的，不用追求每次都记下来，至少会给我留下一个模糊的印象，就已经很好了，这些印象看似有点杂乱，但是说不定什么时候就会想起来，对以后的影响还是很大的，这个过程在理论上叫输出驱动，经过一个主动的信息整理和输出过程，比单纯的记忆效果要好很多，也没有那么枯燥，还蛮有成就感的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 5585,
+          "like_count": 1810,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

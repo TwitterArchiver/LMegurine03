@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2063963000957215024",
+    "created_at": "2026-06-08T12:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063963000957215024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NanxinMTF/stat…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/NanxinMTF/status/2063943710979535257",
+          "start": 42,
+          "url": "https://t.co/G4dqdHwYu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063963000957215024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063943710979535257",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉，我也是这样，也希望好好拍一下，但是研究设备和参数这方面真的就是一点头绪都没有😿 https://t.co/G4dqdHwYu0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2063963000957215024",
+        "created_at": "2026-06-08T12:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063963000957215024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NanxinMTF/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/NanxinMTF/status/2063943710979535257",
+              "start": 42,
+              "url": "https://t.co/G4dqdHwYu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063963000957215024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063943710979535257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，我也是这样，也希望好好拍一下，但是研究设备和参数这方面真的就是一点头绪都没有😿 https://t.co/G4dqdHwYu0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063820793214377984",
+        "conversation_id": "2063943710979535257",
+        "created_at": "2026-06-08T11:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063943710979535257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063943710979535257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想学摄影但是每次看到参数就开始发呆\n最后决定先用手机拍拍天空\n也算摄影！对吧OAO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4248,
+          "following_count": 7368,
+          "like_count": 7579,
+          "listed_count": 7,
+          "media_count": 1647,
+          "tweet_count": 6604
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T03:10:52.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | Oder💊 | 不自残 | 不抽烟 | 不喝酒 | 非常helpful的南盺 | 小南 | 舍友@TransYuwen｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 135,
+                "username": "TransYuwen"
+              }
+            ]
+          }
+        },
+        "id": "2063820793214377984",
+        "name": "南盺酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063821144675991552/j5rc-jB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "NanxinMTF",
+        "verified": false
+      }
+    ]
+  }
+}

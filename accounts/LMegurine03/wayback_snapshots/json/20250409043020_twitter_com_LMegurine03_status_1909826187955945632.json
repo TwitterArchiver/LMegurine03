@@ -1,0 +1,654 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1909734922501144576"
+      ],
+      "media_source_tweet_id": [
+        "1909735963820974315"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "813454796225024000",
+          "name": "Declan Rice"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "813454796225024000",
+          "name": "Declan Rice"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "813454796225024000",
+          "name": "Declan Rice"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1909826187955945632",
+    "created_at": "2025-04-09T04:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T05:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909826187955945632"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Declan Rice",
+          "probability": 0.9438,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "281199878",
+          "start": 3,
+          "username": "Gunnersc0m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q9dxVeDIhM",
+          "end": 78,
+          "expanded_url": "https://x.com/ChampionsLeague/status/1909735963820974315/video/1",
+          "media_key": "13_1909734922501144576",
+          "start": 55,
+          "url": "https://t.co/Q9dxVeDIhM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909826187955945632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 256
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909736874937033019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gunnersc0m: Declan Rice, we got him half price. \n\n https://t.co/Q9dxVeDIhM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49720,
+        "height": 1080,
+        "media_key": "13_1909734922501144576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909734922501144576/img/CMGh-nLvI1tYcvvt.jpg",
+        "public_metrics": {
+          "view_count": 690097
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909734922501144576/vid/avc1/540x540/x8bNxIICnv9_a3_Q.mp4?tag=16"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909734922501144576/vid/avc1/320x320/ocO9Nj_eoa1THJ3t.mp4?tag=16"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909734922501144576/vid/avc1/720x720/4xO9b62bXp_QXRsj.mp4?tag=16"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909734922501144576/vid/avc1/1080x1080/BhPTuLjW4lmckUrK.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909734922501144576/pl/0jaLpdGlNv5RQdn4.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1909734922501144576"
+          ],
+          "media_source_tweet_id": [
+            "1909735963820974315"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1909826187955945632",
+        "created_at": "2025-04-09T04:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T05:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909826187955945632"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Declan Rice",
+              "probability": 0.9438,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "281199878",
+              "start": 3,
+              "username": "Gunnersc0m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9dxVeDIhM",
+              "end": 78,
+              "expanded_url": "https://x.com/ChampionsLeague/status/1909735963820974315/video/1",
+              "media_key": "13_1909734922501144576",
+              "start": 55,
+              "url": "https://t.co/Q9dxVeDIhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909826187955945632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 256
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909736874937033019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gunnersc0m: Declan Rice, we got him half price. \n\n https://t.co/Q9dxVeDIhM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1909734922501144576"
+          ],
+          "media_source_tweet_id": [
+            "1909735963820974315"
+          ]
+        },
+        "author_id": "281199878",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226207908290561",
+              "name": "International Clubs - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1909736874937033019",
+        "created_at": "2025-04-08T22:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T23:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909736874937033019"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Declan Rice",
+              "probability": 0.9596,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9dxVeDIhM",
+              "end": 62,
+              "expanded_url": "https://x.com/ChampionsLeague/status/1909735963820974315/video/1",
+              "media_key": "13_1909734922501144576",
+              "start": 39,
+              "url": "https://t.co/Q9dxVeDIhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909736874937033019",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 68234,
+          "like_count": 2630,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "Declan Rice, we got him half price. \n\n https://t.co/Q9dxVeDIhM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 5508,
+          "like_count": 1776,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-12T20:50:21.000Z",
+        "description": "Independent Arsenal App & Website 📲🔴 | 🔔 Set notifications | Follow for daily #AFC news, updates, opinions & photos | Enquiries 👉 support@fanzine.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 78,
+                "tag": "AFC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gunners.com/onelink",
+                "end": 23,
+                "expanded_url": "https://gunners.com/onelink",
+                "start": 0,
+                "url": "https://t.co/DgWIVehFSw"
+              }
+            ]
+          }
+        },
+        "id": "281199878",
+        "location": "Highbury, London",
+        "name": "Gunners",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362785572503363594/YqaHhwEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414520,
+          "following_count": 225419,
+          "like_count": 33146,
+          "listed_count": 1402,
+          "media_count": 20494,
+          "tweet_count": 30024
+        },
+        "url": "https://t.co/DgWIVehFSw",
+        "username": "Gunnersc0m",
+        "verified": true
+      }
+    ]
+  }
+}

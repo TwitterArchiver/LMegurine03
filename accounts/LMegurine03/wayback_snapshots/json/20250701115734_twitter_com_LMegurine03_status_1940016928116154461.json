@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1939841937755758993",
+    "created_at": "2025-07-01T11:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T12:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940016928116154461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1706489705418588160",
+          "start": 0,
+          "username": "Mantou0618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940016928116154461",
+    "in_reply_to_user_id": "1706489705418588160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939868122762420381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mantou0618 确实挺意外的，很难让人不怀疑是造的悬念，但是也说不清楚"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939868122762420381].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939868122762420381",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939868122762420381"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1939841937755758993",
+        "created_at": "2025-07-01T11:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940016928116154461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706489705418588160",
+              "start": 0,
+              "username": "Mantou0618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940016928116154461",
+        "in_reply_to_user_id": "1706489705418588160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939868122762420381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mantou0618 确实挺意外的，很难让人不怀疑是造的悬念，但是也说不清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 7406,
+          "like_count": 3444,
+          "listed_count": 4,
+          "media_count": 751,
+          "tweet_count": 3146
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T02:03:59.000Z",
+        "description": "小号@muska56368 想挂的人：喜欢你@VicoOci 喜欢你@panhh233 喜欢你@freequan2025 喜欢猫@wi9511465880 @owl8964cat @Ocelot8964 喜欢鹿@KaitlynXiaoLu99 ⚽主队@FCBarcelona 💙❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "muska56368"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "username": "VicoOci"
+              },
+              {
+                "end": 43,
+                "start": 34,
+                "username": "panhh233"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "freequan2025"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "wi9511465880"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "owl8964cat"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Ocelot8964"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "KaitlynXiaoLu99"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "FCBarcelona"
+              }
+            ]
+          }
+        },
+        "id": "1706489705418588160",
+        "location": "距离你2.5km",
+        "name": "Mantou",
+        "pinned_tweet_id": "1932363283065110857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867571702521376769/U7GUSsZE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 789,
+          "like_count": 16829,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 2133
+        },
+        "username": "Mantou0618",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1919622571475013716",
+    "created_at": "2025-05-06T05:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T06:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919624818736947440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919624818736947440",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919622571475013716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 希特勒，希姆莱，海德里希"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919622560612024326",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqPejFwbAAYjgmf.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1919622571475013716",
+        "created_at": "2025-05-06T05:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919624818736947440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919624818736947440",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919622571475013716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 希特勒，希姆莱，海德里希"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919622560612024326"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1919622571475013716",
+        "created_at": "2025-05-06T05:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919622571475013716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBVI4R99TH",
+              "end": 37,
+              "expanded_url": "https://x.com/jianlvup/status/1919622571475013716/photo/1",
+              "media_key": "3_1919622560612024326",
+              "start": 14,
+              "url": "https://t.co/sBVI4R99TH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919622571475013716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个字你第一眼想起谁？ https://t.co/sBVI4R99TH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 6931,
+          "like_count": 2110,
+          "listed_count": 3,
+          "media_count": 537,
+          "tweet_count": 2205
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 二次元热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：待定\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5万粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "name": "简律·繁律（冲2k）",
+        "pinned_tweet_id": "1919282112256950292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 478,
+          "like_count": 4960,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 559
+        },
+        "username": "jianlvup",
+        "verified": false
+      }
+    ]
+  }
+}

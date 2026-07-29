@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912031415740387328"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1912031418479419589",
+    "created_at": "2025-04-15T06:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T07:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912031418479419589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mnlgYlDCOP",
+          "end": 74,
+          "expanded_url": "https://x.com/LMegurine03/status/1912031418479419589/photo/1",
+          "media_key": "3_1912031415740387328",
+          "start": 51,
+          "url": "https://t.co/mnlgYlDCOP"
+        },
+        {
+          "display_url": "x.com/MrsMyWifeLeftM…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/MrsMyWifeLeftMe/status/1911522647260676438",
+          "start": 75,
+          "url": "https://t.co/J0OclqGIkS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912031418479419589",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911522647260676438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Leftwt, post your favourite right-wing politician. https://t.co/mnlgYlDCOP https://t.co/J0OclqGIkS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 453,
+        "media_key": "3_1912031415740387328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GojmcTaX0AAqIKS.jpg",
+        "width": 612
+      },
+      {
+        "height": 629,
+        "media_key": "3_1911522643120881664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GocXt1tWAAAnH8D.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912031415740387328"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1912031418479419589",
+        "created_at": "2025-04-15T06:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T07:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912031418479419589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnlgYlDCOP",
+              "end": 74,
+              "expanded_url": "https://x.com/LMegurine03/status/1912031418479419589/photo/1",
+              "media_key": "3_1912031415740387328",
+              "start": 51,
+              "url": "https://t.co/mnlgYlDCOP"
+            },
+            {
+              "display_url": "x.com/MrsMyWifeLeftM…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/MrsMyWifeLeftMe/status/1911522647260676438",
+              "start": 75,
+              "url": "https://t.co/J0OclqGIkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912031418479419589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911522647260676438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Leftwt, post your favourite right-wing politician. https://t.co/mnlgYlDCOP https://t.co/J0OclqGIkS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911522643120881664"
+          ]
+        },
+        "author_id": "1530275628519391234",
+        "conversation_id": "1911522647260676438",
+        "created_at": "2025-04-13T20:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T21:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911522647260676438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxuDJwry4P",
+              "end": 74,
+              "expanded_url": "https://x.com/MrsMyWifeLeftMe/status/1911522647260676438/photo/1",
+              "media_key": "3_1911522643120881664",
+              "start": 51,
+              "url": "https://t.co/rxuDJwry4P"
+            },
+            {
+              "display_url": "x.com/god_breast_usa…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/god_breast_usa/status/1911513729516388377",
+              "start": 75,
+              "url": "https://t.co/BLdPswVas7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911522647260676438",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2209,
+          "like_count": 14,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911513729516388377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Leftwt, post your favourite right-wing politician. https://t.co/rxuDJwry4P https://t.co/BLdPswVas7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 5766,
+          "like_count": 1875,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 2043
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T19:52:03.000Z",
+        "description": "My beliefs are my own \nChristian \nSocialist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amctheatres.com",
+                "end": 23,
+                "expanded_url": "https://www.amctheatres.com/",
+                "start": 0,
+                "url": "https://t.co/vpVxArJz0U"
+              }
+            ]
+          }
+        },
+        "id": "1530275628519391234",
+        "location": "She/Her ",
+        "name": "Isabelle",
+        "pinned_tweet_id": "1907427442911752433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908989371929214977/J2MNC9wP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 229,
+          "like_count": 10638,
+          "listed_count": 1,
+          "media_count": 3952,
+          "tweet_count": 13455
+        },
+        "url": "https://t.co/vpVxArJz0U",
+        "username": "MrsMyWifeLeftMe",
+        "verified": false
+      }
+    ]
+  }
+}

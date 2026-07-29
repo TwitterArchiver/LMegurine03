@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2058973868132573539",
+    "created_at": "2026-05-25T18:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058973868132573539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/masanews3/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/masanews3/status/2057980095676252187",
+          "start": 26,
+          "url": "https://t.co/kHM9rsWIDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058973868132573539",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057980095676252187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "芸術的な表現の自由の権利を尊重しなければなりません https://t.co/kHM9rsWIDo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12421,
+        "height": 1280,
+        "media_key": "13_2057979631006003200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057979631006003200/img/IQgEXBsyHOLdRJFE.jpg",
+        "public_metrics": {
+          "view_count": 1858574
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057979631006003200/vid/avc1/320x568/LBN9skEjYFc44oRV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057979631006003200/vid/avc1/480x852/Wm0De462FPz7EdI3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057979631006003200/vid/avc1/720x1280/1t6OlhPgT5wz8Prm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057979631006003200/pl/eq_SB76Q2Gs9VEfq.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2058973868132573539",
+        "created_at": "2026-05-25T18:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058973868132573539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/masanews3/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/masanews3/status/2057980095676252187",
+              "start": 26,
+              "url": "https://t.co/kHM9rsWIDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058973868132573539",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057980095676252187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "芸術的な表現の自由の権利を尊重しなければなりません https://t.co/kHM9rsWIDo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057979631006003200"
+          ]
+        },
+        "author_id": "75223140",
+        "conversation_id": "2057980095676252187",
+        "created_at": "2026-05-23T00:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057980095676252187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTGtxMfRev",
+              "end": 75,
+              "expanded_url": "https://x.com/masanews3/status/2057980095676252187/video/1",
+              "media_key": "13_2057979631006003200",
+              "start": 52,
+              "url": "https://t.co/OTGtxMfRev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057980095676252187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 836,
+          "impression_count": 5925058,
+          "like_count": 30049,
+          "quote_count": 895,
+          "reply_count": 2109,
+          "retweet_count": 4198
+        },
+        "reply_settings": "other",
+        "text": "迷惑系中国人、コンビニの前でキショいダンスを披露😱🦁\n\nコンビニに入れない！邪魔すぎる！と批判殺到😱🦁 https://t.co/OTGtxMfRev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4161,
+          "following_count": 7233,
+          "like_count": 7411,
+          "listed_count": 7,
+          "media_count": 1615,
+          "tweet_count": 6490
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-18T07:13:39.000Z",
+        "description": "ニュースch https://t.co/ZBoNlSAo94\nAmazonアソシエイトに参加しています。\nhttps://t.co/dNNbsxlGIr\n避難用垢：@masanews30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "masanews30"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@masanewsch",
+                "end": 30,
+                "expanded_url": "http://youtube.com/@masanewsch",
+                "start": 7,
+                "url": "https://t.co/ZBoNlSAo94"
+              },
+              {
+                "display_url": "amzn.to/40VmNCq",
+                "end": 76,
+                "expanded_url": "https://amzn.to/40VmNCq",
+                "start": 53,
+                "url": "https://t.co/dNNbsxlGIr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@masanewsch",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@masanewsch",
+                "start": 0,
+                "url": "https://t.co/2BzrX25f8G"
+              }
+            ]
+          }
+        },
+        "id": "75223140",
+        "location": "Tokyo , Japan",
+        "name": "Masa",
+        "pinned_tweet_id": "2058370153163968560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450524373882974210/mNrdNcQq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40126,
+          "following_count": 37,
+          "like_count": 81720,
+          "listed_count": 155,
+          "media_count": 3976,
+          "tweet_count": 8559
+        },
+        "url": "https://t.co/2BzrX25f8G",
+        "username": "masanews3",
+        "verified": true
+      }
+    ]
+  }
+}

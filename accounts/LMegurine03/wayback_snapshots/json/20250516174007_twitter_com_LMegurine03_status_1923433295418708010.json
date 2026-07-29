@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1923413041309237608",
+    "created_at": "2025-05-16T17:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T18:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923433295418708010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507328549161947138",
+          "start": 0,
+          "username": "dongge311"
+        },
+        {
+          "end": 20,
+          "id": "1589809419822329857",
+          "start": 11,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923433295418708010",
+    "in_reply_to_user_id": "1507328549161947138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923425117628994002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongge311 @jianlvup 开玩笑嘛就无所谓了，就当给大家一点乐子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1923413041309237608",
+        "created_at": "2025-05-16T17:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T18:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923433295418708010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507328549161947138",
+              "start": 0,
+              "username": "dongge311"
+            },
+            {
+              "end": 20,
+              "id": "1589809419822329857",
+              "start": 11,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923433295418708010",
+        "in_reply_to_user_id": "1507328549161947138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923425117628994002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongge311 @jianlvup 开玩笑嘛就无所谓了，就当给大家一点乐子了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507328549161947138",
+        "conversation_id": "1923413041309237608",
+        "created_at": "2025-05-16T17:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T18:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923425117628994002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 22,
+              "id": "1589809419822329857",
+              "start": 13,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923425117628994002",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923416166841663729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 @jianlvup 脸面是自己凑上来丢得～\n是嘛🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 7258,
+          "like_count": 2324,
+          "listed_count": 3,
+          "media_count": 572,
+          "tweet_count": 2400
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T12:08:35.000Z",
+        "description": "",
+        "id": "1507328549161947138",
+        "name": "安嘉和🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509574538518228994/T39bjsRp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 20,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 326
+        },
+        "username": "dongge311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 二次元热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：待定\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5万粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Jianlv117"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E6%90%9E%E7%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91-mvp",
+                "start": 0,
+                "url": "https://t.co/391J9kVPFC"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（回复1和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律·繁律（互fo私信）",
+        "pinned_tweet_id": "1923003095233052788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 544,
+          "like_count": 7266,
+          "listed_count": 8,
+          "media_count": 311,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/391J9kVPFC",
+        "username": "jianlvup",
+        "verified": false
+      }
+    ]
+  }
+}

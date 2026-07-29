@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2072004168953561132",
+    "created_at": "2026-06-30T17:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072007561638039887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1295507211599278081",
+          "start": 0,
+          "username": "w123456wbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072007561638039887",
+    "in_reply_to_user_id": "1295507211599278081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072006767094153219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w123456wbw 唉，真的是这样😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2072004168953561132",
+        "created_at": "2026-06-30T17:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072007561638039887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1295507211599278081",
+              "start": 0,
+              "username": "w123456wbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072007561638039887",
+        "in_reply_to_user_id": "1295507211599278081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072006767094153219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w123456wbw 唉，真的是这样😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295507211599278081",
+        "conversation_id": "2072004168953561132",
+        "created_at": "2026-06-30T17:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072006767094153219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072006767094153219",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072004168953561132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 平衡自己要做的事情和娱乐是件很难得事情呢awa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4362,
+          "following_count": 7473,
+          "like_count": 7977,
+          "listed_count": 7,
+          "media_count": 1755,
+          "tweet_count": 6867
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T23:46:16.000Z",
+        "description": "电子信息工程系｜180/71 ｜ GPA3.90 ｜MDD服药ing。。。",
+        "id": "1295507211599278081",
+        "location": "你心里🩵",
+        "name": "AZURE 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070767945127800832/3Hm17hRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 627,
+          "like_count": 16401,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1040
+        },
+        "url": "",
+        "username": "w123456wbw",
+        "verified": false
+      }
+    ]
+  }
+}

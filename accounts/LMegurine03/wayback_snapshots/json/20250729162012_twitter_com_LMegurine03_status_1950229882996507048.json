@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1950166705658863723",
+    "created_at": "2025-07-29T16:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T17:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950229882996507048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356583549",
+          "start": 0,
+          "username": "kagurazakayashi"
+        },
+        {
+          "end": 25,
+          "id": "961832160377282560",
+          "start": 17,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950229882996507048",
+    "in_reply_to_user_id": "1356583549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950166705658863723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakayashi @iMoeAya 真心祝贺呀，希望未来也可以自己喜欢的样子开启更多的旅程"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950166695290818560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxBiRuWbUAAdY-I.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1950166705658863723",
+        "created_at": "2025-07-29T16:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T17:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950229882996507048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356583549",
+              "start": 0,
+              "username": "kagurazakayashi"
+            },
+            {
+              "end": 25,
+              "id": "961832160377282560",
+              "start": 17,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950229882996507048",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950166705658863723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakayashi @iMoeAya 真心祝贺呀，希望未来也可以自己喜欢的样子开启更多的旅程"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950166695290818560"
+          ]
+        },
+        "author_id": "1356583549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1950166705658863723",
+        "created_at": "2025-07-29T12:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T13:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950166705658863723"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "雅诗自曝"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 145,
+              "id": "961832160377282560",
+              "start": 137,
+              "username": "iMoeAya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgmwDv2ejn",
+              "end": 169,
+              "expanded_url": "https://x.com/kagurazakayashi/status/1950166705658863723/photo/1",
+              "media_key": "3_1950166695290818560",
+              "start": 146,
+              "url": "https://t.co/DgmwDv2ejn"
+            },
+            {
+              "display_url": "x.com/kagurazakayash…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/kagurazakayashi/status/1950112189143994741",
+              "start": 170,
+              "url": "https://t.co/ezueoFLJRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950166705658863723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6584,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950112189143994741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次女装坐全程轮船，第一次全程女装旅游，第一次女装过海关，第一次像这样逛街，第一次和朋友而不是家人出国，第一次出国自由行…虽然我不知道哪来的勇气，但是可以确定的是，正在书写的，是我毕生难忘的记忆，太多的第一次汇聚于此，这些都是曾经的梦啊，这一天来的太迟了… #雅诗自曝 📷@iMoeAya https://t.co/DgmwDv2ejn https://t.co/ezueoFLJRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 7489,
+          "like_count": 4041,
+          "listed_count": 4,
+          "media_count": 800,
+          "tweet_count": 3537
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "2023.7之前的所有内容已经清空，这里是3周目，希望认识更多友人。没有头像和推文的还有广告人乐子人还是别点关注哦，会被拉黑的。女装不发18x。之前脚本批量B过人可能误B，照片 #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶推🩵🩷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 106,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgrsWF"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩🏳️‍⚧️",
+        "pinned_tweet_id": "1700827655258690027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701949516134375424/nAcSX2PA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13901,
+          "following_count": 5327,
+          "like_count": 16840,
+          "listed_count": 56,
+          "media_count": 434,
+          "tweet_count": 3539
+        },
+        "url": "https://t.co/s9yovgrsWF",
+        "username": "kagurazakayashi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504361534692413440/uxllOfC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36471,
+          "following_count": 3935,
+          "like_count": 160546,
+          "listed_count": 127,
+          "media_count": 1059,
+          "tweet_count": 33980
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

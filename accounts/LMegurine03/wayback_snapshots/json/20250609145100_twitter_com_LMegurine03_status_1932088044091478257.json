@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1931742975500894401",
+    "created_at": "2025-06-09T14:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T15:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932088044091478257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1411974613509099522",
+          "start": 0,
+          "username": "ray77431028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932088044091478257",
+    "in_reply_to_user_id": "1411974613509099522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931742975500894401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ray77431028 我觉得选b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1923,
+        "media_key": "3_1931742592628301824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7tpzcaIAAbtvh.jpg",
+        "width": 1149
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1931742975500894401",
+        "created_at": "2025-06-09T14:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T15:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932088044091478257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1411974613509099522",
+              "start": 0,
+              "username": "ray77431028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932088044091478257",
+        "in_reply_to_user_id": "1411974613509099522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931742975500894401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ray77431028 我觉得选b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931742592628301824"
+          ]
+        },
+        "author_id": "1411974613509099522",
+        "conversation_id": "1931742975500894401",
+        "created_at": "2025-06-08T15:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931742975500894401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KNJ1aUYEdz",
+              "end": 62,
+              "expanded_url": "https://x.com/ray77431028/status/1931742975500894401/photo/1",
+              "media_key": "3_1931742592628301824",
+              "start": 39,
+              "url": "https://t.co/KNJ1aUYEdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931742975500894401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 40502,
+          "like_count": 26,
+          "quote_count": 33,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤓平时拷打做题蛆的推油们可以别装了来展示一下自己的做题理解，，，大家都选甚么 https://t.co/KNJ1aUYEdz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，锁推关注请私信｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 7501,
+          "like_count": 3082,
+          "listed_count": 6,
+          "media_count": 682,
+          "tweet_count": 2803
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-05T09:06:04.000Z",
+        "description": "",
+        "id": "1411974613509099522",
+        "name": "何知味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878432742456893440/dCxTiUJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 108,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 555
+        },
+        "username": "ray77431028",
+        "verified": false
+      }
+    ]
+  }
+}

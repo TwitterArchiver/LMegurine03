@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1813534956234404320",
+    "created_at": "2026-02-04T06:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018941172266496248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018941172266496248",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813534956234404320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot 交配（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_1813534951553314816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSr4bg8XMAAoY50.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1813534956234404320",
+        "created_at": "2026-02-04T06:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018941172266496248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018941172266496248",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813534956234404320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 交配（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1813534951553314816"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "1813534956234404320",
+        "created_at": "2024-07-17T11:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T12:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813534956234404320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qUhNhRvBNH",
+              "end": 49,
+              "expanded_url": "https://x.com/xijinping_bot/status/1813534956234404320/photo/1",
+              "media_key": "3_1813534951553314816",
+              "start": 26,
+              "url": "https://t.co/qUhNhRvBNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813534956234404320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 37865,
+          "like_count": 182,
+          "quote_count": 7,
+          "reply_count": 250,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们打出jp出现的是什么？我这属实是入心入脑入魂了 https://t.co/qUhNhRvBNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日本語の勉強中｜随机掉落日常｜欢迎私信｜OCD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 7495,
+          "like_count": 6533,
+          "listed_count": 8,
+          "media_count": 1263,
+          "tweet_count": 5392
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/@mizuki_bot/你的共爹/利伯塔复国主义/激化矛盾全面加速/尽可能团结有效少数/预制论/阴谋论/顶峰伦/血海论/历史虚无主义/汉武之后无国学，魏晋之后无汉人。崖山之后无中国，明亡之后无华夏/反马反苏，毛主席带领我们实现共产主义/要清算苏联遗毒/被开除左籍的另类左/最尊重哲批和福瑞的频道",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "mizuki_bot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pengliyuangaoqingwuma.com",
+                "end": 23,
+                "expanded_url": "http://pengliyuangaoqingwuma.com",
+                "start": 0,
+                "url": "https://t.co/JM2dKYQg5a"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "古拉格大学夹边沟分校",
+        "name": "羽泽东吃腊肉（苏系概念引进中）",
+        "pinned_tweet_id": "2017300165204578367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015813151938187264/abAUkSW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 1124,
+          "like_count": 8427,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 8041
+        },
+        "url": "https://t.co/JM2dKYQg5a",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

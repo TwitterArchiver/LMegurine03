@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2048800635685060917",
+    "created_at": "2026-04-27T16:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048805262505771136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1696902759822602240",
+          "start": 0,
+          "username": "catskaiser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048805262505771136",
+    "in_reply_to_user_id": "1696902759822602240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048800635685060917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catskaiser 大男娘😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2048800635685060917",
+        "created_at": "2026-04-27T16:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048805262505771136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1696902759822602240",
+              "start": 0,
+              "username": "catskaiser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048805262505771136",
+        "in_reply_to_user_id": "1696902759822602240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048800635685060917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catskaiser 大男娘😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696902759822602240",
+        "conversation_id": "2048800635685060917",
+        "created_at": "2026-04-27T16:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048800635685060917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048800635685060917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男大男娘来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4094,
+          "following_count": 7197,
+          "like_count": 7209,
+          "listed_count": 7,
+          "media_count": 1532,
+          "tweet_count": 6172
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-30T15:08:46.000Z",
+        "description": "男大| 鉴证内容| 谷风天音单推| 🇵🇸🇺🇦",
+        "id": "1696902759822602240",
+        "location": "坎通尼亚州 赛里斯共和国",
+        "name": "傲慢天音",
+        "pinned_tweet_id": "1924278424140718485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037940555167260673/kmJ690hT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 446,
+          "like_count": 11962,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 2733
+        },
+        "username": "catskaiser",
+        "verified": false
+      }
+    ]
+  }
+}

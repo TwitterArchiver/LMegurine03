@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2069458292854964256",
+    "created_at": "2026-06-23T16:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069458292854964256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2067642090436321618",
+          "start": 66,
+          "url": "https://t.co/xMb3IgnNHW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069458292854964256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067642090436321618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个帖子流量好高啊，直接破90万了，但是现在基本稳定了，百万不一定能到，感觉人们对于比赛场外的一些景象会比较感兴趣，事实确实如此（ https://t.co/xMb3IgnNHW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2067642074003107840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG9gu-bcAAtuLR.jpg",
+        "width": 1440
+      },
+      {
+        "height": 503,
+        "media_key": "3_2067642083754872832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG9hTTbkAAq5AW.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2069458292854964256",
+        "created_at": "2026-06-23T16:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069458292854964256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2067642090436321618",
+              "start": 66,
+              "url": "https://t.co/xMb3IgnNHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069458292854964256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067642090436321618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个帖子流量好高啊，直接破90万了，但是现在基本稳定了，百万不一定能到，感觉人们对于比赛场外的一些景象会比较感兴趣，事实确实如此（ https://t.co/xMb3IgnNHW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067642074003107840",
+            "3_2067642083754872832"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2067642090436321618",
+        "created_at": "2026-06-18T16:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067642090436321618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E02vSMfuvv",
+              "end": 29,
+              "expanded_url": "https://x.com/LMegurine03/status/2067642090436321618/photo/1",
+              "media_key": "3_2067642074003107840",
+              "start": 6,
+              "url": "https://t.co/E02vSMfuvv"
+            },
+            {
+              "display_url": "pic.x.com/E02vSMfuvv",
+              "end": 29,
+              "expanded_url": "https://x.com/LMegurine03/status/2067642090436321618/photo/1",
+              "media_key": "3_2067642083754872832",
+              "start": 6,
+              "url": "https://t.co/E02vSMfuvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067642090436321618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 703,
+          "impression_count": 925988,
+          "like_count": 17212,
+          "quote_count": 53,
+          "reply_count": 198,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "绷不住了（ https://t.co/E02vSMfuvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 7441,
+          "like_count": 7888,
+          "listed_count": 7,
+          "media_count": 1717,
+          "tweet_count": 6782
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

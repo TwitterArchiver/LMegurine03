@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067632290264739841",
+        "13_2067632433802231808"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2067632524160086065",
+    "created_at": "2026-06-18T15:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067632524160086065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AN8xNQuDam",
+          "end": 82,
+          "expanded_url": "https://x.com/LMegurine03/status/2067632524160086065/video/1",
+          "media_key": "13_2067632290264739841",
+          "start": 59,
+          "url": "https://t.co/AN8xNQuDam"
+        },
+        {
+          "display_url": "pic.x.com/AN8xNQuDam",
+          "end": 82,
+          "expanded_url": "https://x.com/LMegurine03/status/2067632524160086065/video/1",
+          "media_key": "13_2067632433802231808",
+          "start": 59,
+          "url": "https://t.co/AN8xNQuDam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067632524160086065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个是海滩的另一边，离地铁站比较近能更热闹一些，海面还是稍微有点浪的，那个浮桥感觉好不稳当，上面居然还有人走过去坐船 https://t.co/AN8xNQuDam"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33760,
+        "height": 720,
+        "media_key": "13_2067632290264739841",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067632290264739841/img/ipZ_YYniyxWPdo45.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067632290264739841/vid/avc1/480x270/6JMu03TZcfmWCx9x.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067632290264739841/vid/avc1/640x360/ANqnuNA500oNJ-VD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067632290264739841/vid/avc1/1280x720/MK_ogCJylNyBcHNm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067632290264739841/pl/JduIGhogIF6zWBvJ.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 14384,
+        "height": 720,
+        "media_key": "13_2067632433802231808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067632433802231808/img/n_qgQoc7o3ZLahLr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067632433802231808/vid/avc1/480x270/mvbULKENvffBPJ2b.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067632433802231808/vid/avc1/640x360/qMw00bXNNB6IUAPA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067632433802231808/vid/avc1/1280x720/_ACLfhvMSBlqIaGA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067632433802231808/pl/M861o5GL4uMvzunD.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067632290264739841",
+            "13_2067632433802231808"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2067632524160086065",
+        "created_at": "2026-06-18T15:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067632524160086065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AN8xNQuDam",
+              "end": 82,
+              "expanded_url": "https://x.com/LMegurine03/status/2067632524160086065/video/1",
+              "media_key": "13_2067632290264739841",
+              "start": 59,
+              "url": "https://t.co/AN8xNQuDam"
+            },
+            {
+              "display_url": "pic.x.com/AN8xNQuDam",
+              "end": 82,
+              "expanded_url": "https://x.com/LMegurine03/status/2067632524160086065/video/1",
+              "media_key": "13_2067632433802231808",
+              "start": 59,
+              "url": "https://t.co/AN8xNQuDam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067632524160086065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是海滩的另一边，离地铁站比较近能更热闹一些，海面还是稍微有点浪的，那个浮桥感觉好不稳当，上面居然还有人走过去坐船 https://t.co/AN8xNQuDam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4306,
+          "following_count": 7408,
+          "like_count": 7665,
+          "listed_count": 7,
+          "media_count": 1679,
+          "tweet_count": 6705
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

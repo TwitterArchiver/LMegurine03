@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1939098513037754396",
+    "created_at": "2025-06-29T09:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T10:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939257036426060144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1182479361275920384",
+          "start": 0,
+          "username": "SagaeSayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939257036426060144",
+    "in_reply_to_user_id": "1182479361275920384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 23,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939138907473617228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagaeSayuki 有没有要查手机的情况，这个我还是比较担心的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1939098513037754396",
+        "created_at": "2025-06-29T09:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T10:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939257036426060144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182479361275920384",
+              "start": 0,
+              "username": "SagaeSayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939257036426060144",
+        "in_reply_to_user_id": "1182479361275920384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939138907473617228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagaeSayuki 有没有要查手机的情况，这个我还是比较担心的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1182479361275920384",
+        "conversation_id": "1939098513037754396",
+        "created_at": "2025-06-29T01:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939138907473617228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939138907473617228",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939098513037754396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 達里尼周空出國審查官會檢問出國事由和所學專業。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 7437,
+          "like_count": 3419,
+          "listed_count": 4,
+          "media_count": 748,
+          "tweet_count": 3111
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-11T02:14:23.000Z",
+        "description": "這是一隻普通貓貓。我堆砌毫無意義的文字，我進行漫無目的的旅行，我度過無可留戀的人生。",
+        "id": "1182479361275920384",
+        "location": "堤防決壊時最大浸水深5m",
+        "name": "寒河江桜雪",
+        "pinned_tweet_id": "1893887851009286225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835671919305330688/T3uemmfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1080,
+          "like_count": 43934,
+          "listed_count": 7,
+          "media_count": 1435,
+          "tweet_count": 6701
+        },
+        "username": "SagaeSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

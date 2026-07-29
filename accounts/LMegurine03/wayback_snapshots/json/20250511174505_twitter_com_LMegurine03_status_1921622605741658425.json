@@ -1,0 +1,885 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1921622551823876096"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053653751",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1904693196040417282",
+          "name": "Liverpool FC vs Arsenal FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "731226211804794880",
+          "name": "England - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1904693196040417282",
+          "name": "Liverpool FC vs Arsenal FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Soccer matches",
+          "id": "43",
+          "name": "Soccer Match"
+        },
+        "entity": {
+          "id": "1904693196040417282",
+          "name": "Liverpool FC vs Arsenal FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "813454796225024000",
+          "name": "Declan Rice"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "813454796225024000",
+          "name": "Declan Rice"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "813454796225024000",
+          "name": "Declan Rice"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      }
+    ],
+    "conversation_id": "1921622605741658425",
+    "created_at": "2025-05-11T17:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T18:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921622605741658425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AK7mTOzfUY",
+          "end": 57,
+          "expanded_url": "https://x.com/LMegurine03/status/1921622605741658425/photo/1",
+          "media_key": "16_1921622551823876096",
+          "start": 34,
+          "url": "https://t.co/AK7mTOzfUY"
+        },
+        {
+          "display_url": "x.com/Gunnersc0m/sta…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/Gunnersc0m/status/1909736874937033019",
+          "start": 58,
+          "url": "https://t.co/J1mN8mJ9Hc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921622605741658425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909736874937033019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是谁说的，如果隋维杰在就好了能把赖斯那球挡出来，这个脑回路真的6😹 https://t.co/AK7mTOzfUY https://t.co/J1mN8mJ9Hc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 186,
+        "media_key": "16_1921622551823876096",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gqr5h5nXgAAaeJc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gqr5h5nXgAAaeJc.mp4"
+          }
+        ],
+        "width": 354
+      },
+      {
+        "duration_ms": 49720,
+        "height": 1080,
+        "media_key": "13_1909734922501144576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909734922501144576/img/CMGh-nLvI1tYcvvt.jpg",
+        "public_metrics": {
+          "view_count": 2906440
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909734922501144576/vid/avc1/540x540/x8bNxIICnv9_a3_Q.mp4?tag=16"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909734922501144576/vid/avc1/320x320/ocO9Nj_eoa1THJ3t.mp4?tag=16"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909734922501144576/vid/avc1/720x720/4xO9b62bXp_QXRsj.mp4?tag=16"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909734922501144576/vid/avc1/1080x1080/BhPTuLjW4lmckUrK.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909734922501144576/pl/0jaLpdGlNv5RQdn4.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1921622551823876096"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053653751",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1904693196040417282",
+              "name": "Liverpool FC vs Arsenal FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226211804794880",
+              "name": "England - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1904693196040417282",
+              "name": "Liverpool FC vs Arsenal FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1904693196040417282",
+              "name": "Liverpool FC vs Arsenal FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          }
+        ],
+        "conversation_id": "1921622605741658425",
+        "created_at": "2025-05-11T17:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T18:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921622605741658425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AK7mTOzfUY",
+              "end": 57,
+              "expanded_url": "https://x.com/LMegurine03/status/1921622605741658425/photo/1",
+              "media_key": "16_1921622551823876096",
+              "start": 34,
+              "url": "https://t.co/AK7mTOzfUY"
+            },
+            {
+              "display_url": "x.com/Gunnersc0m/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Gunnersc0m/status/1909736874937033019",
+              "start": 58,
+              "url": "https://t.co/J1mN8mJ9Hc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921622605741658425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909736874937033019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是谁说的，如果隋维杰在就好了能把赖斯那球挡出来，这个脑回路真的6😹 https://t.co/AK7mTOzfUY https://t.co/J1mN8mJ9Hc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1909734922501144576"
+          ],
+          "media_source_tweet_id": [
+            "1909735963820974315"
+          ]
+        },
+        "author_id": "281199878",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226207908290561",
+              "name": "International Clubs - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1909736874937033019",
+        "created_at": "2025-04-08T22:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T23:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909736874937033019"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Declan Rice",
+              "probability": 0.9596,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9dxVeDIhM",
+              "end": 62,
+              "expanded_url": "https://x.com/ChampionsLeague/status/1909735963820974315/video/1",
+              "media_key": "13_1909734922501144576",
+              "start": 39,
+              "url": "https://t.co/Q9dxVeDIhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909736874937033019",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 294973,
+          "like_count": 8024,
+          "quote_count": 22,
+          "reply_count": 20,
+          "retweet_count": 559
+        },
+        "reply_settings": "everyone",
+        "text": "Declan Rice, we got him half price. \n\n https://t.co/Q9dxVeDIhM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940,
+          "following_count": 7213,
+          "like_count": 2256,
+          "listed_count": 3,
+          "media_count": 560,
+          "tweet_count": 2345
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-12T20:50:21.000Z",
+        "description": "Independent Arsenal App & Website 📲🔴 | 🔔 Set notifications | Follow for daily #AFC news, updates, opinions & photos | Enquiries 👉 support@fanzine.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 78,
+                "tag": "AFC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gunners.com/onelink",
+                "end": 23,
+                "expanded_url": "https://gunners.com/onelink",
+                "start": 0,
+                "url": "https://t.co/DgWIVehFSw"
+              }
+            ]
+          }
+        },
+        "id": "281199878",
+        "location": "Highbury, London",
+        "name": "Gunners",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362785572503363594/YqaHhwEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416629,
+          "following_count": 225212,
+          "like_count": 33171,
+          "listed_count": 1404,
+          "media_count": 20873,
+          "tweet_count": 30505
+        },
+        "url": "https://t.co/DgWIVehFSw",
+        "username": "Gunnersc0m",
+        "verified": true
+      }
+    ]
+  }
+}

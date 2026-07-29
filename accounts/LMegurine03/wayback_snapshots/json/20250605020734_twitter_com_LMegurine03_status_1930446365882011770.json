@@ -1,0 +1,1091 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930364977379942400"
+      ],
+      "media_source_tweet_id": [
+        "1930365006782054461"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Coverage from the UEFA Nations League, an international football competition for national men's teams.",
+          "id": "10054402440",
+          "name": "Live: UEFA Nations League Football"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1913752884547579905",
+          "name": "Germany vs Portugal"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774146434269186",
+          "name": "Cristiano Ronaldo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226180674715648",
+          "name": "Portugal"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "731226237394243584",
+          "name": "International - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1110634312943099904",
+          "name": "UEFA Nations League"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1384518599562301449",
+          "name": "UEFA European Championship"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1913752884547579905",
+          "name": "Germany vs Portugal"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Soccer matches",
+          "id": "43",
+          "name": "Soccer Match"
+        },
+        "entity": {
+          "id": "1913752884547579905",
+          "name": "Germany vs Portugal"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774146434269186",
+          "name": "Cristiano Ronaldo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226180674715648",
+          "name": "Portugal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774146434269186",
+          "name": "Cristiano Ronaldo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Soccer Teams",
+          "id": "1100397500890996736",
+          "name": "Men's national soccer teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1110634312943099904",
+          "name": "UEFA Nations League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1384518599562301449",
+          "name": "UEFA European Championship"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1930446365882011770",
+    "created_at": "2025-06-05T02:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930446365882011770"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "Cristiano Ronaldo",
+          "probability": 0.9653,
+          "start": 43,
+          "type": "Person"
+        },
+        {
+          "end": 77,
+          "normalized_text": "NationsLeague",
+          "probability": 0.6632,
+          "start": 65,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 64,
+          "tag": "NationsLeague"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1469402426",
+          "start": 3,
+          "username": "UEFAEURO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fKjBSCWfNO",
+          "end": 102,
+          "expanded_url": "https://x.com/UEFAEURO/status/1930365006782054461/photo/1",
+          "media_key": "3_1930364977379942400",
+          "start": 79,
+          "url": "https://t.co/fKjBSCWfNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930446365882011770",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3739
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930365006782054461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UEFAEURO: 137th international goal for Cristiano Ronaldo 🤯\n\n#NationsLeague https://t.co/fKjBSCWfNO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2475,
+        "media_key": "3_1930364977379942400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsoIuCuWIAATHKU.jpg",
+        "width": 1980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930364977379942400"
+          ],
+          "media_source_tweet_id": [
+            "1930365006782054461"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Coverage from the UEFA Nations League, an international football competition for national men's teams.",
+              "id": "10054402440",
+              "name": "Live: UEFA Nations League Football"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1913752884547579905",
+              "name": "Germany vs Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226180674715648",
+              "name": "Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226237394243584",
+              "name": "International - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1110634312943099904",
+              "name": "UEFA Nations League"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1384518599562301449",
+              "name": "UEFA European Championship"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1913752884547579905",
+              "name": "Germany vs Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1913752884547579905",
+              "name": "Germany vs Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226180674715648",
+              "name": "Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1110634312943099904",
+              "name": "UEFA Nations League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1384518599562301449",
+              "name": "UEFA European Championship"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1930446365882011770",
+        "created_at": "2025-06-05T02:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930446365882011770"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Cristiano Ronaldo",
+              "probability": 0.9653,
+              "start": 43,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "NationsLeague",
+              "probability": 0.6632,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 64,
+              "tag": "NationsLeague"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1469402426",
+              "start": 3,
+              "username": "UEFAEURO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKjBSCWfNO",
+              "end": 102,
+              "expanded_url": "https://x.com/UEFAEURO/status/1930365006782054461/photo/1",
+              "media_key": "3_1930364977379942400",
+              "start": 79,
+              "url": "https://t.co/fKjBSCWfNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930446365882011770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3739
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930365006782054461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UEFAEURO: 137th international goal for Cristiano Ronaldo 🤯\n\n#NationsLeague https://t.co/fKjBSCWfNO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930364977379942400"
+          ]
+        },
+        "author_id": "1469402426",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Coverage from the UEFA Nations League, an international football competition for national men's teams.",
+              "id": "10054402440",
+              "name": "Live: UEFA Nations League Football"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1913752884547579905",
+              "name": "Germany vs Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226180674715648",
+              "name": "Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226237394243584",
+              "name": "International - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1110634312943099904",
+              "name": "UEFA Nations League"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1384518599562301449",
+              "name": "UEFA European Championship"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1913752884547579905",
+              "name": "Germany vs Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1913752884547579905",
+              "name": "Germany vs Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226180674715648",
+              "name": "Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1110634312943099904",
+              "name": "UEFA Nations League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1384518599562301449",
+              "name": "UEFA European Championship"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1913752884547579905",
+              "name": "Germany vs Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1913752884547579905",
+              "name": "Germany vs Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1913752884547579905",
+              "name": "Germany vs Portugal"
+            }
+          }
+        ],
+        "conversation_id": "1930365006782054461",
+        "created_at": "2025-06-04T20:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T21:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930365006782054461"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Cristiano Ronaldo",
+              "probability": 0.9643,
+              "start": 29,
+              "type": "Person"
+            },
+            {
+              "end": 63,
+              "normalized_text": "NationsLeague",
+              "probability": 0.8225,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 50,
+              "tag": "NationsLeague"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKjBSCWfNO",
+              "end": 88,
+              "expanded_url": "https://x.com/UEFAEURO/status/1930365006782054461/photo/1",
+              "media_key": "3_1930364977379942400",
+              "start": 65,
+              "url": "https://t.co/fKjBSCWfNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930365006782054461",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 297,
+          "impression_count": 718497,
+          "like_count": 33612,
+          "quote_count": 273,
+          "reply_count": 241,
+          "retweet_count": 3739
+        },
+        "reply_settings": "everyone",
+        "text": "137th international goal for Cristiano Ronaldo 🤯\n\n#NationsLeague https://t.co/fKjBSCWfNO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 7502,
+          "like_count": 2988,
+          "listed_count": 0,
+          "media_count": 666,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-30T10:08:05.000Z",
+        "description": "The official home of UEFA men's national team football ⚽️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uefa.com/uefanationslea…",
+                "end": 23,
+                "expanded_url": "https://www.uefa.com/uefanationsleague/",
+                "start": 0,
+                "url": "https://t.co/bhYNqQXCFV"
+              }
+            ]
+          }
+        },
+        "id": "1469402426",
+        "name": "UEFA EURO",
+        "pinned_tweet_id": "1930370614105116978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830907836395642880/NHnJQ1LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4120567,
+          "following_count": 522,
+          "like_count": 1736,
+          "listed_count": 6502,
+          "media_count": 33412,
+          "tweet_count": 44461
+        },
+        "url": "https://t.co/bhYNqQXCFV",
+        "username": "UEFAEURO",
+        "verified": true
+      }
+    ]
+  }
+}

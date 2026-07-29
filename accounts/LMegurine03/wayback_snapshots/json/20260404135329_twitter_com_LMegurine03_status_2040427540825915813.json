@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040427534173757440"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2040427540825915813",
+    "created_at": "2026-04-04T13:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T14:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040427540825915813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QjhP1NMH42",
+          "end": 60,
+          "expanded_url": "https://x.com/LMegurine03/status/2040427540825915813/photo/1",
+          "media_key": "3_2040427534173757440",
+          "start": 37,
+          "url": "https://t.co/QjhP1NMH42"
+        },
+        {
+          "display_url": "x.com/Konekoutena/st…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/Konekoutena/status/2040417667530862618",
+          "start": 61,
+          "url": "https://t.co/9NRBjci0MD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040427540825915813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040417667530862618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我试了一下，以现在的审核标准来讲原图大概率会被挡，不过换套服装倒是可以（ https://t.co/QjhP1NMH42 https://t.co/9NRBjci0MD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_2040427534173757440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEOCBxaYAA3ajX.jpg",
+        "width": 752
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2040417662170447872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEFDZsaQAAKsyZ.jpg",
+        "width": 843
+      },
+      {
+        "height": 1039,
+        "media_key": "3_2040417662183038976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEFDZvaYAAZqsC.jpg",
+        "width": 894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040427534173757440"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2040427540825915813",
+        "created_at": "2026-04-04T13:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040427540825915813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjhP1NMH42",
+              "end": 60,
+              "expanded_url": "https://x.com/LMegurine03/status/2040427540825915813/photo/1",
+              "media_key": "3_2040427534173757440",
+              "start": 37,
+              "url": "https://t.co/QjhP1NMH42"
+            },
+            {
+              "display_url": "x.com/Konekoutena/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Konekoutena/status/2040417667530862618",
+              "start": 61,
+              "url": "https://t.co/9NRBjci0MD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040427540825915813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040417667530862618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我试了一下，以现在的审核标准来讲原图大概率会被挡，不过换套服装倒是可以（ https://t.co/QjhP1NMH42 https://t.co/9NRBjci0MD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040417662170447872",
+            "3_2040417662183038976"
+          ]
+        },
+        "author_id": "1844025283676094464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040414534217908544",
+        "created_at": "2026-04-04T13:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040417667530862618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/byLWs8S1j3",
+              "end": 42,
+              "expanded_url": "https://x.com/Konekoutena/status/2040417667530862618/photo/1",
+              "media_key": "3_2040417662170447872",
+              "start": 19,
+              "url": "https://t.co/byLWs8S1j3"
+            },
+            {
+              "display_url": "pic.x.com/byLWs8S1j3",
+              "end": 42,
+              "expanded_url": "https://x.com/Konekoutena/status/2040417667530862618/photo/1",
+              "media_key": "3_2040417662183038976",
+              "start": 19,
+              "url": "https://t.co/byLWs8S1j3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040417667530862618",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040414534217908544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 试一下这个 https://t.co/byLWs8S1j3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4142,
+          "following_count": 7147,
+          "like_count": 6974,
+          "listed_count": 7,
+          "media_count": 1439,
+          "tweet_count": 5947
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "独立社会研究员，一个理想主义的小说家，喜欢AI绘图的乐子人，头像为OC，防失联小号@yexinstory YouTube频道同名，搜索“枫糖小猫”，分享我的独立观点和观察到的社会百态https://t.co/obHINacrGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 114,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 91,
+                "url": "https://t.co/obHINacrGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "2038276464551113068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021092251036942337/Y-kSi9A8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12526,
+          "following_count": 3968,
+          "like_count": 11895,
+          "listed_count": 60,
+          "media_count": 6414,
+          "tweet_count": 23505
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

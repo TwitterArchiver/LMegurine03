@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080197016072941568"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2080197027926098105",
+    "created_at": "2026-07-23T07:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080197027926098105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dzdvzd6G7T",
+          "end": 61,
+          "expanded_url": "https://x.com/LMegurine03/status/2080197027926098105/photo/1",
+          "media_key": "3_2080197016072941568",
+          "start": 38,
+          "url": "https://t.co/Dzdvzd6G7T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080197027926098105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大连唯一的BRT专用车道😋\n（就是会有一些骑摩托的在上面跑，还是稍有点危险 https://t.co/Dzdvzd6G7T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2080197016072941568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5YKi3a8AAgnfY.jpg",
+        "width": 2131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080197016072941568"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2080197027926098105",
+        "created_at": "2026-07-23T07:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080197027926098105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dzdvzd6G7T",
+              "end": 61,
+              "expanded_url": "https://x.com/LMegurine03/status/2080197027926098105/photo/1",
+              "media_key": "3_2080197016072941568",
+              "start": 38,
+              "url": "https://t.co/Dzdvzd6G7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080197027926098105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大连唯一的BRT专用车道😋\n（就是会有一些骑摩托的在上面跑，还是稍有点危险 https://t.co/Dzdvzd6G7T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 7499,
+          "like_count": 8271,
+          "listed_count": 8,
+          "media_count": 1899,
+          "tweet_count": 7163
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

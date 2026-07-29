@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1912016704210944504",
+    "created_at": "2025-04-15T05:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T06:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912016704210944504"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1912016704210944504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当一个人倾尽全力偷偷的去喜欢一个人的时候，就很难再喜欢上别人了，所以我害怕失去，遇到一个相知相守的人需要星辰之外的运气，这个世界上有太多人几乎从未想清楚和什么样的人相濡以沫，就和一个不曾彼此了解的，甚至你都不爱的人，浑浑噩噩的过完了一生，仿佛遵循着某种刻板的规则，但我不希望是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1912016704210944504",
+        "created_at": "2025-04-15T05:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T06:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912016704210944504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912016704210944504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当一个人倾尽全力偷偷的去喜欢一个人的时候，就很难再喜欢上别人了，所以我害怕失去，遇到一个相知相守的人需要星辰之外的运气，这个世界上有太多人几乎从未想清楚和什么样的人相濡以沫，就和一个不曾彼此了解的，甚至你都不爱的人，浑浑噩噩的过完了一生，仿佛遵循着某种刻板的规则，但我不希望是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 5756,
+          "like_count": 1874,
+          "listed_count": 3,
+          "media_count": 488,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2031825199415628098",
+    "created_at": "2026-03-11T20:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T21:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031825202066432308"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031825202066432308",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031825199415628098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以说的话牛油加上洋葱这两步一般情况下都是为在锅面上煎肉做铺垫的，但是后续做的关东风格，这两部就显得比较冗余了，再一个用的锅也不太适合这么去做……我觉得可能确实是搞错了，不过我也没敢多问这个是怎么回事（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2031825199415628098",
+        "created_at": "2026-03-11T20:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T21:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031825202066432308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031825202066432308",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031825199415628098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以说的话牛油加上洋葱这两步一般情况下都是为在锅面上煎肉做铺垫的，但是后续做的关东风格，这两部就显得比较冗余了，再一个用的锅也不太适合这么去做……我觉得可能确实是搞错了，不过我也没敢多问这个是怎么回事（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2031825199415628098",
+        "created_at": "2026-03-11T20:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T21:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031825199415628098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2031823887085027334",
+              "start": 135,
+              "url": "https://t.co/vFR6sISgBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031825199415628098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031823887085027334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个其实是这样的，寿喜烧主要就是关东关西两种风格，关东的话可能能更普遍一些，就是把食材放到锅里统一炖煮的风格，类似于牛肉火锅，锅能稍微深一些，而关西风格是有一些不一样的，可能不是很容易吃到，具体来讲就是用平底的锅面烧肉，然后再用剩余的味道配上额外添加的汤汁煮其他的食材 https://t.co/vFR6sISgBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4092,
+          "following_count": 7182,
+          "like_count": 6770,
+          "listed_count": 7,
+          "media_count": 1352,
+          "tweet_count": 5722
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

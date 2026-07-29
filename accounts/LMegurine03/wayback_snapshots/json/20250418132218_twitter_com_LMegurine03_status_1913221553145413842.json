@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1913034752447164539",
+    "created_at": "2025-04-18T13:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T14:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913221553145413842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "ryq59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913221553145413842",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913034752447164539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryq59 我全部都看完也要选6%和2%的🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1911592977123659778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GodXr0SWUAIC9hL.jpg",
+        "width": 881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1913034752447164539",
+        "created_at": "2025-04-18T13:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T14:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913221553145413842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913221553145413842",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913034752447164539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 我全部都看完也要选6%和2%的🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911592977123659778"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1913034752447164539",
+        "created_at": "2025-04-18T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913034752447164539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1Ruv7BJdD",
+              "end": 36,
+              "expanded_url": "https://x.com/ryq59/status/1913034752447164539/photo/1",
+              "media_key": "3_1911592977123659778",
+              "start": 13,
+              "url": "https://t.co/L1Ruv7BJdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913034752447164539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8865,
+          "like_count": 190,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "FBI向着那8%开始突击 https://t.co/L1Ruv7BJdD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 5985,
+          "like_count": 2003,
+          "listed_count": 3,
+          "media_count": 500,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "家暴党MtX🏳️‍⚧️｜Retired Pro PUBG MOBILE Player｜查成分回fo（可以私信）｜Sis @iranon_lcf @yizhikapaiqaq｜请点击查看更多 以了解我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "yizhikapaiqaq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16888,
+          "following_count": 4777,
+          "like_count": 177870,
+          "listed_count": 69,
+          "media_count": 4948,
+          "tweet_count": 22498
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "ryq59",
+        "verified": true
+      }
+    ]
+  }
+}

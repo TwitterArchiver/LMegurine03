@@ -1,0 +1,622 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1383832754937229312"
+      ],
+      "media_source_tweet_id": [
+        "1383832872281264139"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774146434269186",
+          "name": "Cristiano Ronaldo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774146434269186",
+          "name": "Cristiano Ronaldo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774146434269186",
+          "name": "Cristiano Ronaldo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1931105679638773962",
+    "created_at": "2025-06-06T21:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T22:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931105679638773962"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Cristiano Ronaldo",
+          "probability": 0.981,
+          "start": 22,
+          "type": "Person"
+        },
+        {
+          "end": 61,
+          "normalized_text": "Times Square",
+          "probability": 0.9331,
+          "start": 50,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "947246700116180995",
+          "start": 3,
+          "username": "yayaamz__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vTy9qM7yk1",
+          "end": 87,
+          "expanded_url": "https://x.com/yayaamz__/status/1383832872281264139/video/1",
+          "media_key": "7_1383832754937229312",
+          "start": 64,
+          "url": "https://t.co/vTy9qM7yk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931105679638773962",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5757
+    },
+    "referenced_tweets": [
+      {
+        "id": "1383832872281264139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yayaamz__: Apenas Cristiano Ronaldo parando a Times Square. https://t.co/vTy9qM7yk1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49917,
+        "height": 720,
+        "media_key": "7_1383832754937229312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1383832754937229312/pu/img/xuafStuadvSxcNn9.jpg",
+        "public_metrics": {
+          "view_count": 3678123
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1383832754937229312/pu/vid/320x564/LGJyv7Rd0doxIlRJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1383832754937229312/pu/vid/408x720/EuyydufcOJerz_5O.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1383832754937229312/pu/pl/STxAo3V_LoPycgkY.m3u8?tag=12&v=587"
+          }
+        ],
+        "width": 408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1383832754937229312"
+          ],
+          "media_source_tweet_id": [
+            "1383832872281264139"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1931105679638773962",
+        "created_at": "2025-06-06T21:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T22:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931105679638773962"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Cristiano Ronaldo",
+              "probability": 0.981,
+              "start": 22,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "Times Square",
+              "probability": 0.9331,
+              "start": 50,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "947246700116180995",
+              "start": 3,
+              "username": "yayaamz__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTy9qM7yk1",
+              "end": 87,
+              "expanded_url": "https://x.com/yayaamz__/status/1383832872281264139/video/1",
+              "media_key": "7_1383832754937229312",
+              "start": 64,
+              "url": "https://t.co/vTy9qM7yk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931105679638773962",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5757
+        },
+        "referenced_tweets": [
+          {
+            "id": "1383832872281264139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yayaamz__: Apenas Cristiano Ronaldo parando a Times Square. https://t.co/vTy9qM7yk1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1383832754937229312"
+          ]
+        },
+        "author_id": "947246700116180995",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1367264920425795585",
+              "name": "Atalanta vs Juventus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226165784928260",
+              "name": "Europe - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226212840833024",
+              "name": "Italy - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756520261767169",
+              "name": "Serie A"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1367264920425795585",
+              "name": "Atalanta vs Juventus"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1367264920425795585",
+              "name": "Atalanta vs Juventus"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1383832872281264139",
+        "created_at": "2021-04-18T17:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2021-04-18T17:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1383832872281264139"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Cristiano Ronaldo",
+              "probability": 0.9806,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "Times Square",
+              "probability": 0.8731,
+              "start": 35,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTy9qM7yk1",
+              "end": 72,
+              "expanded_url": "https://x.com/yayaamz__/status/1383832872281264139/video/1",
+              "media_key": "7_1383832754937229312",
+              "start": 49,
+              "url": "https://t.co/vTy9qM7yk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1383832872281264139",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 572,
+          "impression_count": 0,
+          "like_count": 33804,
+          "quote_count": 770,
+          "reply_count": 100,
+          "retweet_count": 5757
+        },
+        "reply_settings": "everyone",
+        "text": "Apenas Cristiano Ronaldo parando a Times Square. https://t.co/vTy9qM7yk1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 7500,
+          "like_count": 3033,
+          "listed_count": 6,
+          "media_count": 673,
+          "tweet_count": 2773
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-30T23:23:07.000Z",
+        "description": "Este perfil não aceita NENHUMA crítica ao CRISTIANO RONALDO.\n\n@Cristiano🐐❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Cristiano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ronaldete_/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ronaldete_/",
+                "start": 0,
+                "url": "https://t.co/OrH1HIUY3H"
+              }
+            ]
+          }
+        },
+        "id": "947246700116180995",
+        "location": "CR7",
+        "name": "ronaldete ama robozão",
+        "pinned_tweet_id": "1399536866886623239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1382144369361313793/gQvOl2Dv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3159,
+          "following_count": 0,
+          "like_count": 43479,
+          "listed_count": 11,
+          "media_count": 655,
+          "tweet_count": 22422
+        },
+        "url": "https://t.co/OrH1HIUY3H",
+        "username": "yayaamz__",
+        "verified": false
+      }
+    ]
+  }
+}

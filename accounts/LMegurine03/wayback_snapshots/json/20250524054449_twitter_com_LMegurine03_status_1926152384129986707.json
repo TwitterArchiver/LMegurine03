@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1925956675900514592",
+    "created_at": "2025-05-24T05:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T06:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926152384129986707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828259497422528515",
+          "start": 0,
+          "username": "kama292091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926152384129986707",
+    "in_reply_to_user_id": "1828259497422528515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925958491895672910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kama292091 这个也挺难说的，我觉得最好是能够接受开放性关系，交流方式特别随和并且直接的，遇到事情也可以保持冷静，当然如果长相符合我审美就更好了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1925956675900514592",
+        "created_at": "2025-05-24T05:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T06:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926152384129986707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828259497422528515",
+              "start": 0,
+              "username": "kama292091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926152384129986707",
+        "in_reply_to_user_id": "1828259497422528515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925958491895672910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kama292091 这个也挺难说的，我觉得最好是能够接受开放性关系，交流方式特别随和并且直接的，遇到事情也可以保持冷静，当然如果长相符合我审美就更好了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828259497422528515",
+        "conversation_id": "1925956675900514592",
+        "created_at": "2025-05-23T16:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T17:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925958491895672910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925958491895672910",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925956675900514592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 那我问了，喜欢的人是什么样子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 7502,
+          "like_count": 2574,
+          "listed_count": 3,
+          "media_count": 630,
+          "tweet_count": 2572
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T02:33:39.000Z",
+        "description": "",
+        "id": "1828259497422528515",
+        "name": "夜雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108250450255872/cE6HksrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 1051,
+          "like_count": 12718,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 2633
+        },
+        "username": "kama292091",
+        "verified": false
+      }
+    ]
+  }
+}

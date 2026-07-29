@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982506681289289728"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1982143681705419082",
+    "created_at": "2025-10-26T17:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T18:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982506684506583245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888727330333343745",
+          "start": 0,
+          "username": "Cretaceous27738"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jlwh8fUFpt",
+          "end": 40,
+          "expanded_url": "https://x.com/LMegurine03/status/1982506684506583245/photo/1",
+          "media_key": "3_1982506681289289728",
+          "start": 17,
+          "url": "https://t.co/Jlwh8fUFpt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982506684506583245",
+    "in_reply_to_user_id": "1888727330333343745",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982143681705419082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cretaceous27738 https://t.co/Jlwh8fUFpt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_1982506681289289728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4NHUqcWMAASs-i.jpg",
+        "width": 2048
+      },
+      {
+        "height": 970,
+        "media_key": "3_1982143677305585665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4H9LDOWAAE3Lx1.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982506681289289728"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1982143681705419082",
+        "created_at": "2025-10-26T17:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T18:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982506684506583245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888727330333343745",
+              "start": 0,
+              "username": "Cretaceous27738"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jlwh8fUFpt",
+              "end": 40,
+              "expanded_url": "https://x.com/LMegurine03/status/1982506684506583245/photo/1",
+              "media_key": "3_1982506681289289728",
+              "start": 17,
+              "url": "https://t.co/Jlwh8fUFpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982506684506583245",
+        "in_reply_to_user_id": "1888727330333343745",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982143681705419082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cretaceous27738 https://t.co/Jlwh8fUFpt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982143677305585665"
+          ]
+        },
+        "author_id": "1888727330333343745",
+        "conversation_id": "1982143681705419082",
+        "created_at": "2025-10-25T17:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T18:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982143681705419082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsMD0ViF32",
+              "end": 79,
+              "expanded_url": "https://x.com/Cretaceous27738/status/1982143681705419082/photo/1",
+              "media_key": "3_1982143677305585665",
+              "start": 56,
+              "url": "https://t.co/IsMD0ViF32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982143681705419082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5822,
+          "impression_count": 2579720,
+          "like_count": 60705,
+          "quote_count": 3103,
+          "reply_count": 13405,
+          "retweet_count": 3318
+        },
+        "reply_settings": "everyone",
+        "text": "Post something random or you’ll have an AWFUL November! https://t.co/IsMD0ViF32"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "realmadrid"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "KChiharu34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3105,
+          "following_count": 7492,
+          "like_count": 5187,
+          "listed_count": 6,
+          "media_count": 960,
+          "tweet_count": 4164
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T23:11:14.000Z",
+        "description": "He/Him|17|Autistic|Zoology|Paleontology|Multimedia enjoyer|Memes|Huge Surf’s Up fan|Utahraptor fan!",
+        "id": "1888727330333343745",
+        "location": "Early Cretaceous",
+        "name": "The One Spooky Utahraptor 🦖🧬👾🐲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973143631985827840/AkvsbO1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3884,
+          "following_count": 5140,
+          "like_count": 65792,
+          "listed_count": 8,
+          "media_count": 7626,
+          "tweet_count": 18694
+        },
+        "username": "Cretaceous27738",
+        "verified": false
+      }
+    ]
+  }
+}

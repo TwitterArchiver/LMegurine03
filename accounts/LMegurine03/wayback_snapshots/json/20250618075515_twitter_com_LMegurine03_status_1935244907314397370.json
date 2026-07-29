@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1935233434357744084",
+    "created_at": "2025-06-18T07:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T08:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935244907314397370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1911667460635344896",
+          "start": 0,
+          "username": "watermelon96758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935244907314397370",
+    "in_reply_to_user_id": "1911667460635344896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935235016231109077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@watermelon96758 不是的，很多就是原来的号，可能粉丝多点就把有些互关给清了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1935233434357744084",
+        "created_at": "2025-06-18T07:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T08:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935244907314397370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1911667460635344896",
+              "start": 0,
+              "username": "watermelon96758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935244907314397370",
+        "in_reply_to_user_id": "1911667460635344896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935235016231109077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@watermelon96758 不是的，很多就是原来的号，可能粉丝多点就把有些互关给清了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911667460635344896",
+        "conversation_id": "1935233434357744084",
+        "created_at": "2025-06-18T07:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T08:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935235016231109077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935235016231109077",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935233434357744084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 会不会是他们被马一龙封号了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "realmadrid"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 7382,
+          "like_count": 3203,
+          "listed_count": 6,
+          "media_count": 711,
+          "tweet_count": 2928
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T06:26:58.000Z",
+        "description": "此号仅用于看新闻/不对线/我是画色图的，关注我我会发涩图",
+        "id": "1911667460635344896",
+        "name": "瓜师傅（二代目/推友寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917238887803498497/vHz4Relr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 189,
+          "like_count": 4643,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1674
+        },
+        "username": "watermelon96758",
+        "verified": false
+      }
+    ]
+  }
+}

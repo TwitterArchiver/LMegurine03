@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043338816346640384"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2043338825234317522",
+    "created_at": "2026-04-12T14:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043338825234317522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fzwibo18rn",
+          "end": 39,
+          "expanded_url": "https://x.com/LMegurine03/status/2043338825234317522/photo/1",
+          "media_key": "3_2043338816346640384",
+          "start": 16,
+          "url": "https://t.co/Fzwibo18rn"
+        },
+        {
+          "display_url": "x.com/omgnowihave/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/omgnowihave/status/2042987630619762823",
+          "start": 40,
+          "url": "https://t.co/MwjQsxKaaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043338825234317522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042987630619762823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜您！您根本不在人类范畴内！ https://t.co/Fzwibo18rn https://t.co/MwjQsxKaaf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043338816346640384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtl09Ab0AA9Jxx.jpg",
+        "width": 918
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042987627838869506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFombF3akAIk2Yv.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043338816346640384"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2043338825234317522",
+        "created_at": "2026-04-12T14:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043338825234317522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fzwibo18rn",
+              "end": 39,
+              "expanded_url": "https://x.com/LMegurine03/status/2043338825234317522/photo/1",
+              "media_key": "3_2043338816346640384",
+              "start": 16,
+              "url": "https://t.co/Fzwibo18rn"
+            },
+            {
+              "display_url": "x.com/omgnowihave/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/omgnowihave/status/2042987630619762823",
+              "start": 40,
+              "url": "https://t.co/MwjQsxKaaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043338825234317522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042987630619762823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜您！您根本不在人类范畴内！ https://t.co/Fzwibo18rn https://t.co/MwjQsxKaaf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042987627838869506"
+          ]
+        },
+        "author_id": "2032715306632884224",
+        "conversation_id": "2042987630619762823",
+        "created_at": "2026-04-11T15:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042987630619762823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OU9mwlbgSC",
+              "end": 34,
+              "expanded_url": "https://x.com/omgnowihave/status/2042987630619762823/photo/1",
+              "media_key": "3_2042987627838869506",
+              "start": 11,
+              "url": "https://t.co/OU9mwlbgSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042987630619762823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1273,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我居然是SB嗎... https://t.co/OU9mwlbgSC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4078,
+          "following_count": 7059,
+          "like_count": 7088,
+          "listed_count": 7,
+          "media_count": 1470,
+          "tweet_count": 6029
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T07:08:06.000Z",
+        "description": "2009/12/24 | 座标台中 | 炸柜王 | \n 旧帐号 @omgnowihavefish（被冻结了）\n@xiohunggu251015(被删了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "xiohunggu251015"
+              }
+            ]
+          }
+        },
+        "id": "2032715306632884224",
+        "name": "黄瓜",
+        "pinned_tweet_id": "2033199415520018879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032716573929340928/3UpIyBpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 613,
+          "like_count": 3650,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 932
+        },
+        "username": "omgnowihave",
+        "verified": false
+      }
+    ]
+  }
+}

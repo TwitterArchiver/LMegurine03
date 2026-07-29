@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920383629064114176",
+        "3_1920383628334292992"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1920383635238096955",
+    "created_at": "2025-05-08T07:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T08:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920383635238096955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CC50cZ0IZt",
+          "end": 55,
+          "expanded_url": "https://x.com/LMegurine03/status/1920383635238096955/photo/1",
+          "media_key": "3_1920383629064114176",
+          "start": 32,
+          "url": "https://t.co/CC50cZ0IZt"
+        },
+        {
+          "display_url": "pic.x.com/CC50cZ0IZt",
+          "end": 55,
+          "expanded_url": "https://x.com/LMegurine03/status/1920383635238096955/photo/1",
+          "media_key": "3_1920383628334292992",
+          "start": 32,
+          "url": "https://t.co/CC50cZ0IZt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920383635238096955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日语音调（第一张图是按照具体名称来分，第二张图是按照数字来分） https://t.co/CC50cZ0IZt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_1920383629064114176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqaSvGrXkAAII7v.jpg",
+        "width": 600
+      },
+      {
+        "height": 551,
+        "media_key": "3_1920383628334292992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqaSvD9XYAAPCGC.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920383629064114176",
+            "3_1920383628334292992"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1920383635238096955",
+        "created_at": "2025-05-08T07:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T08:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920383635238096955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CC50cZ0IZt",
+              "end": 55,
+              "expanded_url": "https://x.com/LMegurine03/status/1920383635238096955/photo/1",
+              "media_key": "3_1920383629064114176",
+              "start": 32,
+              "url": "https://t.co/CC50cZ0IZt"
+            },
+            {
+              "display_url": "pic.x.com/CC50cZ0IZt",
+              "end": 55,
+              "expanded_url": "https://x.com/LMegurine03/status/1920383635238096955/photo/1",
+              "media_key": "3_1920383628334292992",
+              "start": 32,
+              "url": "https://t.co/CC50cZ0IZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920383635238096955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日语音调（第一张图是按照具体名称来分，第二张图是按照数字来分） https://t.co/CC50cZ0IZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 7030,
+          "like_count": 2149,
+          "listed_count": 3,
+          "media_count": 539,
+          "tweet_count": 2239
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

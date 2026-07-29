@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1917625290228130170",
+    "created_at": "2025-04-30T17:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T18:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917626968343994819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1639798257198206977",
+          "start": 0,
+          "username": "AlexDreemurr14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917626968343994819",
+    "in_reply_to_user_id": "1639798257198206977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917625923660308568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexDreemurr14 确实是呀😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1917625290228130170",
+        "created_at": "2025-04-30T17:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T18:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917626968343994819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639798257198206977",
+              "start": 0,
+              "username": "AlexDreemurr14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917626968343994819",
+        "in_reply_to_user_id": "1639798257198206977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917625923660308568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexDreemurr14 确实是呀😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639798257198206977",
+        "conversation_id": "1917625290228130170",
+        "created_at": "2025-04-30T17:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T18:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917625923660308568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917625923660308568",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917625290228130170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 第一种似乎比第二种更加恐怖呢）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 6782,
+          "like_count": 2072,
+          "listed_count": 3,
+          "media_count": 519,
+          "tweet_count": 2152
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T01:15:55.000Z",
+        "description": "MTX｜心理年龄很小「雖然實際年齡也不大喔」｜胃口小的美食猫猫🐱｜腦袋瓜子有大病🤢｜高三牲但想赶快结束K12｜几乎不建政｜想去很多地方｜國語、英语、日语N5.1 韩语Topic0.1(可借助翻译流畅交流💦💦💦)｜不会吐鱼刺也不会为主人抓鱼的猫猫  小号@Dr124Alex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "Dr124Alex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "solar-broom-e88.notion.site/AlexDreemurr-s…",
+                "end": 23,
+                "expanded_url": "https://solar-broom-e88.notion.site/AlexDreemurr-s-Blog-e0178862aabb4dc0a052ac50e52303ba?pvs=4",
+                "start": 0,
+                "url": "https://t.co/z5XnhPAemW"
+              }
+            ]
+          }
+        },
+        "id": "1639798257198206977",
+        "location": "杭州",
+        "name": "🏳️‍⚧️Alex Dreemurr",
+        "pinned_tweet_id": "1906038112373051445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652405913292800/Sibp9-Ug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 517,
+          "like_count": 4423,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/z5XnhPAemW",
+        "username": "AlexDreemurr14",
+        "verified": false
+      }
+    ]
+  }
+}

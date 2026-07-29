@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2073800000631611871",
+    "created_at": "2026-07-05T18:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073835878368338082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073835878368338082",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073800000631611871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 可能是机器人的那种账号，不要回复就好，泄露信息可是会有风险的（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073799976396967936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeeF1Ba0AArBcy.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073799978364092416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeeF8WawAA05X9.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2073800000631611871",
+        "created_at": "2026-07-05T18:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073835878368338082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073835878368338082",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073800000631611871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 可能是机器人的那种账号，不要回复就好，泄露信息可是会有风险的（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073799976396967936",
+            "3_2073799978364092416"
+          ]
+        },
+        "author_id": "1956958284310818816",
+        "conversation_id": "2073800000631611871",
+        "created_at": "2026-07-05T16:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073800000631611871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VERYBOl8Xx",
+              "end": 35,
+              "expanded_url": "https://x.com/qian67068/status/2073800000631611871/photo/1",
+              "media_key": "3_2073799976396967936",
+              "start": 12,
+              "url": "https://t.co/VERYBOl8Xx"
+            },
+            {
+              "display_url": "pic.x.com/VERYBOl8Xx",
+              "end": 35,
+              "expanded_url": "https://x.com/qian67068/status/2073800000631611871/photo/1",
+              "media_key": "3_2073799978364092416",
+              "start": 12,
+              "url": "https://t.co/VERYBOl8Xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073800000631611871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏了，我遇到什么人了😨 https://t.co/VERYBOl8Xx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4392,
+          "following_count": 7501,
+          "like_count": 8032,
+          "listed_count": 8,
+          "media_count": 1799,
+          "tweet_count": 6958
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "mtx | INTP | 泛性恋 | 不含糖 | 精神良好 | 称呼小千就好💛🤍💜🖤sub 称他/她均可 想互fo 可以做心理委员喵（虽然满脑子黄色废料）分身@qian68069喵\n\n喜欢sakanaction，喜欢研究各种数码产品和电子软硬件，常有科幻点子👍身高1.77体重55kg，好虚弱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️qian🏳️‍🌈🎹小千",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956958446500364288/fCbmnxDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 300,
+          "like_count": 742,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": false
+      }
+    ]
+  }
+}

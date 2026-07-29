@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1944744245111501130",
+    "created_at": "2025-07-14T15:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T16:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944788642712719698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755888079133716480",
+          "start": 0,
+          "username": "yuanshen268181"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944788642712719698",
+    "in_reply_to_user_id": "1755888079133716480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944787735233052787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanshen268181 粉丝达到一定程度限制就能提高，现在是7500，要是超过5000说不定就可以更高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1944744245111501130",
+        "created_at": "2025-07-14T15:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T16:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944788642712719698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755888079133716480",
+              "start": 0,
+              "username": "yuanshen268181"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944788642712719698",
+        "in_reply_to_user_id": "1755888079133716480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944787735233052787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanshen268181 粉丝达到一定程度限制就能提高，现在是7500，要是超过5000说不定就可以更高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755888079133716480",
+        "conversation_id": "1944744245111501130",
+        "created_at": "2025-07-14T15:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T16:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944787735233052787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944787735233052787",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944744245111501130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 关注还有限制的啊，那赵立坚为啥能关注十几万人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 7426,
+          "like_count": 3637,
+          "listed_count": 4,
+          "media_count": 776,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T09:35:24.000Z",
+        "description": "把x当吊图吧刷的，政治方面只反感支黑因为他们讨厌我所以我也讨厌他们很合理，粉红目田无感太傻逼的会屏蔽，感觉谈政治会破坏和睦，只是想和每一个人和谐相处而已（当然立场不同可以体谅，傻逼没必要跟他和谐相处）。只要主页不是那种疑似片哥片姐的都会回fo o(^▽^)o",
+        "id": "1755888079133716480",
+        "location": "天神小学校",
+        "name": "丁真纯一郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888287799557939200/c1kKk5U1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 433,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 725
+        },
+        "username": "yuanshen268181",
+        "verified": false
+      }
+    ]
+  }
+}

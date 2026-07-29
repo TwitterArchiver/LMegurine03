@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1927393827171508471",
+    "created_at": "2025-05-27T15:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T16:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927393827171508471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ml926658681854…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ml9266586818544/status/1927375338587193543",
+          "start": 5,
+          "url": "https://t.co/s5mqxBrzR9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927393827171508471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927375338587193543",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "继续关注 https://t.co/s5mqxBrzR9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1927393827171508471",
+        "created_at": "2025-05-27T15:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927393827171508471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ml926658681854…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ml9266586818544/status/1927375338587193543",
+              "start": 5,
+              "url": "https://t.co/s5mqxBrzR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927393827171508471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927375338587193543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继续关注 https://t.co/s5mqxBrzR9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926706364044165121",
+        "conversation_id": "1927375338587193543",
+        "created_at": "2025-05-27T14:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T15:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927375338587193543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927375338587193543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "静推不好用，真的很难受，想用静推的换一种死法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 7500,
+          "like_count": 2637,
+          "listed_count": 0,
+          "media_count": 640,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T18:26:33.000Z",
+        "description": "生产日期:2009.10.19|HRT_2025.2.16|无证含糖🍬|休学一年/::Z是个地雷女💥喜欢GBC，术力口|坐标川崎可接线下，重度躁郁症.精神分裂|最爱的姐姐@Sakura_mo_yu|QV门槛🚪20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          }
+        },
+        "id": "1926706364044165121",
+        "name": "中村沫梨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926706982091636736/oMTznb1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "ml9266586818544",
+        "verified": false
+      }
+    ]
+  }
+}

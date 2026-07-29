@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1912766674803257626",
+    "created_at": "2025-04-17T15:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T16:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912894501225709625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620707771548323841",
+          "start": 0,
+          "username": "LIBERATER000"
+        },
+        {
+          "end": 25,
+          "id": "1153970326604144640",
+          "start": 14,
+          "username": "Ruters0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912894501225709625",
+    "in_reply_to_user_id": "1620707771548323841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912893583256129866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LIBERATER000 @Ruters0615 这样啊，懂了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1912766674803257626",
+        "created_at": "2025-04-17T15:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912894501225709625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620707771548323841",
+              "start": 0,
+              "username": "LIBERATER000"
+            },
+            {
+              "end": 25,
+              "id": "1153970326604144640",
+              "start": 14,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912894501225709625",
+        "in_reply_to_user_id": "1620707771548323841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912893583256129866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LIBERATER000 @Ruters0615 这样啊，懂了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620707771548323841",
+        "conversation_id": "1912766674803257626",
+        "created_at": "2025-04-17T15:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912893583256129866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 24,
+              "id": "1153970326604144640",
+              "start": 13,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912893583256129866",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912811819963392151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 @Ruters0615 不是日产强，是魔门塔厉害。魔门塔是智能驾驶方案供应商😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 5562,
+          "like_count": 1986,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 2077
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T08:58:13.000Z",
+        "description": "那些所谓的波旁王朝所创造的宏伟事业，到头来不如平民餐桌上的一根法棍。",
+        "id": "1620707771548323841",
+        "name": "LIBERATER🇵🇸🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908895982135468032/dye-X87V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 935,
+          "like_count": 2791,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 2249
+        },
+        "username": "LIBERATER000",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "1903416371318300711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283140,
+          "following_count": 2382,
+          "like_count": 2212,
+          "listed_count": 878,
+          "media_count": 2081,
+          "tweet_count": 2757
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2056053954505736301",
+    "created_at": "2026-05-17T16:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056053954505736301"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056053954505736301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听歌的时候突然有一些很奇怪的想法……我觉得现在的人们在审美上有各种各样的小众化，但实际上反倒有一点对深度内容逃离的感觉，就像为了知道而知道，也不知道喜不喜欢，现在信息流动，时间也碎片化，人们对于一些事情的耐心可能确实比较难培养，或许用符号来填补内核的空洞，便成为了一种不得已的办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2056053954505736301",
+        "created_at": "2026-05-17T16:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056053954505736301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056053954505736301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听歌的时候突然有一些很奇怪的想法……我觉得现在的人们在审美上有各种各样的小众化，但实际上反倒有一点对深度内容逃离的感觉，就像为了知道而知道，也不知道喜不喜欢，现在信息流动，时间也碎片化，人们对于一些事情的耐心可能确实比较难培养，或许用符号来填补内核的空洞，便成为了一种不得已的办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4122,
+          "following_count": 7166,
+          "like_count": 7293,
+          "listed_count": 7,
+          "media_count": 1584,
+          "tweet_count": 6344
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1940821087136502051",
+    "created_at": "2025-07-04T09:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T10:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941061325628792995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586762784393437184",
+          "start": 0,
+          "username": "DraTohru_XLN"
+        },
+        {
+          "end": 25,
+          "id": "1253165636210978817",
+          "start": 14,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941061325628792995",
+    "in_reply_to_user_id": "1586762784393437184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940990837829308689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DraTohru_XLN @Exusiai159 这样的人都不配当父母，就这样的话他们的问题都是他们自己的事情，也不需要你来承担， 脱离他们过好自己的生活就可以了，不要自责，也不要有啥负担"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1940821087136502051",
+        "created_at": "2025-07-04T09:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T10:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941061325628792995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586762784393437184",
+              "start": 0,
+              "username": "DraTohru_XLN"
+            },
+            {
+              "end": 25,
+              "id": "1253165636210978817",
+              "start": 14,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941061325628792995",
+        "in_reply_to_user_id": "1586762784393437184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940990837829308689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DraTohru_XLN @Exusiai159 这样的人都不配当父母，就这样的话他们的问题都是他们自己的事情，也不需要你来承担， 脱离他们过好自己的生活就可以了，不要自责，也不要有啥负担"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586762784393437184",
+        "conversation_id": "1940821087136502051",
+        "created_at": "2025-07-04T04:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T05:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940990837829308689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            },
+            {
+              "end": 24,
+              "id": "1877035470615638016",
+              "start": 12,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940990837829308689",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940990069479035228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 @LMegurine03 现在无所谓了，我爸也老实很多了，他再敢搞点傻逼事我也不原谅他了。\n可能我这么说看着别扭不孝顺，但是你不知道，他是能做得出找好几个女的生了孩子又离婚这种事的人。有一次和他一起去和朋友吃饭，他唠嗑是不喝酒也吐真言，说我生孩子就自己开心就完了，孩子怎么样是他自己的事。\n窒息。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 7458,
+          "like_count": 3478,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 3207
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T16:51:55.000Z",
+        "description": "来自中国的20y.o.激光专业技术宅兼大笨蛋,爱好二次元|电子电路|化学|MIDI|音频|操作系统|数码产品|摄影。属性:🏳️‍⚧️🏳️‍🌈LGBTQ+兼容|トール可愛い|《青空のラプソディ》最高🎵|我愛大連🏝️|S-YXG2006LE音源好き🎹|双極性障害存疑|Fart Fetish特殊性癖注意💨⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dratoh…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dratohru-xln.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3IfckWWTKL"
+              }
+            ]
+          }
+        },
+        "id": "1586762784393437184",
+        "location": "SGP2.DLL",
+        "name": "小龙娘トール⚡️🧪🔉🎹📱💻🏝️",
+        "pinned_tweet_id": "1758324214581645818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827717933965234176/8TASHQHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 442,
+          "like_count": 38388,
+          "listed_count": 3,
+          "media_count": 917,
+          "tweet_count": 12020
+        },
+        "url": "https://t.co/3IfckWWTKL",
+        "username": "DraTohru_XLN",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "混吃等死大学牲，粥批，正太控，中推鹿野灸和能天使粉丝头子/头图来自剧毒的KCN老师/会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本记录碎碎念/数码产品迷，Windows平板和手写笔爱好者，星粉/编程一生黑/禁极端歧视仇恨言论/有大量政治内容的账号恕不回fo/避难所@Exusiai159_2/扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/exusiai1592",
+                "end": 23,
+                "expanded_url": "https://ngl.link/exusiai1592",
+                "start": 0,
+                "url": "https://t.co/ZoBj8xEVzX"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916516326706999296/Cqh4R0TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4361,
+          "following_count": 5479,
+          "like_count": 127333,
+          "listed_count": 9,
+          "media_count": 3609,
+          "tweet_count": 35331
+        },
+        "url": "https://t.co/ZoBj8xEVzX",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

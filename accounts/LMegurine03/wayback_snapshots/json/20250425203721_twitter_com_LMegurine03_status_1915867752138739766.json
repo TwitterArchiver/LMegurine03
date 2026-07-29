@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1915843831028977963",
+    "created_at": "2025-04-25T20:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T21:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915867752138739766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1911916404602974208",
+          "start": 0,
+          "username": "hakutaka09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915867752138739766",
+    "in_reply_to_user_id": "1911916404602974208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915858833261707519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakutaka09 すごいですね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1915843831028977963",
+        "created_at": "2025-04-25T20:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T21:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915867752138739766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1911916404602974208",
+              "start": 0,
+              "username": "hakutaka09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915867752138739766",
+        "in_reply_to_user_id": "1911916404602974208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915858833261707519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakutaka09 すごいですね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911916404602974208",
+        "conversation_id": "1915843831028977963",
+        "created_at": "2025-04-25T20:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T21:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915858833261707519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915858833261707519",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915843831028977963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 Airbus A321neo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 6593,
+          "like_count": 2054,
+          "listed_count": 3,
+          "media_count": 515,
+          "tweet_count": 2127
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T22:56:14.000Z",
+        "description": "08 | 高校生 | 日本語勉強中 | 鉄道と飛行機とバスは好き | 友達が欲しい | 中国語 & English OK www\nありがとうね",
+        "id": "1911916404602974208",
+        "name": "はくたか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911917314196295680/qNCQkalB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 48,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "hakutaka09",
+        "verified": false
+      }
+    ]
+  }
+}

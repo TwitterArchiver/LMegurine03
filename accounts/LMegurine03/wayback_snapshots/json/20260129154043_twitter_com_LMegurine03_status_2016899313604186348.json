@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2016587234171113874",
+    "created_at": "2026-01-29T15:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T16:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016899313604186348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798702233481338880",
+          "start": 0,
+          "username": "SZtianxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016899313604186348",
+    "in_reply_to_user_id": "1798702233481338880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016897667704770932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SZtianxue 对！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2016587234171113874",
+        "created_at": "2026-01-29T15:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016899313604186348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798702233481338880",
+              "start": 0,
+              "username": "SZtianxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016899313604186348",
+        "in_reply_to_user_id": "1798702233481338880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016897667704770932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SZtianxue 对！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798702233481338880",
+        "conversation_id": "2016587234171113874",
+        "created_at": "2026-01-29T15:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016897667704770932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016897667704770932",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016896642319077676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 哼哼，我有一招不会忘记单词和语法的绝技…只要不记就不会忘掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181cm/55kg｜泛性恋｜INTP｜坐标大连｜日本語の勉強中｜随机掉落日常｜欢迎私信｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3671,
+          "following_count": 7471,
+          "like_count": 6448,
+          "listed_count": 7,
+          "media_count": 1252,
+          "tweet_count": 5310
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T13:03:54.000Z",
+        "description": "你读这句话的时候这几秒就没了 因为我是时间掠夺者 专门发无聊的东西来浪费你的时间",
+        "id": "1798702233481338880",
+        "location": "我家里",
+        "name": "尚天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885687534828576768/SdK8qKqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 97,
+          "like_count": 10382,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2048
+        },
+        "username": "SZtianxue",
+        "verified": false
+      }
+    ]
+  }
+}

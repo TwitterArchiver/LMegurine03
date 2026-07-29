@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1947950017320485307",
+    "created_at": "2025-07-24T14:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T15:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948393416397656186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939867725435912192",
+          "start": 0,
+          "username": "xiaoxunjiang520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948393416397656186",
+    "in_reply_to_user_id": "1939867725435912192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947950017320485307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxunjiang520 其实还蛮好的嘛，开玩笑而已，不会讨厌你的，凭我直觉的话，要是真的不喜欢你的话，可就不是这个态度了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947950014611025920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwiCN7UbcAAjO34.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1947950014770413568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwiCN76bgAAnaaI.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1947950014648786944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwiCN7dboAAQsRV.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1947950017320485307",
+        "created_at": "2025-07-24T14:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948393416397656186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939867725435912192",
+              "start": 0,
+              "username": "xiaoxunjiang520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948393416397656186",
+        "in_reply_to_user_id": "1939867725435912192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947950017320485307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxunjiang520 其实还蛮好的嘛，开玩笑而已，不会讨厌你的，凭我直觉的话，要是真的不喜欢你的话，可就不是这个态度了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947950014611025920",
+            "3_1947950014770413568",
+            "3_1947950014648786944"
+          ]
+        },
+        "author_id": "1939867725435912192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947950017320485307",
+        "created_at": "2025-07-23T09:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T10:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947950017320485307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aDwlnRM1e",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaoxunjiang520/status/1947950017320485307/photo/1",
+              "media_key": "3_1947950014611025920",
+              "start": 20,
+              "url": "https://t.co/6aDwlnRM1e"
+            },
+            {
+              "display_url": "pic.x.com/6aDwlnRM1e",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaoxunjiang520/status/1947950017320485307/photo/1",
+              "media_key": "3_1947950014770413568",
+              "start": 20,
+              "url": "https://t.co/6aDwlnRM1e"
+            },
+            {
+              "display_url": "pic.x.com/6aDwlnRM1e",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaoxunjiang520/status/1947950017320485307/photo/1",
+              "media_key": "3_1947950014648786944",
+              "start": 20,
+              "url": "https://t.co/6aDwlnRM1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947950017320485307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 32537,
+          "like_count": 117,
+          "quote_count": 10,
+          "reply_count": 31,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜 证据确凿了小寻是充话费送的🤕🤕 https://t.co/6aDwlnRM1e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 7466,
+          "like_count": 3925,
+          "listed_count": 4,
+          "media_count": 792,
+          "tweet_count": 3459
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T02:04:56.000Z",
+        "description": "11年的无证小药娘🍥叫我小寻就行咯😘有重度抑郁和狂躁症🤕喜欢吃😋甜甜的🍥已彻底炸柜半家长党😭 详情看下面↓最爱的老公🥰🥰🥰@wjhlovelzp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "wjhlovelzp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.report/zh-cn/submissi…",
+                "end": 23,
+                "expanded_url": "https://mtf.report/zh-cn/submissions/zS520zx1314",
+                "start": 0,
+                "url": "https://t.co/SuSXQE2TCr"
+              }
+            ]
+          }
+        },
+        "id": "1939867725435912192",
+        "location": "雌二醇星球",
+        "name": "小寻酱🍥（努力重回2000fo）",
+        "pinned_tweet_id": "1947887817897492688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939868808573067265/vlOCrlfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 414,
+          "like_count": 341,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/SuSXQE2TCr",
+        "username": "xiaoxunjiang520",
+        "verified": false
+      }
+    ]
+  }
+}

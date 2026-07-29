@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1940821087136502051",
+    "created_at": "2025-07-03T19:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T20:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940849688405762318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1659799899431669760",
+          "start": 0,
+          "username": "lesyeuxdavery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940849688405762318",
+    "in_reply_to_user_id": "1659799899431669760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940847718366433448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lesyeuxdavery 我的天，这都可以算是虐待了，太可怜了，真的心疼你，这样的家庭关系最好还是躲远点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1940821087136502051",
+        "created_at": "2025-07-03T19:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T20:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940849688405762318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659799899431669760",
+              "start": 0,
+              "username": "lesyeuxdavery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940849688405762318",
+        "in_reply_to_user_id": "1659799899431669760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940847718366433448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lesyeuxdavery 我的天，这都可以算是虐待了，太可怜了，真的心疼你，这样的家庭关系最好还是躲远点吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659799899431669760",
+        "conversation_id": "1940821087136502051",
+        "created_at": "2025-07-03T18:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T19:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940847718366433448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940847718366433448",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940821087136502051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 小学的时候数学没考好老师说要见家长 于是我爸就拿着根铁棍大摇大摆的走到我班上 在众目睽睽之下使劲打我.. 我哭的要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 7451,
+          "like_count": 3460,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 3192
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T05:55:38.000Z",
+        "description": "place i vent 💗@canger_6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "canger_6"
+              }
+            ]
+          }
+        },
+        "id": "1659799899431669760",
+        "name": "réflexions",
+        "pinned_tweet_id": "1935010687488856389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882830689323864064/OC23Qbuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 145,
+          "like_count": 6764,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1563
+        },
+        "username": "lesyeuxdavery",
+        "verified": false
+      }
+    ]
+  }
+}

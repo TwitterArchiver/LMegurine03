@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067630584592244736"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2067630595887546444",
+    "created_at": "2026-06-18T15:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067630595887546444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Yu2wCfi1T",
+          "end": 42,
+          "expanded_url": "https://x.com/LMegurine03/status/2067630595887546444/photo/1",
+          "media_key": "3_2067630584592244736",
+          "start": 19,
+          "url": "https://t.co/6Yu2wCfi1T"
+        },
+        {
+          "display_url": "x.com/Liechtensteina…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/Liechtensteinal/status/2067574806527262745",
+          "start": 43,
+          "url": "https://t.co/ZQgdAAzVV7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067630595887546444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067574806527262745",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "才发现还有好多地方没去到，有点遗憾🥺 https://t.co/6Yu2wCfi1T https://t.co/ZQgdAAzVV7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2067630584592244736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGzD9laoAADSQQ.jpg",
+        "width": 2268
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067574798113505281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGAUwwbAAEOd4K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067630584592244736"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2067630595887546444",
+        "created_at": "2026-06-18T15:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067630595887546444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Yu2wCfi1T",
+              "end": 42,
+              "expanded_url": "https://x.com/LMegurine03/status/2067630595887546444/photo/1",
+              "media_key": "3_2067630584592244736",
+              "start": 19,
+              "url": "https://t.co/6Yu2wCfi1T"
+            },
+            {
+              "display_url": "x.com/Liechtensteina…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Liechtensteinal/status/2067574806527262745",
+              "start": 43,
+              "url": "https://t.co/ZQgdAAzVV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067630595887546444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067574806527262745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "才发现还有好多地方没去到，有点遗憾🥺 https://t.co/6Yu2wCfi1T https://t.co/ZQgdAAzVV7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067574798113505281"
+          ]
+        },
+        "author_id": "1095998402817454087",
+        "conversation_id": "2067574806527262745",
+        "created_at": "2026-06-18T11:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067574806527262745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIKWtg7FOW",
+              "end": 43,
+              "expanded_url": "https://x.com/Liechtensteinal/status/2067574806527262745/photo/1",
+              "media_key": "3_2067574798113505281",
+              "start": 20,
+              "url": "https://t.co/RIKWtg7FOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067574806527262745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就不暴露居住地了反正你们都知道我在哪。 https://t.co/RIKWtg7FOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4306,
+          "following_count": 7408,
+          "like_count": 7665,
+          "listed_count": 7,
+          "media_count": 1677,
+          "tweet_count": 6703
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T10:49:16.000Z",
+        "description": "ISTP/Minarchy/Individualism/Pro-Life/Antifeminism/Non populist anti-elitism/Libertarian Zionism🇮🇱/Trumpism libertarian🇺🇸/💛🖤@Panpkin0973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Panpkin0973"
+              }
+            ]
+          }
+        },
+        "id": "1095998402817454087",
+        "location": "Watertown, SD",
+        "name": "列支敦士登匿名用户🏆🗽",
+        "pinned_tweet_id": "2055647614742212771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883580647337558016/wFl9Uhk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5097,
+          "following_count": 1794,
+          "like_count": 73466,
+          "listed_count": 21,
+          "media_count": 1457,
+          "tweet_count": 19895
+        },
+        "url": "",
+        "username": "Liechtensteinal",
+        "verified": false
+      }
+    ]
+  }
+}

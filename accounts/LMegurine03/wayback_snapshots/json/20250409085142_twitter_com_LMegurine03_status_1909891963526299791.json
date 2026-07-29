@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1909487813633917082",
+    "created_at": "2025-04-09T08:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T09:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909891963526299791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884928172950732800",
+          "start": 0,
+          "username": "chi28322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909891963526299791",
+    "in_reply_to_user_id": "1884928172950732800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909890378960163272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chi28322 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1909487813633917082",
+        "created_at": "2025-04-09T08:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T09:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909891963526299791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884928172950732800",
+              "start": 0,
+              "username": "chi28322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909891963526299791",
+        "in_reply_to_user_id": "1884928172950732800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909890378960163272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chi28322 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884928172950732800",
+        "conversation_id": "1909487813633917082",
+        "created_at": "2025-04-09T08:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T09:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909890378960163272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909890378960163272",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909487813633917082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 你是小粉红么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 5522,
+          "like_count": 1781,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1953
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T11:34:40.000Z",
+        "description": "粉红皇汉滚",
+        "id": "1884928172950732800",
+        "name": "持田真树",
+        "pinned_tweet_id": "1909886146685157768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884928390719057920/DXryy-tC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 87,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 420
+        },
+        "username": "chi28322",
+        "verified": false
+      }
+    ]
+  }
+}

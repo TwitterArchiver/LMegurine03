@@ -1,0 +1,875 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1912303789878505472",
+          "name": "Paris Saint-Germain vs Inter Milano"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226185535881216",
+          "name": "Inter Milan"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "731226207908290561",
+          "name": "International Clubs - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756536875454464",
+          "name": "UEFA Champions League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1912303789878505472",
+          "name": "Paris Saint-Germain vs Inter Milano"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Soccer matches",
+          "id": "43",
+          "name": "Soccer Match"
+        },
+        "entity": {
+          "id": "1912303789878505472",
+          "name": "Paris Saint-Germain vs Inter Milano"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226185535881216",
+          "name": "Inter Milan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536875454464",
+          "name": "UEFA Champions League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1395123196223909892",
+          "name": "UEFA Champions League Final"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756536875454464",
+          "name": "UEFA Champions League"
+        }
+      }
+    ],
+    "conversation_id": "1928918318229954797",
+    "created_at": "2025-05-31T20:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T21:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928918318229954797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Inter/status/1…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Inter/status/1928917153136120244",
+          "start": 28,
+          "url": "https://t.co/WLtcZFZVMY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928918318229954797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928917153136120244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "载入史册！！欧冠决赛历史最大比分，恭喜巴黎圣日耳曼！！ https://t.co/WLtcZFZVMY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1928917081539354624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsTj3aZWIAAWybi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1912303789878505472",
+              "name": "Paris Saint-Germain vs Inter Milano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226185535881216",
+              "name": "Inter Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226207908290561",
+              "name": "International Clubs - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1912303789878505472",
+              "name": "Paris Saint-Germain vs Inter Milano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1912303789878505472",
+              "name": "Paris Saint-Germain vs Inter Milano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226185535881216",
+              "name": "Inter Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395123196223909892",
+              "name": "UEFA Champions League Final"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          }
+        ],
+        "conversation_id": "1928918318229954797",
+        "created_at": "2025-05-31T20:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T21:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928918318229954797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Inter/status/1…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Inter/status/1928917153136120244",
+              "start": 28,
+              "url": "https://t.co/WLtcZFZVMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928918318229954797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928917153136120244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "载入史册！！欧冠决赛历史最大比分，恭喜巴黎圣日耳曼！！ https://t.co/WLtcZFZVMY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928917081539354624"
+          ]
+        },
+        "author_id": "124450567",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1912303789878505472",
+              "name": "Paris Saint-Germain vs Inter Milano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226185535881216",
+              "name": "Inter Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226207908290561",
+              "name": "International Clubs - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1912303789878505472",
+              "name": "Paris Saint-Germain vs Inter Milano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1912303789878505472",
+              "name": "Paris Saint-Germain vs Inter Milano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226185535881216",
+              "name": "Inter Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395123196223909892",
+              "name": "UEFA Champions League Final"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1912303789878505472",
+              "name": "Paris Saint-Germain vs Inter Milano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1912303789878505472",
+              "name": "Paris Saint-Germain vs Inter Milano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1912303789878505472",
+              "name": "Paris Saint-Germain vs Inter Milano"
+            }
+          }
+        ],
+        "conversation_id": "1928917153136120244",
+        "created_at": "2025-05-31T20:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T21:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928917153136120244"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "ForzaInter"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "UCLFinal"
+            },
+            {
+              "end": 49,
+              "start": 38,
+              "tag": "ParisInter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgcojHDxdD",
+              "end": 73,
+              "expanded_url": "https://x.com/Inter/status/1928917153136120244/photo/1",
+              "media_key": "3_1928917081539354624",
+              "start": 50,
+              "url": "https://t.co/zgcojHDxdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928917153136120244",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 87205,
+          "like_count": 1700,
+          "quote_count": 431,
+          "reply_count": 1546,
+          "retweet_count": 373
+        },
+        "reply_settings": "everyone",
+        "text": "Fischio finale\n\n#ForzaInter #UCLFinal #ParisInter https://t.co/zgcojHDxdD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 7501,
+          "like_count": 2884,
+          "listed_count": 3,
+          "media_count": 644,
+          "tweet_count": 2682
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-19T12:47:21.000Z",
+        "description": "Inter ⭐️⭐️ I M FC Internazionale Milano. @Inter_en; @Inter_id; @Inter_jp; @Inter_ar; @Inter_br; @Inter_es; @Inter_Women",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "Inter_en"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Inter_id"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Inter_jp"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "Inter_ar"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "Inter_br"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "Inter_es"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Inter_Women"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/inter",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/inter",
+                "start": 0,
+                "url": "https://t.co/zF3xfQuR0J"
+              }
+            ]
+          }
+        },
+        "id": "124450567",
+        "location": "Milano, Italia",
+        "name": "Inter ⭐⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811035594144825344/EXzgzqG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3065911,
+          "following_count": 90,
+          "like_count": 1539,
+          "listed_count": 6256,
+          "media_count": 36913,
+          "tweet_count": 109723
+        },
+        "url": "https://t.co/zF3xfQuR0J",
+        "username": "Inter",
+        "verified": true
+      }
+    ]
+  }
+}

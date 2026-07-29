@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2069439207366709306",
+    "created_at": "2026-06-23T16:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069463036319174795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900754238570893313",
+          "start": 0,
+          "username": "patchouli608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069463036319174795",
+    "in_reply_to_user_id": "1900754238570893313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069459917216551031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchouli608 嗯，那些确实不行，之前可能是军管的，但就只是一般般的建筑而已了，要是有作用的一般来说都是一些山里的或者港里的设施"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2069439207366709306",
+        "created_at": "2026-06-23T16:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069463036319174795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069463036319174795",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069459917216551031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 嗯，那些确实不行，之前可能是军管的，但就只是一般般的建筑而已了，要是有作用的一般来说都是一些山里的或者港里的设施"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900754238570893313",
+        "conversation_id": "2069439207366709306",
+        "created_at": "2026-06-23T16:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069459917216551031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069459917216551031",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069457892550525320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 你覺得那些破破爛爛的房子圍起來是幹嘛的？難不成可以改造成倉庫和軍營？感覺就算動員起來也很麻煩啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4340,
+          "following_count": 7441,
+          "like_count": 7891,
+          "listed_count": 7,
+          "media_count": 1719,
+          "tweet_count": 6787
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "➡️以虛\n你好，我是大陸北方網友｜ 生活不易推上賣藝｜ 臨川一中初中部名譽畢業生｜松江一中高中部榮譽校友。",
+        "id": "1900754238570893313",
+        "location": "南昌市新建縣望城崗1號｜上海市楊浦區楊樹浦路2866號",
+        "name": "佩觿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066496605013118976/fWu1PwoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 155,
+          "like_count": 32199,
+          "listed_count": 8,
+          "media_count": 1002,
+          "tweet_count": 12617
+        },
+        "url": "",
+        "username": "patchouli608",
+        "verified": true
+      }
+    ]
+  }
+}

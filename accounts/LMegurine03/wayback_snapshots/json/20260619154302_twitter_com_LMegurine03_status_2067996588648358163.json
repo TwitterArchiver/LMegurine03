@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2067948614664757342",
+    "created_at": "2026-06-19T15:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067996588648358163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1020653511871205376",
+          "start": 0,
+          "username": "HikaricoPho"
+        }
+      ],
+      "urls": [
+        {
+          "description": "本测试改编自Rice University发布的纯洁度测试，想在最短的时间内知道自己有多纯洁/多污吗？完成下面的50道二选一选择题，立刻看到最真实的自己！",
+          "display_url": "arealme.com/rice-purity-te…",
+          "end": 40,
+          "expanded_url": "https://www.arealme.com/rice-purity-test/cn/",
+          "start": 17,
+          "status": 200,
+          "title": "史上最污的纯洁度测试",
+          "unwound_url": "https://www.arealme.com/rice-purity-test/cn/",
+          "url": "https://t.co/IfQV1USHcS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067996588648358163",
+    "in_reply_to_user_id": "1020653511871205376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067978100579995892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HikaricoPho 就是这个https://t.co/IfQV1USHcS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2067948614664757342",
+        "created_at": "2026-06-19T15:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067996588648358163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1020653511871205376",
+              "start": 0,
+              "username": "HikaricoPho"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本测试改编自Rice University发布的纯洁度测试，想在最短的时间内知道自己有多纯洁/多污吗？完成下面的50道二选一选择题，立刻看到最真实的自己！",
+              "display_url": "arealme.com/rice-purity-te…",
+              "end": 40,
+              "expanded_url": "https://www.arealme.com/rice-purity-test/cn/",
+              "start": 17,
+              "status": 200,
+              "title": "史上最污的纯洁度测试",
+              "unwound_url": "https://www.arealme.com/rice-purity-test/cn/",
+              "url": "https://t.co/IfQV1USHcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067996588648358163",
+        "in_reply_to_user_id": "1020653511871205376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067978100579995892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HikaricoPho 就是这个https://t.co/IfQV1USHcS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1020653511871205376",
+        "conversation_id": "2067948614664757342",
+        "created_at": "2026-06-19T14:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067978100579995892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067978100579995892",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067948614664757342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 何测试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 7433,
+          "like_count": 7810,
+          "listed_count": 7,
+          "media_count": 1693,
+          "tweet_count": 6748
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-21T12:55:34.000Z",
+        "description": "嫌いな、こんな毎日。\nzh,en,wuu OK,ja basically ok,amateur translator and poet,Japanese learner(JLPT N2,実際はN114514),MDD patient, Icon from:shinukamo_don, Bannerfrom:SCA_DI",
+        "id": "1020653511871205376",
+        "location": "火星",
+        "name": "HikaricoPho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982658373712506880/K28x8j_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 355,
+          "like_count": 23919,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 3664
+        },
+        "url": "",
+        "username": "HikaricoPho",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1941484932527956309",
+    "created_at": "2025-07-05T17:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T18:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941543698631995498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852363899913527296",
+          "start": 0,
+          "username": "PeacemakerM1873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941543698631995498",
+    "in_reply_to_user_id": "1852363899913527296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941484932527956309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PeacemakerM1873 瞰瞰鸟喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1941484932527956309",
+        "created_at": "2025-07-05T17:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T18:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941543698631995498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852363899913527296",
+              "start": 0,
+              "username": "PeacemakerM1873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941543698631995498",
+        "in_reply_to_user_id": "1852363899913527296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941484932527956309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PeacemakerM1873 瞰瞰鸟喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852363899913527296",
+        "conversation_id": "1941484932527956309",
+        "created_at": "2025-07-05T13:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941484932527956309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941484932527956309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸟瞰的时候是不是应该把裤子脱了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2450,
+          "following_count": 7492,
+          "like_count": 3505,
+          "listed_count": 4,
+          "media_count": 761,
+          "tweet_count": 3254
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T14:56:02.000Z",
+        "description": "右派左人，天主教伊斯兰主义者，皇汉支黑，精日倭黑，恨国粉红，资本主义共产党，马列毛托洛茨基主义者，威权哈耶克自由主义者，自由市场计划经济主义者，统一分裂主义者，进步保守主义者，董志民女权主义者，皇满民国派，安那其有政府主义者，改良原教旨主义者，前现代后现代主义者，特雷森监狱网评员，左右脑互搏格斗家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fishing.com",
+                "end": 23,
+                "expanded_url": "http://fishing.com",
+                "start": 0,
+                "url": "https://t.co/BMdMIzGfJR"
+              }
+            ]
+          }
+        },
+        "id": "1852363899913527296",
+        "location": "通往特雷森之路",
+        "name": "狂玩赛马娘的一根华仔",
+        "pinned_tweet_id": "1931574523406790890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931672582392320000/azh30xG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 147,
+          "like_count": 1155,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/BMdMIzGfJR",
+        "username": "PeacemakerM1873",
+        "verified": false
+      }
+    ]
+  }
+}

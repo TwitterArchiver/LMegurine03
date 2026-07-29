@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1990729649614135472",
+    "created_at": "2025-11-18T18:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T19:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990848938031600058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948395176831131648",
+          "start": 0,
+          "username": "zy37613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990848938031600058",
+    "in_reply_to_user_id": "1948395176831131648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990807072552988926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy37613 好哦，谢谢🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1990729649614135472",
+        "created_at": "2025-11-18T18:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990848938031600058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948395176831131648",
+              "start": 0,
+              "username": "zy37613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990848938031600058",
+        "in_reply_to_user_id": "1948395176831131648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990807072552988926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy37613 好哦，谢谢🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948395176831131648",
+        "conversation_id": "1990729649614135472",
+        "created_at": "2025-11-18T15:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990807072552988926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990807072552988926",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990729649614135472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 其实还可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx｜泛性恋｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "realmadrid"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3516,
+          "following_count": 7502,
+          "like_count": 6062,
+          "listed_count": 7,
+          "media_count": 1095,
+          "tweet_count": 4772
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "我要吃抹茶冰淇淋 抹茶蛋糕 抹茶奶茶 总之要来点抹茶吗\n\nfofo我吧(⁠✷⁠‿⁠✷⁠)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.akinator.com/choice",
+                "end": 23,
+                "expanded_url": "https://cn.akinator.com/choice",
+                "start": 0,
+                "url": "https://t.co/p9dlI3tiAX"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "亚洲的某处深山老林中",
+        "name": "偷吃冰淇淋的이이이本人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990144439772397568/yX_ehCCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 88,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/p9dlI3tiAX",
+        "username": "zy37613",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2054260907950432314",
+    "created_at": "2026-05-12T18:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T19:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054260919551861235"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054260919551861235",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054260909846184252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但这却把人们允许自己先观察和思考的机会杀死了，很有可能只是让他们跟着我走了一遍而已，但他们本身没有任何的想法和互动反馈，仅仅是知道了而已，我相信分享的目的绝对不能止步于此，因此如何才能适当的保留开放性，如何在保证可读的前提下不抢先一步的规定一些局限的东西，真的是一个值得考虑的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2054260907950432314",
+        "created_at": "2026-05-12T18:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054260919551861235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054260919551861235",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054260909846184252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但这却把人们允许自己先观察和思考的机会杀死了，很有可能只是让他们跟着我走了一遍而已，但他们本身没有任何的想法和互动反馈，仅仅是知道了而已，我相信分享的目的绝对不能止步于此，因此如何才能适当的保留开放性，如何在保证可读的前提下不抢先一步的规定一些局限的东西，真的是一个值得考虑的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2054260907950432314",
+        "created_at": "2026-05-12T18:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054260909846184252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054260909846184252",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054260907950432314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "观众自然会带着预先的认知和记忆来看这个作品，有的人看了个大概，有的没看懂就掠过了，有的人观察到了各种各样的角度，有了各种各样的想法，尽管想多看几眼的人，不是每次都存在，但是这已经足够了，不用为此非要进一步的去加强文字的密度和堆叠自己的想法，虽然确实有可能有的人会通过这样了解了更多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4090,
+          "following_count": 7115,
+          "like_count": 7234,
+          "listed_count": 7,
+          "media_count": 1569,
+          "tweet_count": 6270
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

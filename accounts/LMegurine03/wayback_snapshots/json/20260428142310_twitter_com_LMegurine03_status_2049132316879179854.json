@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2048443265486409729",
+    "created_at": "2026-04-28T14:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049132316879179854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1661349504069804032",
+          "start": 0,
+          "username": "Zhuo2018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049132316879179854",
+    "in_reply_to_user_id": "1661349504069804032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049061179147088308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhuo2018 没毛病（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2049061173258252288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-6R9sacAAvQxx.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2048443265486409729",
+        "created_at": "2026-04-28T14:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049132316879179854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1661349504069804032",
+              "start": 0,
+              "username": "Zhuo2018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049132316879179854",
+        "in_reply_to_user_id": "1661349504069804032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049061179147088308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhuo2018 没毛病（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049061173258252288"
+          ]
+        },
+        "author_id": "1661349504069804032",
+        "conversation_id": "2048443265486409729",
+        "created_at": "2026-04-28T09:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049061179147088308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7waDqDtxqr",
+              "end": 40,
+              "expanded_url": "https://x.com/Zhuo2018/status/2049061179147088308/photo/1",
+              "media_key": "3_2049061173258252288",
+              "start": 17,
+              "url": "https://t.co/7waDqDtxqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049061179147088308",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048443265486409729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 怎么样 https://t.co/7waDqDtxqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4087,
+          "following_count": 7222,
+          "like_count": 7218,
+          "listed_count": 7,
+          "media_count": 1534,
+          "tweet_count": 6177
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T12:32:54.000Z",
+        "description": "一个不可理喻的普通人 数码爱好者 乐子人 有点精神病 Never Settle\n你好 交个朋友",
+        "id": "1661349504069804032",
+        "location": "游戏热爱者",
+        "name": "Zhuoc 🥝🔪",
+        "pinned_tweet_id": "2039370831432912975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048286608919859201/L97COj9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 489,
+          "like_count": 1013,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 419
+        },
+        "username": "Zhuo2018",
+        "verified": true
+      }
+    ]
+  }
+}

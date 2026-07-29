@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2073777145885925662",
+    "created_at": "2026-07-05T17:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073821066032795662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022208955917979648",
+          "start": 0,
+          "username": "Ak1r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073821066032795662",
+    "in_reply_to_user_id": "2022208955917979648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073777145885925662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1r4i 恭喜(≧∇≦)/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2073777145885925662",
+        "created_at": "2026-07-05T17:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073821066032795662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022208955917979648",
+              "start": 0,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073821066032795662",
+        "in_reply_to_user_id": "2022208955917979648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073777145885925662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1r4i 恭喜(≧∇≦)/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022208955917979648",
+        "conversation_id": "2073777145885925662",
+        "created_at": "2026-07-05T14:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073777145885925662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073777145885925662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 282,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶诶我刚刚才注意到已经超过100fo了呢 那个谢谢宝宝们喜欢我❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4390,
+          "following_count": 7500,
+          "like_count": 8027,
+          "listed_count": 8,
+          "media_count": 1797,
+          "tweet_count": 6950
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T07:19:33.000Z",
+        "description": "這麼大的世界卻無我的立錐之地\nMtf 无证含糖🍥/OD/休学中/毛绒玩具重度依赖/讲不来话的笨蛋。。\n求求互fo喵🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/d4zjW5b8fM"
+              }
+            ]
+          }
+        },
+        "id": "2022208955917979648",
+        "location": "上海",
+        "name": "惺🍥",
+        "pinned_tweet_id": "2072875209833721981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071134075751211008/RPLFxoUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 135,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/d4zjW5b8fM",
+        "username": "Ak1r4i",
+        "verified": false
+      }
+    ]
+  }
+}

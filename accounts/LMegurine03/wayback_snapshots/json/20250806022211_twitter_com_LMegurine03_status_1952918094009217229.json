@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1952908296807137415",
+    "created_at": "2025-08-06T02:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T03:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952918094009217229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547580106507694081",
+          "start": 0,
+          "username": "JamesAdmiralLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952918094009217229",
+    "in_reply_to_user_id": "1547580106507694081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952908627100221535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JamesAdmiralLi 看看时间允不允许吧，有别的事情，时间可能有点紧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1952908296807137415",
+        "created_at": "2025-08-06T02:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952918094009217229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547580106507694081",
+              "start": 0,
+              "username": "JamesAdmiralLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952918094009217229",
+        "in_reply_to_user_id": "1547580106507694081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952908627100221535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamesAdmiralLi 看看时间允不允许吧，有别的事情，时间可能有点紧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547580106507694081",
+        "conversation_id": "1952908296807137415",
+        "created_at": "2025-08-06T01:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952908627100221535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952908627100221535",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952908296807137415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 不如来扬州找我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 7494,
+          "like_count": 4148,
+          "listed_count": 5,
+          "media_count": 824,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T13:53:59.000Z",
+        "description": "学无止境/Keep on learning/勉強しています",
+        "id": "1547580106507694081",
+        "location": "中華民國",
+        "name": "Friedrich Li(学业淡推）",
+        "pinned_tweet_id": "1551861719202336768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602827733980979200/4MQHETkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 91,
+          "like_count": 10117,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1598
+        },
+        "username": "JamesAdmiralLi",
+        "verified": false
+      }
+    ]
+  }
+}

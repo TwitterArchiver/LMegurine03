@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2009182847870095769",
+    "created_at": "2026-01-08T08:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T09:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009182856950763706"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009182856950763706",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009182853234581605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在的日程比较紧凑，并且我平常的情绪波动也要比以前大一些，所以认真的和人聊聊天的时间和精力真的少太多了，如果还继续像这样的话，可能就比较麻烦，比如说我只有十几分钟空闲，然后认真的去回一条私信，很有就是到最后还是什么也没有说出来，倒也不能说是白干了，因为也确实投入去想应该怎么回了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2009182847870095769",
+        "created_at": "2026-01-08T08:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009182856950763706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009182856950763706",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009182853234581605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在的日程比较紧凑，并且我平常的情绪波动也要比以前大一些，所以认真的和人聊聊天的时间和精力真的少太多了，如果还继续像这样的话，可能就比较麻烦，比如说我只有十几分钟空闲，然后认真的去回一条私信，很有就是到最后还是什么也没有说出来，倒也不能说是白干了，因为也确实投入去想应该怎么回了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2009182847870095769",
+        "created_at": "2026-01-08T08:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009182853234581605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009182853234581605",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009182849560400206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前一直坚持的原则就是每天如果有时间的话先回私信，然后再发帖，这是因为我觉得如果没回完别人消息就发帖的话，如果被看到的话，容易让人误会是我不想搭理他们或者是敷衍，不是特别好，原来一直是这样子，也可能是因为时间确实很充足，就没觉得有什么不妥当的地方，但是现在看的话情况就完全不同了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181cm/55kg｜泛性恋｜INTP｜坐标大连｜日本語の勉強中｜随机掉落日常｜欢迎私信｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 7495,
+          "like_count": 6330,
+          "listed_count": 7,
+          "media_count": 1190,
+          "tweet_count": 5137
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

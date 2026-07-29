@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1909846536756117964",
+    "created_at": "2025-04-09T06:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T07:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909860695124197429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847901231920140294",
+          "start": 0,
+          "username": "Atorvastatin030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909860695124197429",
+    "in_reply_to_user_id": "1847901231920140294",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909846536756117964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Atorvastatin030 想批斗你🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1909846536756117964].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1909846536756117964",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1909846536756117964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1909846536756117964",
+        "created_at": "2025-04-09T06:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T07:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909860695124197429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847901231920140294",
+              "start": 0,
+              "username": "Atorvastatin030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909860695124197429",
+        "in_reply_to_user_id": "1847901231920140294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909846536756117964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Atorvastatin030 想批斗你🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 5514,
+          "like_count": 1778,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:22:53.000Z",
+        "description": "最高学历是胎教 政治启蒙是《母猪的产后护理》意识形态是欧码吉利曼波 赛马娘忠实的拥护者 亚眠街道办事处主任 瓦伦丁哈喽王  库滕堡搬运工 特雷森监狱网评员 曼波人间体 傻逼二次元 炒作狗 魔怔人 特雷森一根华仔民主党党魁 极民冷感 傻了吧唧研究中心院长兼头号研究对象  二号机@demo53420 星怒@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 138,
+                "username": "demo53420"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "elonmusk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnmmusknmsl.com",
+                "end": 23,
+                "expanded_url": "http://www.cnmmusknmsl.com",
+                "start": 0,
+                "url": "https://t.co/vITiEfZpew"
+              }
+            ]
+          }
+        },
+        "id": "1847901231920140294",
+        "location": "傻了吧唧研究中心",
+        "name": "欧玛•基里曼•波👊🏻😹🔥",
+        "pinned_tweet_id": "1868148551097909408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907823746544812032/CepgLmXo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 594,
+          "like_count": 49522,
+          "listed_count": 5,
+          "media_count": 1156,
+          "tweet_count": 9448
+        },
+        "url": "https://t.co/vITiEfZpew",
+        "username": "Atorvastatin030",
+        "verified": false
+      }
+    ]
+  }
+}

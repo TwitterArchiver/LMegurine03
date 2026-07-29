@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1952061803078602834",
+    "created_at": "2025-08-04T02:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T03:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952198082491281527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771507250080948224",
+          "start": 0,
+          "username": "ninaRich1991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952198082491281527",
+    "in_reply_to_user_id": "1771507250080948224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952061803078602834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ninaRich1991 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_1952061799895109632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxcd3VJbkAADYvb.jpg",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1952061803078602834",
+        "created_at": "2025-08-04T02:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T03:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952198082491281527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771507250080948224",
+              "start": 0,
+              "username": "ninaRich1991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952198082491281527",
+        "in_reply_to_user_id": "1771507250080948224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952061803078602834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninaRich1991 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952061799895109632"
+          ]
+        },
+        "author_id": "1771507250080948224",
+        "conversation_id": "1952061803078602834",
+        "created_at": "2025-08-03T17:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T18:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952061803078602834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKQD8MDacV",
+              "end": 71,
+              "expanded_url": "https://x.com/ninaRich1991/status/1952061803078602834/photo/1",
+              "media_key": "3_1952061799895109632",
+              "start": 48,
+              "url": "https://t.co/WKQD8MDacV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952061803078602834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 669,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安安(˘ω˘)✩\n這個推特真的是太壞了😭\n我一個朋友都沒有！沒人給我點贊！粉絲也只有三百😭！ https://t.co/WKQD8MDacV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 7485,
+          "like_count": 4058,
+          "listed_count": 5,
+          "media_count": 804,
+          "tweet_count": 3563
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T12:00:25.000Z",
+        "description": "僕は世界を理解することに情熱を燃やし、健全な人格を持ち、自由意志を追求する人間だ🇺🇦🇹🇼フォロバは基本100%/#ウマ娘/#ガンダム/#ZARD/#MyGo/#トゲナシトゲアリ/日本のポップ/ロック/友好LGBTQor意識形態/不反共/無言フォロー失礼します🙇/🎸エレキギターを練習中です",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 56,
+                "tag": "ウマ娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "ガンダム"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "ZARD"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "MyGo"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          }
+        },
+        "id": "1771507250080948224",
+        "location": "トレセン学園",
+        "name": "🎤我即井芹仁菜🐴🎸",
+        "pinned_tweet_id": "1832280227806113946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938564722674356224/9jVZhfzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3258,
+          "following_count": 3117,
+          "like_count": 67668,
+          "listed_count": 26,
+          "media_count": 3661,
+          "tweet_count": 34570
+        },
+        "username": "ninaRich1991",
+        "verified": false
+      }
+    ]
+  }
+}

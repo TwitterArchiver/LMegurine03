@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1912077772328927494",
+    "created_at": "2025-04-15T10:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T11:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912086496850456726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1900483274339909632",
+          "start": 0,
+          "username": "kknoluvismine3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912086496850456726",
+    "in_reply_to_user_id": "1900483274339909632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912077772328927494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kknoluvismine3 你们商量"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1912077772328927494].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1912077772328927494",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1912077772328927494"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1912077772328927494",
+        "created_at": "2025-04-15T10:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T11:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912086496850456726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1900483274339909632",
+              "start": 0,
+              "username": "kknoluvismine3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912086496850456726",
+        "in_reply_to_user_id": "1900483274339909632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912077772328927494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kknoluvismine3 你们商量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 5778,
+          "like_count": 1877,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 2044
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T09:45:37.000Z",
+        "description": "哪里有压迫，哪里就有反抗！                                                               战斗形态：@kknoluvismine4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "kknoluvismine4"
+              }
+            ]
+          }
+        },
+        "id": "1900483274339909632",
+        "location": "列宁格勒",
+        "name": "爱逃避的大锦鲤（耄派不哈气）",
+        "pinned_tweet_id": "1911265900747231497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909055139354423296/i7CQrXdS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 303,
+          "like_count": 2370,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2126
+        },
+        "username": "kknoluvismine3",
+        "verified": false
+      }
+    ]
+  }
+}

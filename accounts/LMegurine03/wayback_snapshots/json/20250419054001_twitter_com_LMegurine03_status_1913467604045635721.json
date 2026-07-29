@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1913467604045635721",
+    "created_at": "2025-04-19T05:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T06:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913467604045635721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kluli265460/st…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/kluli265460/status/1912482126756475051",
+          "start": 52,
+          "url": "https://t.co/Vw6USnjoTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913467604045635721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912482126756475051",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Luka这个名字其实可以叫Lukita，西班牙语有一个后缀就是“ita”，可以表示小或者可爱的意思（） https://t.co/Vw6USnjoTy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1913467604045635721",
+        "created_at": "2025-04-19T05:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T06:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913467604045635721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kluli265460/st…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/kluli265460/status/1912482126756475051",
+              "start": 52,
+              "url": "https://t.co/Vw6USnjoTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913467604045635721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912482126756475051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Luka这个名字其实可以叫Lukita，西班牙语有一个后缀就是“ita”，可以表示小或者可爱的意思（） https://t.co/Vw6USnjoTy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851534705927340033",
+        "conversation_id": "1912482126756475051",
+        "created_at": "2025-04-16T12:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912482126756475051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912482126756475051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 337690,
+          "like_count": 803,
+          "quote_count": 38,
+          "reply_count": 356,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我真觉得称呼别人的时候前面加个“小”字特别萌特别可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 6039,
+          "like_count": 2009,
+          "listed_count": 3,
+          "media_count": 502,
+          "tweet_count": 2095
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T08:01:04.000Z",
+        "description": "一起奔向幸福吧！｜小号@EnenXkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "EnenXkk"
+              }
+            ]
+          }
+        },
+        "id": "1851534705927340033",
+        "location": "🚪188纯绿",
+        "name": "小可恩恩",
+        "pinned_tweet_id": "1892809255507681366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908102794609135616/IRR3zRp5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6118,
+          "following_count": 224,
+          "like_count": 22779,
+          "listed_count": 12,
+          "media_count": 134,
+          "tweet_count": 8387
+        },
+        "username": "kluli265460",
+        "verified": false
+      }
+    ]
+  }
+}

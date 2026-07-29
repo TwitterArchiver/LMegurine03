@@ -1,0 +1,825 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733773960949600257",
+          "name": "Fabian Ruiz"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1218329931664347136",
+          "name": "Vitinha"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226166627966976",
+          "name": "Paris Saint-Germain"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733773960949600257",
+          "name": "Fabian Ruiz"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1218329931664347136",
+          "name": "Vitinha"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226166627966976",
+          "name": "Paris Saint-Germain"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733773960949600257",
+          "name": "Fabian Ruiz"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1218329931664347136",
+          "name": "Vitinha"
+        }
+      }
+    ],
+    "conversation_id": "1934363750985064687",
+    "created_at": "2025-06-15T21:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T22:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934363750985064687"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 80,
+          "normalized_text": "Fabián Ruiz",
+          "probability": 0.883,
+          "start": 70,
+          "type": "Person"
+        },
+        {
+          "end": 90,
+          "normalized_text": "Vitinha",
+          "probability": 0.5785,
+          "start": 84,
+          "type": "Person"
+        },
+        {
+          "end": 99,
+          "normalized_text": "Mayulu",
+          "probability": 0.6703,
+          "start": 94,
+          "type": "Person"
+        },
+        {
+          "end": 110,
+          "normalized_text": "Lee Kang",
+          "probability": 0.8049,
+          "start": 103,
+          "type": "Person"
+        },
+        {
+          "end": 123,
+          "normalized_text": "FIFACWC",
+          "probability": 0.7976,
+          "start": 117,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 116,
+          "tag": "FIFACWC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2182274466",
+          "start": 3,
+          "username": "PSGbrasil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/F",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934363750985064687",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934356800154767361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PSGbrasil: 🔚 Fim de jogo! Goleada em nossa estreia mundial! 🔴🔵\n\n⚽ Fabián Ruiz\n⚽ Vitinha\n⚽ Mayulu\n⚽ Lee Kang-In\n\n#FIFACWC https://t.co/F…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1934356752331419649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtg3N7OXsAEynWY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733773960949600257",
+              "name": "Fabian Ruiz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1218329931664347136",
+              "name": "Vitinha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733773960949600257",
+              "name": "Fabian Ruiz"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1218329931664347136",
+              "name": "Vitinha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733773960949600257",
+              "name": "Fabian Ruiz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1218329931664347136",
+              "name": "Vitinha"
+            }
+          }
+        ],
+        "conversation_id": "1934363750985064687",
+        "created_at": "2025-06-15T21:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T22:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934363750985064687"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 80,
+              "normalized_text": "Fabián Ruiz",
+              "probability": 0.883,
+              "start": 70,
+              "type": "Person"
+            },
+            {
+              "end": 90,
+              "normalized_text": "Vitinha",
+              "probability": 0.5785,
+              "start": 84,
+              "type": "Person"
+            },
+            {
+              "end": 99,
+              "normalized_text": "Mayulu",
+              "probability": 0.6703,
+              "start": 94,
+              "type": "Person"
+            },
+            {
+              "end": 110,
+              "normalized_text": "Lee Kang",
+              "probability": 0.8049,
+              "start": 103,
+              "type": "Person"
+            },
+            {
+              "end": 123,
+              "normalized_text": "FIFACWC",
+              "probability": 0.7976,
+              "start": 117,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 116,
+              "tag": "FIFACWC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2182274466",
+              "start": 3,
+              "username": "PSGbrasil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/F",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934363750985064687",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934356800154767361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PSGbrasil: 🔚 Fim de jogo! Goleada em nossa estreia mundial! 🔴🔵\n\n⚽ Fabián Ruiz\n⚽ Vitinha\n⚽ Mayulu\n⚽ Lee Kang-In\n\n#FIFACWC https://t.co/F…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934356752331419649"
+          ]
+        },
+        "author_id": "2182274466",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733773960949600257",
+              "name": "Fabian Ruiz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1218329931664347136",
+              "name": "Vitinha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733773960949600257",
+              "name": "Fabian Ruiz"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1218329931664347136",
+              "name": "Vitinha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733773960949600257",
+              "name": "Fabian Ruiz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1218329931664347136",
+              "name": "Vitinha"
+            }
+          }
+        ],
+        "conversation_id": "1934356800154767361",
+        "created_at": "2025-06-15T21:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T22:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934356800154767361"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Fabián Ruiz",
+              "probability": 0.8761,
+              "start": 55,
+              "type": "Person"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Vitinha",
+              "probability": 0.5593,
+              "start": 69,
+              "type": "Person"
+            },
+            {
+              "end": 84,
+              "normalized_text": "Mayulu",
+              "probability": 0.6873,
+              "start": 79,
+              "type": "Person"
+            },
+            {
+              "end": 95,
+              "normalized_text": "Lee Kang",
+              "probability": 0.8009,
+              "start": 88,
+              "type": "Person"
+            },
+            {
+              "end": 108,
+              "normalized_text": "FIFACWC",
+              "probability": 0.7174,
+              "start": 102,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 101,
+              "tag": "FIFACWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrNeE1tECU",
+              "end": 133,
+              "expanded_url": "https://x.com/PSGbrasil/status/1934356800154767361/photo/1",
+              "media_key": "3_1934356752331419649",
+              "start": 110,
+              "url": "https://t.co/FrNeE1tECU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934356800154767361",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1772,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "🔚 Fim de jogo! Goleada em nossa estreia mundial! 🔴🔵\n\n⚽ Fabián Ruiz\n⚽ Vitinha\n⚽ Mayulu\n⚽ Lee Kang-In\n\n#FIFACWC https://t.co/FrNeE1tECU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 7466,
+          "like_count": 3188,
+          "listed_count": 6,
+          "media_count": 702,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-08T14:08:04.000Z",
+        "description": "🇫🇷@PSG_Inside🇬🇧🇺🇸@PSG_English🇪🇸🇺🇾🇦🇷🇪🇨@PSG_Espanol🇶🇦@PSG_Arab🇮🇩@PSGIndonesia🇯🇵@PSGJapan🇰🇷@PSG_KR👱‍♀@PSG_Feminines🥋@PSG_Judo🤾@PSGHand",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "PSG_Inside"
+              },
+              {
+                "end": 29,
+                "start": 17,
+                "username": "PSG_English"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "PSG_Espanol"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "PSG_Arab"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "PSGIndonesia"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "PSGJapan"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "username": "PSG_KR"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "PSG_Feminines"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "PSG_Judo"
+              },
+              {
+                "end": 131,
+                "start": 123,
+                "username": "PSGHand"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanzone.me/psg",
+                "end": 23,
+                "expanded_url": "https://fanzone.me/psg",
+                "start": 0,
+                "url": "https://t.co/Oj2IpNE3tG"
+              }
+            ]
+          }
+        },
+        "id": "2182274466",
+        "location": "Parc des Princes, Paris",
+        "name": "Paris Saint-Germain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809198690990735360/lXxD0ahb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626857,
+          "following_count": 119,
+          "like_count": 3315,
+          "listed_count": 332,
+          "media_count": 22924,
+          "tweet_count": 38698
+        },
+        "url": "https://t.co/Oj2IpNE3tG",
+        "username": "PSGbrasil",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1952048524411212119",
+    "created_at": "2025-08-04T01:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T02:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952173679061983688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "sxshuishuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952173679061983688",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952048524411212119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxshuishuimao 657"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1952048524411212119",
+        "created_at": "2025-08-04T01:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T02:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952173679061983688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "sxshuishuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952173679061983688",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952048524411212119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxshuishuimao 657"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1952048524411212119",
+        "created_at": "2025-08-03T16:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T17:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952048524411212119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sanitf1/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/sanitf1/status/1951961608231563741",
+              "start": 17,
+              "url": "https://t.co/A4FBGzTlkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952048524411212119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951961608231563741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们关注的人中有多少关注了我🤔？ https://t.co/A4FBGzTlkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 7499,
+          "like_count": 4056,
+          "listed_count": 5,
+          "media_count": 804,
+          "tweet_count": 3561
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜互fo｜INFP-t｜ HRT咨詢｜不吃肉不是素食主義者喵｜灌注水貓謝謝喵｜拼圖積木代拼｜最愛14歲｜是豪貓不o不圓不割不死｜对象@mengqing5735｜偷情对象@saonanaa｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "mengqing5735"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "pinned_tweet_id": "1951613063020630252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951964320759529472/uz8MXAWB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 1021,
+          "like_count": 191,
+          "listed_count": 5,
+          "media_count": 1506,
+          "tweet_count": 8356
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

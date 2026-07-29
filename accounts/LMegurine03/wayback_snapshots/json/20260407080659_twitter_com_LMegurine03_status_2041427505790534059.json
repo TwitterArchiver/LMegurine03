@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2041385157660475758",
+    "created_at": "2026-04-07T08:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041427505790534059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1698603963720044544",
+          "start": 0,
+          "username": "wngji6789319544"
+        },
+        {
+          "end": 26,
+          "id": "2024812886699474944",
+          "start": 17,
+          "username": "Chasjjxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041427505790534059",
+    "in_reply_to_user_id": "1698603963720044544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041385157660475758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngji6789319544 @Chasjjxw 我一般就是固定的几个人能陪我玩会，要是他们也被别人叫走了就真的没有人找我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041385154254655488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFR0-2ka0AAcxje.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2041385157660475758",
+        "created_at": "2026-04-07T08:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041427505790534059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1698603963720044544",
+              "start": 0,
+              "username": "wngji6789319544"
+            },
+            {
+              "end": 26,
+              "id": "2024812886699474944",
+              "start": 17,
+              "username": "Chasjjxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041427505790534059",
+        "in_reply_to_user_id": "1698603963720044544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041385157660475758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngji6789319544 @Chasjjxw 我一般就是固定的几个人能陪我玩会，要是他们也被别人叫走了就真的没有人找我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041385154254655488"
+          ]
+        },
+        "author_id": "1698603963720044544",
+        "conversation_id": "2041385157660475758",
+        "created_at": "2026-04-07T05:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041385157660475758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/58E5RtlmSA",
+              "end": 34,
+              "expanded_url": "https://x.com/wngji6789319544/status/2041385157660475758/photo/1",
+              "media_key": "3_2041385154254655488",
+              "start": 11,
+              "url": "https://t.co/58E5RtlmSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041385157660475758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4300,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🙈要不要这么真实…… https://t.co/58E5RtlmSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 7133,
+          "like_count": 7044,
+          "listed_count": 7,
+          "media_count": 1451,
+          "tweet_count": 5988
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T07:49:02.000Z",
+        "description": "碎碎念的地方\n松江小学城男大\n等待能创造美好回忆的那一天。\n愿大家都幸福善良。",
+        "id": "1698603963720044544",
+        "location": "松江小学城",
+        "name": "iii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033100837472579585/PcPsxpqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 378,
+          "like_count": 5688,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 1881
+        },
+        "username": "wngji6789319544",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T11:47:00.000Z",
+        "description": "是个吃货啊www//私信开放，欢迎聊天//不对线、不评价、不讨论争议话题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/autumeeb5y1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/autumeeb5y1",
+                "start": 0,
+                "url": "https://t.co/KBWVqi2cAR"
+              }
+            ]
+          }
+        },
+        "id": "2024812886699474944",
+        "location": "北京",
+        "name": "Josh单身版",
+        "pinned_tweet_id": "2037731442810356004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027731164430274563/HsbTsoRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 355,
+          "like_count": 2681,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/KBWVqi2cAR",
+        "username": "Chasjjxw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1938574334031016258",
+    "created_at": "2025-06-27T14:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T15:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938603475010724068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691385929968062464",
+          "start": 0,
+          "username": "zhou1919456789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938603475010724068",
+    "in_reply_to_user_id": "1691385929968062464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938574334031016258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhou1919456789 马斯克"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1698,
+        "media_key": "3_1938574330671357952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuczFS5bYAAE9LY.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938574334031016258",
+        "created_at": "2025-06-27T14:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938603475010724068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691385929968062464",
+              "start": 0,
+              "username": "zhou1919456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938603475010724068",
+        "in_reply_to_user_id": "1691385929968062464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938574334031016258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhou1919456789 马斯克"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938574330671357952"
+          ]
+        },
+        "author_id": "1691385929968062464",
+        "conversation_id": "1938574334031016258",
+        "created_at": "2025-06-27T12:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938574334031016258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l84aGJtdQB",
+              "end": 27,
+              "expanded_url": "https://x.com/zhou1919456789/status/1938574334031016258/photo/1",
+              "media_key": "3_1938574330671357952",
+              "start": 4,
+              "url": "https://t.co/l84aGJtdQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938574334031016258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8522,
+          "like_count": 60,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你救谁 https://t.co/l84aGJtdQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 7466,
+          "like_count": 3386,
+          "listed_count": 4,
+          "media_count": 744,
+          "tweet_count": 3049
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "you can call me in your favour way/高中学生/欢迎互fo/是明日美/",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1910877694759494047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 854,
+          "like_count": 1258,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 579
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

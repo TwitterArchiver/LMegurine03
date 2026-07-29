@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2048296434181795867",
+    "created_at": "2026-04-26T15:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048420095186362443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048420095186362443",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048296434181795867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 能或者不能吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2048296434181795867",
+        "created_at": "2026-04-26T15:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048420095186362443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048420095186362443",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048296434181795867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 能或者不能吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2048296434181795867",
+        "created_at": "2026-04-26T07:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048296434181795867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048296434181795867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 693,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫卷能干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4085,
+          "following_count": 7172,
+          "like_count": 7170,
+          "listed_count": 7,
+          "media_count": 1514,
+          "tweet_count": 6116
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "需要🇯🇵🍬🍥请私信/下方tg\n.\n@hobartr6 猫猫@_furryfur_ 笨蛋肥鸟姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "hobartr6"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🇲🇾🇸🇬",
+        "name": "猫卷今天中saman了吗",
+        "pinned_tweet_id": "2046660969900982719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045874162829516800/Foua9chJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3777,
+          "following_count": 811,
+          "like_count": 3678,
+          "listed_count": 7,
+          "media_count": 110,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

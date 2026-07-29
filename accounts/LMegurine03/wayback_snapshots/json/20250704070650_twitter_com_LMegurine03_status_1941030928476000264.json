@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1940821087136502051",
+    "created_at": "2025-07-04T07:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T08:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941030928476000264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1871177296763314176",
+          "start": 0,
+          "username": "Allknowbody2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941030928476000264",
+    "in_reply_to_user_id": "1871177296763314176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941009809672896820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allknowbody2 当然是算了，抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1940821087136502051",
+        "created_at": "2025-07-04T07:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941030928476000264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1871177296763314176",
+              "start": 0,
+              "username": "Allknowbody2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941030928476000264",
+        "in_reply_to_user_id": "1871177296763314176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941009809672896820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allknowbody2 当然是算了，抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871177296763314176",
+        "conversation_id": "1940821087136502051",
+        "created_at": "2025-07-04T05:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T06:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941009809672896820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941009809672896820",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940821087136502051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 被打骂算不算"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 7456,
+          "like_count": 3474,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 3201
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T12:53:32.000Z",
+        "description": "大号@allknowbody 因为忘记密码不用了，转进这个号，b人是因为你该b，火影忍者手游超影3000分，没人比我更懂木柜子👆🏻朴正熙吧黄牌🐞友，泛右友好，私信互粉小号@hvyjbhjj78253 亲友墙：@whoosh_catej\n@Arishia_404 @Youkino25 @X_user_17900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "allknowbody"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "hvyjbhjj78253"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "whoosh_catej"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Arishia_404"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Youkino25"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "X_user_17900"
+              }
+            ]
+          }
+        },
+        "id": "1871177296763314176",
+        "location": "门槛 50",
+        "name": "喜欢百合的星乃一歌（私信互粉）",
+        "pinned_tweet_id": "1880093417642021216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940048461035876352/CPkFFcVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 571,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 4149,
+          "tweet_count": 10298
+        },
+        "username": "Allknowbody2",
+        "verified": false
+      }
+    ]
+  }
+}

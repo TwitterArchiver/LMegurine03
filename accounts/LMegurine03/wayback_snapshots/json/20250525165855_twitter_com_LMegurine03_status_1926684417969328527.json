@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1925956675900514592",
+    "created_at": "2025-05-25T16:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T17:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926684417969328527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666402694494560256",
+          "start": 0,
+          "username": "Kafu_Chiino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926684417969328527",
+    "in_reply_to_user_id": "1666402694494560256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926682161861533748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kafu_Chiino 哦，原来你是这样理解的，感觉和我出入好大，我认为多元不像是从好分化出的，更像是一种除害化，平常化，就像主流认为好的事情也不见得那样好，认为差的也不见得那么差，都各有各的原因，这样的话互相交融的成本就低的，当然确实也有点不严谨吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1925956675900514592",
+        "created_at": "2025-05-25T16:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926684417969328527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666402694494560256",
+              "start": 0,
+              "username": "Kafu_Chiino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926684417969328527",
+        "in_reply_to_user_id": "1666402694494560256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926682161861533748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kafu_Chiino 哦，原来你是这样理解的，感觉和我出入好大，我认为多元不像是从好分化出的，更像是一种除害化，平常化，就像主流认为好的事情也不见得那样好，认为差的也不见得那么差，都各有各的原因，这样的话互相交融的成本就低的，当然确实也有点不严谨吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666402694494560256",
+        "conversation_id": "1925956675900514592",
+        "created_at": "2025-05-25T16:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926682161861533748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926682161861533748",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926659230636900640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 能量就混乱度可以衡量，多元就是在“好”上分化出的。感觉你的思维挺模糊的，不需要多元。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 7501,
+          "like_count": 2606,
+          "listed_count": 3,
+          "media_count": 635,
+          "tweet_count": 2602
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T11:13:17.000Z",
+        "description": "",
+        "id": "1666402694494560256",
+        "name": "CHINO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666402947209793537/jb9jjts2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 116,
+          "like_count": 3219,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 148
+        },
+        "username": "Kafu_Chiino",
+        "verified": false
+      }
+    ]
+  }
+}

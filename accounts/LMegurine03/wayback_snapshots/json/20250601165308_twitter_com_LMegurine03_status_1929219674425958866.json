@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1913610786238501278",
+    "created_at": "2025-06-01T16:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T17:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929219674425958866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1887398170956865536",
+          "start": 0,
+          "username": "SovietShiroko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929219674425958866",
+    "in_reply_to_user_id": "1887398170956865536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913610786238501278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SovietShiroko 爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1913610786238501278",
+        "created_at": "2025-06-01T16:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929219674425958866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1887398170956865536",
+              "start": 0,
+              "username": "SovietShiroko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929219674425958866",
+        "in_reply_to_user_id": "1887398170956865536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913610786238501278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SovietShiroko 爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887398170956865536",
+        "conversation_id": "1913610786238501278",
+        "created_at": "2025-04-19T15:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T16:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913610786238501278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913610786238501278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15183,
+          "like_count": 19,
+          "quote_count": 21,
+          "reply_count": 65,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你问我共产党为什么独裁？那我问你，当你有一个国家有两个乃至多个党派吵架的时候议会一片混乱，前一个党派定下的计划换届选举又被废了老百姓会是什么想法，你们天天总说：“共产主义是法西斯，我们要自由，我们要民主！”然后又特么在那里搞白色恐怖？回答我，你们这群殖子们回答我，looking in my eyes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 7500,
+          "like_count": 2923,
+          "listed_count": 3,
+          "media_count": 645,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T07:09:34.000Z",
+        "description": "初三学生，一个蔚蓝档案和kards玩家，精苏一个，本人热爱中华人民共和国，中国共产党，中国人民解放军，当然，遇见极端支黑和抹黑中国的不要怪我变成极端粉红，一般都会互fo，政治立场不同的可以好好说话就好好说话，如果骂我别怪我问候你全家！",
+        "id": "1887398170956865536",
+        "location": "Москва СССР",
+        "name": "狂学地理的砂狼白子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903352235872149504/af2vOnDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 208,
+          "like_count": 64,
+          "listed_count": 3,
+          "media_count": 537,
+          "tweet_count": 1253
+        },
+        "username": "SovietShiroko",
+        "verified": false
+      }
+    ]
+  }
+}

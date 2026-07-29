@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1909825759830823319",
+    "created_at": "2025-04-09T05:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T06:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909835939322773643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844410398407323648",
+          "start": 0,
+          "username": "dsfof1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909835939322773643",
+    "in_reply_to_user_id": "1844410398407323648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909825759830823319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsfof1989 河南人祖先是非洲人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1441,
+        "media_key": "3_1909825740067295232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoEQZFOb0AAHBbx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1909825759830823319",
+        "created_at": "2025-04-09T05:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T06:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909835939322773643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844410398407323648",
+              "start": 0,
+              "username": "dsfof1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909835939322773643",
+        "in_reply_to_user_id": "1844410398407323648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909825759830823319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsfof1989 河南人祖先是非洲人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909825740067295232"
+          ]
+        },
+        "author_id": "1844410398407323648",
+        "conversation_id": "1909825759830823319",
+        "created_at": "2025-04-09T04:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T05:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909825759830823319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ateXjdJ0Jy",
+              "end": 28,
+              "expanded_url": "https://x.com/dsfof1989/status/1909825759830823319/photo/1",
+              "media_key": "3_1909825740067295232",
+              "start": 5,
+              "url": "https://t.co/ateXjdJ0Jy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909825759830823319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是真的吗 https://t.co/ateXjdJ0Jy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 5511,
+          "like_count": 1776,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T16:11:30.000Z",
+        "description": "大号 @dsfin1989被封，现推友找回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "dsfin1989"
+              }
+            ]
+          }
+        },
+        "id": "1844410398407323648",
+        "location": "奶龙的爱巢",
+        "name": "哈基米归来，看叮咚鸡大狗叫，核酸时代即将到来",
+        "pinned_tweet_id": "1904540486553276660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906977030962622465/RWXy6qAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 490,
+          "like_count": 1240,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 458
+        },
+        "username": "dsfof1989",
+        "verified": false
+      }
+    ]
+  }
+}

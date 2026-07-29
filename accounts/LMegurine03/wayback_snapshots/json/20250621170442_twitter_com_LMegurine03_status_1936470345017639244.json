@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1936468509502193664"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1936470345017639244",
+    "created_at": "2025-06-21T17:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T18:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936470345017639244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3uBzWW3y4U",
+          "end": 48,
+          "expanded_url": "https://x.com/LMegurine03/status/1936470345017639244/video/1",
+          "media_key": "7_1936468509502193664",
+          "start": 25,
+          "url": "https://t.co/3uBzWW3y4U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936470345017639244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点球大战北京国安获胜（手机没电了没录更多的东西） https://t.co/3uBzWW3y4U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 112554,
+        "height": 720,
+        "media_key": "7_1936468509502193664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1936468509502193664/pu/img/8yUf4t_01CV3wgQT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936468509502193664/pu/vid/avc1/480x270/M9P1TImpLfQNJAvR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936468509502193664/pu/vid/avc1/640x360/62_OWbDEWtNBten4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936468509502193664/pu/vid/avc1/1280x720/G8itF_zMW_E17mkf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1936468509502193664/pu/pl/zcMbxD-xPkoPooDE.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936468509502193664"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1936470345017639244",
+        "created_at": "2025-06-21T17:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T18:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936470345017639244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3uBzWW3y4U",
+              "end": 48,
+              "expanded_url": "https://x.com/LMegurine03/status/1936470345017639244/video/1",
+              "media_key": "7_1936468509502193664",
+              "start": 25,
+              "url": "https://t.co/3uBzWW3y4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936470345017639244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点球大战北京国安获胜（手机没电了没录更多的东西） https://t.co/3uBzWW3y4U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 7447,
+          "like_count": 3240,
+          "listed_count": 4,
+          "media_count": 724,
+          "tweet_count": 2960
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1382075171171749891",
+          "name": "Yoasobi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1382075171171749891",
+          "name": "Yoasobi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Drink Novelty",
+          "id": "867371273248047104",
+          "name": "Drink Novelty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Bars and nightlife",
+          "id": "847861743699099649",
+          "name": "Nightlife"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bars and nightlife",
+          "id": "847861743699099649",
+          "name": "Nightlife"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1382075171171749891",
+          "name": "Yoasobi"
+        }
+      }
+    ],
+    "conversation_id": "2057498356642132413",
+    "created_at": "2026-05-21T16:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057498356642132413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2057496435508342866",
+          "start": 146,
+          "url": "https://t.co/8LXx6F4ydf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057498356642132413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057496435508342866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除了料理店之外，还能看到的词有スナック，源自英文的snack bar，最开始意思就是提供酒水零食的小店，后来则逐渐特指区别于夜店的小规模社交酒吧，然后还有一个就是写成YOASOBI的，在日语当中是夜遊び，是夜晚娱乐的意思，因此当年夜晚的时候这里是一个非常繁荣的消费场所……也是时代的眼泪了（ https://t.co/8LXx6F4ydf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_2057496421755158529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2yGDFagAE_BXQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1318,
+        "media_key": "3_2057496421893570561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2yGDmagAEYE-8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drink Novelty",
+              "id": "867371273248047104",
+              "name": "Drink Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Bars and nightlife",
+              "id": "847861743699099649",
+              "name": "Nightlife"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bars and nightlife",
+              "id": "847861743699099649",
+              "name": "Nightlife"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382075171171749891",
+              "name": "Yoasobi"
+            }
+          }
+        ],
+        "conversation_id": "2057498356642132413",
+        "created_at": "2026-05-21T16:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057498356642132413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2057496435508342866",
+              "start": 146,
+              "url": "https://t.co/8LXx6F4ydf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057498356642132413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057496435508342866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了料理店之外，还能看到的词有スナック，源自英文的snack bar，最开始意思就是提供酒水零食的小店，后来则逐渐特指区别于夜店的小规模社交酒吧，然后还有一个就是写成YOASOBI的，在日语当中是夜遊び，是夜晚娱乐的意思，因此当年夜晚的时候这里是一个非常繁荣的消费场所……也是时代的眼泪了（ https://t.co/8LXx6F4ydf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057496421755158529",
+            "3_2057496421893570561"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2057496435508342866",
+        "created_at": "2026-05-21T16:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057496435508342866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4pg0ZCsIB",
+              "end": 115,
+              "expanded_url": "https://x.com/LMegurine03/status/2057496435508342866/photo/1",
+              "media_key": "3_2057496421755158529",
+              "start": 92,
+              "url": "https://t.co/K4pg0ZCsIB"
+            },
+            {
+              "display_url": "pic.x.com/K4pg0ZCsIB",
+              "end": 115,
+              "expanded_url": "https://x.com/LMegurine03/status/2057496435508342866/photo/1",
+              "media_key": "3_2057496421893570561",
+              "start": 92,
+              "url": "https://t.co/K4pg0ZCsIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057496435508342866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "走到这都有点不太敢相信自己的眼睛，这边的招牌很多都是直接这么用日语写的，当时开发区的日企繁荣的时候，很多日本人都会来这里消费，就像国际区域一样，现在萧条很多，很多店铺都已经关停了…… https://t.co/K4pg0ZCsIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4151,
+          "following_count": 7207,
+          "like_count": 7377,
+          "listed_count": 7,
+          "media_count": 1597,
+          "tweet_count": 6429
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

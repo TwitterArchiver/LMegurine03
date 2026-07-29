@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1942988128614257102",
+    "created_at": "2025-07-10T09:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T10:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943244521984360846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634807884268855297",
+          "start": 0,
+          "username": "SteveXian114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943244521984360846",
+    "in_reply_to_user_id": "1634807884268855297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942988128614257102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SteveXian114514 生日快乐🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1942988128614257102",
+        "created_at": "2025-07-10T09:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T10:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943244521984360846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634807884268855297",
+              "start": 0,
+              "username": "SteveXian114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943244521984360846",
+        "in_reply_to_user_id": "1634807884268855297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942988128614257102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SteveXian114514 生日快乐🥳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634807884268855297",
+        "conversation_id": "1942988128614257102",
+        "created_at": "2025-07-09T16:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T17:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942988128614257102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942988128614257102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12118,
+          "like_count": 229,
+          "quote_count": 1,
+          "reply_count": 65,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我16岁生日!!都来主页戳气球🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 7464,
+          "like_count": 3532,
+          "listed_count": 4,
+          "media_count": 765,
+          "tweet_count": 3296
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T06:45:55.000Z",
+        "description": "I'm Steve,Just a middle school student,also is a mtf,like to play Chunithm!   hrt:2025/6/13 \nMy best sister: @zhi_cheng233  \nHope you have a nice day!😋🥰🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 109,
+                "username": "zhi_cheng233"
+              }
+            ]
+          }
+        },
+        "id": "1634807884268855297",
+        "name": "Alex_Steve🍥",
+        "pinned_tweet_id": "1934984122340118908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934959692100587520/3Q5udlze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 116,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 113
+        },
+        "username": "SteveXian114514",
+        "verified": false
+      }
+    ]
+  }
+}

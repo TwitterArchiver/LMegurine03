@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1949895275763658801",
+    "created_at": "2025-07-29T02:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T03:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950025684740690256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833919115360436229",
+          "start": 0,
+          "username": "cleanDust_Chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950025684740690256",
+    "in_reply_to_user_id": "1833919115360436229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949895275763658801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cleanDust_Chen 贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1949895268864053250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw9raoHbUAITr9f.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1949895275763658801",
+        "created_at": "2025-07-29T02:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T03:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950025684740690256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1833919115360436229",
+              "start": 0,
+              "username": "cleanDust_Chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950025684740690256",
+        "in_reply_to_user_id": "1833919115360436229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949895275763658801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cleanDust_Chen 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949895268864053250"
+          ]
+        },
+        "author_id": "1833919115360436229",
+        "conversation_id": "1949895275763658801",
+        "created_at": "2025-07-28T18:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T19:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949895275763658801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rrkszGkGp",
+              "end": 57,
+              "expanded_url": "https://x.com/cleanDust_Chen/status/1949895275763658801/photo/1",
+              "media_key": "3_1949895268864053250",
+              "start": 34,
+              "url": "https://t.co/9rrkszGkGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949895275763658801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 792,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有想和我互fo/扩列的宝宝可以在这条推文下面留言，我会一个一个贴贴 https://t.co/9rrkszGkGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2750,
+          "following_count": 7482,
+          "like_count": 4035,
+          "listed_count": 4,
+          "media_count": 800,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T17:22:55.000Z",
+        "description": "✨今天也很棒！~✧*    \n🌸大部分时间情绪稳定的咩咩树洞.:*♡    \n🤖情绪价值贩卖机器人ノ✿    \n🔔想用梗图meme治疗肌肤饥渴    \n🎮怪猎世界沉迷       //欢迎扩列//欢迎贴贴//偶尔涩涩//请私聊窝~💖梦梦老婆：@xinmengQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "xinmengQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleandust_chen",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleandust_chen",
+                "start": 0,
+                "url": "https://t.co/zJyn77Q8sg"
+              }
+            ]
+          }
+        },
+        "id": "1833919115360436229",
+        "location": "月辰前线据点，新大陆",
+        "name": "入机咩咩子",
+        "pinned_tweet_id": "1934843248654340122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935536451942248448/0l65iOBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 330,
+          "like_count": 2620,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/zJyn77Q8sg",
+        "username": "cleanDust_Chen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1943411106455625862",
+    "created_at": "2025-07-10T21:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T22:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943429058949468468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "840850573201047552",
+          "start": 0,
+          "username": "nekococoneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943429058949468468",
+    "in_reply_to_user_id": "840850573201047552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943420494474285268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekococoneko 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1943411106455625862",
+        "created_at": "2025-07-10T21:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T22:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943429058949468468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "840850573201047552",
+              "start": 0,
+              "username": "nekococoneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943429058949468468",
+        "in_reply_to_user_id": "840850573201047552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943420494474285268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekococoneko 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840850573201047552",
+        "conversation_id": "1943411106455625862",
+        "created_at": "2025-07-10T21:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T22:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943420494474285268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943420494474285268",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943411106455625862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 4！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 7473,
+          "like_count": 3537,
+          "listed_count": 4,
+          "media_count": 766,
+          "tweet_count": 3304
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-12T09:02:53.000Z",
+        "description": "阿路路可愛！高維爾可愛！\n香蕉可愛！osakana生日快樂！\n常常會轉推R18的\nVRCid:coconeko1\n中文OK 日文跟英文靠翻譯\n我是貓咪！應該有一點點魅魔的成分吧~\n封面繪師 TKP @TsuKonin_p\n頭貼繪師 可愛又好吃的南瓜男 @pumpkiiiiin_man",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "TsuKonin_p"
+              },
+              {
+                "end": 142,
+                "start": 126,
+                "username": "pumpkiiiiin_man"
+              }
+            ]
+          }
+        },
+        "id": "840850573201047552",
+        "location": "太陽系",
+        "name": "可可貓 貓可可 可貓貓 貓貓可 お魚生日快樂！ 8964聽說是個密碼",
+        "pinned_tweet_id": "1719766355111809087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942195107706658817/vzkttG32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 4823,
+          "like_count": 242288,
+          "listed_count": 1,
+          "media_count": 2805,
+          "tweet_count": 153270
+        },
+        "username": "nekococoneko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1919351247079149568"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1919351882566275549",
+    "created_at": "2025-05-05T11:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T12:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919351882566275549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/llLYZMiY4J",
+          "end": 105,
+          "expanded_url": "https://x.com/LMegurine03/status/1919351882566275549/video/1",
+          "media_key": "7_1919351247079149568",
+          "start": 82,
+          "url": "https://t.co/llLYZMiY4J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919351882566275549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "航拍关门山峡谷附近的一个山壁，具有喀斯特地貌的特征，比如说裂隙发育和流水切割，但是由于并未处于降雨量较大的区域，所以说规模有限，只有小规模出露，但也很有北方的特色 https://t.co/llLYZMiY4J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139066,
+        "height": 720,
+        "media_key": "7_1919351247079149568",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1919351247079149568/pu/img/zGx7yAhEgP515q29.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919351247079149568/pu/vid/avc1/480x270/hZZl2AQ2uvVXG2Na.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919351247079149568/pu/vid/avc1/640x360/4jAvWOn-MYOQIQFK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919351247079149568/pu/vid/avc1/1280x720/Ta5K7vyqb3zaTsGr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1919351247079149568/pu/pl/xNI5Tmif_vbQ7AvO.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919351247079149568"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1919351882566275549",
+        "created_at": "2025-05-05T11:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T12:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919351882566275549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/llLYZMiY4J",
+              "end": 105,
+              "expanded_url": "https://x.com/LMegurine03/status/1919351882566275549/video/1",
+              "media_key": "7_1919351247079149568",
+              "start": 82,
+              "url": "https://t.co/llLYZMiY4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919351882566275549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "航拍关门山峡谷附近的一个山壁，具有喀斯特地貌的特征，比如说裂隙发育和流水切割，但是由于并未处于降雨量较大的区域，所以说规模有限，只有小规模出露，但也很有北方的特色 https://t.co/llLYZMiY4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 6892,
+          "like_count": 2094,
+          "listed_count": 3,
+          "media_count": 530,
+          "tweet_count": 2187
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

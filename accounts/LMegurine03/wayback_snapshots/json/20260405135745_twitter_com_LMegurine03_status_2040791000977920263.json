@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2040774267357495377",
+    "created_at": "2026-04-05T13:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040791000977920263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1171043978201878528",
+          "start": 0,
+          "username": "Claris73645268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040791000977920263",
+    "in_reply_to_user_id": "1171043978201878528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040779916862718052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Claris73645268 就是车子可以卡到轨道上面的，上面有电刷，然后用手柄控制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2040774267357495377",
+        "created_at": "2026-04-05T13:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040791000977920263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1171043978201878528",
+              "start": 0,
+              "username": "Claris73645268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040791000977920263",
+        "in_reply_to_user_id": "1171043978201878528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040779916862718052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claris73645268 就是车子可以卡到轨道上面的，上面有电刷，然后用手柄控制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171043978201878528",
+        "conversation_id": "2040774267357495377",
+        "created_at": "2026-04-05T13:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040779916862718052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040779916862718052",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040774267357495377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 轨道车可以控制什么呀🥲没玩过这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4146,
+          "following_count": 7157,
+          "like_count": 7034,
+          "listed_count": 7,
+          "media_count": 1446,
+          "tweet_count": 5963
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtx（？）欢迎来戳",
+        "id": "1171043978201878528",
+        "location": "关你屁事，关我屁事",
+        "name": "Claris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 215,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2086
+        },
+        "username": "Claris73645268",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtx（？）欢迎来戳",
+        "id": "1171043978201878528",
+        "location": "关你屁事，关我屁事",
+        "name": "Claris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 215,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2086
+        },
+        "url": "",
+        "username": "Claris73645268",
+        "verified": false
+      }
+    ]
+  }
+}

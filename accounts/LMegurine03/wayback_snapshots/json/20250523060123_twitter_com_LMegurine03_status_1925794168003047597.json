@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1925459375000592542",
+    "created_at": "2025-05-23T06:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T07:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925794168003047597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843534538473123840",
+          "start": 0,
+          "username": "GetsuOkiwai"
+        },
+        {
+          "end": 26,
+          "id": "1781308864438345728",
+          "start": 13,
+          "username": "FoxRed695449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925794168003047597",
+    "in_reply_to_user_id": "1843534538473123840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925779856706384333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GetsuOkiwai @FoxRed695449 我认为这样的东西想找一个适用全部的统一标准没有争议的话几乎是不可能的，有的时候还保留了多个版本，只能尽可能去找规律总结，所以碰到出入也别在意，可能是错误也可能是具体情况具体分析的结果，要是想较真的话可以查一查，实在研究不出来就算了，就当当地语境就行，拉黑就真没必要了解了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_1925779853074153473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grm-kroWwAEqW65.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1925459375000592542",
+        "created_at": "2025-05-23T06:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T07:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925794168003047597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843534538473123840",
+              "start": 0,
+              "username": "GetsuOkiwai"
+            },
+            {
+              "end": 26,
+              "id": "1781308864438345728",
+              "start": 13,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925794168003047597",
+        "in_reply_to_user_id": "1843534538473123840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925779856706384333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GetsuOkiwai @FoxRed695449 我认为这样的东西想找一个适用全部的统一标准没有争议的话几乎是不可能的，有的时候还保留了多个版本，只能尽可能去找规律总结，所以碰到出入也别在意，可能是错误也可能是具体情况具体分析的结果，要是想较真的话可以查一查，实在研究不出来就算了，就当当地语境就行，拉黑就真没必要了解了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925779853074153473"
+          ]
+        },
+        "author_id": "1843534538473123840",
+        "conversation_id": "1925459375000592542",
+        "created_at": "2025-05-23T05:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T06:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925779856706384333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 26,
+              "id": "1877035470615638016",
+              "start": 14,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jyn0unSkC8",
+              "end": 53,
+              "expanded_url": "https://x.com/GetsuOkiwai/status/1925779856706384333/photo/1",
+              "media_key": "3_1925779853074153473",
+              "start": 30,
+              "url": "https://t.co/jyn0unSkC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925779856706384333",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925779663772635518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @LMegurine03 呃呃 https://t.co/jyn0unSkC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 7501,
+          "like_count": 2551,
+          "listed_count": 3,
+          "media_count": 617,
+          "tweet_count": 2536
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T06:11:07.000Z",
+        "description": "自業自得｜⑨也算是垢吧",
+        "id": "1843534538473123840",
+        "location": "グリの街",
+        "name": "枫糖沢",
+        "pinned_tweet_id": "1849677672617738256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924513009571115008/YtQ2-P9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 341,
+          "like_count": 4681,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 402
+        },
+        "username": "GetsuOkiwai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong or Hangzhou",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1912777752786125154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2998,
+          "following_count": 651,
+          "like_count": 3296,
+          "listed_count": 6,
+          "media_count": 597,
+          "tweet_count": 1822
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

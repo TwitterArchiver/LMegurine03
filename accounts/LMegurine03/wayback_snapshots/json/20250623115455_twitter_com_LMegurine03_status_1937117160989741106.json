@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1937100956237447226",
+    "created_at": "2025-06-23T11:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T12:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937117160989741106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895896269459243008",
+          "start": 0,
+          "username": "X_User_303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937117160989741106",
+    "in_reply_to_user_id": "1895896269459243008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937116935780745571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_User_303 偏向理性吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1937100956237447226",
+        "created_at": "2025-06-23T11:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T12:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937117160989741106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895896269459243008",
+              "start": 0,
+              "username": "X_User_303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937117160989741106",
+        "in_reply_to_user_id": "1895896269459243008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937116935780745571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_User_303 偏向理性吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895896269459243008",
+        "conversation_id": "1937100956237447226",
+        "created_at": "2025-06-23T11:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T12:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937116935780745571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937116935780745571",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937100956237447226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 7501,
+          "like_count": 3258,
+          "listed_count": 4,
+          "media_count": 728,
+          "tweet_count": 2971
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T17:58:30.000Z",
+        "description": "❖@X_User_303;↵\n❖@X_User_404;↵\n❖#双鱼座♓;↵\n❖业余摄影📷;↵\n❖头像来自 #𝐏𝐢𝐜𝐫𝐞𝐰 #鱈メーカー;↵\n❖🍀;↵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "双鱼座"
+              },
+              {
+                "end": 61,
+                "start": 54,
+                "tag": "𝐏𝐢𝐜𝐫𝐞𝐰"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "鱈メーカー"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "X_User_303"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "X_User_404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/TGUser_404",
+                "end": 23,
+                "expanded_url": "http://www.telegram.me/TGUser_404",
+                "start": 0,
+                "url": "https://t.co/QKVqLSb2Bw"
+              }
+            ]
+          }
+        },
+        "id": "1895896269459243008",
+        "location": "🌏🇨🇳中国(China)｜🕗🗺️UTC+08:00",
+        "name": "ゆきかぜ❁𝓨𝓾𝓴𝓲𝓴𝓪𝔃𝓮🤍💜🖤",
+        "pinned_tweet_id": "1896158382664687869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933983510777454592/FGUY6Qg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 291,
+          "like_count": 7694,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/QKVqLSb2Bw",
+        "username": "X_User_303",
+        "verified": false
+      }
+    ]
+  }
+}

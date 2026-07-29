@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935007446269108225"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1934893887115678168",
+    "created_at": "2025-06-17T16:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T17:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935007450861875387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1924965014831824896",
+          "start": 0,
+          "username": "Yuwen_Tang1019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YrW4gYv2mr",
+          "end": 49,
+          "expanded_url": "https://x.com/LMegurine03/status/1935007450861875387/photo/1",
+          "media_key": "3_1935007446269108225",
+          "start": 26,
+          "url": "https://t.co/YrW4gYv2mr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935007450861875387",
+    "in_reply_to_user_id": "1924965014831824896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934893887115678168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuwen_Tang1019 就喜欢你傲娇的样子 https://t.co/YrW4gYv2mr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1935007446269108225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtqHBTCbIAEZ2OV.jpg",
+        "width": 600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934893884620042240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtofvI7acAAB-Rk.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935007446269108225"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1934893887115678168",
+        "created_at": "2025-06-17T16:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935007450861875387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1924965014831824896",
+              "start": 0,
+              "username": "Yuwen_Tang1019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrW4gYv2mr",
+              "end": 49,
+              "expanded_url": "https://x.com/LMegurine03/status/1935007450861875387/photo/1",
+              "media_key": "3_1935007446269108225",
+              "start": 26,
+              "url": "https://t.co/YrW4gYv2mr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935007450861875387",
+        "in_reply_to_user_id": "1924965014831824896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934893887115678168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuwen_Tang1019 就喜欢你傲娇的样子 https://t.co/YrW4gYv2mr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934893884620042240"
+          ]
+        },
+        "author_id": "1924965014831824896",
+        "conversation_id": "1934893887115678168",
+        "created_at": "2025-06-17T08:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T09:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934893887115678168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BjYPfSbWSC",
+              "end": 152,
+              "expanded_url": "https://x.com/Yuwen_Tang1019/status/1934893887115678168/photo/1",
+              "media_key": "3_1934893884620042240",
+              "start": 129,
+              "url": "https://t.co/BjYPfSbWSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934893887115678168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哼……那些跨性别的人，也、也不是说多讨厌啦……\n只是、只是……偶尔会有点友好而已，别误会了我才没感动呢！\n会被好好对待？才、才不稀罕呢……我又不是为了那个才——\n我、我才不觉得开心呢，真的……就、就跟平常差不多啦……\n别以为我会觉得特别好啊，其实也就那样！\n但……唔……就、就是让人稍微有点舒服一点点啦……\n不过也、也没多舒服啦！别得意忘形了你们这些笨蛋！\n……喵喵喵喵喵！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2938,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哼……那些跨性别的人，也、也不是说多讨厌啦……\n只是、只是……偶尔会有点友好而已，别误会了我才没感动呢！\n会被好好对待？才、才不稀罕呢……我又不是为了那个才——\n我、我才不觉得开心呢，真的……就、就跟平常差不多啦……\n别以为我会觉得特别好啊，其实也就那样！ https://t.co/BjYPfSbWSC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 7500,
+          "like_count": 3194,
+          "listed_count": 6,
+          "media_count": 709,
+          "tweet_count": 2921
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "MTF木桶饭\n墨尔本\n其实一点也不傲娇\n反跨\nq群975641126\nhttps://t.co/HRulu0zTpS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DhBw7EtOmx01Z…",
+                "end": 58,
+                "expanded_url": "https://t.me/+DhBw7EtOmx01ZDY1",
+                "start": 35,
+                "url": "https://t.co/HRulu0zTpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NoMTF.COM",
+                "start": 0,
+                "url": "https://t.co/itsNX2I7yj"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "Melbourne, Victoria",
+        "name": "NoMTF | 唐毓文",
+        "pinned_tweet_id": "1934553053237321901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 179,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/itsNX2I7yj",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

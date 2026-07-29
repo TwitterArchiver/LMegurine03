@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950233142876626944"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1950233155950318040",
+    "created_at": "2025-07-29T16:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T17:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950233155950318040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QapkDWHqpu",
+          "end": 141,
+          "expanded_url": "https://x.com/LMegurine03/status/1950233155950318040/photo/1",
+          "media_key": "3_1950233142876626944",
+          "start": 118,
+          "url": "https://t.co/QapkDWHqpu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950233155950318040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "越来越觉得收藏周边的人经济上是相当有实力的，好多高质量的单品像玩偶，手办或者包之类的甚至可能超过三位数甚至四位数，有的人居然可以收藏一屋子……像我这种看了一圈什么都不敢买，只能不情愿的挑一个最便宜的卡片或者徽章，该说不说是真的有点羡慕 https://t.co/QapkDWHqpu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950233142876626944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxCete5a4AAzreH.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950233142876626944"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1950233155950318040",
+        "created_at": "2025-07-29T16:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T17:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950233155950318040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QapkDWHqpu",
+              "end": 141,
+              "expanded_url": "https://x.com/LMegurine03/status/1950233155950318040/photo/1",
+              "media_key": "3_1950233142876626944",
+              "start": 118,
+              "url": "https://t.co/QapkDWHqpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950233155950318040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越来越觉得收藏周边的人经济上是相当有实力的，好多高质量的单品像玩偶，手办或者包之类的甚至可能超过三位数甚至四位数，有的人居然可以收藏一屋子……像我这种看了一圈什么都不敢买，只能不情愿的挑一个最便宜的卡片或者徽章，该说不说是真的有点羡慕 https://t.co/QapkDWHqpu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 7489,
+          "like_count": 4041,
+          "listed_count": 4,
+          "media_count": 801,
+          "tweet_count": 3538
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

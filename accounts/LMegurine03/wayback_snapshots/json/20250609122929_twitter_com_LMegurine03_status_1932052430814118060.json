@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1932009906997223424"
+      ],
+      "media_source_tweet_id": [
+        "1932009965440647402"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774196946309120",
+          "name": "Franck Ribery"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774196946309120",
+          "name": "Franck Ribery"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774196946309120",
+          "name": "Franck Ribery"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1932052430814118060",
+    "created_at": "2025-06-09T12:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T13:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932052430814118060"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "Ribery",
+          "probability": 0.7561,
+          "start": 47,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "571964518",
+          "start": 3,
+          "username": "TrollFootball"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3BKWGfFddG",
+          "end": 78,
+          "expanded_url": "https://x.com/TFTBLMEDIA/status/1932009965440647402/video/1",
+          "media_key": "13_1932009906997223424",
+          "start": 55,
+          "url": "https://t.co/3BKWGfFddG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932052430814118060",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 618
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932015750509936682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TrollFootball: Unsuccessful hate watch for Ribery\n\nhttps://t.co/3BKWGfFddG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22229,
+        "height": 1280,
+        "media_key": "13_1932009906997223424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932009906997223424/img/a5se6pIqpZfA9F3q.jpg",
+        "public_metrics": {
+          "view_count": 125656
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932009906997223424/vid/avc1/320x568/KHYR1vjWAXF8q4u3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932009906997223424/vid/avc1/480x852/ugdWhKERDFyq8FFn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932009906997223424/vid/avc1/720x1280/H0KZVAtFEt7c-T-8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932009906997223424/pl/agcWVQQU1PE44PrY.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932009906997223424"
+          ],
+          "media_source_tweet_id": [
+            "1932009965440647402"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774196946309120",
+              "name": "Franck Ribery"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774196946309120",
+              "name": "Franck Ribery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774196946309120",
+              "name": "Franck Ribery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1932052430814118060",
+        "created_at": "2025-06-09T12:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T13:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932052430814118060"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "Ribery",
+              "probability": 0.7561,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "571964518",
+              "start": 3,
+              "username": "TrollFootball"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BKWGfFddG",
+              "end": 78,
+              "expanded_url": "https://x.com/TFTBLMEDIA/status/1932009965440647402/video/1",
+              "media_key": "13_1932009906997223424",
+              "start": 55,
+              "url": "https://t.co/3BKWGfFddG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932052430814118060",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 618
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932015750509936682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TrollFootball: Unsuccessful hate watch for Ribery\n\nhttps://t.co/3BKWGfFddG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932009906997223424"
+          ],
+          "media_source_tweet_id": [
+            "1932009965440647402"
+          ]
+        },
+        "author_id": "571964518",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774196946309120",
+              "name": "Franck Ribery"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774196946309120",
+              "name": "Franck Ribery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774196946309120",
+              "name": "Franck Ribery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1932015750509936682",
+        "created_at": "2025-06-09T10:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932015750509936682"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Ribery",
+              "probability": 0.6135,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BKWGfFddG",
+              "end": 59,
+              "expanded_url": "https://x.com/TFTBLMEDIA/status/1932009965440647402/video/1",
+              "media_key": "13_1932009906997223424",
+              "start": 36,
+              "url": "https://t.co/3BKWGfFddG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932015750509936682",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 410,
+          "impression_count": 282060,
+          "like_count": 10004,
+          "quote_count": 46,
+          "reply_count": 127,
+          "retweet_count": 618
+        },
+        "reply_settings": "everyone",
+        "text": "Unsuccessful hate watch for Ribery\n\nhttps://t.co/3BKWGfFddG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，锁推关注请私信｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 7501,
+          "like_count": 3082,
+          "listed_count": 6,
+          "media_count": 682,
+          "tweet_count": 2802
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-05T18:11:01.000Z",
+        "description": "🚨 Don't follow us if you can't take a troll on your fav club/player. Contact: trollfootballcontact@gmail.com | @Gamdom |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 111,
+                "username": "Gamdom"
+              }
+            ]
+          }
+        },
+        "id": "571964518",
+        "name": "Troll Football",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612788418010042369/9wIHyK2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4580190,
+          "following_count": 507,
+          "like_count": 682,
+          "listed_count": 7973,
+          "media_count": 15142,
+          "tweet_count": 16856
+        },
+        "username": "TrollFootball",
+        "verified": true
+      }
+    ]
+  }
+}

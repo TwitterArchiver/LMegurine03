@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2075250664603890050",
+    "created_at": "2026-07-09T16:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075250664603890050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 48,
+          "id": "55920839",
+          "start": 34,
+          "username": "easypop_betti"
+        }
+      ],
+      "urls": [
+        {
+          "description": "▽EasyPop▽Twitter：@easypop_bettiWeb：https://easypop.jp/Illust：ki...",
+          "display_url": "youtu.be/okxYcI1fBc0?si…",
+          "end": 132,
+          "expanded_url": "https://youtu.be/okxYcI1fBc0?si=cCGrD-T67t1olXL_",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/2075250573079904256/gPfwRjvB?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2075250573079904256/gPfwRjvB?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 109,
+          "status": 200,
+          "title": "イレヴンレイヴガール / 巡音ルカ",
+          "unwound_url": "https://www.youtube.com/watch?si=cCGrD-T67t1olXL_&v=okxYcI1fBc0&feature=youtu.be",
+          "url": "https://t.co/4Ml18P1auM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075250664603890050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 7 适合开车的时候听的歌\n\nイレヴンレイヴガール \n\n（来自@easypop_betti，一首节奏平稳但也不失激情的快歌，也是一以贯之的合成器风格，很有像开车的时候在宽阔的道路上不由自主的稍稍提高速度的轻快感\nhttps://t.co/4Ml18P1auM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2075250664603890050",
+        "created_at": "2026-07-09T16:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075250664603890050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "55920839",
+              "start": 34,
+              "username": "easypop_betti"
+            }
+          ],
+          "urls": [
+            {
+              "description": "▽EasyPop▽Twitter：@easypop_bettiWeb：https://easypop.jp/Illust：ki...",
+              "display_url": "youtu.be/okxYcI1fBc0?si…",
+              "end": 132,
+              "expanded_url": "https://youtu.be/okxYcI1fBc0?si=cCGrD-T67t1olXL_",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2075250573079904256/gPfwRjvB?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075250573079904256/gPfwRjvB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "イレヴンレイヴガール / 巡音ルカ",
+              "unwound_url": "https://www.youtube.com/watch?si=cCGrD-T67t1olXL_&v=okxYcI1fBc0&feature=youtu.be",
+              "url": "https://t.co/4Ml18P1auM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075250664603890050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 7 适合开车的时候听的歌\n\nイレヴンレイヴガール \n\n（来自@easypop_betti，一首节奏平稳但也不失激情的快歌，也是一以贯之的合成器风格，很有像开车的时候在宽阔的道路上不由自主的稍稍提高速度的轻快感\nhttps://t.co/4Ml18P1auM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 7495,
+          "like_count": 8071,
+          "listed_count": 8,
+          "media_count": 1824,
+          "tweet_count": 7016
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-11T20:23:58.000Z",
+        "description": "曲を作っています / ボカロP ●YouTube：https://t.co/H7z3TdscNw ●niconico：https://t.co/Sr9Miwyh2h ●ご依頼：https://t.co/WnriZvLPya ●icon：seri(@seri_works)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "seri_works"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@EasyPop_BETTI",
+                "end": 48,
+                "expanded_url": "https://www.youtube.com/@EasyPop_BETTI",
+                "start": 25,
+                "url": "https://t.co/H7z3TdscNw"
+              },
+              {
+                "display_url": "nico.ms/mylist/12749479",
+                "end": 82,
+                "expanded_url": "http://nico.ms/mylist/12749479",
+                "start": 59,
+                "url": "https://t.co/Sr9Miwyh2h"
+              },
+              {
+                "display_url": "easypop.jp/#link1",
+                "end": 111,
+                "expanded_url": "https://easypop.jp/#link1",
+                "start": 88,
+                "url": "https://t.co/WnriZvLPya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "easypop.jp",
+                "end": 23,
+                "expanded_url": "http://easypop.jp",
+                "start": 0,
+                "url": "https://t.co/U3FlGF4mMS"
+              }
+            ]
+          }
+        },
+        "id": "55920839",
+        "location": "Niigata",
+        "name": "EasyPop",
+        "pinned_tweet_id": "2026960870157525023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616257207284436992/uGYZuVxv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35740,
+          "following_count": 6388,
+          "like_count": 5276,
+          "listed_count": 558,
+          "media_count": 1378,
+          "tweet_count": 35561
+        },
+        "url": "https://t.co/U3FlGF4mMS",
+        "username": "easypop_betti",
+        "verified": true
+      }
+    ]
+  }
+}

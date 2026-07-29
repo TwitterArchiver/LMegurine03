@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1995004164267720737",
+    "created_at": "2025-11-30T06:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995018500436537743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "sanmiguelnoodle"
+        },
+        {
+          "end": 26,
+          "id": "1799308675158605825",
+          "start": 17,
+          "username": "CPUP2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995018500436537743",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995004164267720737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanmiguelnoodle @CPUP2024 我单方面不同意，必须跟我组一辈子cp😼"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1995004164267720737].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1995004164267720737",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1995004164267720737"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1995004164267720737",
+        "created_at": "2025-11-30T06:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995018500436537743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "sanmiguelnoodle"
+            },
+            {
+              "end": 26,
+              "id": "1799308675158605825",
+              "start": 17,
+              "username": "CPUP2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995018500436537743",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995004164267720737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanmiguelnoodle @CPUP2024 我单方面不同意，必须跟我组一辈子cp😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx｜泛性恋｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "realmadrid"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3541,
+          "following_count": 7500,
+          "like_count": 6103,
+          "listed_count": 7,
+          "media_count": 1133,
+          "tweet_count": 4872
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "超級好詭秘@Psych_Angel_ | \n依舊超級好詭秘@bolckAshley | \n還是超級好詭秘@Akinoyo_ | \n可愛的蜜獾🦡@kittymi030 |\n可愛的翎@fxxkApexLegend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 41,
+                "start": 29,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Akinoyo_"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "kittymi030"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "fxxkApexLegend"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanmiguelnoodle.com.tw",
+                "end": 23,
+                "expanded_url": "https://www.sanmiguelnoodle.com.tw",
+                "start": 0,
+                "url": "https://t.co/2lbauKPJ9M"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "UTC+8",
+        "name": "生力麵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979868103245799424/EmUaWW2L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 636,
+          "like_count": 2612,
+          "listed_count": 7,
+          "media_count": 576,
+          "tweet_count": 6084
+        },
+        "url": "https://t.co/2lbauKPJ9M",
+        "username": "sanmiguelnoodle",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "#葱娘酱巡回推友企划 此为原建制派bot号，原号没了。新号是@mikulovermua 键政少也更从心所欲。葱是左翼建制派，支持CPC领导之PRC。葱非“粉红”，但不介意做“粉红”。Pro☪️。ally&非二元性别🏳️‍🌈。stand with🇷🇺🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "葱娘酱巡回推友企划"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华人民共和国",
+        "name": "赛高の葱娘酱miku🇨🇳 ——平霍镇犹 反港抗台",
+        "pinned_tweet_id": "1994451188704481671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985367999168368640/3wUoV9zP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 1314,
+          "like_count": 35255,
+          "listed_count": 32,
+          "media_count": 748,
+          "tweet_count": 9321
+        },
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

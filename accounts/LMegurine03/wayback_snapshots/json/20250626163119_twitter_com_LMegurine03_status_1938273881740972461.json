@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1938258047769468994",
+    "created_at": "2025-06-26T16:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T17:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938273881740972461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885436187046817792",
+          "start": 0,
+          "username": "CrimSeraph_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938273881740972461",
+    "in_reply_to_user_id": "1885436187046817792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938270130774941931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrimSeraph_QwQ 真实可以是一种更深层次的心理连接，这种关系下对一个人的接纳可以远超于支持或反对，更像是一种陪伴或者没什么限制的交流，这个比较抽象，AI是模仿不了的，但是你说的也没有问题，这样的关系还是太难建立了，尤其是情感交流上顾虑非常多的社会环境，AI作为一种没有压力的平替是完全物超所值的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1938270130774941931].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1938270130774941931",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1938270130774941931"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938258047769468994",
+        "created_at": "2025-06-26T16:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938273881740972461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885436187046817792",
+              "start": 0,
+              "username": "CrimSeraph_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938273881740972461",
+        "in_reply_to_user_id": "1885436187046817792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938270130774941931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrimSeraph_QwQ 真实可以是一种更深层次的心理连接，这种关系下对一个人的接纳可以远超于支持或反对，更像是一种陪伴或者没什么限制的交流，这个比较抽象，AI是模仿不了的，但是你说的也没有问题，这样的关系还是太难建立了，尤其是情感交流上顾虑非常多的社会环境，AI作为一种没有压力的平替是完全物超所值的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 7449,
+          "like_count": 3297,
+          "listed_count": 4,
+          "media_count": 739,
+          "tweet_count": 3017
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T21:13:44.000Z",
+        "description": "INTJ-T/not good at English/信仰钱💴/热爱二次元的私宅(特别是Miku🥰)/我只是在阴暗地盯着所有人👀/有任何事可✉️/广告一律ban了😾/阴暗丑陋的哥布林想要成为吸血鬼👿/想要创造新世界💻",
+        "id": "1885436187046817792",
+        "location": "Between Hell and Heaven",
+        "name": "𝒞𝓇𝒾𝓂𝓈𝑜𝓃𝒮𝑒𝓇𝒶𝓅𝒽✟升天✟",
+        "pinned_tweet_id": "1908293344473858145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901284911602073600/hPLri5uN_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 132,
+          "like_count": 9990,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 5492
+        },
+        "username": "CrimSeraph_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

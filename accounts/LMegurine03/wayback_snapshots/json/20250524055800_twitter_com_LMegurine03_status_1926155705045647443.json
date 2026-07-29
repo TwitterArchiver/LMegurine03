@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1926155705045647443",
+    "created_at": "2025-05-24T05:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T06:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926155705045647443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/LMegurine03/status/1925849633055494374",
+          "start": 132,
+          "url": "https://t.co/WEnk4obLoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926155705045647443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925849633055494374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看起来是不行的，如果粉丝数没有到5000的话，7500可能就是极限了，还是得杀fo，还要多杀，大概控制在3000-4000的样子，多点也行，但是我可以尽量不杀互关，也尽量不去卡别人成分，就是找不发帖不互动的取关，或者把一些不太可能回关我的账户取关改到列表里就好（ https://t.co/WEnk4obLoY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1926155705045647443",
+        "created_at": "2025-05-24T05:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T06:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926155705045647443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/LMegurine03/status/1925849633055494374",
+              "start": 132,
+              "url": "https://t.co/WEnk4obLoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926155705045647443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925849633055494374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起来是不行的，如果粉丝数没有到5000的话，7500可能就是极限了，还是得杀fo，还要多杀，大概控制在3000-4000的样子，多点也行，但是我可以尽量不杀互关，也尽量不去卡别人成分，就是找不发帖不互动的取关，或者把一些不太可能回关我的账户取关改到列表里就好（ https://t.co/WEnk4obLoY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1925849633055494374",
+        "created_at": "2025-05-23T09:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T10:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925849633055494374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 72,
+              "id": "1697181010914639872",
+              "start": 61,
+              "username": "SChiharu20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925849633055494374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1325,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "关注上限这个问题就这样吧，我也不继续杀fo了，有点舍不得，考虑到底要杀谁还特别的麻烦，如果一直没回关的话，可以关注我的小号@SChiharu20 先用这个号回关，等上限解除了再说……另外可以帮我转一下帖吗，谢谢各位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 7502,
+          "like_count": 2574,
+          "listed_count": 3,
+          "media_count": 630,
+          "tweet_count": 2578
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

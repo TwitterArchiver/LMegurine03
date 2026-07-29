@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1938258047769468994",
+    "created_at": "2025-06-26T15:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T16:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938258050357604588"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938258050357604588",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938258047769468994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果说我的想法，高中我是再不想回去了，那个地方没给我留下什么好印象，最后一段时间经常请病假，整天连注意力都集中不了，根本做不了什么事情，精神长期就是临近崩溃的状态，换了一个选科还是无济于事，并且在那种状态下顶着作息压力和补课费的压力，也不见得能学到什么程度，估计就能考个500分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938258047769468994",
+        "created_at": "2025-06-26T15:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938258050357604588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938258050357604588",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938258047769468994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果说我的想法，高中我是再不想回去了，那个地方没给我留下什么好印象，最后一段时间经常请病假，整天连注意力都集中不了，根本做不了什么事情，精神长期就是临近崩溃的状态，换了一个选科还是无济于事，并且在那种状态下顶着作息压力和补课费的压力，也不见得能学到什么程度，估计就能考个500分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938258047769468994",
+        "created_at": "2025-06-26T15:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938258047769468994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938258047769468994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近看到很多人在讨论高考成绩，我其实情绪还是比较复杂的，分数比较高的我确实也有一种特别羡慕的感觉，正常来说明年我也该考了，现实中很多人都说我这样子是逃避，父母也劝我回去把高中读完，有的时候我还是比较愧疚，但是还是希望坚持自己的判断，我希望分清这些想法到底是我自己的还是谁强加给我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 7443,
+          "like_count": 3293,
+          "listed_count": 4,
+          "media_count": 739,
+          "tweet_count": 3011
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

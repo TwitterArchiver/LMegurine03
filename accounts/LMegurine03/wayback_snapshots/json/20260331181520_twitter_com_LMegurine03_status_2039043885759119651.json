@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2039035323095863572",
+    "created_at": "2026-03-31T18:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T19:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039043885759119651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583422861099692032",
+          "start": 0,
+          "username": "kanade_taka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039043885759119651",
+    "in_reply_to_user_id": "1583422861099692032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039041664946516091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanade_taka 嗯，我觉得也是，印象当中我经历过的几个考到全市三甲的虽然也有性格有点抽象的，但是家境和整体形象这些真的差不了一点（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039041664946516091].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039041664946516091",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039041664946516091"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2039035323095863572",
+        "created_at": "2026-03-31T18:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039043885759119651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583422861099692032",
+              "start": 0,
+              "username": "kanade_taka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039043885759119651",
+        "in_reply_to_user_id": "1583422861099692032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039041664946516091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanade_taka 嗯，我觉得也是，印象当中我经历过的几个考到全市三甲的虽然也有性格有点抽象的，但是家境和整体形象这些真的差不了一点（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4142,
+          "following_count": 7130,
+          "like_count": 6885,
+          "listed_count": 7,
+          "media_count": 1429,
+          "tweet_count": 5887
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T11:40:16.000Z",
+        "description": "amab non-binary sub 想做chubby milf 大概是asd/adhd\n原@kanadegao\nmillionlive5@proton.me\n推：高垣枫 速水奏 鹭泽文香",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kanadegao"
+              }
+            ]
+          }
+        },
+        "id": "1583422861099692032",
+        "name": "kanademk2@kanade_taka@nya.one",
+        "pinned_tweet_id": "1745852767464554593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635546948102127617/2JAyk-UV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 7500,
+          "like_count": 792772,
+          "listed_count": 31,
+          "media_count": 606,
+          "tweet_count": 32131
+        },
+        "username": "kanade_taka",
+        "verified": false
+      }
+    ]
+  }
+}

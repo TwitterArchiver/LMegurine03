@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063287234762244096"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2063287237299900496",
+    "created_at": "2026-06-06T15:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063287237299900496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AqjSxWREdL",
+          "end": 47,
+          "expanded_url": "https://x.com/LMegurine03/status/2063287237299900496/photo/1",
+          "media_key": "3_2063287234762244096",
+          "start": 24,
+          "url": "https://t.co/AqjSxWREdL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063287237299900496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有大连的推友出来玩吗👀\n可以在这下面预订一下（ https://t.co/AqjSxWREdL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_2063287234762244096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJEzumaAAAVl_q.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063287234762244096"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2063287237299900496",
+        "created_at": "2026-06-06T15:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063287237299900496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqjSxWREdL",
+              "end": 47,
+              "expanded_url": "https://x.com/LMegurine03/status/2063287237299900496/photo/1",
+              "media_key": "3_2063287234762244096",
+              "start": 24,
+              "url": "https://t.co/AqjSxWREdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063287237299900496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有大连的推友出来玩吗👀\n可以在这下面预订一下（ https://t.co/AqjSxWREdL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4225,
+          "following_count": 7329,
+          "like_count": 7544,
+          "listed_count": 7,
+          "media_count": 1646,
+          "tweet_count": 6584
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

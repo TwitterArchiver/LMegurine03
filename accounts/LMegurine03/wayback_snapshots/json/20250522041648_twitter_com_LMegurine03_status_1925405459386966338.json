@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1925186728614412595",
+    "created_at": "2025-05-22T04:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T05:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925405459386966338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1613074995437252609",
+          "start": 0,
+          "username": "mqtSRmilrHs7MNn"
+        },
+        {
+          "end": 29,
+          "id": "1513624885263802369",
+          "start": 17,
+          "username": "wuyijie2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925405459386966338",
+    "in_reply_to_user_id": "1613074995437252609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925403515255722017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mqtSRmilrHs7MNn @wuyijie2005 服了自己了，一会想说左下，一会想说右上，结果写了个左上😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1925186728614412595",
+        "created_at": "2025-05-22T04:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T05:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925405459386966338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1613074995437252609",
+              "start": 0,
+              "username": "mqtSRmilrHs7MNn"
+            },
+            {
+              "end": 29,
+              "id": "1513624885263802369",
+              "start": 17,
+              "username": "wuyijie2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925405459386966338",
+        "in_reply_to_user_id": "1613074995437252609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925403515255722017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mqtSRmilrHs7MNn @wuyijie2005 服了自己了，一会想说左下，一会想说右上，结果写了个左上😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613074995437252609",
+        "conversation_id": "1925186728614412595",
+        "created_at": "2025-05-22T04:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T05:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925403515255722017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 25,
+              "id": "1513624885263802369",
+              "start": 13,
+              "username": "wuyijie2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925403515255722017",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925256588862136566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 @wuyijie2005 左右不分喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 7354,
+          "like_count": 2492,
+          "listed_count": 3,
+          "media_count": 616,
+          "tweet_count": 2526
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:27:18.000Z",
+        "description": "",
+        "id": "1613074995437252609",
+        "location": "Islands District, Hong Kong",
+        "name": "TgYC0722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651544629286932481/uch2w69G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 26,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 690
+        },
+        "username": "mqtSRmilrHs7MNn",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T21:08:08.000Z",
+        "description": "一个分享日常的号",
+        "id": "1513624885263802369",
+        "name": "弈洁WU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925220475937927168/chEbnVxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 2,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "wuyijie2005",
+        "verified": false
+      }
+    ]
+  }
+}

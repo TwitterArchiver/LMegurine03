@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1983066311652716630",
+    "created_at": "2025-10-28T17:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T18:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983220809335214542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1675901578480582656",
+          "start": 0,
+          "username": "X_User_404"
+        },
+        {
+          "end": 28,
+          "id": "1436538002994450435",
+          "start": 12,
+          "username": "DavidWo68574356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983220809335214542",
+    "in_reply_to_user_id": "1675901578480582656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983126190090310072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_User_404 @DavidWo68574356 嗯确实，这四个都比较像，我直接对比的那个emoji太多了可能有疏漏的，俄罗斯🇷🇺，法国🇫🇷，卢森堡🇱🇺，荷兰🇳🇱，要这么看的话这里边最像的一组确实是卢森堡和荷兰，只有轻微的颜色差，顺序和方向都一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1983066311652716630",
+        "created_at": "2025-10-28T17:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983220809335214542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1675901578480582656",
+              "start": 0,
+              "username": "X_User_404"
+            },
+            {
+              "end": 28,
+              "id": "1436538002994450435",
+              "start": 12,
+              "username": "DavidWo68574356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983220809335214542",
+        "in_reply_to_user_id": "1675901578480582656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983126190090310072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_User_404 @DavidWo68574356 嗯确实，这四个都比较像，我直接对比的那个emoji太多了可能有疏漏的，俄罗斯🇷🇺，法国🇫🇷，卢森堡🇱🇺，荷兰🇳🇱，要这么看的话这里边最像的一组确实是卢森堡和荷兰，只有轻微的颜色差，顺序和方向都一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675901578480582656",
+        "conversation_id": "1983066311652716630",
+        "created_at": "2025-10-28T10:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983126190090310072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1436538002994450435",
+              "start": 0,
+              "username": "DavidWo68574356"
+            },
+            {
+              "end": 29,
+              "id": "1877035470615638016",
+              "start": 17,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983126190090310072",
+        "in_reply_to_user_id": "1436538002994450435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983083377365541155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavidWo68574356 @LMegurine03 卢森堡🇱🇺和荷兰🇳🇱的国旗相似度更高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx｜泛性恋｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "realmadrid"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "KChiharu34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 7491,
+          "like_count": 5229,
+          "listed_count": 6,
+          "media_count": 967,
+          "tweet_count": 4212
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T16:18:01.000Z",
+        "description": "❖@X_User_404;↵\n❖@X_User_303;↵\n❖反建制派✊;↵\n❖马列毛主义☭📕;↵\n❖支持 #巴勒斯坦🇵🇸;↵\n❖支持 #乌克兰🇺🇦;↵\n❖支持 #𝐋𝐆𝐁𝐓𝐐+⚧️🏳️‍🌈🏳️‍⚧️;↵\n❖#Worlds2025;↵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "巴勒斯坦"
+              },
+              {
+                "end": 72,
+                "start": 68,
+                "tag": "乌克兰"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "𝐋𝐆𝐁𝐓𝐐"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "tag": "Worlds2025"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "X_User_404"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "X_User_303"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/X_User_404",
+                "end": 23,
+                "expanded_url": "http://www.telegram.me/X_User_404",
+                "start": 0,
+                "url": "https://t.co/GuXcJ2HH1X"
+              }
+            ]
+          }
+        },
+        "id": "1675901578480582656",
+        "location": "🌏🇨🇳中国(China)｜🕗🗺️UTC+08:00",
+        "name": "哲生❀𝓒𝓱𝓾𝓵 𝓼𝓪𝓷𝓰☭📕🚩",
+        "pinned_tweet_id": "1917875161996685471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953436251543244801/lchkJHXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 1264,
+          "like_count": 189632,
+          "listed_count": 8,
+          "media_count": 357,
+          "tweet_count": 1300
+        },
+        "url": "https://t.co/GuXcJ2HH1X",
+        "username": "X_User_404",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-11T03:52:15.000Z",
+        "description": "A stupid cat.",
+        "id": "1436538002994450435",
+        "name": "😹David Wong🙀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976522261575401472/Veke9gVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 198,
+          "like_count": 126343,
+          "listed_count": 1,
+          "media_count": 992,
+          "tweet_count": 3541
+        },
+        "username": "DavidWo68574356",
+        "verified": false
+      }
+    ]
+  }
+}

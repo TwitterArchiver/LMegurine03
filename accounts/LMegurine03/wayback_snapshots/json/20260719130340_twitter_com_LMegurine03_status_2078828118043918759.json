@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2078828118043918759",
+    "created_at": "2026-07-19T13:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078828118043918759"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078828118043918759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一想到自己有间歇性外斜视这个事实就特别难受……这个东西目前其实大概率可控，但就是怕发展成永久性的，尽管确诊这个病已经十年了目前尽力在控制一直都没有进展，但是医生每次都说不排除进一步发展的可能性，随着年龄增长有很多不可控因素，好怕有一天突然间发现眼周的肌肉就真的瘫痪了，真的好害怕😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2078828118043918759",
+        "created_at": "2026-07-19T13:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078828118043918759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078828118043918759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到自己有间歇性外斜视这个事实就特别难受……这个东西目前其实大概率可控，但就是怕发展成永久性的，尽管确诊这个病已经十年了目前尽力在控制一直都没有进展，但是医生每次都说不排除进一步发展的可能性，随着年龄增长有很多不可控因素，好怕有一天突然间发现眼周的肌肉就真的瘫痪了，真的好害怕😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 7501,
+          "like_count": 8149,
+          "listed_count": 8,
+          "media_count": 1879,
+          "tweet_count": 7111
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

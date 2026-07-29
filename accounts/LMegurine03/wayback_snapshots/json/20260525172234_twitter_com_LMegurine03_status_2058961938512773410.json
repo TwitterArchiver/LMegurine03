@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2058961938512773410",
+    "created_at": "2026-05-25T17:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058961938512773410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/axzameyzed/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/axzameyzed/status/2058876417769976261",
+          "start": 21,
+          "url": "https://t.co/cExtFoEzYX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058961938512773410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058876417769976261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我出生那天之前的我的生日那天是我的生日吗 https://t.co/cExtFoEzYX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2058961938512773410",
+        "created_at": "2026-05-25T17:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058961938512773410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzameyzed/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/axzameyzed/status/2058876417769976261",
+              "start": 21,
+              "url": "https://t.co/cExtFoEzYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058961938512773410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058876417769976261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我出生那天之前的我的生日那天是我的生日吗 https://t.co/cExtFoEzYX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2058876417769976261",
+        "created_at": "2026-05-25T11:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058876417769976261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dontbesadforit…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/dontbesadforit/status/2058816386017980466",
+              "start": 16,
+              "url": "https://t.co/bg6lJ8UFuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058876417769976261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058816386017980466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好巧啊我怎么每年生日都是同一天 https://t.co/bg6lJ8UFuH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4159,
+          "following_count": 7227,
+          "like_count": 7406,
+          "listed_count": 7,
+          "media_count": 1615,
+          "tweet_count": 6481
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 145,
+          "like_count": 1038,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 580
+        },
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

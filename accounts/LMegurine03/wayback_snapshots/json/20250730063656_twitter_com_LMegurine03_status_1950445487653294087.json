@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1950445487653294087",
+    "created_at": "2025-07-30T06:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950445487653294087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "俄羅斯堪察加半島外海地震上調至黎克特制8.8級，部分地區錄得3至4米海嘯，俄羅斯當局稱，這場地震是數十年來最強的一次，目前沒有人員傷亡報告，但有一所幼稚園遭到損壞。日本提升海嘯警報，指北海道至和歌山沿岸等地或有3米高海嘯，籲居民疏散。 相關新聞：俄羅斯8.8級地震│威力=8千顆原子彈威力 專家：全球地震活躍期開始 【13:50】俄羅斯科學院通報，位於堪察加半島的克柳切夫火山噴發高達3000米火山灰",
+          "display_url": "stheadline.com/realtime-world…",
+          "end": 23,
+          "expanded_url": "https://www.stheadline.com/realtime-world/3485861/%E4%BF%84%E7%BE%85%E6%96%AF88%E7%B4%9A%E5%9C%B0%E9%9C%87%E6%97%A5%E6%9C%AC%E4%B8%8B%E4%BB%A4%E6%92%A4%E9%9B%A2%E8%BF%91200%E8%90%AC%E4%BA%BA-%E7%95%B6%E5%B1%80%E8%AD%A6%E7%A4%BA%E6%B5%B7%E6%B5%AA%E6%88%96%E6%94%80%E5%8D%87%E8%87%B33%E7%B1%B3%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0",
+          "images": [
+            {
+              "height": 675,
+              "url": "https://pbs.twimg.com/news_img/1950445489704382464/nhpIQm5P?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1950445489704382464/nhpIQm5P?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "俄羅斯8.8級地震│日本下令撤離近200萬人 當局警示海浪或攀升至3米｜持續更新",
+          "unwound_url": "https://www.stheadline.com/realtime-world/3485861/%E4%BF%84%E7%BE%85%E6%96%AF88%E7%B4%9A%E5%9C%B0%E9%9C%87%E6%97%A5%E6%9C%AC%E4%B8%8B%E4%BB%A4%E6%92%A4%E9%9B%A2%E8%BF%91200%E8%90%AC%E4%BA%BA-%E7%95%B6%E5%B1%80%E8%AD%A6%E7%A4%BA%E6%B5%B7%E6%B5%AA%E6%88%96%E6%94%80%E5%8D%87%E8%87%B33%E7%B1%B3%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0",
+          "url": "https://t.co/xD9c01iMWi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950445487653294087",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/xD9c01iMWi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1950445487653294087",
+        "created_at": "2025-07-30T06:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950445487653294087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "俄羅斯堪察加半島外海地震上調至黎克特制8.8級，部分地區錄得3至4米海嘯，俄羅斯當局稱，這場地震是數十年來最強的一次，目前沒有人員傷亡報告，但有一所幼稚園遭到損壞。日本提升海嘯警報，指北海道至和歌山沿岸等地或有3米高海嘯，籲居民疏散。 相關新聞：俄羅斯8.8級地震│威力=8千顆原子彈威力 專家：全球地震活躍期開始 【13:50】俄羅斯科學院通報，位於堪察加半島的克柳切夫火山噴發高達3000米火山灰",
+              "display_url": "stheadline.com/realtime-world…",
+              "end": 23,
+              "expanded_url": "https://www.stheadline.com/realtime-world/3485861/%E4%BF%84%E7%BE%85%E6%96%AF88%E7%B4%9A%E5%9C%B0%E9%9C%87%E6%97%A5%E6%9C%AC%E4%B8%8B%E4%BB%A4%E6%92%A4%E9%9B%A2%E8%BF%91200%E8%90%AC%E4%BA%BA-%E7%95%B6%E5%B1%80%E8%AD%A6%E7%A4%BA%E6%B5%B7%E6%B5%AA%E6%88%96%E6%94%80%E5%8D%87%E8%87%B33%E7%B1%B3%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/1950445489704382464/nhpIQm5P?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1950445489704382464/nhpIQm5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "俄羅斯8.8級地震│日本下令撤離近200萬人 當局警示海浪或攀升至3米｜持續更新",
+              "unwound_url": "https://www.stheadline.com/realtime-world/3485861/%E4%BF%84%E7%BE%85%E6%96%AF88%E7%B4%9A%E5%9C%B0%E9%9C%87%E6%97%A5%E6%9C%AC%E4%B8%8B%E4%BB%A4%E6%92%A4%E9%9B%A2%E8%BF%91200%E8%90%AC%E4%BA%BA-%E7%95%B6%E5%B1%80%E8%AD%A6%E7%A4%BA%E6%B5%B7%E6%B5%AA%E6%88%96%E6%94%80%E5%8D%87%E8%87%B33%E7%B1%B3%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0",
+              "url": "https://t.co/xD9c01iMWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950445487653294087",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xD9c01iMWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 7494,
+          "like_count": 4048,
+          "listed_count": 4,
+          "media_count": 801,
+          "tweet_count": 3543
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

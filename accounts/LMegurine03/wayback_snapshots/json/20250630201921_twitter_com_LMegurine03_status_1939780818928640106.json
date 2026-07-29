@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1939534360157507688",
+    "created_at": "2025-06-30T20:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T21:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939780818928640106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "17594983",
+          "start": 0,
+          "username": "RfaCantonese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939780818928640106",
+    "in_reply_to_user_id": "17594983",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939534360157507688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RfaCantonese 珍重，再会"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1939209343628443649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gul0n6gXgAEc7gR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1939534360157507688",
+        "created_at": "2025-06-30T20:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T21:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939780818928640106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "17594983",
+              "start": 0,
+              "username": "RfaCantonese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939780818928640106",
+        "in_reply_to_user_id": "17594983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939534360157507688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RfaCantonese 珍重，再会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939209343628443649"
+          ]
+        },
+        "author_id": "17594983",
+        "conversation_id": "1939534360157507688",
+        "created_at": "2025-06-30T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939534360157507688"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 127,
+              "tag": "自由亞洲電台"
+            },
+            {
+              "end": 142,
+              "start": 135,
+              "tag": "自由亞洲粵語"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wf6FMvvwj1",
+              "end": 166,
+              "expanded_url": "https://x.com/RfaCantonese/status/1939534360157507688/photo/1",
+              "media_key": "3_1939209343628443649",
+              "start": 143,
+              "url": "https://t.co/wf6FMvvwj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939534360157507688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 338608,
+          "like_count": 2445,
+          "quote_count": 111,
+          "reply_count": 483,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "聚散有時，今天終於要正式向大家道別，自由亞洲電台粵語組的旅程，到這裡劃上句號。隨著美國政府終止資助，自由亞洲團隊將進一步縮減，而粵語組明天（即香港主權移交28周年）起，將停止更新新聞內容，在網上剩下的新聞，亦會變成歷史，將會長期保存。\n\n珍重，再會。\n\n#自由亞洲電台 #自由亞洲粵語 https://t.co/wf6FMvvwj1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 7502,
+          "like_count": 3431,
+          "listed_count": 4,
+          "media_count": 749,
+          "tweet_count": 3136
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-24T16:38:11.000Z",
+        "description": "自由亞洲電台粵語部 RFA Cantonese",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rfa.org/cantonese",
+                "end": 23,
+                "expanded_url": "http://www.rfa.org/cantonese",
+                "start": 0,
+                "url": "https://t.co/rgWDrp85b8"
+              }
+            ]
+          }
+        },
+        "id": "17594983",
+        "location": "Washington, DC",
+        "name": "RFA 自由亞洲粵語",
+        "pinned_tweet_id": "1939534360157507688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490092439499124741/we8Qtpvx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38525,
+          "following_count": 564,
+          "like_count": 343,
+          "listed_count": 320,
+          "media_count": 11836,
+          "tweet_count": 56181
+        },
+        "url": "https://t.co/rgWDrp85b8",
+        "username": "RfaCantonese",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2059204791780458853",
+    "created_at": "2026-05-28T15:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060018184531661075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "733617892550316032",
+          "start": 0,
+          "username": "KaminariLatsqem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060018184531661075",
+    "in_reply_to_user_id": "733617892550316032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059249816551731454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaminariLatsqem 有一些字是原本压入声韵的，但是随着入声消失之后很可能就压不了了，不过这个我也是凭印象说的，一时间也想不到具体的例子，也可能确实不准确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2059204791780458853",
+        "created_at": "2026-05-28T15:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060018184531661075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "733617892550316032",
+              "start": 0,
+              "username": "KaminariLatsqem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060018184531661075",
+        "in_reply_to_user_id": "733617892550316032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059249816551731454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaminariLatsqem 有一些字是原本压入声韵的，但是随着入声消失之后很可能就压不了了，不过这个我也是凭印象说的，一时间也想不到具体的例子，也可能确实不准确"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "733617892550316032",
+        "conversation_id": "2059204791780458853",
+        "created_at": "2026-05-26T12:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059249816551731454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059249816551731454",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059204791780458853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 一段古代韻文在現代是否還押韻，唯一決定的因素就是這文章的韻字，在現代還是否同韻。\n\n這和入聲是否分配沒有任何關係。\n\n有入聲的現代漢語也可能因爲那幾個韻字派入不同韻而不押韻。\n\n无入聲的現代漢語也可能因爲那幾個韻字仍維持同韻而押韻。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4179,
+          "following_count": 7265,
+          "like_count": 7454,
+          "listed_count": 7,
+          "media_count": 1616,
+          "tweet_count": 6509
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-20T11:18:30.000Z",
+        "description": "思想被主義姦污得苦。\n基督徒。\n推特沒人認識，大概偶爾會發一些不經的言論，雖無道理，皆是性情中語，勿較真。",
+        "id": "733617892550316032",
+        "name": "神鳴大音",
+        "pinned_tweet_id": "1711323111239602496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560151680833839104/0sJkQyN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1146,
+          "like_count": 39652,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 10474
+        },
+        "username": "KaminariLatsqem",
+        "verified": false
+      }
+    ]
+  }
+}

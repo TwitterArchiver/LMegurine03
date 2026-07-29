@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1938680610882777098",
+    "created_at": "2025-06-27T19:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T20:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938680630981824875"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938680630981824875",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938680626531705313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拿我自身的经历来说，我就有点类似于是第一种，其实在初中的时候我已经察觉到了这样的异样，就是感觉经常忘东西和拖延，有的时候会违反某些规定，写作业好像比别人多一点时间，经常是玩手机或者做点别的，然后才写作业，但是成绩还不算太差，再加上即使拖延，也没有什么大问题，最多写到两点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938680610882777098",
+        "created_at": "2025-06-27T19:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T20:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938680630981824875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938680630981824875",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938680626531705313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿我自身的经历来说，我就有点类似于是第一种，其实在初中的时候我已经察觉到了这样的异样，就是感觉经常忘东西和拖延，有的时候会违反某些规定，写作业好像比别人多一点时间，经常是玩手机或者做点别的，然后才写作业，但是成绩还不算太差，再加上即使拖延，也没有什么大问题，最多写到两点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938680610882777098",
+        "created_at": "2025-06-27T19:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T20:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938680626531705313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938680626531705313",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938680622786191425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至于这种规训的消失通常就是两种情况，要不就是被动的消失，比如说毕业或者失业，要不就是实在受不了寻求的主动放弃，至于这两种情况到底需要怎么缓解，我也没什么把握，但是我有一种预感肯定是需要物质上的支持以及长期稳定的可以依靠的深度关系的支持，我猜至少这样会好很多，当然也只是一个推测而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 7486,
+          "like_count": 3388,
+          "listed_count": 4,
+          "media_count": 744,
+          "tweet_count": 3064
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1920495938390389162",
+    "created_at": "2025-05-08T16:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T17:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920511073838407723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578364241362309120",
+          "start": 0,
+          "username": "wuren_Ltd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920511073838407723",
+    "in_reply_to_user_id": "1578364241362309120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920495938390389162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuren_Ltd 这个wota艺看起来还有点水平"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31866,
+        "height": 848,
+        "media_key": "7_1920495895423946752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1920495895423946752/pu/img/jvLbPVIqF31LQSOy.jpg",
+        "public_metrics": {
+          "view_count": 404
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920495895423946752/pu/vid/avc1/320x584/JWPONZXskUJmoKqb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920495895423946752/pu/vid/avc1/464x848/_29Uqmgf1VXKrjHH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1920495895423946752/pu/pl/rSzrhD0gWbdOf4dl.m3u8?tag=12"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1920495938390389162",
+        "created_at": "2025-05-08T16:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T17:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920511073838407723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578364241362309120",
+              "start": 0,
+              "username": "wuren_Ltd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920511073838407723",
+        "in_reply_to_user_id": "1578364241362309120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920495938390389162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuren_Ltd 这个wota艺看起来还有点水平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1920495895423946752"
+          ]
+        },
+        "author_id": "1578364241362309120",
+        "conversation_id": "1920495938390389162",
+        "created_at": "2025-05-08T15:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T16:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920495938390389162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmlVc3Y9sb",
+              "end": 27,
+              "expanded_url": "https://x.com/wuren_Ltd/status/1920495938390389162/video/1",
+              "media_key": "7_1920495895423946752",
+              "start": 4,
+              "url": "https://t.co/lmlVc3Y9sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920495938390389162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 874,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁转生 https://t.co/lmlVc3Y9sb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1888,
+          "following_count": 7048,
+          "like_count": 2165,
+          "listed_count": 3,
+          "media_count": 544,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T12:39:05.000Z",
+        "description": "关于我在想什么 \n满洲人属 \n政治观点大约是坐标系平面卷成圆筒，原点与对点连线上的任意点 \n功德箱开放，快给我钱\n阿米娜唯一指定真身\n招梦2记：collective unconscious搭子 \n吉祥动物：🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wurenInc",
+                "end": 23,
+                "expanded_url": "https://t.me/wurenInc",
+                "start": 0,
+                "url": "https://t.co/EmkIiTTxZF"
+              }
+            ]
+          }
+        },
+        "id": "1578364241362309120",
+        "location": "龙转回",
+        "name": "无人",
+        "pinned_tweet_id": "1903319102053331337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906685483960475648/ruSPUz-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28465,
+          "following_count": 1388,
+          "like_count": 17154,
+          "listed_count": 78,
+          "media_count": 758,
+          "tweet_count": 3924
+        },
+        "url": "https://t.co/EmkIiTTxZF",
+        "username": "wuren_Ltd",
+        "verified": false
+      }
+    ]
+  }
+}

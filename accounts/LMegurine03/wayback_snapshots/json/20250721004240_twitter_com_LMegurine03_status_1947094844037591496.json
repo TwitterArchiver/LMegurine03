@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1947094841718149553",
+    "created_at": "2025-07-21T00:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T01:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947094844037591496"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947094844037591496",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947094841718149553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很明显不是这种情况，原因上来看的话主要就是心理问题的不同种类 ，失眠的话通常就是重度抑郁或者ptsd之类的，这种状态会让人保持一直的清醒，即使在疲惫感或者睡眠过程中也会，如果是睡眠相位后移的话通常就是强迫症或者adhd之类的，虽然也会让人在某些时段保持清醒，但是睡着之后影响就比较有限"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1947094841718149553",
+        "created_at": "2025-07-21T00:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T01:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947094844037591496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947094844037591496",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947094841718149553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很明显不是这种情况，原因上来看的话主要就是心理问题的不同种类 ，失眠的话通常就是重度抑郁或者ptsd之类的，这种状态会让人保持一直的清醒，即使在疲惫感或者睡眠过程中也会，如果是睡眠相位后移的话通常就是强迫症或者adhd之类的，虽然也会让人在某些时段保持清醒，但是睡着之后影响就比较有限"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1947094841718149553",
+        "created_at": "2025-07-21T00:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T01:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947094841718149553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947094841718149553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在发现这段时间的失眠问题其实并不是失眠，而更像是睡眠相位后移症候群，也就是一种作息时间整体向后，但是每天的睡眠时间仍有规律，并且也有长时间深度的睡眠，而失眠是一种在任何时间都难以入睡，即使入睡也是碎片化的短睡，而像我的话这段时间每天都保持在凌晨7点入睡，下午3点起床的状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2702,
+          "following_count": 7487,
+          "like_count": 3899,
+          "listed_count": 4,
+          "media_count": 786,
+          "tweet_count": 3433
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

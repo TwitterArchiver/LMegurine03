@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1909850503724351732",
+    "created_at": "2025-04-09T06:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T07:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909850503724351732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tshshis/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/tshshis/status/1909644584164208918",
+          "start": 14,
+          "url": "https://t.co/BNs7zmmxbD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909850503724351732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909644584164208918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "速来8447个宝宝关注我😋 https://t.co/BNs7zmmxbD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1909850503724351732",
+        "created_at": "2025-04-09T06:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T07:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909850503724351732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tshshis/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/tshshis/status/1909644584164208918",
+              "start": 14,
+              "url": "https://t.co/BNs7zmmxbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909850503724351732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909644584164208918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "速来8447个宝宝关注我😋 https://t.co/BNs7zmmxbD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656733330421981184",
+        "conversation_id": "1909644584164208918",
+        "created_at": "2025-04-08T16:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T17:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909644584164208918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Asaak1111/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Asaak1111/status/1909566519434223746",
+              "start": 13,
+              "url": "https://t.co/fLcNGQVY01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909644584164208918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909566519434223746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "速来七十五个宝宝关注我😋 https://t.co/fLcNGQVY01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 5514,
+          "like_count": 1777,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T18:50:09.000Z",
+        "description": "全是碎碎念\n在破二本苟延残喘\n偶尔发发癫",
+        "id": "1656733330421981184",
+        "location": "地球",
+        "name": "伍伍惠",
+        "pinned_tweet_id": "1906750861151445436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831345100309614592/hqDlQiYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 524,
+          "like_count": 3344,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 375
+        },
+        "username": "tshshis",
+        "verified": false
+      }
+    ]
+  }
+}

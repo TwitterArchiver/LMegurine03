@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2012357535710474392",
+    "created_at": "2026-01-17T15:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012547474825629860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1565243520037793793",
+          "start": 0,
+          "username": "TheSnowWinter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012547474825629860",
+    "in_reply_to_user_id": "1565243520037793793",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012357535710474392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSnowWinter Hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2012357535710474392",
+        "created_at": "2026-01-17T15:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012547474825629860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1565243520037793793",
+              "start": 0,
+              "username": "TheSnowWinter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012547474825629860",
+        "in_reply_to_user_id": "1565243520037793793",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012357535710474392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSnowWinter Hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565243520037793793",
+        "conversation_id": "2012357535710474392",
+        "created_at": "2026-01-17T02:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012357535710474392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TheSnowWinter/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/TheSnowWinter/status/2012351194191347757",
+              "start": 8,
+              "url": "https://t.co/oHh7n8FSwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012357535710474392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012351194191347757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么没人理我😭 https://t.co/oHh7n8FSwn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181cm/55kg｜泛性恋｜INTP｜坐标大连｜日本語の勉強中｜随机掉落日常｜欢迎私信｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3642,
+          "following_count": 7484,
+          "like_count": 6369,
+          "listed_count": 7,
+          "media_count": 1211,
+          "tweet_count": 5208
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T07:42:00.000Z",
+        "description": "🏳️‍⚧️06年MTF🏳️‍⚧🍥2023.11.11-›HRT🍥无证🥺「INFP」|165cm|同类关注会回fo|离家出走|(99%家暴党)|精神状态不佳🙂‍↕️|分手了...有人要我吗？😢|好姐姐:@Hibari233 @snowfairy011026 @Xinyi_ADHD|🚪20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Hibari233"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Xinyi_ADHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "我不知道.com",
+                "end": 23,
+                "expanded_url": "http://xn--ihqu10c92p0kw.com",
+                "start": 0,
+                "url": "https://t.co/IBAnR9dM6U"
+              }
+            ]
+          }
+        },
+        "id": "1565243520037793793",
+        "location": "Everywhere",
+        "name": "咖喱🍛🏳️‍⚧️",
+        "pinned_tweet_id": "1851107789445480627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863296880211644416/HZ2orQeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 779,
+          "like_count": 15569,
+          "listed_count": 4,
+          "media_count": 514,
+          "tweet_count": 6436
+        },
+        "url": "https://t.co/IBAnR9dM6U",
+        "username": "TheSnowWinter",
+        "verified": false
+      }
+    ]
+  }
+}

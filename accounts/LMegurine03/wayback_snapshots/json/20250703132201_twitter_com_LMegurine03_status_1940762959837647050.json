@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940647919746531328",
+        "3_1940647976252084224"
+      ],
+      "media_source_tweet_id": [
+        "1940648727422935464",
+        "1940648727422935464"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1940762959837647050",
+    "created_at": "2025-07-03T13:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T14:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940762959837647050"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "广州伪娘"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "男娘"
+        },
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "cdts"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "足交"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "线下"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "足底"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670341234139992065",
+          "start": 3,
+          "username": "zhl20593361"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/82NGbIQp1a",
+          "end": 80,
+          "expanded_url": "https://x.com/zhl20593361/status/1940648727422935464/photo/1",
+          "media_key": "3_1940647919746531328",
+          "start": 57,
+          "url": "https://t.co/82NGbIQp1a"
+        },
+        {
+          "display_url": "pic.x.com/82NGbIQp1a",
+          "end": 80,
+          "expanded_url": "https://x.com/zhl20593361/status/1940648727422935464/photo/1",
+          "media_key": "3_1940647976252084224",
+          "start": 57,
+          "url": "https://t.co/82NGbIQp1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940762959837647050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940648727422935464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhl20593361: #广州伪娘 #男娘 #cdts #足交 #线下  #足底  没生活费了接点线下 https://t.co/82NGbIQp1a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1586,
+        "media_key": "3_1940647919746531328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu6RAEKXwAAnuhB.jpg",
+        "width": 1259
+      },
+      {
+        "height": 1570,
+        "media_key": "3_1940647976252084224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu6RDWqWEAAAwkx.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940647919746531328",
+            "3_1940647976252084224"
+          ],
+          "media_source_tweet_id": [
+            "1940648727422935464",
+            "1940648727422935464"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1940762959837647050",
+        "created_at": "2025-07-03T13:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940762959837647050"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "广州伪娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "男娘"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "cdts"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "足交"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "线下"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "足底"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670341234139992065",
+              "start": 3,
+              "username": "zhl20593361"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/82NGbIQp1a",
+              "end": 80,
+              "expanded_url": "https://x.com/zhl20593361/status/1940648727422935464/photo/1",
+              "media_key": "3_1940647919746531328",
+              "start": 57,
+              "url": "https://t.co/82NGbIQp1a"
+            },
+            {
+              "display_url": "pic.x.com/82NGbIQp1a",
+              "end": 80,
+              "expanded_url": "https://x.com/zhl20593361/status/1940648727422935464/photo/1",
+              "media_key": "3_1940647976252084224",
+              "start": 57,
+              "url": "https://t.co/82NGbIQp1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940762959837647050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940648727422935464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhl20593361: #广州伪娘 #男娘 #cdts #足交 #线下  #足底  没生活费了接点线下 https://t.co/82NGbIQp1a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940647919746531328",
+            "3_1940647976252084224"
+          ]
+        },
+        "author_id": "1670341234139992065",
+        "conversation_id": "1940648727422935464",
+        "created_at": "2025-07-03T05:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T06:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940648727422935464"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "广州伪娘"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "cdts"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "足交"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "线下"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "足底"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/82NGbIQp1a",
+              "end": 63,
+              "expanded_url": "https://x.com/zhl20593361/status/1940648727422935464/photo/1",
+              "media_key": "3_1940647919746531328",
+              "start": 40,
+              "url": "https://t.co/82NGbIQp1a"
+            },
+            {
+              "display_url": "pic.x.com/82NGbIQp1a",
+              "end": 63,
+              "expanded_url": "https://x.com/zhl20593361/status/1940648727422935464/photo/1",
+              "media_key": "3_1940647976252084224",
+              "start": 40,
+              "url": "https://t.co/82NGbIQp1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940648727422935464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 387,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#广州伪娘 #男娘 #cdts #足交 #线下  #足底  没生活费了接点线下 https://t.co/82NGbIQp1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 7430,
+          "like_count": 3451,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 3158
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T08:02:46.000Z",
+        "description": "坐标：广州花都 #男娘#伪娘#广州cd 身高175cm，体重60kg，接援交，求关注转推wx：qwer666888hj\n同好欢迎扩列",
+        "id": "1670341234139992065",
+        "location": "广东省广州市",
+        "name": "瑶瑶（广州CD伪娘）",
+        "pinned_tweet_id": "1937527702489334168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922590626123563010/XwESpKN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 90,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 74
+        },
+        "username": "zhl20593361",
+        "verified": false
+      }
+    ]
+  }
+}

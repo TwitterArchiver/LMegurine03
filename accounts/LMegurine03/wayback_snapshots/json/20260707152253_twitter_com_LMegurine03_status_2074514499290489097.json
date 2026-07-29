@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074514423805571072",
+        "3_2074514452188368896",
+        "3_2074514478138613761"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074514499290489097",
+    "created_at": "2026-07-07T15:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074514499290489097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MGLLswXIxV",
+          "end": 97,
+          "expanded_url": "https://x.com/LMegurine03/status/2074514499290489097/photo/1",
+          "media_key": "3_2074514423805571072",
+          "start": 74,
+          "url": "https://t.co/MGLLswXIxV"
+        },
+        {
+          "display_url": "pic.x.com/MGLLswXIxV",
+          "end": 97,
+          "expanded_url": "https://x.com/LMegurine03/status/2074514499290489097/photo/1",
+          "media_key": "3_2074514452188368896",
+          "start": 74,
+          "url": "https://t.co/MGLLswXIxV"
+        },
+        {
+          "display_url": "pic.x.com/MGLLswXIxV",
+          "end": 97,
+          "expanded_url": "https://x.com/LMegurine03/status/2074514499290489097/photo/1",
+          "media_key": "3_2074514478138613761",
+          "start": 74,
+          "url": "https://t.co/MGLLswXIxV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074514499290489097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天吃的东西……宜家的瑞典肉丸配果酱和滨寿司的低温牛肉和金枪鱼大腹……牛肉和上次吃食其家的饭上面的确实是一致的，只不过这里是加洋葱酱做成寿司的做法 https://t.co/MGLLswXIxV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3512,
+        "media_key": "3_2074514423805571072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMon4JBa8AAqI0S.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3512,
+        "media_key": "3_2074514452188368896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMon5ywaEAAhqnY.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3512,
+        "media_key": "3_2074514478138613761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMon7TbbYAELW2y.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074514423805571072",
+            "3_2074514452188368896",
+            "3_2074514478138613761"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074514499290489097",
+        "created_at": "2026-07-07T15:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074514499290489097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGLLswXIxV",
+              "end": 97,
+              "expanded_url": "https://x.com/LMegurine03/status/2074514499290489097/photo/1",
+              "media_key": "3_2074514423805571072",
+              "start": 74,
+              "url": "https://t.co/MGLLswXIxV"
+            },
+            {
+              "display_url": "pic.x.com/MGLLswXIxV",
+              "end": 97,
+              "expanded_url": "https://x.com/LMegurine03/status/2074514499290489097/photo/1",
+              "media_key": "3_2074514452188368896",
+              "start": 74,
+              "url": "https://t.co/MGLLswXIxV"
+            },
+            {
+              "display_url": "pic.x.com/MGLLswXIxV",
+              "end": 97,
+              "expanded_url": "https://x.com/LMegurine03/status/2074514499290489097/photo/1",
+              "media_key": "3_2074514478138613761",
+              "start": 74,
+              "url": "https://t.co/MGLLswXIxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074514499290489097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃的东西……宜家的瑞典肉丸配果酱和滨寿司的低温牛肉和金枪鱼大腹……牛肉和上次吃食其家的饭上面的确实是一致的，只不过这里是加洋葱酱做成寿司的做法 https://t.co/MGLLswXIxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4397,
+          "following_count": 7501,
+          "like_count": 8047,
+          "listed_count": 8,
+          "media_count": 1807,
+          "tweet_count": 6969
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

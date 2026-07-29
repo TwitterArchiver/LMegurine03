@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1936076721108971530",
+    "created_at": "2025-06-20T23:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T00:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936200398760821173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697181010914639872",
+          "start": 0,
+          "username": "SChiharu20"
+        },
+        {
+          "end": 25,
+          "id": "1821416741735735296",
+          "start": 12,
+          "username": "shirasagi720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936200398760821173",
+    "in_reply_to_user_id": "1697181010914639872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936076721108971530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SChiharu20 @shirasagi720 操你妈的，给他妈傻逼求情，他妈脑子有病，操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1936076721108971530",
+        "created_at": "2025-06-20T23:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T00:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936200398760821173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697181010914639872",
+              "start": 0,
+              "username": "SChiharu20"
+            },
+            {
+              "end": 25,
+              "id": "1821416741735735296",
+              "start": 12,
+              "username": "shirasagi720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936200398760821173",
+        "in_reply_to_user_id": "1697181010914639872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936076721108971530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SChiharu20 @shirasagi720 操你妈的，给他妈傻逼求情，他妈脑子有病，操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697181010914639872",
+        "conversation_id": "1936076721108971530",
+        "created_at": "2025-06-20T15:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T16:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936076721108971530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821416741735735296",
+              "start": 0,
+              "username": "shirasagi720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936076721108971530",
+        "in_reply_to_user_id": "1821416741735735296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@shirasagi720你为什么把我的大号给屏蔽了，有哪里冒犯到你吗，如果有的话可以给你道歉，希望可以原谅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 7426,
+          "like_count": 3225,
+          "listed_count": 6,
+          "media_count": 717,
+          "tweet_count": 2945
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T09:34:28.000Z",
+        "description": "Plus Ultra ｜这里是Luka的逃生舱，处理紧急事务用，不常更新｜号主@LMegurine03｜前世@pNcYSzDUsc75790 @pNcYSzDUsc81146 @pNcYSzDUsc81147",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "LMegurine03"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "pNcYSzDUsc75790"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "pNcYSzDUsc81146"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "pNcYSzDUsc81147"
+              }
+            ]
+          }
+        },
+        "id": "1697181010914639872",
+        "location": "Napoli，Italia ",
+        "name": "坂下 ちはる",
+        "pinned_tweet_id": "1829694214898344428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935099724069281792/UkFacmR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 2951,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 134
+        },
+        "username": "SChiharu20",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T05:22:53.000Z",
+        "description": "cn白鹭 170cm/60kg 我爱你们 QQ2056024560 不扩纯三次\n同好可加 别太虾头的话我还是很好讲话的\n涩涩是纯爱好",
+        "id": "1821416741735735296",
+        "location": "梦境",
+        "name": "白鹭终将孤独",
+        "pinned_tweet_id": "1934346736551813569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929238965519097856/TnoatLRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 592,
+          "like_count": 2255,
+          "listed_count": 12,
+          "media_count": 15,
+          "tweet_count": 85
+        },
+        "username": "shirasagi720",
+        "verified": false
+      }
+    ]
+  }
+}

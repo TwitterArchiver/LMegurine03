@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1941837418526872037",
+    "created_at": "2025-07-07T06:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T07:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942104471708045559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892152061653028866",
+          "start": 0,
+          "username": "SuperShrimp9000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942104471708045559",
+    "in_reply_to_user_id": "1892152061653028866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941837418526872037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuperShrimp9000 风待八舞（不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1941837418526872037",
+        "created_at": "2025-07-07T06:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T07:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942104471708045559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892152061653028866",
+              "start": 0,
+              "username": "SuperShrimp9000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942104471708045559",
+        "in_reply_to_user_id": "1892152061653028866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941837418526872037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuperShrimp9000 风待八舞（不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892152061653028866",
+        "conversation_id": "1941837418526872037",
+        "created_at": "2025-07-06T12:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T13:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941837418526872037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941837418526872037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 39919,
+          "like_count": 267,
+          "quote_count": 7,
+          "reply_count": 183,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虾查了下发现还真有“风”这个姓，有这姓起什么名字都好听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 7399,
+          "like_count": 3518,
+          "listed_count": 4,
+          "media_count": 761,
+          "tweet_count": 3267
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T10:00:03.000Z",
+        "description": "進化した最強エビ、君の老北京美食、グラ姫のお菓子\nMega Ebi bigger then big, Your traditional Yuyan meal, Gura's snack\n前菜/Appetiser: @BigFreshShrimp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "BigFreshShrimp"
+              }
+            ]
+          }
+        },
+        "id": "1892152061653028866",
+        "name": "SuperShrimp9000+",
+        "pinned_tweet_id": "1892161554013093935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912398191841988608/UcPyhO0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 495,
+          "like_count": 27527,
+          "listed_count": 4,
+          "media_count": 1400,
+          "tweet_count": 4476
+        },
+        "username": "SuperShrimp9000",
+        "verified": false
+      }
+    ]
+  }
+}

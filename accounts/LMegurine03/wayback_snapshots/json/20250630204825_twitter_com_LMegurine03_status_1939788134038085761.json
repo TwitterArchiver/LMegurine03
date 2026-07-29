@@ -1,0 +1,621 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1262471681345388544",
+          "name": "Florian Wirtz"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1303663877104705536",
+          "name": "Fabrizio Romano"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1262471681345388544",
+          "name": "Florian Wirtz"
+        }
+      },
+      {
+        "domain": {
+          "description": "A journalist like 'Anderson Cooper'",
+          "id": "94",
+          "name": "Journalist"
+        },
+        "entity": {
+          "id": "1303663877104705536",
+          "name": "Fabrizio Romano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports Figures",
+          "id": "1074755059433463813",
+          "name": "Sports journalists"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1262471681345388544",
+          "name": "Florian Wirtz"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303663877104705536",
+          "name": "Fabrizio Romano"
+        }
+      }
+    ],
+    "conversation_id": "1939788134038085761",
+    "created_at": "2025-06-30T20:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T21:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939788134038085761"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Florian Wirtz",
+          "probability": 0.9496,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "330262748",
+          "start": 3,
+          "username": "FabrizioRomano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939788134038085761",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4841
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936124477177233635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FabrizioRomano: 🚨 Florian Wirtz: “I’m so happy! I didn’t come here to have fun… I’m here to win everything”.\n\n“I would like to win ever…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_1936124470315360256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt5-8p4WoAA8jL5.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1262471681345388544",
+              "name": "Florian Wirtz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1262471681345388544",
+              "name": "Florian Wirtz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A journalist like 'Anderson Cooper'",
+              "id": "94",
+              "name": "Journalist"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1262471681345388544",
+              "name": "Florian Wirtz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          }
+        ],
+        "conversation_id": "1939788134038085761",
+        "created_at": "2025-06-30T20:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T21:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939788134038085761"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Florian Wirtz",
+              "probability": 0.9496,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "330262748",
+              "start": 3,
+              "username": "FabrizioRomano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939788134038085761",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4841
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936124477177233635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FabrizioRomano: 🚨 Florian Wirtz: “I’m so happy! I didn’t come here to have fun… I’m here to win everything”.\n\n“I would like to win ever…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936124470315360256"
+          ]
+        },
+        "author_id": "330262748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1262471681345388544",
+              "name": "Florian Wirtz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1262471681345388544",
+              "name": "Florian Wirtz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A journalist like 'Anderson Cooper'",
+              "id": "94",
+              "name": "Journalist"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1262471681345388544",
+              "name": "Florian Wirtz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          }
+        ],
+        "conversation_id": "1936124477177233635",
+        "created_at": "2025-06-20T18:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T19:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936124477177233635"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Florian Wirtz",
+              "probability": 0.9639,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSOMvw8MMs",
+              "end": 224,
+              "expanded_url": "https://x.com/FabrizioRomano/status/1936124477177233635/photo/1",
+              "media_key": "3_1936124470315360256",
+              "start": 201,
+              "url": "https://t.co/cSOMvw8MMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936124477177233635",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 666,
+          "impression_count": 2890429,
+          "like_count": 68352,
+          "quote_count": 399,
+          "reply_count": 780,
+          "retweet_count": 4841
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 Florian Wirtz: “I’m so happy! I didn’t come here to have fun… I’m here to win everything”.\n\n“I would like to win everything every year! First of all, we have to do our work, I have to make my work”. https://t.co/cSOMvw8MMs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 7502,
+          "like_count": 3433,
+          "listed_count": 4,
+          "media_count": 749,
+          "tweet_count": 3136
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-06T10:58:55.000Z",
+        "description": "Here we go! © fabrizio.romano93@gmail.com 📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@FabrizioRoman…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@FabrizioRomanoYT",
+                "start": 0,
+                "url": "https://t.co/btxI8gbc2z"
+              }
+            ]
+          }
+        },
+        "id": "330262748",
+        "location": "Milano, Italia",
+        "name": "Fabrizio Romano",
+        "pinned_tweet_id": "1929632962552721632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741753635158024192/j0m8Ucvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25036164,
+          "following_count": 2642,
+          "like_count": 11456,
+          "listed_count": 29118,
+          "media_count": 35351,
+          "tweet_count": 59913
+        },
+        "url": "https://t.co/btxI8gbc2z",
+        "username": "FabrizioRomano",
+        "verified": true
+      }
+    ]
+  }
+}

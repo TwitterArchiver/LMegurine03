@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2069500811596693856",
+    "created_at": "2026-06-23T19:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T20:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069500811596693856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fiona_Coyn3/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Fiona_Coyn3/status/2068712846532424143",
+          "start": 12,
+          "url": "https://t.co/9mPj1pEizM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069500811596693856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068712846532424143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看过那个，确实好恐怖（ https://t.co/9mPj1pEizM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1466,
+        "media_key": "3_2068712838089285632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWLXaCaIAA75Vz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2069500811596693856",
+        "created_at": "2026-06-23T19:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069500811596693856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fiona_Coyn3/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Fiona_Coyn3/status/2068712846532424143",
+              "start": 12,
+              "url": "https://t.co/9mPj1pEizM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069500811596693856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068712846532424143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看过那个，确实好恐怖（ https://t.co/9mPj1pEizM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068712838089285632"
+          ]
+        },
+        "author_id": "1963694775770685440",
+        "conversation_id": "2068712846532424143",
+        "created_at": "2026-06-21T15:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068712846532424143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jijWDVztkq",
+              "end": 28,
+              "expanded_url": "https://x.com/Fiona_Coyn3/status/2068712846532424143/photo/1",
+              "media_key": "3_2068712838089285632",
+              "start": 5,
+              "url": "https://t.co/jijWDVztkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068712846532424143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 414354,
+          "like_count": 919,
+          "quote_count": 1,
+          "reply_count": 57,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "輕鬆繃住 https://t.co/jijWDVztkq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4340,
+          "following_count": 7445,
+          "like_count": 7901,
+          "listed_count": 7,
+          "media_count": 1724,
+          "tweet_count": 6798
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T20:05:00.000Z",
+        "description": "预备役個人勢vtuber\n目前的戀人@7zip33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "7zip33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rlj8mjsb5ypk9n…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rlj8mjsb5ypk9nm?t=OzCbre&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/YTE3M9naBr"
+              }
+            ]
+          }
+        },
+        "id": "1963694775770685440",
+        "location": "中南海",
+        "name": "49 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2012465630654484482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053059149144240128/66WKW1f2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 79,
+          "like_count": 7191,
+          "listed_count": 7,
+          "media_count": 550,
+          "tweet_count": 4199
+        },
+        "url": "https://t.co/YTE3M9naBr",
+        "username": "Fiona_Coyn3",
+        "verified": true
+      }
+    ]
+  }
+}

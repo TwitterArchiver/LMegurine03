@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2067626098100424819",
+    "created_at": "2026-06-18T17:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067657113984467188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805876397992460288",
+          "start": 0,
+          "username": "Patrick11451419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067657113984467188",
+    "in_reply_to_user_id": "1805876397992460288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067642113567912346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Patrick11451419 好🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2067626098100424819",
+        "created_at": "2026-06-18T17:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067657113984467188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805876397992460288",
+              "start": 0,
+              "username": "Patrick11451419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067657113984467188",
+        "in_reply_to_user_id": "1805876397992460288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067642113567912346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Patrick11451419 好🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805876397992460288",
+        "conversation_id": "2067626098100424819",
+        "created_at": "2026-06-18T16:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067642113567912346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067642113567912346",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067626098100424819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 注意身体哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4308,
+          "following_count": 7412,
+          "like_count": 7675,
+          "listed_count": 7,
+          "media_count": 1692,
+          "tweet_count": 6735
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T08:11:16.000Z",
+        "description": "",
+        "id": "1805876397992460288",
+        "location": "我不到啊",
+        "name": "Glycerol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057798449685504000/pKbAlPXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 99,
+          "like_count": 5342,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "Patrick11451419",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1919422328653426997",
+    "created_at": "2025-05-05T16:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T17:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919422328653426997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602663153623388161",
+          "start": 3,
+          "username": "knd_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919422328653426997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有认识@knd_8964的吗，谁能帮我问一下他我是哪里惹到他了，之前还是互关来着怎么就把我屏蔽了，我其实还蛮在意的，如果真的有什么事情的话我可以给他道歉，要是哪里让他讨厌了或者不原谅我回应我一下也行，我现在解开，不回ban他了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1919422328653426997",
+        "created_at": "2025-05-05T16:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T17:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919422328653426997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602663153623388161",
+              "start": 3,
+              "username": "knd_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919422328653426997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有认识@knd_8964的吗，谁能帮我问一下他我是哪里惹到他了，之前还是互关来着怎么就把我屏蔽了，我其实还蛮在意的，如果真的有什么事情的话我可以给他道歉，要是哪里让他讨厌了或者不原谅我回应我一下也行，我现在解开，不回ban他了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 6902,
+          "like_count": 2103,
+          "listed_count": 3,
+          "media_count": 535,
+          "tweet_count": 2200
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907138834435096576/jxo8AWHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3233,
+          "following_count": 4280,
+          "like_count": 71096,
+          "listed_count": 11,
+          "media_count": 3721,
+          "tweet_count": 10406
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

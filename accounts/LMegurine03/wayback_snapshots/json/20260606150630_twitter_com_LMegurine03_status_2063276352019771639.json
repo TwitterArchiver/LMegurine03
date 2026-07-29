@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2063276352019771639",
+    "created_at": "2026-06-06T15:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063276352019771639"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063276352019771639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前几天去把智齿拔了（另一边也有阻生但是不着急处理），很庆幸那个位置用高速涡轮机做的话刚好不用缝针，拔牙之前吃了两片布洛芬，也几乎没有特别剧烈的疼，就是恢复的时候包括吃饭和一些活动在内的很多事情做不了会有点难受，现在功能恢复大半了，明天再去复诊一下就可以了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2063276352019771639",
+        "created_at": "2026-06-06T15:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063276352019771639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063276352019771639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天去把智齿拔了（另一边也有阻生但是不着急处理），很庆幸那个位置用高速涡轮机做的话刚好不用缝针，拔牙之前吃了两片布洛芬，也几乎没有特别剧烈的疼，就是恢复的时候包括吃饭和一些活动在内的很多事情做不了会有点难受，现在功能恢复大半了，明天再去复诊一下就可以了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4225,
+          "following_count": 7329,
+          "like_count": 7538,
+          "listed_count": 7,
+          "media_count": 1643,
+          "tweet_count": 6577
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1940003848002674689",
+        "7_1940003898149715968"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1940004117025313212",
+    "created_at": "2025-07-01T11:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T12:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940004117025313212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hOvsQYzIla",
+          "end": 66,
+          "expanded_url": "https://x.com/LMegurine03/status/1940004117025313212/video/1",
+          "media_key": "7_1940003848002674689",
+          "start": 43,
+          "url": "https://t.co/hOvsQYzIla"
+        },
+        {
+          "display_url": "pic.x.com/hOvsQYzIla",
+          "end": 66,
+          "expanded_url": "https://x.com/LMegurine03/status/1940004117025313212/video/1",
+          "media_key": "7_1940003898149715968",
+          "start": 43,
+          "url": "https://t.co/hOvsQYzIla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940004117025313212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "短时强降雨雷暴行车第一视角……幸亏那个时候不是晚高峰，不然都不一定回得去（忽略BGM https://t.co/hOvsQYzIla"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22637,
+        "height": 720,
+        "media_key": "7_1940003848002674689",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1940003848002674689/pu/img/IGpumFkwrNbz3uDg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940003848002674689/pu/vid/avc1/480x270/E-LsbTP6t74v3kJ1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940003848002674689/pu/vid/avc1/640x360/0j5ADTDqdIFoBKHM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940003848002674689/pu/vid/avc1/1280x720/v5PyoUfNaUlzHf8U.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1940003848002674689/pu/pl/mVuWGaoPIr6duG9s.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 62109,
+        "height": 720,
+        "media_key": "7_1940003898149715968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1940003898149715968/pu/img/C-gNpIY3v3JcdIkp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940003898149715968/pu/vid/avc1/480x270/pksj-BaopK0IkrVf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940003898149715968/pu/vid/avc1/640x360/LTqAeK_WEBwfzSAI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940003898149715968/pu/vid/avc1/1280x720/XxqZuh5bz1v0yDHl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1940003898149715968/pu/pl/_RVackuZb-feYovD.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1940003848002674689",
+            "7_1940003898149715968"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1940004117025313212",
+        "created_at": "2025-07-01T11:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940004117025313212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOvsQYzIla",
+              "end": 66,
+              "expanded_url": "https://x.com/LMegurine03/status/1940004117025313212/video/1",
+              "media_key": "7_1940003848002674689",
+              "start": 43,
+              "url": "https://t.co/hOvsQYzIla"
+            },
+            {
+              "display_url": "pic.x.com/hOvsQYzIla",
+              "end": 66,
+              "expanded_url": "https://x.com/LMegurine03/status/1940004117025313212/video/1",
+              "media_key": "7_1940003898149715968",
+              "start": 43,
+              "url": "https://t.co/hOvsQYzIla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940004117025313212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "短时强降雨雷暴行车第一视角……幸亏那个时候不是晚高峰，不然都不一定回得去（忽略BGM https://t.co/hOvsQYzIla"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 7399,
+          "like_count": 3441,
+          "listed_count": 4,
+          "media_count": 750,
+          "tweet_count": 3142
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

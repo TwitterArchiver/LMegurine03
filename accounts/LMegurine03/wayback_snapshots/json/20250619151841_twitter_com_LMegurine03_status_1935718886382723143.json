@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1935643255603098058",
+    "created_at": "2025-06-19T15:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T16:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935718886382723143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781280811804983296",
+          "start": 0,
+          "username": "xngmng8810529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935718886382723143",
+    "in_reply_to_user_id": "1781280811804983296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935644702612869619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xngmng8810529 这个是真有实力，目前没看到其他的能上这个分数的（用文字提示的不算）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935644698938400768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzKmSOXYAA99_Y.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1935643255603098058",
+        "created_at": "2025-06-19T15:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935718886382723143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781280811804983296",
+              "start": 0,
+              "username": "xngmng8810529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935718886382723143",
+        "in_reply_to_user_id": "1781280811804983296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935644702612869619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xngmng8810529 这个是真有实力，目前没看到其他的能上这个分数的（用文字提示的不算）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935644698938400768"
+          ]
+        },
+        "author_id": "1781280811804983296",
+        "conversation_id": "1935643255603098058",
+        "created_at": "2025-06-19T10:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935644702612869619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CuugmTck5L",
+              "end": 38,
+              "expanded_url": "https://x.com/xngmng8810529/status/1935644702612869619/photo/1",
+              "media_key": "3_1935644698938400768",
+              "start": 15,
+              "url": "https://t.co/CuugmTck5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935644702612869619",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935643255603098058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 😋 https://t.co/CuugmTck5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2298,
+          "following_count": 7410,
+          "like_count": 3209,
+          "listed_count": 6,
+          "media_count": 714,
+          "tweet_count": 2933
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T11:18:06.000Z",
+        "description": "無事",
+        "id": "1781280811804983296",
+        "location": "在你家",
+        "name": "姓名",
+        "pinned_tweet_id": "1913840353163268194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901562614158954496/8l--soq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 394,
+          "like_count": 29381,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 2421
+        },
+        "username": "xngmng8810529",
+        "verified": false
+      }
+    ]
+  }
+}

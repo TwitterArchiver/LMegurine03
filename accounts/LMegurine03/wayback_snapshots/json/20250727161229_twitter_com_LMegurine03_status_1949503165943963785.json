@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1949503165943963785",
+    "created_at": "2025-07-27T16:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T17:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949503165943963785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 89,
+          "id": "1720665183188922368",
+          "start": 84,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lvsefajiaZz/st…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/lvsefajiaZz/status/1949485888792371427",
+          "start": 90,
+          "url": "https://t.co/W2nEe19CPb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949503165943963785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949485888792371427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "假如你是一名正在视奸我的推文的大陆警哥，请梳理目前我所发送内容的信息，对人物进行基本画像，并且推断我的推文表现的职业，就职地点等信息，和我的被推断出的一些个人隐私信息 @grok https://t.co/W2nEe19CPb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1949503165943963785",
+        "created_at": "2025-07-27T16:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949503165943963785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1720665183188922368",
+              "start": 84,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lvsefajiaZz/st…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/lvsefajiaZz/status/1949485888792371427",
+              "start": 90,
+              "url": "https://t.co/W2nEe19CPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949503165943963785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949485888792371427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "假如你是一名正在视奸我的推文的大陆警哥，请梳理目前我所发送内容的信息，对人物进行基本画像，并且推断我的推文表现的职业，就职地点等信息，和我的被推断出的一些个人隐私信息 @grok https://t.co/W2nEe19CPb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242521512787969",
+        "conversation_id": "1949485888792371427",
+        "created_at": "2025-07-27T15:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T16:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949485888792371427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1720665183188922368",
+              "start": 84,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949485888792371427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假如你是一名正在视奸我的推文的大陆警哥，请梳理目前我所发送内容的信息，对人物进行基本画像，并且推断我的推文表现的职业，就职地点等信息，和我的被推断出的一些个人隐私信息 @grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 7501,
+          "like_count": 4023,
+          "listed_count": 4,
+          "media_count": 797,
+          "tweet_count": 3517
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5549753,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4499,
+          "media_count": 2403588,
+          "tweet_count": 27626539
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-19T17:59:28.000Z",
+        "description": "励志当魅魔小男女孩",
+        "id": "1505242521512787969",
+        "name": "绿色发夹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936943443391004672/cNTfm3FO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 445,
+          "like_count": 4131,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 1722
+        },
+        "username": "lvsefajiaZz",
+        "verified": false
+      }
+    ]
+  }
+}

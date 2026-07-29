@@ -1,0 +1,709 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1929624969740161025"
+      ],
+      "media_source_tweet_id": [
+        "1929625011217653932"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774032592506880",
+          "name": "Luis Enrique "
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226166627966976",
+          "name": "Paris Saint-Germain"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774032592506880",
+          "name": "Luis Enrique "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226166627966976",
+          "name": "Paris Saint-Germain"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774032592506880",
+          "name": "Luis Enrique "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1285942425861545984",
+          "name": "Sports figures"
+        }
+      }
+    ],
+    "conversation_id": "1929843974296006740",
+    "created_at": "2025-06-03T10:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T11:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929843974296006740"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 55,
+          "normalized_text": "Luis Enrique",
+          "probability": 0.94,
+          "start": 44,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2182274466",
+          "start": 3,
+          "username": "PSGbrasil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s2A79bIaW1",
+          "end": 84,
+          "expanded_url": "https://x.com/PSGbrasil/status/1929625011217653932/video/1",
+          "media_key": "7_1929624969740161025",
+          "start": 61,
+          "url": "https://t.co/s2A79bIaW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929843974296006740",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929625011217653932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PSGbrasil: Eu e meus manos somos fãs de Luis Enrique ❤️💙 https://t.co/s2A79bIaW1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19086,
+        "height": 1920,
+        "media_key": "7_1929624969740161025",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929624969740161025/pu/img/R6UDzj42lZFpwlYM.jpg",
+        "public_metrics": {
+          "view_count": 672
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929624969740161025/pu/vid/avc1/320x568/W7Dpd7CWuLKmJpUS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929624969740161025/pu/vid/avc1/480x852/Q_4Mdjfen4vAoHtX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929624969740161025/pu/vid/avc1/720x1280/eCedd95N8Ee_dvPD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929624969740161025/pu/pl/g0mCksd6f3D2o0ey.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929624969740161025"
+          ],
+          "media_source_tweet_id": [
+            "1929625011217653932"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774032592506880",
+              "name": "Luis Enrique "
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774032592506880",
+              "name": "Luis Enrique "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774032592506880",
+              "name": "Luis Enrique "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          }
+        ],
+        "conversation_id": "1929843974296006740",
+        "created_at": "2025-06-03T10:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T11:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929843974296006740"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Luis Enrique",
+              "probability": 0.94,
+              "start": 44,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2182274466",
+              "start": 3,
+              "username": "PSGbrasil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2A79bIaW1",
+              "end": 84,
+              "expanded_url": "https://x.com/PSGbrasil/status/1929625011217653932/video/1",
+              "media_key": "7_1929624969740161025",
+              "start": 61,
+              "url": "https://t.co/s2A79bIaW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929843974296006740",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929625011217653932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PSGbrasil: Eu e meus manos somos fãs de Luis Enrique ❤️💙 https://t.co/s2A79bIaW1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929624969740161025"
+          ]
+        },
+        "author_id": "2182274466",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774032592506880",
+              "name": "Luis Enrique "
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774032592506880",
+              "name": "Luis Enrique "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774032592506880",
+              "name": "Luis Enrique "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Tudo aconteceu no segundo tempo! Oyarzabal abriu o placar para os espanhóis, mas os campeões do mundo mostraram de novo todo seu poder ao virar o jogo com gols Benzema e Mbappé.\n\nVeja abaixo as conversas sobre a partida. O conteúdo é detectado por algoritmo.",
+              "id": "1447295468027797504",
+              "name": "França bate a Espanha de virada e leva o título da Liga das Nações ⚽️🏆"
+            }
+          }
+        ],
+        "conversation_id": "1929625011217653932",
+        "created_at": "2025-06-02T19:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T20:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929625011217653932"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Luis Enrique",
+              "probability": 0.9434,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2A79bIaW1",
+              "end": 69,
+              "expanded_url": "https://x.com/PSGbrasil/status/1929625011217653932/video/1",
+              "media_key": "7_1929624969740161025",
+              "start": 46,
+              "url": "https://t.co/s2A79bIaW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929625011217653932",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2603,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Eu e meus manos somos fãs de Luis Enrique ❤️💙 https://t.co/s2A79bIaW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 7499,
+          "like_count": 2956,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 2725
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-08T14:08:04.000Z",
+        "description": "🇫🇷@PSG_Inside🇬🇧🇺🇸@PSG_English🇪🇸🇺🇾🇦🇷🇪🇨@PSG_Espanol🇶🇦@PSG_Arab🇮🇩@PSGIndonesia🇯🇵@PSGJapan🇰🇷@PSG_KR👱‍♀@PSG_Feminines🥋@PSG_Judo🤾@PSGHand",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "PSG_Inside"
+              },
+              {
+                "end": 29,
+                "start": 17,
+                "username": "PSG_English"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "PSG_Espanol"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "PSG_Arab"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "PSGIndonesia"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "PSGJapan"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "username": "PSG_KR"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "PSG_Feminines"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "PSG_Judo"
+              },
+              {
+                "end": 131,
+                "start": 123,
+                "username": "PSGHand"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanzone.me/psg",
+                "end": 23,
+                "expanded_url": "https://fanzone.me/psg",
+                "start": 0,
+                "url": "https://t.co/Oj2IpNE3tG"
+              }
+            ]
+          }
+        },
+        "id": "2182274466",
+        "location": "Parc des Princes, Paris",
+        "name": "Paris Saint-Germain",
+        "pinned_tweet_id": "1928926667507999223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809198690990735360/lXxD0ahb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626014,
+          "following_count": 119,
+          "like_count": 3311,
+          "listed_count": 328,
+          "media_count": 22813,
+          "tweet_count": 38566
+        },
+        "url": "https://t.co/Oj2IpNE3tG",
+        "username": "PSGbrasil",
+        "verified": true
+      }
+    ]
+  }
+}

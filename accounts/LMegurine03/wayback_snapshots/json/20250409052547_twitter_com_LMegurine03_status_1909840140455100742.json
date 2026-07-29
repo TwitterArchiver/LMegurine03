@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1909615625351364662",
+    "created_at": "2025-04-09T05:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T06:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909840140455100742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1597915145405026304",
+          "start": 0,
+          "username": "hutomomogayiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909840140455100742",
+    "in_reply_to_user_id": "1597915145405026304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909836230545830005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hutomomogayiyi 尽量控制在一年半"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1909615625351364662",
+        "created_at": "2025-04-09T05:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T06:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909840140455100742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597915145405026304",
+              "start": 0,
+              "username": "hutomomogayiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909840140455100742",
+        "in_reply_to_user_id": "1597915145405026304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909836230545830005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hutomomogayiyi 尽量控制在一年半"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597915145405026304",
+        "conversation_id": "1909615625351364662",
+        "created_at": "2025-04-09T05:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T06:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909836230545830005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909836230545830005",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909828331891261656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 語言學校讀多久呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 5512,
+          "like_count": 1776,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T11:27:24.000Z",
+        "description": "夢を果たしゃいい。日本語も英語もフランス語もできる私、リオのために続いて習っていて、何回何度会う時は始めるの？",
+        "id": "1597915145405026304",
+        "location": "日本",
+        "name": "ふとももがいい🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597918612659982336/0bLESpBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 5,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 375
+        },
+        "username": "hutomomogayiyi",
+        "verified": false
+      }
+    ]
+  }
+}

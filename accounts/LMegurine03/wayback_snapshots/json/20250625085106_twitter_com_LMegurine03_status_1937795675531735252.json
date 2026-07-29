@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1937726749325889860",
+    "created_at": "2025-06-25T08:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T09:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937795675531735252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937795675531735252",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937726749325889860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 我想没什么办法了，走的越远越好吧，虽然这种对待说不公都有点轻了，但是指望他们道歉悔改就像做梦一样，强行逼迫还容易惹上麻烦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2087,
+        "media_key": "3_1937726611152850944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuQwFhmWUAAvtzW.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1937726749325889860",
+        "created_at": "2025-06-25T08:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T09:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937795675531735252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937795675531735252",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937726749325889860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 我想没什么办法了，走的越远越好吧，虽然这种对待说不公都有点轻了，但是指望他们道歉悔改就像做梦一样，强行逼迫还容易惹上麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937726611152850944"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1937726749325889860",
+        "created_at": "2025-06-25T04:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T05:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937726749325889860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFQPKFFgp1",
+              "end": 44,
+              "expanded_url": "https://x.com/jianlvup/status/1937726749325889860/photo/1",
+              "media_key": "3_1937726611152850944",
+              "start": 21,
+              "url": "https://t.co/KFQPKFFgp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937726749325889860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒桌上，领导把酒泼在你脸上，你如何应对？ https://t.co/KFQPKFFgp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2375,
+          "following_count": 7428,
+          "like_count": 3276,
+          "listed_count": 4,
+          "media_count": 738,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "jianlvya"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1937394106587590662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3869,
+          "following_count": 981,
+          "like_count": 16674,
+          "listed_count": 10,
+          "media_count": 710,
+          "tweet_count": 1731
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

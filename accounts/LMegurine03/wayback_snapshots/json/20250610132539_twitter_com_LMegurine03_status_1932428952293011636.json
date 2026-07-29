@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1932394115465113776",
+    "created_at": "2025-06-10T13:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T14:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932428952293011636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1694068450220744707",
+          "start": 0,
+          "username": "YS97OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932428952293011636",
+    "in_reply_to_user_id": "1694068450220744707",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932394115465113776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YS97OwO 221"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932394105260453891",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtE-M1IbsAMOt73.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1932394115465113776",
+        "created_at": "2025-06-10T13:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T14:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932428952293011636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1694068450220744707",
+              "start": 0,
+              "username": "YS97OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932428952293011636",
+        "in_reply_to_user_id": "1694068450220744707",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932394115465113776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YS97OwO 221"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932394105260453891"
+          ]
+        },
+        "author_id": "1694068450220744707",
+        "conversation_id": "1932394115465113776",
+        "created_at": "2025-06-10T11:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T12:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932394115465113776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaiepNQfEJ",
+              "end": 42,
+              "expanded_url": "https://x.com/YS97OwO/status/1932394115465113776/photo/1",
+              "media_key": "3_1932394105260453891",
+              "start": 19,
+              "url": "https://t.co/NaiepNQfEJ"
+            },
+            {
+              "display_url": "x.com/HoshikawaNF/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/HoshikawaNF/status/1932338615339909365",
+              "start": 43,
+              "url": "https://t.co/Bb4P9iNkjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932394115465113776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932338615339909365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要玩\n你关注的人有多少人关注了我 https://t.co/NaiepNQfEJ https://t.co/Bb4P9iNkjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，没回关可以私信提醒｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 7396,
+          "like_count": 3093,
+          "listed_count": 6,
+          "media_count": 687,
+          "tweet_count": 2818
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T19:26:15.000Z",
+        "description": "🇨🇳大学生一名/轻小说&漫画&音游🥰/#maimai #Arcaea #CHUNITHM #Phigros #プロセカ/PCR BA HBR 星铁 PokePoke/Bilibili同名/互fo🉑/小号：①bluesky：https://t.co/XjEX0sUhIc  ②@ys97O_O（里）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "maimai"
+              },
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "Arcaea"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "tag": "CHUNITHM"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "Phigros"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 145,
+                "start": 137,
+                "username": "ys97O_O"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ys1230.bsky.social",
+                "end": 134,
+                "expanded_url": "http://ys1230.bsky.social",
+                "start": 111,
+                "url": "https://t.co/XjEX0sUhIc"
+              }
+            ]
+          }
+        },
+        "id": "1694068450220744707",
+        "name": "游笙OwO",
+        "pinned_tweet_id": "1854553242308686210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 3644,
+          "like_count": 73321,
+          "listed_count": 6,
+          "media_count": 2739,
+          "tweet_count": 25334
+        },
+        "username": "YS97OwO",
+        "verified": false
+      }
+    ]
+  }
+}

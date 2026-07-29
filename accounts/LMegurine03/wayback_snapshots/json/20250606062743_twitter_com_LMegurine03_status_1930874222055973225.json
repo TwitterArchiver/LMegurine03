@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930681461075484672"
+      ],
+      "media_source_tweet_id": [
+        "1930681465945100646"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226204225708033",
+          "name": "Chelsea FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226204225708033",
+          "name": "Chelsea FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1930874222055973225",
+    "created_at": "2025-06-06T06:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T07:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930874222055973225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "22910295",
+          "start": 3,
+          "username": "ChelseaFC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PjlQA0CMvG",
+          "end": 84,
+          "expanded_url": "https://x.com/ChelseaFC/status/1930681465945100646/photo/1",
+          "media_key": "3_1930681461075484672",
+          "start": 61,
+          "url": "https://t.co/PjlQA0CMvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930874222055973225",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1099
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930681465945100646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChelseaFC: Celebrating Pride Month with our community. 💙 https://t.co/PjlQA0CMvG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1930681461075484672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gssoj0XWIAAVKvb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930681461075484672"
+          ],
+          "media_source_tweet_id": [
+            "1930681465945100646"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1930874222055973225",
+        "created_at": "2025-06-06T06:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T07:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930874222055973225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "22910295",
+              "start": 3,
+              "username": "ChelseaFC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PjlQA0CMvG",
+              "end": 84,
+              "expanded_url": "https://x.com/ChelseaFC/status/1930681465945100646/photo/1",
+              "media_key": "3_1930681461075484672",
+              "start": 61,
+              "url": "https://t.co/PjlQA0CMvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930874222055973225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1099
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930681465945100646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChelseaFC: Celebrating Pride Month with our community. 💙 https://t.co/PjlQA0CMvG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930681461075484672"
+          ]
+        },
+        "author_id": "22910295",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226204225708033",
+              "name": "Chelsea FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1930681465945100646",
+        "created_at": "2025-06-05T17:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T18:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930681465945100646"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Pride Month",
+              "probability": 0.554,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PjlQA0CMvG",
+              "end": 69,
+              "expanded_url": "https://x.com/ChelseaFC/status/1930681465945100646/photo/1",
+              "media_key": "3_1930681461075484672",
+              "start": 46,
+              "url": "https://t.co/PjlQA0CMvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930681465945100646",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 688349,
+          "like_count": 11431,
+          "quote_count": 353,
+          "reply_count": 1525,
+          "retweet_count": 1099
+        },
+        "reply_settings": "everyone",
+        "text": "Celebrating Pride Month with our community. 💙 https://t.co/PjlQA0CMvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 7497,
+          "like_count": 3011,
+          "listed_count": 5,
+          "media_count": 671,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-05T11:54:25.000Z",
+        "description": "WE’VE WON IT ALLLLL 🎶🏆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chelseafc",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chelseafc",
+                "start": 0,
+                "url": "https://t.co/ly4dgTgaOC"
+              }
+            ]
+          }
+        },
+        "id": "22910295",
+        "location": "Stamford Bridge",
+        "name": "Chelsea FC",
+        "pinned_tweet_id": "1930354625242370455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923272578371665920/wx3y-YCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26242349,
+          "following_count": 265,
+          "like_count": 19055,
+          "listed_count": 28802,
+          "media_count": 41384,
+          "tweet_count": 124204
+        },
+        "url": "https://t.co/ly4dgTgaOC",
+        "username": "ChelseaFC",
+        "verified": true
+      }
+    ]
+  }
+}

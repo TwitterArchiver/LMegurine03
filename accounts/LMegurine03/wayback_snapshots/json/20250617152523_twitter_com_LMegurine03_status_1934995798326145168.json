@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1934927119626412319",
+    "created_at": "2025-06-17T15:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T16:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934995798326145168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768487038645678080",
+          "start": 0,
+          "username": "Yamada_Ryo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934995798326145168",
+    "in_reply_to_user_id": "1768487038645678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934927119626412319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamada_Ryo4 这个我是这么理解的，明治时期将首都功能转移至东京的时候，还没有宪法规定首都的概念，按照惯例来说就是皇居所在地为首都，但是这个时候并没有明确是否延续惯例，也没有宪法的支持，所以理论上来说确实没有首都，但是东京具有首都职能，在日常语境下也通常性的被当做首都对待，所以一直也没有立法动机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1934927119626412319",
+        "created_at": "2025-06-17T15:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934995798326145168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934995798326145168",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934927119626412319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryo4 这个我是这么理解的，明治时期将首都功能转移至东京的时候，还没有宪法规定首都的概念，按照惯例来说就是皇居所在地为首都，但是这个时候并没有明确是否延续惯例，也没有宪法的支持，所以理论上来说确实没有首都，但是东京具有首都职能，在日常语境下也通常性的被当做首都对待，所以一直也没有立法动机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1934927119626412319",
+        "created_at": "2025-06-17T10:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T11:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934927119626412319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/paooo79/status…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/paooo79/status/1934777573910934011",
+              "start": 95,
+              "url": "https://t.co/nNdhAUyRuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934927119626412319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1023,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934777573910934011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我初中的时候地理课讲到日本，老师说日本首都是东京，我纠正老师日本没有法定首都，然后老师在那狗叫说就是有，然后一群傻逼同学说我营销号看多了😅\n从那以后我就变成了支黑，支那人没有一个是无辜的😡 https://t.co/nNdhAUyRuY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 7499,
+          "like_count": 3194,
+          "listed_count": 6,
+          "media_count": 705,
+          "tweet_count": 2916
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": "🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜逃生艙 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY｜🚪：1 ₿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 103,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 80,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yamadaryo.me",
+                "end": 23,
+                "expanded_url": "https://yamadaryo.me",
+                "start": 0,
+                "url": "https://t.co/czFMqdFO4N"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3408,
+          "following_count": 639,
+          "like_count": 11059,
+          "listed_count": 16,
+          "media_count": 1207,
+          "tweet_count": 6523
+        },
+        "url": "https://t.co/czFMqdFO4N",
+        "username": "Yamada_Ryo4",
+        "verified": false
+      }
+    ]
+  }
+}

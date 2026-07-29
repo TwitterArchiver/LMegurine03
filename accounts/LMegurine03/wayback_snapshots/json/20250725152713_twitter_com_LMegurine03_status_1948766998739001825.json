@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948766995811631105"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1948766998739001825",
+    "created_at": "2025-07-25T15:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T16:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948766998739001825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I5dznStjTZ",
+          "end": 83,
+          "expanded_url": "https://x.com/LMegurine03/status/1948766998739001825/photo/1",
+          "media_key": "3_1948766995811631105",
+          "start": 60,
+          "url": "https://t.co/I5dznStjTZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948766998739001825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "话说粉丝得达到多少才能突破7500的关注限制……隔几天就批量取关一批人然后再去关注新的看来是行不通的，已经被平台警告了 https://t.co/I5dznStjTZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_1948766995811631105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtpQfdbgAEAJQu.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948766995811631105"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1948766998739001825",
+        "created_at": "2025-07-25T15:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T16:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948766998739001825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5dznStjTZ",
+              "end": 83,
+              "expanded_url": "https://x.com/LMegurine03/status/1948766998739001825/photo/1",
+              "media_key": "3_1948766995811631105",
+              "start": 60,
+              "url": "https://t.co/I5dznStjTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948766998739001825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说粉丝得达到多少才能突破7500的关注限制……隔几天就批量取关一批人然后再去关注新的看来是行不通的，已经被平台警告了 https://t.co/I5dznStjTZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 4,
+          "media_count": 793,
+          "tweet_count": 3468
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

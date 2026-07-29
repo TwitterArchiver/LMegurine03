@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1926568619715989888",
+    "created_at": "2025-05-25T09:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T10:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926578209195278705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832707938764705792",
+          "start": 0,
+          "username": "shanqi114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926578209195278705",
+    "in_reply_to_user_id": "1832707938764705792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926577884832936308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanqi114514 不可能的啦，为什么要取关（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1926568619715989888",
+        "created_at": "2025-05-25T09:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T10:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926578209195278705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832707938764705792",
+              "start": 0,
+              "username": "shanqi114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926578209195278705",
+        "in_reply_to_user_id": "1832707938764705792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926577884832936308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanqi114514 不可能的啦，为什么要取关（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832707938764705792",
+        "conversation_id": "1926568619715989888",
+        "created_at": "2025-05-25T09:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T10:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926577884832936308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926577884832936308",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926568619715989888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 你已经关注我了，那我再发评论，那你会取关我吗？🤯🤯🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 7499,
+          "like_count": 2590,
+          "listed_count": 3,
+          "media_count": 633,
+          "tweet_count": 2591
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T09:10:05.000Z",
+        "description": "初中生小牢底，♂，欢迎各位选择性骚扰，注：不是同（其实花子也不错）有要加我的话我的🚪就一块吧，不约，还有点嘴臭，除了钱以外，什么都有，但也什么都没有，最爱漫画《电锯人》（限第一部，最爱漫画家，藤本树",
+        "id": "1832707938764705792",
+        "name": "bro感觉不如蕾塞",
+        "pinned_tweet_id": "1918221377607483412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920988437584523264/auJqh11D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 295,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1134
+        },
+        "username": "shanqi114514",
+        "verified": false
+      }
+    ]
+  }
+}

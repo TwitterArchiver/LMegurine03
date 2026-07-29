@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927645908386390016"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1927406887835750799",
+    "created_at": "2025-05-28T08:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T09:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927645910991032428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1304754976158175232",
+          "start": 0,
+          "username": "Aed31526173"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EfNIslMcz9",
+          "end": 36,
+          "expanded_url": "https://x.com/LMegurine03/status/1927645910991032428/photo/1",
+          "media_key": "3_1927645908386390016",
+          "start": 13,
+          "url": "https://t.co/EfNIslMcz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927645910991032428",
+    "in_reply_to_user_id": "1304754976158175232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 43,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927406887835750799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aed31526173 https://t.co/EfNIslMcz9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_1927645908386390016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsBfvZYbIAA5V79.jpg",
+        "width": 608
+      },
+      {
+        "height": 539,
+        "media_key": "3_1927406884543188992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr-GWYLW0AAkcED.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927645908386390016"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1927406887835750799",
+        "created_at": "2025-05-28T08:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T09:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927645910991032428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1304754976158175232",
+              "start": 0,
+              "username": "Aed31526173"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfNIslMcz9",
+              "end": 36,
+              "expanded_url": "https://x.com/LMegurine03/status/1927645910991032428/photo/1",
+              "media_key": "3_1927645908386390016",
+              "start": 13,
+              "url": "https://t.co/EfNIslMcz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927645910991032428",
+        "in_reply_to_user_id": "1304754976158175232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927406887835750799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aed31526173 https://t.co/EfNIslMcz9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927406884543188992"
+          ]
+        },
+        "author_id": "1304754976158175232",
+        "conversation_id": "1927406887835750799",
+        "created_at": "2025-05-27T16:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927406887835750799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qymLkVv9x",
+              "end": 23,
+              "expanded_url": "https://x.com/Aed31526173/status/1927406887835750799/photo/1",
+              "media_key": "3_1927406884543188992",
+              "start": 0,
+              "url": "https://t.co/3qymLkVv9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927406887835750799",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11037,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 110,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3qymLkVv9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 7502,
+          "like_count": 2649,
+          "listed_count": 3,
+          "media_count": 643,
+          "tweet_count": 2639
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-12T12:13:32.000Z",
+        "description": "我上推来就干三件事：看黄，看投稿，看梗图🤓\n如果我每天无所事事混吃等死，那我跟梦想成真有什么区别",
+        "id": "1304754976158175232",
+        "location": "1314km",
+        "name": "鼠啪黑肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741774165873737728/nHuFL7WG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5004,
+          "following_count": 305,
+          "like_count": 6274,
+          "listed_count": 14,
+          "media_count": 698,
+          "tweet_count": 1428
+        },
+        "username": "Aed31526173",
+        "verified": false
+      }
+    ]
+  }
+}

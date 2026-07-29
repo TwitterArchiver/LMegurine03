@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1909868451398926825",
+    "created_at": "2025-04-09T07:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T08:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909869589628166205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826129497714040832",
+          "start": 0,
+          "username": "CREZAN_FAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909869589628166205",
+    "in_reply_to_user_id": "1826129497714040832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909868451398926825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CREZAN_FAN 这个垢就是账号的意思，从英语account来的，日语里叫アカウント，简写成アカ，而这个也是日语里汉字垢的发音，所以本垢就是主账号，副垢就是副账号，日常垢就是日常账号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1909868451398926825",
+        "created_at": "2025-04-09T07:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T08:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909869589628166205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826129497714040832",
+              "start": 0,
+              "username": "CREZAN_FAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909869589628166205",
+        "in_reply_to_user_id": "1826129497714040832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909868451398926825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CREZAN_FAN 这个垢就是账号的意思，从英语account来的，日语里叫アカウント，简写成アカ，而这个也是日语里汉字垢的发音，所以本垢就是主账号，副垢就是副账号，日常垢就是日常账号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826129497714040832",
+        "conversation_id": "1909868451398926825",
+        "created_at": "2025-04-09T07:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T08:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909868451398926825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909868451398926825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本垢是什么意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 5515,
+          "like_count": 1778,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1951
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T05:29:47.000Z",
+        "description": "",
+        "id": "1826129497714040832",
+        "name": "R!CE⚜️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908109264683663361/TRlgOnZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 312,
+          "like_count": 4955,
+          "listed_count": 0,
+          "media_count": 723,
+          "tweet_count": 3068
+        },
+        "username": "CREZAN_FAN",
+        "verified": false
+      }
+    ]
+  }
+}

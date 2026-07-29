@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1920675218298732802",
+    "created_at": "2025-05-09T12:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T13:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920817076580524500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666402694494560256",
+          "start": 0,
+          "username": "Kafu_Chiino"
+        },
+        {
+          "end": 21,
+          "id": "109186648",
+          "start": 13,
+          "username": "nmamtbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920817076580524500",
+    "in_reply_to_user_id": "1666402694494560256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920805060759486775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kafu_Chiino @nmamtbh 哦，我说的有点隐晦，可能你有点误解了，中式教育虽然说以纪律性和高效著称，但是做出的牺牲也要大得多，尤其是个性和自由方面的，容易被短期目标所束缚，有的时候稍放低点要求，接受生活的不可预见性，随遇而安，飘忽不定，其实未尝是一种不好的选择，说不定还能有更好的更意外的收获"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1920675218298732802",
+        "created_at": "2025-05-09T12:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T13:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920817076580524500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666402694494560256",
+              "start": 0,
+              "username": "Kafu_Chiino"
+            },
+            {
+              "end": 21,
+              "id": "109186648",
+              "start": 13,
+              "username": "nmamtbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920817076580524500",
+        "in_reply_to_user_id": "1666402694494560256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920805060759486775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kafu_Chiino @nmamtbh 哦，我说的有点隐晦，可能你有点误解了，中式教育虽然说以纪律性和高效著称，但是做出的牺牲也要大得多，尤其是个性和自由方面的，容易被短期目标所束缚，有的时候稍放低点要求，接受生活的不可预见性，随遇而安，飘忽不定，其实未尝是一种不好的选择，说不定还能有更好的更意外的收获"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666402694494560256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1920675218298732802",
+        "created_at": "2025-05-09T11:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T12:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920805060759486775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 21,
+              "id": "109186648",
+              "start": 13,
+              "username": "nmamtbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920805060759486775",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920770635141104099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 @nmamtbh 不是吧，教育只是在做最简单的工作，帮人理解怎样学习的。\n社会上肯定有人明白学校的意义，已经不需要教育了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 7100,
+          "like_count": 2182,
+          "listed_count": 3,
+          "media_count": 550,
+          "tweet_count": 2282
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T11:13:17.000Z",
+        "description": "",
+        "id": "1666402694494560256",
+        "name": "Cocoa CHINO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666402947209793537/jb9jjts2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 103,
+          "like_count": 2421,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "username": "Kafu_Chiino",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-28T06:49:27.000Z",
+        "description": "义和拳本拳， U型锁本锁\n小爷是魔，那又如何",
+        "id": "109186648",
+        "location": "Langley,VA",
+        "name": "Modraaaaa",
+        "pinned_tweet_id": "1754304282822926512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787935675204980736/nAzxbLQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6848,
+          "following_count": 1150,
+          "like_count": 24024,
+          "listed_count": 28,
+          "media_count": 4900,
+          "tweet_count": 9292
+        },
+        "username": "nmamtbh",
+        "verified": false
+      }
+    ]
+  }
+}

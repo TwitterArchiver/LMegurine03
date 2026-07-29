@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1988208751900586245",
+    "created_at": "2025-11-11T14:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T15:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988260184490430517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1616696567549034496",
+          "start": 0,
+          "username": "LovelyChino2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988260184490430517",
+    "in_reply_to_user_id": "1616696567549034496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988257655408808014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovelyChino2013 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1988208751900586245",
+        "created_at": "2025-11-11T14:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T15:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988260184490430517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616696567549034496",
+              "start": 0,
+              "username": "LovelyChino2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988260184490430517",
+        "in_reply_to_user_id": "1616696567549034496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988257655408808014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyChino2013 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616696567549034496",
+        "conversation_id": "1988208751900586245",
+        "created_at": "2025-11-11T14:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T15:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988257655408808014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988257655408808014",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988208751900586245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 生日快乐🎂🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx｜泛性恋｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "realmadrid"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3468,
+          "following_count": 7501,
+          "like_count": 5711,
+          "listed_count": 7,
+          "media_count": 1053,
+          "tweet_count": 4546
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "重度社恐\\主业历史学 \\ Trotskyism ☭⁴\\革命马主义☭⁴\\mtx🏳️‍⚧️🍥her\\深柜\\暂时断糖\\来自地球\\喜欢Lolita\\最爱DDLC&Just Yuri❤️芙兰秀秀，香风智乃，晓美焰和猫和老鼠\\夏目漱石\\幸德秋水\\施特劳斯\\l'Incorruptible\\里推欢迎@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQVDUJ"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "Karatsu-shi, Saga",
+        "name": "NatsumeShusui🏳️‍⚧️",
+        "pinned_tweet_id": "1974718151079444599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984264545058357248/-iUzxuv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 965,
+          "like_count": 25767,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 1983
+        },
+        "url": "https://t.co/UnTrdQVDUJ",
+        "username": "LovelyChino2013",
+        "verified": false
+      }
+    ]
+  }
+}

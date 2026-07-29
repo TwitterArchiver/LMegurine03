@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2064255132746084683",
+    "created_at": "2026-06-09T09:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064278087815319850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929964027960233984",
+          "start": 0,
+          "username": "HXD3D_8028"
+        },
+        {
+          "end": 25,
+          "id": "417450830",
+          "start": 12,
+          "username": "nMonster_Inc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064278087815319850",
+    "in_reply_to_user_id": "1929964027960233984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064270377812140506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HXD3D_8028 @nMonster_Inc 嗯，是大连"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2064255132746084683",
+        "created_at": "2026-06-09T09:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064278087815319850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929964027960233984",
+              "start": 0,
+              "username": "HXD3D_8028"
+            },
+            {
+              "end": 25,
+              "id": "417450830",
+              "start": 12,
+              "username": "nMonster_Inc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064278087815319850",
+        "in_reply_to_user_id": "1929964027960233984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064270377812140506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HXD3D_8028 @nMonster_Inc 嗯，是大连"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929964027960233984",
+        "conversation_id": "2064255132746084683",
+        "created_at": "2026-06-09T08:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064270377812140506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "417450830",
+              "start": 0,
+              "username": "nMonster_Inc"
+            },
+            {
+              "end": 26,
+              "id": "1877035470615638016",
+              "start": 14,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064270377812140506",
+        "in_reply_to_user_id": "417450830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064270115580088651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nMonster_Inc @LMegurine03 这两座城市的确有点相似"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 7397,
+          "like_count": 7607,
+          "listed_count": 7,
+          "media_count": 1658,
+          "tweet_count": 6643
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T18:11:02.000Z",
+        "description": "平和版芝麻凛厂长，专注于过日子，岁月静好万岁🙏🏼\n\n在这里你会看到\n⭕各种摄影作品\n⭕日常生活的点点滴滴\n⭕高品质二次元内容品鉴\n⭕各种话题的理性友好讨论\n\n在这里不允许出现\n❌吵架谩骂\n❌无理取闹\n❌造谣抹黑\n\n互相尊重，和平共处，三观不合请取关，给脸不要直接拉黑🔨\n\n私人会所：@EvilCatShimaRin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 141,
+                "username": "EvilCatShimaRin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/DF4D_0486",
+                "end": 23,
+                "expanded_url": "https://twitter.com/DF4D_0486",
+                "start": 0,
+                "url": "https://t.co/66znFRIixl"
+              }
+            ]
+          }
+        },
+        "id": "1929964027960233984",
+        "location": "站长办公室",
+        "name": "🛠蒸汽#Biantai#老凛🚂",
+        "pinned_tweet_id": "2061081253781418028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063699266934362112/yliNpnUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 2542,
+          "like_count": 87477,
+          "listed_count": 7,
+          "media_count": 15412,
+          "tweet_count": 77770
+        },
+        "url": "https://t.co/66znFRIixl",
+        "username": "HXD3D_8028",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-20T23:29:58.000Z",
+        "description": "正直的渣弟",
+        "id": "417450830",
+        "location": "Melbourne, FL",
+        "name": "Monster Inc.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051951206772453376/5fXIWbZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 2345,
+          "like_count": 47239,
+          "listed_count": 11,
+          "media_count": 732,
+          "tweet_count": 40473
+        },
+        "username": "nMonster_Inc",
+        "verified": false
+      }
+    ]
+  }
+}

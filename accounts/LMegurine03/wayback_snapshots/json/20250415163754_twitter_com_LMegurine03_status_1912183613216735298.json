@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912183611547365376"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1912183613216735298",
+    "created_at": "2025-04-15T16:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T17:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912183613216735298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1788485889225834496",
+          "start": 3,
+          "username": "_temryava"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinityweet.me/love-calculato…",
+          "end": 52,
+          "expanded_url": "https://infinityweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1909859611018248193/fnKjO1iG?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1909859611018248193/fnKjO1iG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 29,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinityweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/oc4GCewKrI"
+        },
+        {
+          "display_url": "pic.x.com/W2y2jfwaNg",
+          "end": 76,
+          "expanded_url": "https://x.com/LMegurine03/status/1912183613216735298/photo/1",
+          "media_key": "3_1912183611547365376",
+          "start": 53,
+          "url": "https://t.co/W2y2jfwaNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912183613216735298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @_temryava 的爱兼容性为 52%\n\n➡️ https://t.co/oc4GCewKrI https://t.co/W2y2jfwaNg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1912183611547365376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Golw3Q-asAA2R4H.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912183611547365376"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1912183613216735298",
+        "created_at": "2025-04-15T16:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T17:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912183613216735298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1788485889225834496",
+              "start": 3,
+              "username": "_temryava"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinityweet.me/love-calculato…",
+              "end": 52,
+              "expanded_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1909859611018248193/fnKjO1iG?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1909859611018248193/fnKjO1iG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/oc4GCewKrI"
+            },
+            {
+              "display_url": "pic.x.com/W2y2jfwaNg",
+              "end": 76,
+              "expanded_url": "https://x.com/LMegurine03/status/1912183613216735298/photo/1",
+              "media_key": "3_1912183611547365376",
+              "start": 53,
+              "url": "https://t.co/W2y2jfwaNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912183613216735298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @_temryava 的爱兼容性为 52%\n\n➡️ https://t.co/oc4GCewKrI https://t.co/W2y2jfwaNg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 5795,
+          "like_count": 1883,
+          "listed_count": 3,
+          "media_count": 491,
+          "tweet_count": 2048
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Yedyne shcho mene suprovodzhuye tse dolya samotnosti.",
+        "id": "1788485889225834496",
+        "name": "Сонячна система",
+        "pinned_tweet_id": "1911848627884212583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910268710117675008/TifD1yiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 1855,
+          "like_count": 14939,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 6492
+        },
+        "username": "_temryava",
+        "verified": false
+      }
+    ]
+  }
+}

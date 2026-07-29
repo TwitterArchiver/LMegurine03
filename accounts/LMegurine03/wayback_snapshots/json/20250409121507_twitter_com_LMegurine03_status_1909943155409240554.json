@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1909705840140919116",
+    "created_at": "2025-04-09T12:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T13:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909943155409240554"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "Aguero",
+          "probability": 0.5511,
+          "start": 40,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "35234227",
+          "start": 0,
+          "username": "Rhevolver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909943155409240554",
+    "in_reply_to_user_id": "35234227",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909705840140919116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rhevolver No, those two balls are with Aguero"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1909705837909577728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoCjV24XEAADC8s.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1909705840140919116",
+        "created_at": "2025-04-09T12:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T13:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909943155409240554"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Aguero",
+              "probability": 0.5511,
+              "start": 40,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "35234227",
+              "start": 0,
+              "username": "Rhevolver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909943155409240554",
+        "in_reply_to_user_id": "35234227",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909705840140919116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rhevolver No, those two balls are with Aguero"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909705837909577728"
+          ]
+        },
+        "author_id": "35234227",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226207908290561",
+              "name": "International Clubs - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1909705840140919116",
+        "created_at": "2025-04-08T20:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T21:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909705840140919116"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Declan Rice",
+              "probability": 0.9705,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Madrid",
+              "probability": 0.8154,
+              "start": 38,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNqHGDfMJz",
+              "end": 69,
+              "expanded_url": "https://x.com/Rhevolver/status/1909705840140919116/photo/1",
+              "media_key": "3_1909705837909577728",
+              "start": 46,
+              "url": "https://t.co/LNqHGDfMJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909705840140919116",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1921,
+          "impression_count": 568009,
+          "like_count": 21067,
+          "quote_count": 41,
+          "reply_count": 82,
+          "retweet_count": 633
+        },
+        "reply_settings": "everyone",
+        "text": "Los dos golazos de Declan Rice hoy al Madrid: https://t.co/LNqHGDfMJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 5541,
+          "like_count": 1785,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 1954
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-25T15:25:17.000Z",
+        "description": "Todos mis tuits son verdades absolutas y por lo tanto no deben ser comentados ni criticados, si acaso aplaudidos y admirados. Cuenta de respaldo: @Rhevolver_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "Rhevolver_"
+              }
+            ]
+          }
+        },
+        "id": "35234227",
+        "name": "Rhevolver",
+        "pinned_tweet_id": "1774461621391237342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741703980609155072/bBAC5Gsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411460,
+          "following_count": 795,
+          "like_count": 206614,
+          "listed_count": 1098,
+          "media_count": 9584,
+          "tweet_count": 44448
+        },
+        "username": "Rhevolver",
+        "verified": true
+      }
+    ]
+  }
+}

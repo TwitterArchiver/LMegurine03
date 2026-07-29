@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2039723886930186434",
+    "created_at": "2026-04-02T15:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039723886930186434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2039710196382249015",
+          "start": 142,
+          "url": "https://t.co/cmn5GyyaPE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039723886930186434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039710196382249015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦对了，我说的有点不清楚，这个事其实是这样，之前有个习惯就是只要关注过我尽管已经取fo了我也继续留着，当时就是想留个印象，但是看了之后总是会想到过去的一些不太好的经历，所以我觉得既然他们单取我也就取了吧，慢慢的可能也忘了，这世界上哪有那么多能记一辈子的关系，更何况就是一个互关而已呢 https://t.co/cmn5GyyaPE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2039710193291063296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6BnSvbcAAN-Bn.jpg",
+        "width": 674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2039723886930186434",
+        "created_at": "2026-04-02T15:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039723886930186434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2039710196382249015",
+              "start": 142,
+              "url": "https://t.co/cmn5GyyaPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039723886930186434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039710196382249015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦对了，我说的有点不清楚，这个事其实是这样，之前有个习惯就是只要关注过我尽管已经取fo了我也继续留着，当时就是想留个印象，但是看了之后总是会想到过去的一些不太好的经历，所以我觉得既然他们单取我也就取了吧，慢慢的可能也忘了，这世界上哪有那么多能记一辈子的关系，更何况就是一个互关而已呢 https://t.co/cmn5GyyaPE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039710193291063296"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039710196382249015",
+        "created_at": "2026-04-02T14:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039710196382249015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qdJpjCjqYb",
+              "end": 71,
+              "expanded_url": "https://x.com/LMegurine03/status/2039710196382249015/photo/1",
+              "media_key": "3_2039710193291063296",
+              "start": 48,
+              "url": "https://t.co/qdJpjCjqYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039710196382249015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前段时间情绪不太好一口气取关了将近400个人，现在想把这个数字重新加回来，有没有希望我回关的🥺 https://t.co/qdJpjCjqYb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4143,
+          "following_count": 7136,
+          "like_count": 6919,
+          "listed_count": 7,
+          "media_count": 1434,
+          "tweet_count": 5921
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

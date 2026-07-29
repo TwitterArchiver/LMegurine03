@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1919009058163769662",
+    "created_at": "2025-05-04T15:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T16:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919052558863114586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1430931242367606787",
+          "start": 0,
+          "username": "AyiM18dp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919052558863114586",
+    "in_reply_to_user_id": "1430931242367606787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919009058163769662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyiM18dp 从今往后，我就不打扰你了\n……这是什么东西😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1919009058163769662",
+        "created_at": "2025-05-04T15:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T16:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919052558863114586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1430931242367606787",
+              "start": 0,
+              "username": "AyiM18dp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919052558863114586",
+        "in_reply_to_user_id": "1430931242367606787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919009058163769662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyiM18dp 从今往后，我就不打扰你了\n……这是什么东西😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430931242367606787",
+        "conversation_id": "1919009058163769662",
+        "created_at": "2025-05-04T12:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T13:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919009058163769662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919009058163769662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們打「從今往後」鍵盤自動選字會選什麼啊？\n我會打出舊友的綽號，挺感傷的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 6876,
+          "like_count": 2093,
+          "listed_count": 3,
+          "media_count": 523,
+          "tweet_count": 2178
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T16:32:57.000Z",
+        "description": "走吧！我帶你逃離討厭的生活！／創作 @linda_ouo030 ／吃ㄉ #豪響吃 /論點 #響要說 /辯題 #響要問／",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "豪響吃"
+              },
+              {
+                "end": 49,
+                "start": 45,
+                "tag": "響要說"
+              },
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "響要問"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "linda_ouo030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?app=desk…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?app=desktop&v=LACbVhgtx9I&bpctr=1659502054",
+                "start": 0,
+                "url": "https://t.co/j3XTTxe3X3"
+              }
+            ]
+          }
+        },
+        "id": "1430931242367606787",
+        "location": "辯論台下",
+        "name": "響糬🦊吃貨日常",
+        "pinned_tweet_id": "1835649424321638452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900942642114154496/4m-qS1wQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4088,
+          "following_count": 396,
+          "like_count": 59091,
+          "listed_count": 11,
+          "media_count": 1274,
+          "tweet_count": 8351
+        },
+        "url": "https://t.co/j3XTTxe3X3",
+        "username": "AyiM18dp",
+        "verified": false
+      }
+    ]
+  }
+}

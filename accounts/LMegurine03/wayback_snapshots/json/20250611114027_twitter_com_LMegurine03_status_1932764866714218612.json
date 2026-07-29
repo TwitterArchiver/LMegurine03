@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1932308825287409894",
+    "created_at": "2025-06-11T11:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T12:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932764866714218612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932764866714218612",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932308825287409894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe 只要你不放手我可以爱你很久"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1932308786892705792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDwmpcbEAAZs8e.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1932308825287409894",
+        "created_at": "2025-06-11T11:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T12:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932764866714218612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932764866714218612",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932308825287409894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 只要你不放手我可以爱你很久"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932308786892705792"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "1932308825287409894",
+        "created_at": "2025-06-10T05:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T06:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932308825287409894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MAmpGxGf8",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1932308825287409894/photo/1",
+              "media_key": "3_1932308786892705792",
+              "start": 0,
+              "url": "https://t.co/5MAmpGxGf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932308825287409894",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 42228,
+          "like_count": 499,
+          "quote_count": 12,
+          "reply_count": 112,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5MAmpGxGf8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 157,
+                "start": 144,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 7356,
+          "like_count": 3103,
+          "listed_count": 6,
+          "media_count": 688,
+          "tweet_count": 2824
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1908572439300497669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9088,
+          "following_count": 1,
+          "like_count": 42,
+          "listed_count": 24,
+          "media_count": 2635,
+          "tweet_count": 2658
+        },
+        "username": "hsn8086xe",
+        "verified": false
+      }
+    ]
+  }
+}

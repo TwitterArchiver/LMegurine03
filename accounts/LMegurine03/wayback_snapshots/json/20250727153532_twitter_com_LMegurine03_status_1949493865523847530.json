@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1949420116325851323",
+    "created_at": "2025-07-27T15:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T16:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949493865523847530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580050860498771968",
+          "start": 0,
+          "username": "hilu_7355608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949493865523847530",
+    "in_reply_to_user_id": "1580050860498771968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949486088910938543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hilu_7355608 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1949420116325851323",
+        "created_at": "2025-07-27T15:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T16:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949493865523847530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580050860498771968",
+              "start": 0,
+              "username": "hilu_7355608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949493865523847530",
+        "in_reply_to_user_id": "1580050860498771968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949486088910938543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hilu_7355608 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580050860498771968",
+        "conversation_id": "1949420116325851323",
+        "created_at": "2025-07-27T15:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T16:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949486088910938543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949486088910938543",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949420116325851323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 前几天去了，热死，甚至晒伤了。后来买了点芦荟凝胶才好。海水也咸死，下水呛了口水，感觉嗓子都发涩那种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2742,
+          "following_count": 7497,
+          "like_count": 4016,
+          "listed_count": 4,
+          "media_count": 797,
+          "tweet_count": 3508
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T04:21:01.000Z",
+        "description": "友人顺人/是个音游人/疑似AS，冒犯到你提前抱歉/可以叫我昼/需要回fo请私信/开放式关系/羡慕每一个会做饭的人/更多成分在主页置顶/如果愿意来咱的小群水群，咱会很开心/最最最最喜欢的宝宝@han_zi53015 /Damn this fucking world",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 94,
+                "username": "han_zi53015"
+              }
+            ]
+          }
+        },
+        "id": "1580050860498771968",
+        "location": "距离你的当前定位26m",
+        "name": "ひる",
+        "pinned_tweet_id": "1946198832154644712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763180266330492928/-z9GzXST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 632,
+          "like_count": 8655,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 3313
+        },
+        "username": "hilu_7355608",
+        "verified": false
+      }
+    ]
+  }
+}

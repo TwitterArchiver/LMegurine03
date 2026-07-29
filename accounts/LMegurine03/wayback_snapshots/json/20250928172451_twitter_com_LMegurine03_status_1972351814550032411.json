@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1972351814550032411",
+    "created_at": "2025-09-28T17:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972351814550032411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DDzhanshou5150…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/DDzhanshou5150/status/1971628656738160928",
+          "start": 129,
+          "url": "https://t.co/bSXsqstPmH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972351814550032411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971628656738160928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实对于我来讲除了人设之外的原因讨厌某个角色通常都不是因为整个粉丝群体，而是具体的某个人，如果角色厨的风评不太好人设不错的话那通常不会有什么影响，我也不怎么关心这样的问题，但是具体的某一个我讨厌的人喜欢某个角色，那么我对这个角色的好感会下降很多，就挺奇怪的 https://t.co/bSXsqstPmH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1971628600517709826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1yhxBrb0AIYqYl.png",
+        "width": 707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1972351814550032411",
+        "created_at": "2025-09-28T17:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972351814550032411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDzhanshou5150…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/DDzhanshou5150/status/1971628656738160928",
+              "start": 129,
+              "url": "https://t.co/bSXsqstPmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972351814550032411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971628656738160928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实对于我来讲除了人设之外的原因讨厌某个角色通常都不是因为整个粉丝群体，而是具体的某个人，如果角色厨的风评不太好人设不错的话那通常不会有什么影响，我也不怎么关心这样的问题，但是具体的某一个我讨厌的人喜欢某个角色，那么我对这个角色的好感会下降很多，就挺奇怪的 https://t.co/bSXsqstPmH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971628600517709826"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1971628656738160928",
+        "created_at": "2025-09-26T17:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T18:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971628656738160928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsvffPsUyj",
+              "end": 29,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1971628656738160928/photo/1",
+              "media_key": "3_1971628600517709826",
+              "start": 6,
+              "url": "https://t.co/IsvffPsUyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971628656738160928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 125696,
+          "like_count": 3015,
+          "quote_count": 15,
+          "reply_count": 36,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "败坏路人缘 https://t.co/IsvffPsUyj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2955,
+          "following_count": 7473,
+          "like_count": 4731,
+          "listed_count": 6,
+          "media_count": 908,
+          "tweet_count": 3979
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7420,
+          "following_count": 6766,
+          "like_count": 23777,
+          "listed_count": 15,
+          "media_count": 5048,
+          "tweet_count": 34491
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

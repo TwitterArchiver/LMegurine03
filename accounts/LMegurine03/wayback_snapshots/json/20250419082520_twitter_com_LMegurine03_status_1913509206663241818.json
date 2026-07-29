@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1913509206663241818",
+    "created_at": "2025-04-19T08:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T09:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913509206663241818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TXTYYDZ/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/TXTYYDZ/status/1913492128472420675",
+          "start": 11,
+          "url": "https://t.co/QYMTGExEyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913509206663241818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913492128472420675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱啥时候2k关注者🥺 https://t.co/QYMTGExEyu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1913509206663241818",
+        "created_at": "2025-04-19T08:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T09:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913509206663241818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TXTYYDZ/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/TXTYYDZ/status/1913492128472420675",
+              "start": 11,
+              "url": "https://t.co/QYMTGExEyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913509206663241818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913492128472420675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱啥时候2k关注者🥺 https://t.co/QYMTGExEyu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813971881990742016",
+        "conversation_id": "1913492128472420675",
+        "created_at": "2025-04-19T07:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T08:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913492128472420675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosanjiu520/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xiaosanjiu520/status/1913229752028270945",
+              "start": 14,
+              "url": "https://t.co/GH1eIXz1EH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913492128472420675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913229752028270945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱啥时候1.4k关注者🤔😭 https://t.co/GH1eIXz1EH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 6046,
+          "like_count": 2011,
+          "listed_count": 3,
+          "media_count": 503,
+          "tweet_count": 2097
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "抽象与生活，梗图即为艺术！\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "铁西区是沈阳的不是鞍山也不是四平铁西区",
+        "name": "田小唐",
+        "pinned_tweet_id": "1861387934043381936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879614299683074048/oo3zvDbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 956,
+          "like_count": 45180,
+          "listed_count": 8,
+          "media_count": 1957,
+          "tweet_count": 11345
+        },
+        "username": "TXTYYDZ",
+        "verified": true
+      }
+    ]
+  }
+}

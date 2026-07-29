@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1929594393750589770",
+    "created_at": "2025-06-02T19:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T20:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929619665695003015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723715289723092992",
+          "start": 0,
+          "username": "CharmingFurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929619665695003015",
+    "in_reply_to_user_id": "1723715289723092992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929613025440673814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharmingFurina 他这个话说的确实挺让人难受的，要是600分是低分也正常，可能高中确实排前面，但是总想着拿分数找优越感，看别人发成绩（不论高低）就攻击别人的话，确实是不好，感觉我打过交道的每个学校排名靠前面的都有这样的人，有一点学魔怔的感觉，屏蔽就屏蔽吧，也没什么遗憾的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1929594393750589770",
+        "created_at": "2025-06-02T19:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T20:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929619665695003015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723715289723092992",
+              "start": 0,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929619665695003015",
+        "in_reply_to_user_id": "1723715289723092992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929613025440673814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharmingFurina 他这个话说的确实挺让人难受的，要是600分是低分也正常，可能高中确实排前面，但是总想着拿分数找优越感，看别人发成绩（不论高低）就攻击别人的话，确实是不好，感觉我打过交道的每个学校排名靠前面的都有这样的人，有一点学魔怔的感觉，屏蔽就屏蔽吧，也没什么遗憾的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723715289723092992",
+        "conversation_id": "1929594393750589770",
+        "created_at": "2025-06-02T18:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T19:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929613025440673814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/charmingfurina…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/charmingfurina/status/1929559520298315873",
+              "start": 20,
+              "url": "https://t.co/sztQo4ulYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929613025440673814",
+        "in_reply_to_user_id": "1723715289723092992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929559520298315873",
+            "type": "quoted"
+          },
+          {
+            "id": "1929612151557443854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 就在這個下面 https://t.co/sztQo4ulYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 7500,
+          "like_count": 2941,
+          "listed_count": 3,
+          "media_count": 658,
+          "tweet_count": 2715
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T14:52:12.000Z",
+        "description": "中推第一芙廚🥰/互fo/重慶07男高/高二/理科生/日常清水推/右派中華民國派(RKMT)/183cm 62kg/澀澀/數學/語言文字學/中華&印度文化圈研究/喜歡東亞、東南亞/原神、崩鐵/友LGBT/漢英日韓泰法語ok/有自拍照🥰/小帳@Furina_Thailland/亞鐵@kgdyodyi/@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 119,
+                "username": "Furina_Thailland"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "username": "kgdyodyi"
+              },
+              {
+                "end": 158,
+                "start": 149,
+                "username": "LiciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/charmingfurina",
+                "end": 23,
+                "expanded_url": "http://ngl.link/charmingfurina",
+                "start": 0,
+                "url": "https://t.co/Y8AOwF2rRY"
+              }
+            ]
+          }
+        },
+        "id": "1723715289723092992",
+        "location": "Palais Mermonia, Fontaine",
+        "name": "💙迷人的芙芙💙",
+        "pinned_tweet_id": "1929101204237287777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918590799119630336/Z2G66HRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 3256,
+          "like_count": 72141,
+          "listed_count": 12,
+          "media_count": 1141,
+          "tweet_count": 13674
+        },
+        "url": "https://t.co/Y8AOwF2rRY",
+        "username": "CharmingFurina",
+        "verified": false
+      }
+    ]
+  }
+}

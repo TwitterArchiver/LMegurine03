@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1910244616605213056",
+    "created_at": "2025-04-10T09:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T10:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910261388955799780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582857505746591744",
+          "start": 0,
+          "username": "santaizi258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910261388955799780",
+    "in_reply_to_user_id": "1582857505746591744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910257719543558196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@santaizi258 对呀，太有必要了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1910244616605213056",
+        "created_at": "2025-04-10T09:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T10:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910261388955799780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582857505746591744",
+              "start": 0,
+              "username": "santaizi258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910261388955799780",
+        "in_reply_to_user_id": "1582857505746591744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910257719543558196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@santaizi258 对呀，太有必要了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582857505746591744",
+        "conversation_id": "1910244616605213056",
+        "created_at": "2025-04-10T09:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T10:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910257719543558196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910257719543558196",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910244616605213056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 先把语言学会吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 5580,
+          "like_count": 1806,
+          "listed_count": 3,
+          "media_count": 472,
+          "tweet_count": 1980
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T22:13:43.000Z",
+        "description": "本人喜欢伪娘男の娘femboy，或者假小子tomboy，另外本人有时候素质较低，XP偏重口，望周知",
+        "id": "1582857505746591744",
+        "name": "烤辣椒不要辣",
+        "pinned_tweet_id": "1880238538480054494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754989107334295552/gu9qJNOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 395,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 339
+        },
+        "username": "santaizi258",
+        "verified": false
+      }
+    ]
+  }
+}

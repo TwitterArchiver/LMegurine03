@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1927308218402783630",
+    "created_at": "2025-05-27T13:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T14:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927361721435300035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1653588298697412609",
+          "start": 0,
+          "username": "TangT9174"
+        },
+        {
+          "end": 21,
+          "id": "1784903270273871872",
+          "start": 11,
+          "username": "yuyuyuxm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927361721435300035",
+    "in_reply_to_user_id": "1653588298697412609",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927308218402783630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TangT9174 @yuyuyuxm1 135"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1927308213118005248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8sm8eXcAAyde2.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2246,
+        "media_key": "3_1927308214200053760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8snAgWMAAISzH.jpg",
+        "width": 1355
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1927308218402783630",
+        "created_at": "2025-05-27T13:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927361721435300035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1653588298697412609",
+              "start": 0,
+              "username": "TangT9174"
+            },
+            {
+              "end": 21,
+              "id": "1784903270273871872",
+              "start": 11,
+              "username": "yuyuyuxm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927361721435300035",
+        "in_reply_to_user_id": "1653588298697412609",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927308218402783630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TangT9174 @yuyuyuxm1 135"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927308213118005248",
+            "3_1927308214200053760"
+          ]
+        },
+        "author_id": "1653588298697412609",
+        "conversation_id": "1927308218402783630",
+        "created_at": "2025-05-27T10:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T11:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927308218402783630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8xjN9KwBa",
+              "end": 41,
+              "expanded_url": "https://x.com/TangT9174/status/1927308218402783630/photo/1",
+              "media_key": "3_1927308213118005248",
+              "start": 18,
+              "url": "https://t.co/E8xjN9KwBa"
+            },
+            {
+              "display_url": "pic.x.com/E8xjN9KwBa",
+              "end": 41,
+              "expanded_url": "https://x.com/TangT9174/status/1927308218402783630/photo/1",
+              "media_key": "3_1927308214200053760",
+              "start": 18,
+              "url": "https://t.co/E8xjN9KwBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927308218402783630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2919,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "110  和135  哪个更好一些 https://t.co/E8xjN9KwBa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 7501,
+          "like_count": 2636,
+          "listed_count": 3,
+          "media_count": 640,
+          "tweet_count": 2623
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T02:32:48.000Z",
+        "description": "女装爱好，白嫖勿扰QQ366419368 加好友说明目的加我不说话的会删，支持投喂哟🥰🥰\n💖 出自录，定制视频 💖是河南的哟 电报闲聊群 https://t.co/XVJw8gk7Wl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+BrKEs5O1vyRhN…",
+                "end": 92,
+                "expanded_url": "https://t.me/+BrKEs5O1vyRhNjg1",
+                "start": 69,
+                "url": "https://t.co/XVJw8gk7Wl"
+              }
+            ]
+          }
+        },
+        "id": "1653588298697412609",
+        "name": "白水（互推）",
+        "pinned_tweet_id": "1921467288361812294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837825788705746944/C1HtXW0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8069,
+          "following_count": 75,
+          "like_count": 45,
+          "listed_count": 49,
+          "media_count": 28,
+          "tweet_count": 415
+        },
+        "username": "TangT9174",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T11:11:25.000Z",
+        "description": "坐标上海021 线下🚪99 私信（只回口令）｜172/58kg｜喜欢丝袜 属性极其涩情｜接寄拍 主营线下.口嗨勿扰｜置顶推广自辨！",
+        "id": "1784903270273871872",
+        "location": "上海 021",
+        "name": "鱼不是鱼🐟（互推）",
+        "pinned_tweet_id": "1927251713783681220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915276036755103744/YOY-YAbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15929,
+          "following_count": 61,
+          "like_count": 182,
+          "listed_count": 50,
+          "media_count": 32,
+          "tweet_count": 709
+        },
+        "username": "yuyuyuxm1",
+        "verified": false
+      }
+    ]
+  }
+}

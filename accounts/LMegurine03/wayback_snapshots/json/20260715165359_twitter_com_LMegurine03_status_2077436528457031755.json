@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077436480201670656",
+        "3_2077436494370025472",
+        "3_2077436505191284737",
+        "3_2077436517484765184"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2077436528457031755",
+    "created_at": "2026-07-15T16:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077436528457031755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qi1dE1JN4P",
+          "end": 80,
+          "expanded_url": "https://x.com/LMegurine03/status/2077436528457031755/photo/1",
+          "media_key": "3_2077436480201670656",
+          "start": 57,
+          "url": "https://t.co/qi1dE1JN4P"
+        },
+        {
+          "display_url": "pic.x.com/qi1dE1JN4P",
+          "end": 80,
+          "expanded_url": "https://x.com/LMegurine03/status/2077436528457031755/photo/1",
+          "media_key": "3_2077436494370025472",
+          "start": 57,
+          "url": "https://t.co/qi1dE1JN4P"
+        },
+        {
+          "display_url": "pic.x.com/qi1dE1JN4P",
+          "end": 80,
+          "expanded_url": "https://x.com/LMegurine03/status/2077436528457031755/photo/1",
+          "media_key": "3_2077436505191284737",
+          "start": 57,
+          "url": "https://t.co/qi1dE1JN4P"
+        },
+        {
+          "display_url": "pic.x.com/qi1dE1JN4P",
+          "end": 80,
+          "expanded_url": "https://x.com/LMegurine03/status/2077436528457031755/photo/1",
+          "media_key": "3_2077436517484765184",
+          "start": 57,
+          "url": "https://t.co/qi1dE1JN4P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077436528457031755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个就是中庵索道，现在这种视角对我来讲，从山底是根本实现不了的，只能是去借高，不过这里可以坐索道上来就也还好（） https://t.co/qi1dE1JN4P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2077436480201670656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSJeNXbwAAnXq-.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2077436494370025472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSJfCJbsAAS6A6.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2077436505191284737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSJfqdbAAEWBCG.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2077436517484765184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSJgYQaoAAJc3g.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077436480201670656",
+            "3_2077436494370025472",
+            "3_2077436505191284737",
+            "3_2077436517484765184"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2077436528457031755",
+        "created_at": "2026-07-15T16:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077436528457031755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qi1dE1JN4P",
+              "end": 80,
+              "expanded_url": "https://x.com/LMegurine03/status/2077436528457031755/photo/1",
+              "media_key": "3_2077436480201670656",
+              "start": 57,
+              "url": "https://t.co/qi1dE1JN4P"
+            },
+            {
+              "display_url": "pic.x.com/qi1dE1JN4P",
+              "end": 80,
+              "expanded_url": "https://x.com/LMegurine03/status/2077436528457031755/photo/1",
+              "media_key": "3_2077436494370025472",
+              "start": 57,
+              "url": "https://t.co/qi1dE1JN4P"
+            },
+            {
+              "display_url": "pic.x.com/qi1dE1JN4P",
+              "end": 80,
+              "expanded_url": "https://x.com/LMegurine03/status/2077436528457031755/photo/1",
+              "media_key": "3_2077436505191284737",
+              "start": 57,
+              "url": "https://t.co/qi1dE1JN4P"
+            },
+            {
+              "display_url": "pic.x.com/qi1dE1JN4P",
+              "end": 80,
+              "expanded_url": "https://x.com/LMegurine03/status/2077436528457031755/photo/1",
+              "media_key": "3_2077436517484765184",
+              "start": 57,
+              "url": "https://t.co/qi1dE1JN4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077436528457031755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个就是中庵索道，现在这种视角对我来讲，从山底是根本实现不了的，只能是去借高，不过这里可以坐索道上来就也还好（） https://t.co/qi1dE1JN4P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4415,
+          "following_count": 7501,
+          "like_count": 8072,
+          "listed_count": 8,
+          "media_count": 1839,
+          "tweet_count": 7041
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

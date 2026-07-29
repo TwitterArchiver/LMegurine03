@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1921986975466193148",
+    "created_at": "2025-05-12T18:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T19:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921994138905379030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792101664117161984",
+          "start": 0,
+          "username": "Amberlona_LK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921994138905379030",
+    "in_reply_to_user_id": "1792101664117161984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921991863185055821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amberlona_LK 好哦，谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1921986975466193148",
+        "created_at": "2025-05-12T18:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T19:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921994138905379030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1792101664117161984",
+              "start": 0,
+              "username": "Amberlona_LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921994138905379030",
+        "in_reply_to_user_id": "1792101664117161984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921991863185055821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amberlona_LK 好哦，谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792101664117161984",
+        "conversation_id": "1921986975466193148",
+        "created_at": "2025-05-12T18:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T19:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921991863185055821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921991863185055821",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921988415739805721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 没问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 7255,
+          "like_count": 2269,
+          "listed_count": 3,
+          "media_count": 562,
+          "tweet_count": 2360
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T07:55:38.000Z",
+        "description": "这世上的救世主是你自己\n你失去的是枷锁，但获得了自由与解放\n要么成为自由者的坟墓，要么成为反对压迫的避难所\n（文静温柔的被饲养狐狸，在「性别监狱」服刑中，什么都发，社会解放派）\n歌单推荐:\nEmrooz O Farda - Marjan Farsad \nMiel - Lauri Garcia",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=B5NcWl…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=B5NcWl75m50&feature=youtu.be",
+                "start": 0,
+                "url": "https://t.co/zyim7ZSJMl"
+              }
+            ]
+          }
+        },
+        "id": "1792101664117161984",
+        "location": "折纸摊「茹素屋」,塔万廷苏尤,帕查妈妈",
+        "name": "Tuệ Quều (امبر لونا)⚜️",
+        "pinned_tweet_id": "1858043172703682561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916084605712486401/Q3JgvBvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 784,
+          "like_count": 30568,
+          "listed_count": 6,
+          "media_count": 209,
+          "tweet_count": 13298
+        },
+        "url": "https://t.co/zyim7ZSJMl",
+        "username": "Amberlona_LK",
+        "verified": false
+      }
+    ]
+  }
+}

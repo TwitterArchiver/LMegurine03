@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939566046119100416"
+      ],
+      "media_source_tweet_id": [
+        "1939566052901552230"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1939595292711792867",
+    "created_at": "2025-06-30T08:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T09:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939595292711792867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "774608907847147520",
+          "start": 3,
+          "username": "Hizukis_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CtQzt3Ezg9",
+          "end": 50,
+          "expanded_url": "https://x.com/Hizukis_/status/1939566052901552230/photo/1",
+          "media_key": "3_1939566046119100416",
+          "start": 27,
+          "url": "https://t.co/CtQzt3Ezg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939595292711792867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1105
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939566052901552230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hizukis_: アクスタになる花火ちゃ〜 https://t.co/CtQzt3Ezg9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939566046119100416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guq5Cu1WgAAWDTq.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939566046119100416"
+          ],
+          "media_source_tweet_id": [
+            "1939566052901552230"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1939595292711792867",
+        "created_at": "2025-06-30T08:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T09:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939595292711792867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "774608907847147520",
+              "start": 3,
+              "username": "Hizukis_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtQzt3Ezg9",
+              "end": 50,
+              "expanded_url": "https://x.com/Hizukis_/status/1939566052901552230/photo/1",
+              "media_key": "3_1939566046119100416",
+              "start": 27,
+              "url": "https://t.co/CtQzt3Ezg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939595292711792867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1105
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939566052901552230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hizukis_: アクスタになる花火ちゃ〜 https://t.co/CtQzt3Ezg9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939566046119100416"
+          ]
+        },
+        "author_id": "774608907847147520",
+        "conversation_id": "1939566052901552230",
+        "created_at": "2025-06-30T06:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939566052901552230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtQzt3Ezg9",
+              "end": 36,
+              "expanded_url": "https://x.com/Hizukis_/status/1939566052901552230/photo/1",
+              "media_key": "3_1939566046119100416",
+              "start": 13,
+              "url": "https://t.co/CtQzt3Ezg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939566052901552230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2434,
+          "impression_count": 99087,
+          "like_count": 10783,
+          "quote_count": 6,
+          "reply_count": 28,
+          "retweet_count": 1105
+        },
+        "reply_settings": "everyone",
+        "text": "アクスタになる花火ちゃ〜 https://t.co/CtQzt3Ezg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 7471,
+          "like_count": 3425,
+          "listed_count": 4,
+          "media_count": 748,
+          "tweet_count": 3120
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-10T14:02:09.000Z",
+        "description": "イラストレーターしてます。ライトノベルイラスト、ソシャゲイラスト等 ￤FANBOX【https://t.co/x9sGdFsmkr】 ￤fantia【https://t.co/2FEY5JW1sF】 ￤サブ@hizukis2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "hizukis2nd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hizukis.fanbox.cc",
+                "end": 65,
+                "expanded_url": "http://hizukis.fanbox.cc",
+                "start": 42,
+                "url": "https://t.co/x9sGdFsmkr"
+              },
+              {
+                "display_url": "fantia.jp/hizukis_",
+                "end": 98,
+                "expanded_url": "http://fantia.jp/hizukis_",
+                "start": 75,
+                "url": "https://t.co/2FEY5JW1sF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/14561119",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/14561119",
+                "start": 0,
+                "url": "https://t.co/jJNKoEMcoj"
+              }
+            ]
+          }
+        },
+        "id": "774608907847147520",
+        "location": "ご依頼についてはpixivプロフィールを御参照ください。",
+        "name": "緋月ひぐれ🍜 C106土曜東4ア72ab",
+        "pinned_tweet_id": "1933795001097654718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433688029416157185/_42T2o3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422386,
+          "following_count": 718,
+          "like_count": 13459,
+          "listed_count": 2363,
+          "media_count": 352,
+          "tweet_count": 25793
+        },
+        "url": "https://t.co/jJNKoEMcoj",
+        "username": "Hizukis_",
+        "verified": true
+      }
+    ]
+  }
+}

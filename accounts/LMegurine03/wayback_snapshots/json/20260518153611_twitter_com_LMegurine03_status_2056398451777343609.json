@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2056398451777343609",
+    "created_at": "2026-05-18T15:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056398451777343609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2056098964215419202",
+          "start": 139,
+          "url": "https://t.co/PvB2KGXk2U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056398451777343609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056098964215419202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天本来打算从学校出来之后要去的，但是那个时候雨下的有点大就回家了……现在冷静想想接下来在日语和留学方面要做很多的决策，再去做这么有心理压力和挑战性的事情就不太合适了，发型一段时间之内差距不能太大，长度上也只是会增加的，修剪一下更好，但不修剪也没有什么损失，所以就先不去了…… https://t.co/PvB2KGXk2U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2056398451777343609",
+        "created_at": "2026-05-18T15:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056398451777343609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2056098964215419202",
+              "start": 139,
+              "url": "https://t.co/PvB2KGXk2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056398451777343609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056098964215419202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天本来打算从学校出来之后要去的，但是那个时候雨下的有点大就回家了……现在冷静想想接下来在日语和留学方面要做很多的决策，再去做这么有心理压力和挑战性的事情就不太合适了，发型一段时间之内差距不能太大，长度上也只是会增加的，修剪一下更好，但不修剪也没有什么损失，所以就先不去了…… https://t.co/PvB2KGXk2U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2056098964215419202",
+        "created_at": "2026-05-17T19:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056098964215419202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2056096023299436855",
+              "start": 139,
+              "url": "https://t.co/VDXSEhcFZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056098964215419202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 666,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056096023299436855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经决定好了，这周正好刚考完试有点难得的空闲时间，要去找地方试试看，至少也要敢于张口去提要求，继续留下去的话可能会更乱更不协调，剪短或者剪一个长但特男性化的也没有意义，毕竟已经留这么长了，还不如就借这个机会找一家包容性高一点的地方去试试，反正如果要求协调不好我也是可以拒绝的嘛 https://t.co/VDXSEhcFZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4136,
+          "following_count": 7187,
+          "like_count": 7336,
+          "listed_count": 7,
+          "media_count": 1588,
+          "tweet_count": 6383
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

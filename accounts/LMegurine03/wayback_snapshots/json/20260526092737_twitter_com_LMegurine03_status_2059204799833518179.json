@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2059204791780458853",
+    "created_at": "2026-05-26T09:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059204799833518179"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059204799833518179",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059204795639169394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会用符号っ来表达，相当于将这个部分的连接设置一个停顿，这样的话也会解释一些现象，有的汉语词将结尾的假名和中间的停顿去掉之后可能和现在的汉语有很强的对应感，不过也要保留的说，也不是所有的词去掉结尾的假名或者促音都能这么对应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2059204791780458853",
+        "created_at": "2026-05-26T09:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059204799833518179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059204799833518179",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059204795639169394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会用符号っ来表达，相当于将这个部分的连接设置一个停顿，这样的话也会解释一些现象，有的汉语词将结尾的假名和中间的停顿去掉之后可能和现在的汉语有很强的对应感，不过也要保留的说，也不是所有的词去掉结尾的假名或者促音都能这么对应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2059204791780458853",
+        "created_at": "2026-05-26T09:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059204795639169394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059204795639169394",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059204791780458853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而日语作为一个说古汉语影响并且演化非常独立的语言，在其中的汉字词的部分也一定程度的保留了这一特点，但是为了适应日语的音韵系统，也做出了调整……就比如说词尾的，日语当中没有除了鼻音以外的闭音节，因此只能通过额外来补充一个元音，来表达这种入声的感觉，而在词中情况则完全不同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4163,
+          "following_count": 7239,
+          "like_count": 7424,
+          "listed_count": 7,
+          "media_count": 1616,
+          "tweet_count": 6502
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

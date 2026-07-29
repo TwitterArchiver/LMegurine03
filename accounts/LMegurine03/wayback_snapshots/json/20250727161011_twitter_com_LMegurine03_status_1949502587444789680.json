@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1949422842002678240",
+    "created_at": "2025-07-27T16:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T17:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949502587444789680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949502587444789680",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949422842002678240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus 穿薄一点的贴身衣物吧，或者只露一部分（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949422838865395712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw29vlObAAAnZYY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1949422842002678240",
+        "created_at": "2025-07-27T16:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949502587444789680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949502587444789680",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949422842002678240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus 穿薄一点的贴身衣物吧，或者只露一部分（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949422838865395712"
+          ]
+        },
+        "author_id": "1903701047589343232",
+        "conversation_id": "1949422842002678240",
+        "created_at": "2025-07-27T10:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949422842002678240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvFTXFNu6J",
+              "end": 43,
+              "expanded_url": "https://x.com/ceobrus/status/1949422842002678240/photo/1",
+              "media_key": "3_1949422838865395712",
+              "start": 20,
+              "url": "https://t.co/mvFTXFNu6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949422842002678240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4087,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么不露奶子但能拍出奶子形状的办法？ https://t.co/mvFTXFNu6J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 7501,
+          "like_count": 4023,
+          "listed_count": 4,
+          "media_count": 797,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "they🏳‍⚧丨00年丨hrt2025/1/8丨这是个药娘丨长得不好看丨无业单身丨180cm/60kg丨🍥同类互fo 欢迎扩列丨ISFP-T丨玩绝区零、鸣潮、崩铁丨喜欢散步欢迎找我逛街压马路口牙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nzikWB"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "name": "小方🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939212280874299392/CfqB9_ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 775,
+          "like_count": 4569,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/jjy2nzikWB",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

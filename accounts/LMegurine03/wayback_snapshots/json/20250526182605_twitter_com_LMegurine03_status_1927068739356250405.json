@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1927068739356250405",
+    "created_at": "2025-05-26T18:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T19:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927068739356250405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/LMegurine03/status/1927055616574468480",
+          "start": 68,
+          "url": "https://t.co/LP047QngmP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927068739356250405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927055616574468480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这事是真难受，就几公里距离都知道楼号，就是没有其他的个人信息，已经过去一个小时了，联系不上，什么也进展不了，再没办法的话就只能放弃了😭 https://t.co/LP047QngmP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1927068739356250405",
+        "created_at": "2025-05-26T18:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T19:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927068739356250405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/LMegurine03/status/1927055616574468480",
+              "start": 68,
+              "url": "https://t.co/LP047QngmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927068739356250405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927055616574468480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这事是真难受，就几公里距离都知道楼号，就是没有其他的个人信息，已经过去一个小时了，联系不上，什么也进展不了，再没办法的话就只能放弃了😭 https://t.co/LP047QngmP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1927055616574468480",
+        "created_at": "2025-05-26T17:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T18:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927055616574468480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1926706364044165121",
+              "start": 4,
+              "username": "ml9266586818544"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ml926658681854…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/ml9266586818544/status/1927045341334892629",
+              "start": 21,
+              "url": "https://t.co/nQHzW73BrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927055616574468480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927045341334892629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关注一下@ml9266586818544 https://t.co/nQHzW73BrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 7500,
+          "like_count": 2631,
+          "listed_count": 3,
+          "media_count": 639,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

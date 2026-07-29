@@ -1,0 +1,946 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931072631949623296"
+      ],
+      "media_source_tweet_id": [
+        "1931072686442119499"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1914475012121145345",
+          "name": "Norway vs Italy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226194067103744",
+          "name": "Italy"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "731226237394243584",
+          "name": "International - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756518391107585",
+          "name": "World Cup Qualification UEFA"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1914475012121145345",
+          "name": "Norway vs Italy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Soccer matches",
+          "id": "43",
+          "name": "Soccer Match"
+        },
+        "entity": {
+          "id": "1914475012121145345",
+          "name": "Norway vs Italy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226194067103744",
+          "name": "Italy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Soccer Teams",
+          "id": "1100397500890996736",
+          "name": "Men's national soccer teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1931306216023785651",
+    "created_at": "2025-06-07T11:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T12:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931306216023785651"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 22,
+          "tag": "Azzurri"
+        },
+        {
+          "end": 43,
+          "start": 31,
+          "tag": "VivoAzzurro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "469508969",
+          "start": 3,
+          "username": "Azzurri_En"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cN5peYa1NY",
+          "end": 67,
+          "expanded_url": "https://x.com/Azzurri_En/status/1931072686442119499/photo/1",
+          "media_key": "3_1931072631949623296",
+          "start": 44,
+          "url": "https://t.co/cN5peYa1NY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931306216023785651",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931072686442119499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Azzurri_En: HT. \n\n#Azzurri #VivoAzzurro https://t.co/cN5peYa1NY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1931072631949623296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsyMU9bWAAAxA36.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931072631949623296"
+          ],
+          "media_source_tweet_id": [
+            "1931072686442119499"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1914475012121145345",
+              "name": "Norway vs Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226194067103744",
+              "name": "Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226237394243584",
+              "name": "International - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756518391107585",
+              "name": "World Cup Qualification UEFA"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1914475012121145345",
+              "name": "Norway vs Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1914475012121145345",
+              "name": "Norway vs Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226194067103744",
+              "name": "Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1931306216023785651",
+        "created_at": "2025-06-07T11:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T12:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931306216023785651"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "Azzurri"
+            },
+            {
+              "end": 43,
+              "start": 31,
+              "tag": "VivoAzzurro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "469508969",
+              "start": 3,
+              "username": "Azzurri_En"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cN5peYa1NY",
+              "end": 67,
+              "expanded_url": "https://x.com/Azzurri_En/status/1931072686442119499/photo/1",
+              "media_key": "3_1931072631949623296",
+              "start": 44,
+              "url": "https://t.co/cN5peYa1NY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931306216023785651",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931072686442119499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Azzurri_En: HT. \n\n#Azzurri #VivoAzzurro https://t.co/cN5peYa1NY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931072631949623296"
+          ]
+        },
+        "author_id": "469508969",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1914475012121145345",
+              "name": "Norway vs Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226194067103744",
+              "name": "Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226237394243584",
+              "name": "International - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756518391107585",
+              "name": "World Cup Qualification UEFA"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1914475012121145345",
+              "name": "Norway vs Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1914475012121145345",
+              "name": "Norway vs Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226194067103744",
+              "name": "Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1914475012121145345",
+              "name": "Norway vs Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1914475012121145345",
+              "name": "Norway vs Italy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1914475012121145345",
+              "name": "Norway vs Italy"
+            }
+          }
+        ],
+        "conversation_id": "1931072686442119499",
+        "created_at": "2025-06-06T19:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T20:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931072686442119499"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "Azzurri"
+            },
+            {
+              "end": 27,
+              "start": 15,
+              "tag": "VivoAzzurro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cN5peYa1NY",
+              "end": 51,
+              "expanded_url": "https://x.com/Azzurri_En/status/1931072686442119499/photo/1",
+              "media_key": "3_1931072631949623296",
+              "start": 28,
+              "url": "https://t.co/cN5peYa1NY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931072686442119499",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 78795,
+          "like_count": 873,
+          "quote_count": 87,
+          "reply_count": 243,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "HT. \n\n#Azzurri #VivoAzzurro https://t.co/cN5peYa1NY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 7501,
+          "like_count": 3042,
+          "listed_count": 6,
+          "media_count": 675,
+          "tweet_count": 2781
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-20T17:34:42.000Z",
+        "description": "The Italian Football Team's official international Twitter for news and updates from the #Azzurri ⚽💙\n\nItalian: @Azzurri, Arabic: @Azzurri_AR. #VivoAzzurro",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 89,
+                "tag": "Azzurri"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "tag": "VivoAzzurro"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 111,
+                "username": "Azzurri"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "Azzurri_AR"
+              }
+            ]
+          }
+        },
+        "id": "469508969",
+        "name": "Italy ⭐️⭐️⭐️⭐️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901660023756918784/r7WT28N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779560,
+          "following_count": 204,
+          "like_count": 2956,
+          "listed_count": 2649,
+          "media_count": 14898,
+          "tweet_count": 22696
+        },
+        "username": "Azzurri_En",
+        "verified": true
+      }
+    ]
+  }
+}

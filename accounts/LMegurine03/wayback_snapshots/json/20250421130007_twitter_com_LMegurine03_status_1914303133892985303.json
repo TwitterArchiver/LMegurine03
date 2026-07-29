@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1913467604045635721",
+    "created_at": "2025-04-21T13:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T14:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914303133892985303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1091709361745850368",
+          "start": 0,
+          "username": "YuyuzuSoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914303133892985303",
+    "in_reply_to_user_id": "1091709361745850368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913718418957901856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuyuzuSoft 不会，只是恰好听说过这个用法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1913467604045635721",
+        "created_at": "2025-04-21T13:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T14:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914303133892985303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1091709361745850368",
+              "start": 0,
+              "username": "YuyuzuSoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914303133892985303",
+        "in_reply_to_user_id": "1091709361745850368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913718418957901856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuyuzuSoft 不会，只是恰好听说过这个用法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1091709361745850368",
+        "conversation_id": "1913467604045635721",
+        "created_at": "2025-04-19T22:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T23:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913718418957901856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913718418957901856",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913467604045635721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 ¿Comprendes español?  Sé hablar un poco😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 6260,
+          "like_count": 2037,
+          "listed_count": 3,
+          "media_count": 512,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-02T14:46:09.000Z",
+        "description": "泥嚎！我素mtx｜hrt 25.4.14｜贝斯手｜日语苦手｜小语种爱好者｜电子音乐爱好者｜重度fl使用人｜东方人｜引诱人｜galgame玩家｜柚子厨｜玉玉症患者｜强迫症患者，欢迎泥来和窝玩",
+        "id": "1091709361745850368",
+        "location": "西安",
+        "name": "玉玉足🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912238399697608704/sPir3rOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 104,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 49
+        },
+        "username": "YuyuzuSoft",
+        "verified": false
+      }
+    ]
+  }
+}

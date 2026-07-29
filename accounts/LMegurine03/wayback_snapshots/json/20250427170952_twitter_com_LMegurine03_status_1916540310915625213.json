@@ -1,0 +1,758 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10042002571",
+          "name": "Copa del Rey"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10042136643",
+          "name": "Fútbol: Copa del Rey"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226255836598272",
+          "name": "FC Barcelona"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756535835254784",
+          "name": "Copa del Rey"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226255836598272",
+          "name": "FC Barcelona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756535835254784",
+          "name": "Copa del Rey"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226239898259457",
+          "name": "Real Madrid CF"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226239898259457",
+          "name": "Real Madrid CF"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1916540310915625213",
+    "created_at": "2025-04-27T17:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T18:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916540310915625213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FabrizioRomano…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/FabrizioRomano/status/1916262568265715998",
+          "start": 144,
+          "url": "https://t.co/5kYLQOow2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916540310915625213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916262568265715998",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这可能是有史以来看主队比赛最难受的一次，和以往输球不一样，之前不论是0比4还是2比5，还是两回合1比5阿森纳，输的很平静，虽然有点耻辱，但想想也没什么大不了，球队实力高低起伏的变化是很正常的现象，部分球员的离队和伤病确实给球队造成了很大的问题，我们可以承认实力的不足并且在几年内进行调整 https://t.co/5kYLQOow2K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1916262548929712128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpfuoq1XEAAbVzI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10042002571",
+              "name": "Copa del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10042136643",
+              "name": "Fútbol: Copa del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756535835254784",
+              "name": "Copa del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756535835254784",
+              "name": "Copa del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226239898259457",
+              "name": "Real Madrid CF"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226239898259457",
+              "name": "Real Madrid CF"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1916540310915625213",
+        "created_at": "2025-04-27T17:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T18:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916540310915625213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FabrizioRomano…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/FabrizioRomano/status/1916262568265715998",
+              "start": 144,
+              "url": "https://t.co/5kYLQOow2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916540310915625213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916262568265715998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这可能是有史以来看主队比赛最难受的一次，和以往输球不一样，之前不论是0比4还是2比5，还是两回合1比5阿森纳，输的很平静，虽然有点耻辱，但想想也没什么大不了，球队实力高低起伏的变化是很正常的现象，部分球员的离队和伤病确实给球队造成了很大的问题，我们可以承认实力的不足并且在几年内进行调整 https://t.co/5kYLQOow2K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916262548929712128"
+          ]
+        },
+        "author_id": "330262748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10042002571",
+              "name": "Copa del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10042136643",
+              "name": "Fútbol: Copa del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756535835254784",
+              "name": "Copa del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A journalist like 'Anderson Cooper'",
+              "id": "94",
+              "name": "Journalist"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756535835254784",
+              "name": "Copa del Rey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226239898259457",
+              "name": "Real Madrid CF"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226239898259457",
+              "name": "Real Madrid CF"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1916262568265715998",
+        "created_at": "2025-04-26T22:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T23:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916262568265715998"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Barcelona",
+              "probability": 0.661,
+              "start": 3,
+              "type": "Organization"
+            },
+            {
+              "end": 28,
+              "normalized_text": "Real Madrid",
+              "probability": 0.9827,
+              "start": 18,
+              "type": "Organization"
+            },
+            {
+              "end": 53,
+              "normalized_text": "Copa del Rey",
+              "probability": 0.6425,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PqGW7C1AT",
+              "end": 82,
+              "expanded_url": "https://x.com/FabrizioRomano/status/1916262568265715998/photo/1",
+              "media_key": "3_1916262548929712128",
+              "start": 59,
+              "url": "https://t.co/4PqGW7C1AT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916262568265715998",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1023,
+          "impression_count": 3845863,
+          "like_count": 147560,
+          "quote_count": 597,
+          "reply_count": 1664,
+          "retweet_count": 11370
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🏆 Barcelona beat Real Madrid and win the Copa del Rey! 🔵🔴 https://t.co/4PqGW7C1AT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 6694,
+          "like_count": 2063,
+          "listed_count": 3,
+          "media_count": 515,
+          "tweet_count": 2135
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-06T10:58:55.000Z",
+        "description": "Here we go! © fabrizio.romano93@gmail.com 📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@FabrizioRoman…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@FabrizioRomanoYT",
+                "start": 0,
+                "url": "https://t.co/btxI8gbc2z"
+              }
+            ]
+          }
+        },
+        "id": "330262748",
+        "location": "Milano, Italia",
+        "name": "Fabrizio Romano",
+        "pinned_tweet_id": "1914388507985924233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741753635158024192/j0m8Ucvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23757807,
+          "following_count": 2629,
+          "like_count": 11586,
+          "listed_count": 28320,
+          "media_count": 33437,
+          "tweet_count": 57537
+        },
+        "url": "https://t.co/btxI8gbc2z",
+        "username": "FabrizioRomano",
+        "verified": true
+      }
+    ]
+  }
+}

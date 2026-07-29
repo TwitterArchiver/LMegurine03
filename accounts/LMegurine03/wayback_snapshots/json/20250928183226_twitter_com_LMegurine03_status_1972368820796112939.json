@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1972368820796112939",
+    "created_at": "2025-09-28T18:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T19:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972368820796112939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mzdrics/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/mzdrics/status/1971989681819783187",
+          "start": 8,
+          "url": "https://t.co/4bhyNm1d5B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972368820796112939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971989681819783187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的笑死我了😹 https://t.co/4bhyNm1d5B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "3_1971989675729383425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13qKXqWcAENRsO.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1972368820796112939",
+        "created_at": "2025-09-28T18:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T19:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972368820796112939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mzdrics/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mzdrics/status/1971989681819783187",
+              "start": 8,
+              "url": "https://t.co/4bhyNm1d5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972368820796112939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971989681819783187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的笑死我了😹 https://t.co/4bhyNm1d5B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971989675729383425"
+          ]
+        },
+        "author_id": "1505881486070800388",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774086610911233",
+              "name": "Dani Carvajal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774086610911233",
+              "name": "Dani Carvajal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774086610911233",
+              "name": "Dani Carvajal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1971989681819783187",
+        "created_at": "2025-09-27T17:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T18:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971989681819783187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Ls4s3xsZp",
+              "end": 23,
+              "expanded_url": "https://x.com/mzdrics/status/1971989681819783187/photo/1",
+              "media_key": "3_1971989675729383425",
+              "start": 0,
+              "url": "https://t.co/8Ls4s3xsZp"
+            },
+            {
+              "display_url": "x.com/themadridzone/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/themadridzone/status/1971988821517676887",
+              "start": 24,
+              "url": "https://t.co/0ymuNcUJf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971989681819783187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 374,
+          "impression_count": 613122,
+          "like_count": 30512,
+          "quote_count": 67,
+          "reply_count": 82,
+          "retweet_count": 2093
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971988821517676887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/8Ls4s3xsZp https://t.co/0ymuNcUJf5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2958,
+          "following_count": 7482,
+          "like_count": 4732,
+          "listed_count": 6,
+          "media_count": 911,
+          "tweet_count": 3989
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T12:18:29.000Z",
+        "description": "@realmadrid @DFB_team",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "realmadrid"
+              },
+              {
+                "end": 21,
+                "start": 12,
+                "username": "DFB_team"
+              }
+            ]
+          }
+        },
+        "id": "1505881486070800388",
+        "location": "21 she ",
+        "name": "alena",
+        "pinned_tweet_id": "1926711639119671776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969073548170833920/msVBtV3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 270,
+          "like_count": 43494,
+          "listed_count": 8,
+          "media_count": 3248,
+          "tweet_count": 20218
+        },
+        "username": "mzdrics",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1920879443955871826",
+    "created_at": "2025-05-10T05:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T06:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921069483122151483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1253864884573319168",
+          "start": 0,
+          "username": "Lautreamont_Se"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921069483122151483",
+    "in_reply_to_user_id": "1253864884573319168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920947446206603728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lautreamont_Se 可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1920879443955871826",
+        "created_at": "2025-05-10T05:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T06:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921069483122151483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1253864884573319168",
+              "start": 0,
+              "username": "Lautreamont_Se"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921069483122151483",
+        "in_reply_to_user_id": "1253864884573319168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920947446206603728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lautreamont_Se 可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253864884573319168",
+        "conversation_id": "1920879443955871826",
+        "created_at": "2025-05-09T21:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T22:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920947446206603728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920947446206603728",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920879443955871826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 我平时吃火锅，蘸料都只用葱花香菜香油的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 7112,
+          "like_count": 2204,
+          "listed_count": 3,
+          "media_count": 553,
+          "tweet_count": 2310
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-25T01:54:28.000Z",
+        "description": "是缅因猫，不会讲中文，Lingua Latina勉強中。理想是早点退休。//\n全国不可飞。西安。¥541 一日。門¥37🚪。求互推。//\n喜欢奶油松露西班牙火腿意面、AMX-50 Foch、Ηλι、秉烛夜游、约会、舌吻、荷鲁斯之眼，煲电话粥。//\n我是浪漫主义的。//\n没有生活费，活不下去了。",
+        "id": "1253864884573319168",
+        "location": "朱雀大街",
+        "name": "Latlamoν Sexualiς",
+        "pinned_tweet_id": "1920449330097402300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920195438659186690/RVuVZreB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 309,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 254
+        },
+        "username": "Lautreamont_Se",
+        "verified": false
+      }
+    ]
+  }
+}

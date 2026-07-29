@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1928401442810802246",
+    "created_at": "2025-05-30T10:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T11:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928403689825255492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928403689825255492",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928401442810802246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 石达开"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1928401417900875777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMO31pXYAEsqgD.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1928401442810802246",
+        "created_at": "2025-05-30T10:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928403689825255492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928403689825255492",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928401442810802246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 石达开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928401417900875777"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1928401442810802246",
+        "created_at": "2025-05-30T10:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928401442810802246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGWnkirkfX",
+              "end": 31,
+              "expanded_url": "https://x.com/jianlvup/status/1928401442810802246/photo/1",
+              "media_key": "3_1928401417900875777",
+              "start": 8,
+              "url": "https://t.co/JGWnkirkfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928401442810802246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "石姓有什么名人 https://t.co/JGWnkirkfX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 7501,
+          "like_count": 2668,
+          "listed_count": 3,
+          "media_count": 644,
+          "tweet_count": 2660
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 二次元热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：待定\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Jianlv117"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E6%90%9E%E7%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91-mvp",
+                "start": 0,
+                "url": "https://t.co/391J9kVhQ4"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（回复1和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律·繁律（互fo私信）",
+        "pinned_tweet_id": "1927726705751330949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 586,
+          "like_count": 9256,
+          "listed_count": 9,
+          "media_count": 470,
+          "tweet_count": 1092
+        },
+        "url": "https://t.co/391J9kVhQ4",
+        "username": "jianlvup",
+        "verified": false
+      }
+    ]
+  }
+}

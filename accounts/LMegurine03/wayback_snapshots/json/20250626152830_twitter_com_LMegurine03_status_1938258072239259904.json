@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1938258047769468994",
+    "created_at": "2025-06-26T15:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T16:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938258072239259904"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938258072239259904",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938258066572526018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也许现实其实也没有那么差，至少我现在好像可以不用后悔了，我有一种感知他们预设的轨迹从来就不会是既定现实，我什么都没错过，只是选了另一条路而已，可能未来的某一天我会说我累了，坚持不下去了，或者哪件重要的事情没做成，但是我都会认为这没什么不正常的，也并没有错过那些预设的成功"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938258047769468994",
+        "created_at": "2025-06-26T15:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938258072239259904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938258072239259904",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938258066572526018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也许现实其实也没有那么差，至少我现在好像可以不用后悔了，我有一种感知他们预设的轨迹从来就不会是既定现实，我什么都没错过，只是选了另一条路而已，可能未来的某一天我会说我累了，坚持不下去了，或者哪件重要的事情没做成，但是我都会认为这没什么不正常的，也并没有错过那些预设的成功"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938258047769468994",
+        "created_at": "2025-06-26T15:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938258066572526018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938258066572526018",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938258056028295633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总是忍不住去比较去愧疚，我年龄也不算小了，迟早也是要自己学着做决策的，但是总有人一直想替我做选择，我也不确定我到底会不会，就这些事情放在一起，我现在真不知道该怎么去做，学日语考eju在别人看来就是一句话，但是在现在看来，都快成我生活的全部了，但是对这些事情的把握我可能还是一半都不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 7443,
+          "like_count": 3293,
+          "listed_count": 4,
+          "media_count": 739,
+          "tweet_count": 3013
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1957084447632691376",
+    "created_at": "2025-08-17T14:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T15:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957084447632691376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nva2ka/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/nva2ka/status/1956742354939056230",
+          "start": 14,
+          "url": "https://t.co/NrCVnCO3Om"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957084447632691376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956742354939056230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那看来以后不得不试试了（） https://t.co/NrCVnCO3Om"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1957084447632691376",
+        "created_at": "2025-08-17T14:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T15:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957084447632691376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nva2ka/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nva2ka/status/1956742354939056230",
+              "start": 14,
+              "url": "https://t.co/NrCVnCO3Om"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957084447632691376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956742354939056230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那看来以后不得不试试了（） https://t.co/NrCVnCO3Om"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1956742354939056230",
+        "created_at": "2025-08-16T15:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956742354939056230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainengine2024…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/rainengine2024/status/1956683281191063621",
+              "start": 17,
+              "url": "https://t.co/fWKU1LNMmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956742354939056230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9263,
+          "like_count": 92,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956683281191063621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "穿女装的感觉...其实有点爽（? https://t.co/fWKU1LNMmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 7496,
+          "like_count": 4457,
+          "listed_count": 5,
+          "media_count": 843,
+          "tweet_count": 3735
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "*声明：我的个人资料仅仅只是为了好玩而存在，与我实际身份无关",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "小药娘Zhi Wei🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1948326046593675681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956595670812618752/HkfhpBoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5826,
+          "following_count": 405,
+          "like_count": 30512,
+          "listed_count": 15,
+          "media_count": 1861,
+          "tweet_count": 16764
+        },
+        "username": "nva2ka",
+        "verified": true
+      }
+    ]
+  }
+}

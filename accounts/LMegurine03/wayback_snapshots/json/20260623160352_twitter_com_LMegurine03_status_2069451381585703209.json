@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069451351604781056",
+        "3_2069451368717545472"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2069451381585703209",
+    "created_at": "2026-06-23T16:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069451381585703209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kFLs3t5Qyo",
+          "end": 74,
+          "expanded_url": "https://x.com/LMegurine03/status/2069451381585703209/photo/1",
+          "media_key": "3_2069451351604781056",
+          "start": 51,
+          "url": "https://t.co/kFLs3t5Qyo"
+        },
+        {
+          "display_url": "pic.x.com/kFLs3t5Qyo",
+          "end": 74,
+          "expanded_url": "https://x.com/LMegurine03/status/2069451381585703209/photo/1",
+          "media_key": "3_2069451368717545472",
+          "start": 51,
+          "url": "https://t.co/kFLs3t5Qyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069451381585703209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前段时间在大桥上看到好像有一个钻井平台，今天到山顶确认了一下确实是这样，离海岸不算太远，可以看很清楚 https://t.co/kFLs3t5Qyo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2634,
+        "media_key": "3_2069451351604781056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgrCjRa4AAOEkU.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2634,
+        "media_key": "3_2069451368717545472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgrDjBa8AA12oQ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069451351604781056",
+            "3_2069451368717545472"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2069451381585703209",
+        "created_at": "2026-06-23T16:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069451381585703209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFLs3t5Qyo",
+              "end": 74,
+              "expanded_url": "https://x.com/LMegurine03/status/2069451381585703209/photo/1",
+              "media_key": "3_2069451351604781056",
+              "start": 51,
+              "url": "https://t.co/kFLs3t5Qyo"
+            },
+            {
+              "display_url": "pic.x.com/kFLs3t5Qyo",
+              "end": 74,
+              "expanded_url": "https://x.com/LMegurine03/status/2069451381585703209/photo/1",
+              "media_key": "3_2069451368717545472",
+              "start": 51,
+              "url": "https://t.co/kFLs3t5Qyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069451381585703209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前段时间在大桥上看到好像有一个钻井平台，今天到山顶确认了一下确实是这样，离海岸不算太远，可以看很清楚 https://t.co/kFLs3t5Qyo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 7439,
+          "like_count": 7886,
+          "listed_count": 7,
+          "media_count": 1712,
+          "tweet_count": 6771
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

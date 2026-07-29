@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1939098511653707776"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1939098513037754396",
+    "created_at": "2025-06-28T23:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T00:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939098513037754396"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1939098513037754396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想调查一下各位如果有在疫情之后出境的，存不存在强制查看手机以及额外核实某些个人信息的现象（手机看不全可以横屏）"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2025-06-30T23:08:06.000Z",
+        "id": "1939098511653707776",
+        "options": [
+          {
+            "label": "存在，需要抽查手机，可能需要检查是否存在违禁内容",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "存在，会接受大量盘问来核实各种信息以及出国动机",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "不存在，直接出镜",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "存在其他情况（可以在评论区说明）",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1939098511653707776"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1939098513037754396",
+        "created_at": "2025-06-28T23:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T00:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939098513037754396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939098513037754396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想调查一下各位如果有在疫情之后出境的，存不存在强制查看手机以及额外核实某些个人信息的现象（手机看不全可以横屏）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 7431,
+          "like_count": 3410,
+          "listed_count": 4,
+          "media_count": 748,
+          "tweet_count": 3104
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

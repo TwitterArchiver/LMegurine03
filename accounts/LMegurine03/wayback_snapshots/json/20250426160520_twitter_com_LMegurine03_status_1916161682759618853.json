@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1916074670358487419",
+    "created_at": "2025-04-26T16:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T17:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916161682759618853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1649087223764074502",
+          "start": 0,
+          "username": "Godsent_Ogar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916161682759618853",
+    "in_reply_to_user_id": "1649087223764074502",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916074670358487419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Godsent_Ogar RMA 0-4 BAR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1916074549331804160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpdDppwWwAA6aPV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1916074670358487419",
+        "created_at": "2025-04-26T16:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T17:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916161682759618853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1649087223764074502",
+              "start": 0,
+              "username": "Godsent_Ogar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916161682759618853",
+        "in_reply_to_user_id": "1649087223764074502",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916074670358487419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Godsent_Ogar RMA 0-4 BAR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916074549331804160"
+          ]
+        },
+        "author_id": "1649087223764074502",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226239898259457",
+              "name": "Real Madrid CF"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226239898259457",
+              "name": "Real Madrid CF"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1916074670358487419",
+        "created_at": "2025-04-26T10:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T11:19:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916074557967941907",
+          "1916074670358487419"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "kes ",
+              "probability": 0.5191,
+              "start": 59,
+              "type": "Person"
+            },
+            {
+              "end": 149,
+              "normalized_text": "for Barce",
+              "probability": 0.7362,
+              "start": 141,
+              "type": "Organization"
+            },
+            {
+              "end": 164,
+              "normalized_text": " vs Real Ma",
+              "probability": 0.9611,
+              "start": 154,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Apbu6481SM",
+              "end": 272,
+              "expanded_url": "https://x.com/Godsent_Ogar/status/1916074670358487419/photo/1",
+              "media_key": "3_1916074549331804160",
+              "start": 249,
+              "url": "https://t.co/Apbu6481SM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916074670358487419",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3587,
+          "like_count": 97,
+          "quote_count": 2,
+          "reply_count": 181,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "Hello Techies 👩‍💻👨‍💻. I learnt that all work and no play makes jack a dull boy..Lol. So it’s the week end again, Correctly predict the score for Barcelona vs Real Madrid and win $15 from me after the match 😊 👍🏽. Let’s goooo.😅 must be following too. https://t.co/Apbu6481SM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 6631,
+          "like_count": 2060,
+          "listed_count": 3,
+          "media_count": 515,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T16:27:08.000Z",
+        "description": "Healthcare Analyst | Building & Deploying Data-Driven Solutions to Improve Healthcare Access | Data Analytics Mentor | Founder of Zion Tech Hub",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ziontechub.com",
+                "end": 23,
+                "expanded_url": "https://ziontechub.com",
+                "start": 0,
+                "url": "https://t.co/06C5NnnX34"
+              }
+            ]
+          }
+        },
+        "id": "1649087223764074502",
+        "name": "Godsent Ndoma",
+        "pinned_tweet_id": "1866903141721198871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884036012243898368/_R8UBtRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 28,
+          "like_count": 337,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/06C5NnnX34",
+        "username": "Godsent_Ogar",
+        "verified": true
+      }
+    ]
+  }
+}

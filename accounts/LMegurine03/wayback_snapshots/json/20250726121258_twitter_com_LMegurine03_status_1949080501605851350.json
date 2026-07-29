@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1949079411334197701",
+    "created_at": "2025-07-26T12:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T13:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949080501605851350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592189823892295680",
+          "start": 0,
+          "username": "MaplesyrupMagic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949080501605851350",
+    "in_reply_to_user_id": "1592189823892295680",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949079711705182213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaplesyrupMagic I love you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1949079411334197701",
+        "created_at": "2025-07-26T12:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T13:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949080501605851350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592189823892295680",
+              "start": 0,
+              "username": "MaplesyrupMagic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949080501605851350",
+        "in_reply_to_user_id": "1592189823892295680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949079711705182213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaplesyrupMagic I love you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592189823892295680",
+        "conversation_id": "1949079411334197701",
+        "created_at": "2025-07-26T12:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T13:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949079711705182213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949079711705182213",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949079411334197701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 何意味ですか"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2735,
+          "following_count": 7483,
+          "like_count": 3950,
+          "listed_count": 4,
+          "media_count": 794,
+          "tweet_count": 3474
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T16:16:58.000Z",
+        "description": "还活着已经战胜百分之百死掉的人了",
+        "id": "1592189823892295680",
+        "location": "床上",
+        "name": "Magic枫糖",
+        "pinned_tweet_id": "1948957698655166873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937444677961285634/oZLqCZ7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 614,
+          "like_count": 5290,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1046
+        },
+        "username": "MaplesyrupMagic",
+        "verified": false
+      }
+    ]
+  }
+}

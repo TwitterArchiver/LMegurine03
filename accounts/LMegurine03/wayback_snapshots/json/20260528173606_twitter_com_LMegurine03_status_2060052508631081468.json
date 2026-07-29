@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2059935209026376096",
+    "created_at": "2026-05-28T17:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060052508631081468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041223587873312769",
+          "start": 0,
+          "username": "duorendusk"
+        },
+        {
+          "end": 28,
+          "id": "1565981667746914304",
+          "start": 12,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060052508631081468",
+    "in_reply_to_user_id": "2041223587873312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059935209026376096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duorendusk @Kagura_Yukikaze 是我没错了😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2059935209026376096",
+        "created_at": "2026-05-28T17:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060052508631081468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            },
+            {
+              "end": 28,
+              "id": "1565981667746914304",
+              "start": 12,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060052508631081468",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059935209026376096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk @Kagura_Yukikaze 是我没错了😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2059935209026376096",
+        "created_at": "2026-05-28T09:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059935209026376096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059935209026376096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 783,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【注意力障碍的表现】【ADHD】\n❶ 长时间忘记吃饭喝水\n❷ 坐不住、等不及、别人说话要插嘴\n❸ 想要把自己的地方整理干净的，但越整理越乱\n❹ 很难主动想起来不在眼前的事情和不在身边的人\n❺ 有一堆兴趣爱好，但每个兴趣爱好都是五分钟热度\n❻ 容易忘东西、掉东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4182,
+          "following_count": 7269,
+          "like_count": 7463,
+          "listed_count": 7,
+          "media_count": 1621,
+          "tweet_count": 6521
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 318,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 426
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 2997,
+          "like_count": 109206,
+          "listed_count": 7,
+          "media_count": 797,
+          "tweet_count": 13308
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

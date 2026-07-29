@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069448428506304512",
+        "3_2069448449154838528",
+        "3_2069448464208154624"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2069448476287795702",
+    "created_at": "2026-06-23T15:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069448476287795702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YYBlE6mIMQ",
+          "end": 46,
+          "expanded_url": "https://x.com/LMegurine03/status/2069448476287795702/photo/1",
+          "media_key": "3_2069448428506304512",
+          "start": 23,
+          "url": "https://t.co/YYBlE6mIMQ"
+        },
+        {
+          "display_url": "pic.x.com/YYBlE6mIMQ",
+          "end": 46,
+          "expanded_url": "https://x.com/LMegurine03/status/2069448476287795702/photo/1",
+          "media_key": "3_2069448449154838528",
+          "start": 23,
+          "url": "https://t.co/YYBlE6mIMQ"
+        },
+        {
+          "display_url": "pic.x.com/YYBlE6mIMQ",
+          "end": 46,
+          "expanded_url": "https://x.com/LMegurine03/status/2069448476287795702/photo/1",
+          "media_key": "3_2069448464208154624",
+          "start": 23,
+          "url": "https://t.co/YYBlE6mIMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069448476287795702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "印象中应该是红大袋鼠……不过没有想象中那么大 https://t.co/YYBlE6mIMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2634,
+        "media_key": "3_2069448428506304512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgoYZ4b0AA3E2d.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2634,
+        "media_key": "3_2069448449154838528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgoZmzbcAA1lQw.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2069448464208154624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgoae4a0AAY-nj.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069448428506304512",
+            "3_2069448449154838528",
+            "3_2069448464208154624"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2069448476287795702",
+        "created_at": "2026-06-23T15:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069448476287795702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYBlE6mIMQ",
+              "end": 46,
+              "expanded_url": "https://x.com/LMegurine03/status/2069448476287795702/photo/1",
+              "media_key": "3_2069448428506304512",
+              "start": 23,
+              "url": "https://t.co/YYBlE6mIMQ"
+            },
+            {
+              "display_url": "pic.x.com/YYBlE6mIMQ",
+              "end": 46,
+              "expanded_url": "https://x.com/LMegurine03/status/2069448476287795702/photo/1",
+              "media_key": "3_2069448449154838528",
+              "start": 23,
+              "url": "https://t.co/YYBlE6mIMQ"
+            },
+            {
+              "display_url": "pic.x.com/YYBlE6mIMQ",
+              "end": 46,
+              "expanded_url": "https://x.com/LMegurine03/status/2069448476287795702/photo/1",
+              "media_key": "3_2069448464208154624",
+              "start": 23,
+              "url": "https://t.co/YYBlE6mIMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069448476287795702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "印象中应该是红大袋鼠……不过没有想象中那么大 https://t.co/YYBlE6mIMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 7439,
+          "like_count": 7886,
+          "listed_count": 7,
+          "media_count": 1706,
+          "tweet_count": 6765
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

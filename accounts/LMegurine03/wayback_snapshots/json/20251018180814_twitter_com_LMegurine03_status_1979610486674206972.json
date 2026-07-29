@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1979442751566680154",
+    "created_at": "2025-10-18T18:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T19:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979610486674206972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1211352392752435200",
+          "start": 0,
+          "username": "U4Nyf432znO9zop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979610486674206972",
+    "in_reply_to_user_id": "1211352392752435200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979555022028616035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@U4Nyf432znO9zop 喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1979442751566680154",
+        "created_at": "2025-10-18T18:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T19:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979610486674206972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1211352392752435200",
+              "start": 0,
+              "username": "U4Nyf432znO9zop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979610486674206972",
+        "in_reply_to_user_id": "1211352392752435200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979555022028616035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@U4Nyf432znO9zop 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211352392752435200",
+        "conversation_id": "1979442751566680154",
+        "created_at": "2025-10-18T14:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T15:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979555022028616035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979555022028616035",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979442751566680154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 不認識，不過都喜歡喵喵叫🤣🤣🤣🤣🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "realmadrid"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "KChiharu34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3011,
+          "following_count": 7498,
+          "like_count": 4822,
+          "listed_count": 5,
+          "media_count": 939,
+          "tweet_count": 4058
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-29T18:25:36.000Z",
+        "description": "只要能毁灭地球我也心甘情愿了！！！！！\n\n我不打贪污腐败，(我不打贪官污吏)，也不颠覆你的政权，但是我把地球毁了！！！！！\n\n我毁灭地球！！！！！\n\n我不要你的政權！！！！！我只要地球毀滅！！！！！",
+        "id": "1211352392752435200",
+        "name": "天判雷",
+        "pinned_tweet_id": "1857344075739046106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436720155824771083/AkTH63U7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 74,
+          "like_count": 72333,
+          "listed_count": 0,
+          "media_count": 3381,
+          "tweet_count": 32145
+        },
+        "username": "U4Nyf432znO9zop",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1945928153873990136",
+    "created_at": "2025-07-17T21:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T22:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945956123582013720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1845989364498599936",
+          "start": 0,
+          "username": "mSeren7189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945956123582013720",
+    "in_reply_to_user_id": "1845989364498599936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945950771901812779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mSeren7189 好哦，你也加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1945928153873990136",
+        "created_at": "2025-07-17T21:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T22:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945956123582013720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1845989364498599936",
+              "start": 0,
+              "username": "mSeren7189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945956123582013720",
+        "in_reply_to_user_id": "1845989364498599936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945950771901812779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mSeren7189 好哦，你也加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845989364498599936",
+        "conversation_id": "1945928153873990136",
+        "created_at": "2025-07-17T20:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T21:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945950771901812779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945950771901812779",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945928153873990136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 加油加油，我状况和你差不多！不过已经会考完了（毕业证大概率搞定？），9月回去继续高三...我的高一下学期和高二下学期都是在请假的说。别太早灰心，争取明年一起出去！🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 7422,
+          "like_count": 3862,
+          "listed_count": 4,
+          "media_count": 780,
+          "tweet_count": 3404
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T00:45:49.000Z",
+        "description": "邦➗/棺材铺/半颓文青/略懂政哲 称呼随意！每个Follow都会回！无论立场如何，只要不极端，都尽量保持友善🥰",
+        "id": "1845989364498599936",
+        "location": "Greenland,Danmark",
+        "name": "🇺🇦MortisSeren｜莫雪蓮🇺🇦",
+        "pinned_tweet_id": "1933966712246050933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845989619659071488/lGTvrFTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 108,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 309
+        },
+        "username": "mSeren7189",
+        "verified": false
+      }
+    ]
+  }
+}

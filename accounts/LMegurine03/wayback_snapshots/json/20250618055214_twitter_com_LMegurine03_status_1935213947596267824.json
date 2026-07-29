@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1935213947596267824",
+    "created_at": "2025-06-18T05:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T06:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935213947596267824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1924965014831824896",
+          "start": 3,
+          "username": "Yuwen_Tang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935213947596267824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935159829947105369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuwen_Tang1019: 锁鸡儿时间公投\n我比较怂，十个点赞一小时🤓\n转帖10分钟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1935213947596267824",
+        "created_at": "2025-06-18T05:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T06:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935213947596267824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1924965014831824896",
+              "start": 3,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935213947596267824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935159829947105369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuwen_Tang1019: 锁鸡儿时间公投\n我比较怂，十个点赞一小时🤓\n转帖10分钟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924965014831824896",
+        "conversation_id": "1935159829947105369",
+        "created_at": "2025-06-18T02:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T03:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935159829947105369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935159829947105369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3740,
+          "like_count": 157,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "锁鸡儿时间公投\n我比较怂，十个点赞一小时🤓\n转帖10分钟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "realmadrid"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 7380,
+          "like_count": 3198,
+          "listed_count": 6,
+          "media_count": 709,
+          "tweet_count": 2922
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "MTF木桶饭\n墨尔本\n其实一点也不傲娇\n反跨\nq群975641126\nhttps://t.co/HRulu0zTpS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DhBw7EtOmx01Z…",
+                "end": 58,
+                "expanded_url": "https://t.me/+DhBw7EtOmx01ZDY1",
+                "start": 35,
+                "url": "https://t.co/HRulu0zTpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NoMTF.COM",
+                "start": 0,
+                "url": "https://t.co/itsNX2I7yj"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "Melbourne, Victoria",
+        "name": "NoMTF | 唐毓文",
+        "pinned_tweet_id": "1934553053237321901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 183,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1126
+        },
+        "url": "https://t.co/itsNX2I7yj",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

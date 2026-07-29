@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913156263766355968"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1913156267171860643",
+    "created_at": "2025-04-18T09:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T10:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913156267171860643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BZEycwi4V6",
+          "end": 49,
+          "expanded_url": "https://x.com/LMegurine03/status/1913156267171860643/photo/1",
+          "media_key": "3_1913156263766355968",
+          "start": 26,
+          "url": "https://t.co/BZEycwi4V6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913156267171860643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "零基础和学霸预备役是怎么放在一起的，我可算不上（） https://t.co/BZEycwi4V6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_1913156263766355968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GozlfE2bcAA9BpF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913156263766355968"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1913156267171860643",
+        "created_at": "2025-04-18T09:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T10:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913156267171860643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZEycwi4V6",
+              "end": 49,
+              "expanded_url": "https://x.com/LMegurine03/status/1913156267171860643/photo/1",
+              "media_key": "3_1913156263766355968",
+              "start": 26,
+              "url": "https://t.co/BZEycwi4V6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913156267171860643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "零基础和学霸预备役是怎么放在一起的，我可算不上（） https://t.co/BZEycwi4V6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 5974,
+          "like_count": 1999,
+          "listed_count": 3,
+          "media_count": 500,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

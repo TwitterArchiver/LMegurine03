@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1922236789256847536",
+    "created_at": "2025-05-13T17:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T18:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922339148406415529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1630211438441820163",
+          "start": 0,
+          "username": "shufsng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922339148406415529",
+    "in_reply_to_user_id": "1630211438441820163",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922335191302909996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shufsng2 90"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1922236789256847536",
+        "created_at": "2025-05-13T17:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T18:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922339148406415529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1630211438441820163",
+              "start": 0,
+              "username": "shufsng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922339148406415529",
+        "in_reply_to_user_id": "1630211438441820163",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922335191302909996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shufsng2 90"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630211438441820163",
+        "conversation_id": "1922236789256847536",
+        "created_at": "2025-05-13T16:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T17:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922335191302909996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922335191302909996",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922236789256847536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 炸薯条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 7325,
+          "like_count": 2292,
+          "listed_count": 3,
+          "media_count": 564,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-27T14:21:17.000Z",
+        "description": "无法停止思考｜被动聊天扩列｜日常主义｜侧翻友跨🏳️‍⚧️｜痴迷于幻想世界｜焦虑和摆烂二项性｜might adhd｜愿内心终能寻得安宁之所｜♡@Namerrorr 戳刺谁→@Fusang_Water",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "Namerrorr"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Fusang_Water"
+              }
+            ]
+          }
+        },
+        "id": "1630211438441820163",
+        "location": "Glasgow, Scotland",
+        "name": "水桑fusang",
+        "pinned_tweet_id": "1733851894487920942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922304669608517632/owJxCPSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 358,
+          "like_count": 4557,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1705
+        },
+        "username": "shufsng2",
+        "verified": false
+      }
+    ]
+  }
+}

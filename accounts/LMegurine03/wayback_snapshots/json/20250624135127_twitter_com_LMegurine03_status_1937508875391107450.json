@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1937498064513888276",
+    "created_at": "2025-06-24T13:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T14:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937508875391107450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586762784393437184",
+          "start": 0,
+          "username": "DraTohru_XLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937508875391107450",
+    "in_reply_to_user_id": "1586762784393437184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937500203499815315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DraTohru_XLN 看了一下，现在也有这个，但是没有轨迹记录的功能，只能监测实时速度"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1937500203499815315].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1937500203499815315",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1937500203499815315"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1937498064513888276",
+        "created_at": "2025-06-24T13:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T14:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937508875391107450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586762784393437184",
+              "start": 0,
+              "username": "DraTohru_XLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937508875391107450",
+        "in_reply_to_user_id": "1586762784393437184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937500203499815315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DraTohru_XLN 看了一下，现在也有这个，但是没有轨迹记录的功能，只能监测实时速度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 7418,
+          "like_count": 3268,
+          "listed_count": 4,
+          "media_count": 731,
+          "tweet_count": 2985
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T16:51:55.000Z",
+        "description": "来自中国的20y.o.激光专业技术宅兼大笨蛋,爱好二次元|电子电路|化学|MIDI|音频|操作系统|数码产品|摄影。属性:🏳️‍⚧️🏳️‍🌈LGBTQ+兼容|トール可愛い|《青空のラプソディ》最高🎵|我愛大連🏝️|S-YXG2006LE音源好き🎹|双極性障害存疑|Fart Fetish特殊性癖注意💨⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dratoh…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dratohru-xln.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3IfckWWTKL"
+              }
+            ]
+          }
+        },
+        "id": "1586762784393437184",
+        "location": "SGP2.DLL",
+        "name": "小龙娘トール⚡️🧪🔉🎹📱💻🏝️",
+        "pinned_tweet_id": "1758324214581645818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827717933965234176/8TASHQHp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 439,
+          "like_count": 38181,
+          "listed_count": 3,
+          "media_count": 894,
+          "tweet_count": 11843
+        },
+        "url": "https://t.co/3IfckWWTKL",
+        "username": "DraTohru_XLN",
+        "verified": false
+      }
+    ]
+  }
+}

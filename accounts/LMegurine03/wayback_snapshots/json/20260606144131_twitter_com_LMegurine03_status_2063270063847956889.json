@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2060046603508224257",
+    "created_at": "2026-06-06T14:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063270063847956889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937079095852158976",
+          "start": 0,
+          "username": "Chizuru_arch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063270063847956889",
+    "in_reply_to_user_id": "1937079095852158976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060420786121494593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chizuru_arch 哦，不是的，那个时候是看到路过这边的清真寺看到有活动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2060046603508224257",
+        "created_at": "2026-06-06T14:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063270063847956889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937079095852158976",
+              "start": 0,
+              "username": "Chizuru_arch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063270063847956889",
+        "in_reply_to_user_id": "1937079095852158976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060420786121494593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chizuru_arch 哦，不是的，那个时候是看到路过这边的清真寺看到有活动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937079095852158976",
+        "conversation_id": "2060046603508224257",
+        "created_at": "2026-05-29T17:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060420786121494593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060420786121494593",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060046603508224257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 是因为突然在哔哩哔哩上出现了很多新疆人放假的视频吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4225,
+          "following_count": 7326,
+          "like_count": 7537,
+          "listed_count": 7,
+          "media_count": 1642,
+          "tweet_count": 6574
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:23:58.000Z",
+        "description": "𒂼𒅈𒄄，发音为Ama-ar-gi₄，在苏美尔语和阿卡德语里代表着自由。",
+        "id": "1937079095852158976",
+        "name": "月見　千鶴🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042370475561795584/XTHdIDIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 104,
+          "like_count": 12657,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1161
+        },
+        "username": "Chizuru_arch",
+        "verified": false
+      }
+    ]
+  }
+}

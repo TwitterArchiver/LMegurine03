@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2041888987993010179"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2041889051419320387",
+    "created_at": "2026-04-08T14:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041889051419320387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eBfbQFgCxa",
+          "end": 29,
+          "expanded_url": "https://x.com/LMegurine03/status/2041889051419320387/video/1",
+          "media_key": "7_2041888987993010179",
+          "start": 6,
+          "url": "https://t.co/eBfbQFgCxa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041889051419320387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好多海鸥（ https://t.co/eBfbQFgCxa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23508,
+        "height": 720,
+        "media_key": "7_2041888987993010179",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041888987993010179/pu/img/CrjWgRCwXIU7PCeP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041888987993010179/pu/vid/avc1/480x270/nbyMJunzil_tWMMU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041888987993010179/pu/vid/avc1/640x360/mbNRGhLeAOlNv3wP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041888987993010179/pu/vid/avc1/1280x720/BBJqi3HT1eRP1ZUr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041888987993010179/pu/pl/OOApntQiiFCzGyeN.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041888987993010179"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2041889051419320387",
+        "created_at": "2026-04-08T14:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041889051419320387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBfbQFgCxa",
+              "end": 29,
+              "expanded_url": "https://x.com/LMegurine03/status/2041889051419320387/video/1",
+              "media_key": "7_2041888987993010179",
+              "start": 6,
+              "url": "https://t.co/eBfbQFgCxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041889051419320387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多海鸥（ https://t.co/eBfbQFgCxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4131,
+          "following_count": 7130,
+          "like_count": 7073,
+          "listed_count": 7,
+          "media_count": 1455,
+          "tweet_count": 6007
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

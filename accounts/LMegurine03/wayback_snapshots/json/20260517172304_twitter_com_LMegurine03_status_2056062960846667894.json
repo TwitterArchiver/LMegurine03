@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2054971807158108339",
+    "created_at": "2026-05-17T17:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056062960846667894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1363090571397451778",
+          "start": 0,
+          "username": "MinusZeroQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056062960846667894",
+    "in_reply_to_user_id": "1363090571397451778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054981189644239064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinusZeroQwQ 嗯，看过了，我记得好像是有说要调整一下的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2054971807158108339",
+        "created_at": "2026-05-17T17:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056062960846667894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1363090571397451778",
+              "start": 0,
+              "username": "MinusZeroQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056062960846667894",
+        "in_reply_to_user_id": "1363090571397451778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054981189644239064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinusZeroQwQ 嗯，看过了，我记得好像是有说要调整一下的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363090571397451778",
+        "conversation_id": "2054971807158108339",
+        "created_at": "2026-05-14T17:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054981189644239064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054981189644239064",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054971807158108339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 直接留就好，只要挺过不长不短的尴尬期就好办了x\n也可以去看一下rlewiki，有专门的留头发的文章。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4122,
+          "following_count": 7166,
+          "like_count": 7293,
+          "listed_count": 7,
+          "media_count": 1585,
+          "tweet_count": 6352
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T11:38:20.000Z",
+        "description": "哪里会有人喜欢孤独，不过是不喜欢失望罢了\n| 04mtx(f) 🏳️‍⚧️|she/her |补药私信骚扰 不约不卖不线下喵\n//❤️Love：@WSGM233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 72,
+                "username": "WSGM233"
+              }
+            ]
+          }
+        },
+        "id": "1363090571397451778",
+        "name": "Yuluoxk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004345508941156352/3B2CrP08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 351,
+          "like_count": 11246,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 1272
+        },
+        "username": "MinusZeroQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

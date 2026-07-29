@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1922565081289625904",
+    "created_at": "2025-05-17T12:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T13:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923714365565567087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923714365565567087",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922565081289625904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 其实我觉得可以稍微休息一段时间缓一缓，感觉你最近挺憔悴的，我明白他们已经彻底让你失望了，但并不是一定要马上就斗争到底，让他们彻底屈服的成本太高了，一个人很难承担得起，你也搞得很透支，相比之下，稍微降低一些期待，如果把目标换成尽最大的程度将他们造成的损失降到最低，或许真的会好一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1922565081289625904",
+        "created_at": "2025-05-17T12:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T13:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923714365565567087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923714365565567087",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922565081289625904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 其实我觉得可以稍微休息一段时间缓一缓，感觉你最近挺憔悴的，我明白他们已经彻底让你失望了，但并不是一定要马上就斗争到底，让他们彻底屈服的成本太高了，一个人很难承担得起，你也搞得很透支，相比之下，稍微降低一些期待，如果把目标换成尽最大的程度将他们造成的损失降到最低，或许真的会好一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844025283676094464",
+        "conversation_id": "1922565081289625904",
+        "created_at": "2025-05-14T08:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922565081289625904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922565081289625904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 65699,
+          "like_count": 58,
+          "quote_count": 10,
+          "reply_count": 44,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这次我不再害怕了，哪怕我一辈子在海外流亡，我也要揭露张海秦及其同伙所涉及的腐败。抛弃对他们的幻想，才能心无旁骛地战斗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 7265,
+          "like_count": 2326,
+          "listed_count": 3,
+          "media_count": 574,
+          "tweet_count": 2405
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "出生于不幸原生家庭的小说家，遭受过其父（北京高通律师事务所律师张海秦）的极端家暴。现在正努力完成自己的作品。YouTube：新频道“夜昕故事 ”接受网友提问（单价100RMB，油管视频解答）邮箱：konekoutena@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/yexinstory",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/yexinstory",
+                "start": 0,
+                "url": "https://t.co/5bxIkdvbun"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1922072933473652881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914683894328385537/aUt4s2lE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7927,
+          "following_count": 1570,
+          "like_count": 5594,
+          "listed_count": 33,
+          "media_count": 3945,
+          "tweet_count": 12126
+        },
+        "url": "https://t.co/5bxIkdvbun",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

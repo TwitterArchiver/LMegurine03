@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1912785030277177480",
+    "created_at": "2025-04-17T08:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T09:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912785030277177480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Arsenal/status…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/Arsenal/status/1912612218178326933",
+          "start": 131,
+          "url": "https://t.co/K6eNC0uTSt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912785030277177480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912612218178326933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "伯纳乌这个地方不缺乏奇迹，但是奇迹不会每次都在需要的时候发生，前几年的银河战舰来到了一个不可企及的高度，以至于我们忽视低谷的到来，对阵巴萨，利物浦，阿森纳都显示了实力的不佳，球队需要做出一点改变了，但我们会对它很宽容，哪怕今年四大皆空也无所谓，我们不会停止支持 https://t.co/K6eNC0uTSt"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Full Time: Real Madrid 1-2 Arsenal",
+        "height": 1350,
+        "media_key": "3_1912612040289431552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gor2hGaWMAADsNF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1912785030277177480",
+        "created_at": "2025-04-17T08:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T09:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912785030277177480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Arsenal/status…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/Arsenal/status/1912612218178326933",
+              "start": 131,
+              "url": "https://t.co/K6eNC0uTSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912785030277177480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912612218178326933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伯纳乌这个地方不缺乏奇迹，但是奇迹不会每次都在需要的时候发生，前几年的银河战舰来到了一个不可企及的高度，以至于我们忽视低谷的到来，对阵巴萨，利物浦，阿森纳都显示了实力的不佳，球队需要做出一点改变了，但我们会对它很宽容，哪怕今年四大皆空也无所谓，我们不会停止支持 https://t.co/K6eNC0uTSt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912612040289431552"
+          ]
+        },
+        "author_id": "34613288",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1895631759473098752",
+              "name": "Real Madrid vs Arsenal FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226207908290561",
+              "name": "International Clubs - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1895631759473098752",
+              "name": "Real Madrid vs Arsenal FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1895631759473098752",
+              "name": "Real Madrid vs Arsenal FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226241894752257",
+              "name": "Arsenal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226241894752257",
+              "name": "Arsenal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1895631759473098752",
+              "name": "Real Madrid vs Arsenal FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1895631759473098752",
+              "name": "Real Madrid vs Arsenal FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1895631759473098752",
+              "name": "Real Madrid vs Arsenal FC"
+            }
+          }
+        ],
+        "conversation_id": "1912612218178326933",
+        "created_at": "2025-04-16T21:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T22:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912612218178326933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wnVxePE2sY",
+              "end": 61,
+              "expanded_url": "https://x.com/Arsenal/status/1912612218178326933/photo/1",
+              "media_key": "3_1912612040289431552",
+              "start": 38,
+              "url": "https://t.co/wnVxePE2sY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912612218178326933",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1784,
+          "impression_count": 3802881,
+          "like_count": 176412,
+          "quote_count": 8078,
+          "reply_count": 5115,
+          "retweet_count": 41440
+        },
+        "reply_settings": "everyone",
+        "text": "Writing the next chapter - TOGETHER 👊 https://t.co/wnVxePE2sY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 5897,
+          "like_count": 1970,
+          "listed_count": 3,
+          "media_count": 495,
+          "tweet_count": 2062
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-23T13:38:19.000Z",
+        "description": "The official account of Arsenal Football Club. @ArsenalWFC @ArsenalAcademy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "ArsenalWFC"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "ArsenalAcademy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arsenal.com",
+                "end": 23,
+                "expanded_url": "http://www.arsenal.com",
+                "start": 0,
+                "url": "https://t.co/PEiBDie6AF"
+              }
+            ]
+          }
+        },
+        "id": "34613288",
+        "location": "London",
+        "name": "Arsenal",
+        "pinned_tweet_id": "1912612218178326933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912122342114828288/uIJyeAat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22627124,
+          "following_count": 81425,
+          "like_count": 7825,
+          "listed_count": 33837,
+          "media_count": 47697,
+          "tweet_count": 115186
+        },
+        "url": "https://t.co/PEiBDie6AF",
+        "username": "Arsenal",
+        "verified": true
+      }
+    ]
+  }
+}

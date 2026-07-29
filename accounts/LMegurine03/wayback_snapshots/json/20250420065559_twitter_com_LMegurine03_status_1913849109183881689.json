@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913849105572622336"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1913849109183881689",
+    "created_at": "2025-04-20T06:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T07:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913849109183881689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7N6d0w3HQP",
+          "end": 63,
+          "expanded_url": "https://x.com/LMegurine03/status/1913849109183881689/photo/1",
+          "media_key": "3_1913849105572622336",
+          "start": 40,
+          "url": "https://t.co/7N6d0w3HQP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913849109183881689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想和我互fo就可以给这条帖子点赞或者评论（不查成分，如果没回可以私信提醒我一下 https://t.co/7N6d0w3HQP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_1913849105572622336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go9bnxta8AAcxCm.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913849105572622336"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1913849109183881689",
+        "created_at": "2025-04-20T06:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913849109183881689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7N6d0w3HQP",
+              "end": 63,
+              "expanded_url": "https://x.com/LMegurine03/status/1913849109183881689/photo/1",
+              "media_key": "3_1913849105572622336",
+              "start": 40,
+              "url": "https://t.co/7N6d0w3HQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913849109183881689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想和我互fo就可以给这条帖子点赞或者评论（不查成分，如果没回可以私信提醒我一下 https://t.co/7N6d0w3HQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 6117,
+          "like_count": 2017,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1940692136514801664"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1940692248305586501",
+    "created_at": "2025-07-03T08:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T09:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940692248305586501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KOZx1BkuVF",
+          "end": 40,
+          "expanded_url": "https://x.com/LMegurine03/status/1940692248305586501/video/1",
+          "media_key": "7_1940692136514801664",
+          "start": 17,
+          "url": "https://t.co/KOZx1BkuVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940692248305586501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉今年的雷暴多的有点不正常…… https://t.co/KOZx1BkuVF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22871,
+        "height": 672,
+        "media_key": "7_1940692136514801664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1940692136514801664/pu/img/trSuZDSbi7ZEf_lk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940692136514801664/pu/vid/avc1/482x270/m_BCsFTdbCfEAVTy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940692136514801664/pu/vid/avc1/642x360/c8BeDVvKvh2LfUdR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1940692136514801664/pu/vid/avc1/1200x672/eoq_B8NfBGXHd8eB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1940692136514801664/pu/pl/0LCOWdZkhD6Lxzc6.m3u8?tag=12"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1940692136514801664"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1940692248305586501",
+        "created_at": "2025-07-03T08:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T09:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940692248305586501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOZx1BkuVF",
+              "end": 40,
+              "expanded_url": "https://x.com/LMegurine03/status/1940692248305586501/video/1",
+              "media_key": "7_1940692136514801664",
+              "start": 17,
+              "url": "https://t.co/KOZx1BkuVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940692248305586501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉今年的雷暴多的有点不正常…… https://t.co/KOZx1BkuVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 7430,
+          "like_count": 3446,
+          "listed_count": 4,
+          "media_count": 752,
+          "tweet_count": 3151
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

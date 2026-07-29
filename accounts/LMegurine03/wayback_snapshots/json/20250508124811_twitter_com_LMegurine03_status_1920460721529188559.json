@@ -1,0 +1,638 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1920148066050445312"
+      ],
+      "media_source_tweet_id": [
+        "1920207007480754457"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226185535881216",
+          "name": "Inter Milan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226185535881216",
+          "name": "Inter Milan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1920460721529188559",
+    "created_at": "2025-05-08T12:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T13:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920460721529188559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "124450567",
+          "start": 3,
+          "username": "Inter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TfzkuhbV0x",
+          "end": 48,
+          "expanded_url": "https://x.com/Inter/status/1920207007480754457/video/1",
+          "media_key": "13_1920148066050445312",
+          "start": 25,
+          "url": "https://t.co/TfzkuhbV0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920460721529188559",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1152
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920207007480754457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Inter: 𝑻𝒉𝒆 𝑭𝒍𝒊𝒈𝒉𝒕  🪽 https://t.co/TfzkuhbV0x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26920,
+        "height": 1920,
+        "media_key": "13_1920148066050445312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1920148066050445312/img/Nqw77e4jbyJFosSD.jpg",
+        "public_metrics": {
+          "view_count": 319821
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920148066050445312/vid/avc1/720x1280/jO-21i-zrinr1Yqy.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920148066050445312/vid/avc1/320x568/-ubkXrC7v5MRDgru.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920148066050445312/vid/avc1/480x852/BWMlf90r7ejxY1Sj.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1920148066050445312/pl/W8iHoOhlvBGt028w.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920148066050445312/vid/avc1/1080x1920/yIPeF98lm96nhJnj.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1920148066050445312"
+          ],
+          "media_source_tweet_id": [
+            "1920207007480754457"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226185535881216",
+              "name": "Inter Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226185535881216",
+              "name": "Inter Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1920460721529188559",
+        "created_at": "2025-05-08T12:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T13:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920460721529188559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "124450567",
+              "start": 3,
+              "username": "Inter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfzkuhbV0x",
+              "end": 48,
+              "expanded_url": "https://x.com/Inter/status/1920207007480754457/video/1",
+              "media_key": "13_1920148066050445312",
+              "start": 25,
+              "url": "https://t.co/TfzkuhbV0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920460721529188559",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1152
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920207007480754457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Inter: 𝑻𝒉𝒆 𝑭𝒍𝒊𝒈𝒉𝒕  🪽 https://t.co/TfzkuhbV0x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1920148066050445312"
+          ]
+        },
+        "author_id": "124450567",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1903243052057071616",
+              "name": "Inter Milano vs FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226185535881216",
+              "name": "Inter Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226207908290561",
+              "name": "International Clubs - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1903243052057071616",
+              "name": "Inter Milano vs FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1903243052057071616",
+              "name": "Inter Milano vs FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226185535881216",
+              "name": "Inter Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1903243052057071616",
+              "name": "Inter Milano vs FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1903243052057071616",
+              "name": "Inter Milano vs FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1903243052057071616",
+              "name": "Inter Milano vs FC Barcelona"
+            }
+          }
+        ],
+        "conversation_id": "1920207007480754457",
+        "created_at": "2025-05-07T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920207007480754457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfzkuhbV0x",
+              "end": 37,
+              "expanded_url": "https://x.com/Inter/status/1920207007480754457/video/1",
+              "media_key": "13_1920148066050445312",
+              "start": 14,
+              "url": "https://t.co/TfzkuhbV0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920207007480754457",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 630,
+          "impression_count": 371866,
+          "like_count": 16427,
+          "quote_count": 152,
+          "reply_count": 96,
+          "retweet_count": 1152
+        },
+        "reply_settings": "everyone",
+        "text": "𝑻𝒉𝒆 𝑭𝒍𝒊𝒈𝒉𝒕  🪽 https://t.co/TfzkuhbV0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 7034,
+          "like_count": 2157,
+          "listed_count": 3,
+          "media_count": 542,
+          "tweet_count": 2248
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-19T12:47:21.000Z",
+        "description": "Inter  ⭐️⭐️\n#IM2STARS \nI M FC Internazionale Milano.\n@Inter_en; @Inter_id; @Inter_jp; @Inter_ar; @Inter_br; @Inter_es; @Inter_Women",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 12,
+                "tag": "IM2STARS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "Inter_en"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "Inter_id"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "Inter_jp"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Inter_ar"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Inter_br"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "Inter_es"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Inter_Women"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/inter",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/inter",
+                "start": 0,
+                "url": "https://t.co/zF3xfQuR0J"
+              }
+            ]
+          }
+        },
+        "id": "124450567",
+        "location": "Milano, Italia",
+        "name": "Inter ⭐⭐",
+        "pinned_tweet_id": "1919870962729713887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811035594144825344/EXzgzqG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3064395,
+          "following_count": 90,
+          "like_count": 1537,
+          "listed_count": 6232,
+          "media_count": 36532,
+          "tweet_count": 109186
+        },
+        "url": "https://t.co/zF3xfQuR0J",
+        "username": "Inter",
+        "verified": true
+      }
+    ]
+  }
+}

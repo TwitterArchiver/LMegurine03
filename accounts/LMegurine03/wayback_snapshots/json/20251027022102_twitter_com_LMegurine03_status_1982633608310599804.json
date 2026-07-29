@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1982525530797965674",
+    "created_at": "2025-10-27T02:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T03:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982633608310599804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833775663222075392",
+          "start": 0,
+          "username": "SocDemCNBunny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982633608310599804",
+    "in_reply_to_user_id": "1833775663222075392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982603054701846811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SocDemCNBunny 这次是巴萨打的相比之前可差的多，好几个重要位置没上……要说皇马复不复活这个真不一定，但我希望这个势头能继续下去"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1982603054701846811].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1982603054701846811",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1982603054701846811"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1982525530797965674",
+        "created_at": "2025-10-27T02:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982633608310599804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833775663222075392",
+              "start": 0,
+              "username": "SocDemCNBunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982633608310599804",
+        "in_reply_to_user_id": "1833775663222075392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982603054701846811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SocDemCNBunny 这次是巴萨打的相比之前可差的多，好几个重要位置没上……要说皇马复不复活这个真不一定，但我希望这个势头能继续下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx｜泛性恋｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "realmadrid"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "KChiharu34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 7502,
+          "like_count": 5192,
+          "listed_count": 6,
+          "media_count": 961,
+          "tweet_count": 4170
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T07:52:53.000Z",
+        "description": "医学预科🥼+社科📖｜社民🌹｜进步派⏩｜左下↙️INTP🧪｜🇺🇦🇵🇸｜史政coser🎭｜🚹🚺平等｜🏳️‍🌈🏳️‍⚧️友好｜国际主义🌍+左翼民族主义🇨🇳🇭🇰🇲🇴🇹🇼｜两岸和统🇨🇳☮️🇹🇼｜樊星乒丝🏓+罗粉⚽️｜爱世间一切美好｜👿支黑皇汉民逗川粉社达🇷🇺🇮🇱",
+        "id": "1833775663222075392",
+        "name": "进步的🐇酱🇨🇳🇺🇦🇵🇸🌹🚩🏳️‍🌈🏳️‍⚧️#DeathtotheIDF",
+        "pinned_tweet_id": "1968107758735200608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975706354460303360/AK2nR_z6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 860,
+          "like_count": 22693,
+          "listed_count": 7,
+          "media_count": 1172,
+          "tweet_count": 8637
+        },
+        "username": "SocDemCNBunny",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1924055478579175518",
+    "created_at": "2025-05-18T11:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T12:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924058857724399800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858102501381414912",
+          "start": 0,
+          "username": "zaofushijian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924058857724399800",
+    "in_reply_to_user_id": "1858102501381414912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924056156269662356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaofushijian 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1924055478579175518",
+        "created_at": "2025-05-18T11:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T12:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924058857724399800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858102501381414912",
+              "start": 0,
+              "username": "zaofushijian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924058857724399800",
+        "in_reply_to_user_id": "1858102501381414912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924056156269662356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaofushijian 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858102501381414912",
+        "conversation_id": "1924055478579175518",
+        "created_at": "2025-05-18T10:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924056156269662356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924056156269662356",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924055478579175518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 取fo你助你破局喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 7266,
+          "like_count": 2344,
+          "listed_count": 3,
+          "media_count": 574,
+          "tweet_count": 2435
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T10:59:04.000Z",
+        "description": "🚪五块半喵\n顺男喵\n泛性恋喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zaofushijian",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zaofushijian",
+                "start": 0,
+                "url": "https://t.co/ebFKJdXhsi"
+              }
+            ]
+          }
+        },
+        "id": "1858102501381414912",
+        "location": "东海  天地一家大爱盟",
+        "name": "天地一家大爱盟盟主🍥",
+        "pinned_tweet_id": "1916864101998841948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920070009398968321/MSIQsKu2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 55,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/ebFKJdXhsi",
+        "username": "zaofushijian",
+        "verified": false
+      }
+    ]
+  }
+}

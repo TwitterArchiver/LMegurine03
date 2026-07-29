@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1920017093875138631",
+    "created_at": "2025-05-07T07:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T08:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920017093875138631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/LMegurine03/status/1919282398086201774",
+          "start": 140,
+          "url": "https://t.co/Y4ecmYppV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920017093875138631",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919282398086201774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结果是这样子的，我也要说明一下，我现在并没很高的水平来专门做日语推主，我是一个初学者，对于语言学也不是特别感兴趣只是留学需要，因此不能够系统性的深度讲解，只是发点自己知道的东西，可能稍微有点碎片化，供各位一起学日语的推友参考，如有错误也可以来批评指正\n\n一緒に頑張りましょう！！ https://t.co/Y4ecmYppV3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1920017093875138631",
+        "created_at": "2025-05-07T07:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920017093875138631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/LMegurine03/status/1919282398086201774",
+              "start": 140,
+              "url": "https://t.co/Y4ecmYppV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920017093875138631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919282398086201774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结果是这样子的，我也要说明一下，我现在并没很高的水平来专门做日语推主，我是一个初学者，对于语言学也不是特别感兴趣只是留学需要，因此不能够系统性的深度讲解，只是发点自己知道的东西，可能稍微有点碎片化，供各位一起学日语的推友参考，如有错误也可以来批评指正\n\n一緒に頑張りましょう！！ https://t.co/Y4ecmYppV3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1919282395494404096"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1919282398086201774",
+        "created_at": "2025-05-05T06:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T07:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919282398086201774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919282398086201774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果以后发日语相关的东西你们希望用什么形式更好一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 6991,
+          "like_count": 2130,
+          "listed_count": 3,
+          "media_count": 538,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

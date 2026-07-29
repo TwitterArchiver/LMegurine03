@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930227499214221317"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1930179943717318918",
+    "created_at": "2025-06-04T11:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T12:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930227503169470610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zL5tV1uLaL",
+          "end": 47,
+          "expanded_url": "https://x.com/LMegurine03/status/1930227503169470610/photo/1",
+          "media_key": "3_1930227499214221317",
+          "start": 24,
+          "url": "https://t.co/zL5tV1uLaL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930227503169470610",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930179943717318918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 搞不到家庭宽带IP的😿 https://t.co/zL5tV1uLaL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2255,
+        "media_key": "3_1930227499214221317",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsmLrwpasAU43AJ.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930179939766284294",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gslgbb5asAYHoGb.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930179938965172226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GslgbY6asAIe0kx.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930227499214221317"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T11:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T12:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930227503169470610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zL5tV1uLaL",
+              "end": 47,
+              "expanded_url": "https://x.com/LMegurine03/status/1930227503169470610/photo/1",
+              "media_key": "3_1930227499214221317",
+              "start": 24,
+              "url": "https://t.co/zL5tV1uLaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930227503169470610",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930179943717318918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 搞不到家庭宽带IP的😿 https://t.co/zL5tV1uLaL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930179939766284294",
+            "3_1930179938965172226"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "1930179943717318918",
+        "created_at": "2025-06-04T08:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T09:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930179943717318918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9b5t3Lbor1",
+              "end": 75,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1930179943717318918/photo/1",
+              "media_key": "3_1930179939766284294",
+              "start": 52,
+              "url": "https://t.co/9b5t3Lbor1"
+            },
+            {
+              "display_url": "pic.x.com/9b5t3Lbor1",
+              "end": 75,
+              "expanded_url": "https://x.com/Chiyuyu520/status/1930179943717318918/photo/1",
+              "media_key": "3_1930179938965172226",
+              "start": 52,
+              "url": "https://t.co/9b5t3Lbor1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930179943717318918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1303,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "发帖没流量的可以去看看自己IP，机房IP风控值拉满还到处换IP的发帖不给推流也正常\n图1为优秀IP示例 https://t.co/9b5t3Lbor1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 7502,
+          "like_count": 2968,
+          "listed_count": 5,
+          "media_count": 662,
+          "tweet_count": 2733
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "14岁mtf🍥 | 含糖2025.3.24 | 双相精分 | 生日0907 | 想要贴贴抱抱 | 回避型依恋 | 雷抽烟喝酒见证蛆抽象人 | 不介意私聊 | 最爱的人 @YueHua0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "YueHua0_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chiyu.IT",
+                "end": 23,
+                "expanded_url": "http://Chiyu.IT",
+                "start": 0,
+                "url": "https://t.co/1nusPXgxh8"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "你家床上",
+        "name": "池鱼鱼🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1906550893383917611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909835175166722049/nGPUKPNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 479,
+          "like_count": 380,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/1nusPXgxh8",
+        "username": "Chiyuyu520",
+        "verified": false
+      }
+    ]
+  }
+}

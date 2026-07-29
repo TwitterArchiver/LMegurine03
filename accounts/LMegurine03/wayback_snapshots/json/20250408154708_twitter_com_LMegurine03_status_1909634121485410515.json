@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1908949495473389915",
+    "created_at": "2025-04-08T15:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T16:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909634121485410515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828410411919556608",
+          "start": 0,
+          "username": "Hamidsahari20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909634121485410515",
+    "in_reply_to_user_id": "1828410411919556608",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908949495473389915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hamidsahari20 It's useless to give you a chance"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38169,
+        "height": 1280,
+        "media_key": "13_1908944930103291904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1908944930103291904/img/Uk796UeD7wm_OCCk.jpg",
+        "public_metrics": {
+          "view_count": 39394
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908944930103291904/vid/avc1/320x568/gigMqlWaKCjyGIoj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908944930103291904/vid/avc1/480x852/485-zCWSeavzL6xg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1908944930103291904/vid/avc1/720x1280/PpI7wXfvP4wy6frk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1908944930103291904/pl/UipnODsrldwAWji2.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1908949495473389915",
+        "created_at": "2025-04-08T15:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T16:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909634121485410515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828410411919556608",
+              "start": 0,
+              "username": "Hamidsahari20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909634121485410515",
+        "in_reply_to_user_id": "1828410411919556608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908949495473389915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hamidsahari20 It's useless to give you a chance"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1908944930103291904"
+          ]
+        },
+        "author_id": "1828410411919556608",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1892370298185424896",
+              "name": "FC Barcelona vs Real Betis Seville"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226215760027649",
+              "name": "Spain - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756520714752000",
+              "name": "La Liga"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1892370298185424896",
+              "name": "FC Barcelona vs Real Betis Seville"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1892370298185424896",
+              "name": "FC Barcelona vs Real Betis Seville"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226239898259457",
+              "name": "Real Madrid CF"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226255836598272",
+              "name": "FC Barcelona"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756520714752000",
+              "name": "La Liga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226239898259457",
+              "name": "Real Madrid CF"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756520714752000",
+              "name": "La Liga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1908949495473389915",
+        "created_at": "2025-04-06T18:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T19:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908949495473389915"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Betis",
+              "probability": 0.7622,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 29,
+              "normalized_text": "Barca",
+              "probability": 0.9733,
+              "start": 25,
+              "type": "Organization"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Real Madrid",
+              "probability": 0.9796,
+              "start": 47,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8BuaZv8be",
+              "end": 88,
+              "expanded_url": "https://x.com/Hamidsahari20/status/1908949495473389915/video/1",
+              "media_key": "13_1908944930103291904",
+              "start": 65,
+              "url": "https://t.co/a8BuaZv8be"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908949495473389915",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 80038,
+          "like_count": 2576,
+          "quote_count": 19,
+          "reply_count": 33,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "Betis took 2 points from Barca and came to aid Real Madrid. ☠️ 🐐 https://t.co/a8BuaZv8be"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜不定期回fo，100%互ban｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~\n逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 5489,
+          "like_count": 1762,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1931
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T12:33:20.000Z",
+        "description": "Hamid Sahari, Animator and Cartoonist ❤️⚽️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hamidsahari?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hamidsahari?igsh=MW96OTIwdDVwMDV5cQ==",
+                "start": 0,
+                "url": "https://t.co/ZZrRUHKO06"
+              }
+            ]
+          }
+        },
+        "id": "1828410411919556608",
+        "name": "Hamid sahari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861233358597926912/6jdWrx9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19475,
+          "following_count": 0,
+          "like_count": 21,
+          "listed_count": 37,
+          "media_count": 292,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/ZZrRUHKO06",
+        "username": "Hamidsahari20",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1919193828487266573",
+    "created_at": "2025-05-06T11:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T12:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919711025319838180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "989523100072005633",
+          "start": 0,
+          "username": "minus148810000"
+        },
+        {
+          "end": 23,
+          "id": "1613079089879076864",
+          "start": 16,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919711025319838180",
+    "in_reply_to_user_id": "989523100072005633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919708782658978184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minus148810000 @Cldeop 部分车型吧，雷克萨斯相对能更高端一点，这款和ES有点像，但其他的就不一定了，就比如LC，LX，LM，还有其他几款都是100万以上或者接近100万的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1919193828487266573",
+        "created_at": "2025-05-06T11:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T12:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919711025319838180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "989523100072005633",
+              "start": 0,
+              "username": "minus148810000"
+            },
+            {
+              "end": 23,
+              "id": "1613079089879076864",
+              "start": 16,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919711025319838180",
+        "in_reply_to_user_id": "989523100072005633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919708782658978184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minus148810000 @Cldeop 部分车型吧，雷克萨斯相对能更高端一点，这款和ES有点像，但其他的就不一定了，就比如LC，LX，LM，还有其他几款都是100万以上或者接近100万的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "989523100072005633",
+        "conversation_id": "1919193828487266573",
+        "created_at": "2025-05-06T11:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T12:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919708782658978184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 20,
+              "id": "1613079089879076864",
+              "start": 13,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919708782658978184",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919617377244778610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 @Cldeop 和雷克萨斯的定位好像有重叠？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 6946,
+          "like_count": 2115,
+          "listed_count": 3,
+          "media_count": 537,
+          "tweet_count": 2216
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-26T15:14:26.000Z",
+        "description": "",
+        "id": "989523100072005633",
+        "name": "minus1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1144940476086149120/BoJs0z7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 435,
+          "like_count": 3574,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 2303
+        },
+        "username": "minus148810000",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63992,
+          "following_count": 569,
+          "like_count": 28635,
+          "listed_count": 217,
+          "media_count": 9434,
+          "tweet_count": 13452
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

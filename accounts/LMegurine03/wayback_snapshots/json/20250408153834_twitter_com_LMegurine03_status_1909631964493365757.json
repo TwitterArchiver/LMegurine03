@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1909627114711925075",
+    "created_at": "2025-04-08T15:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T16:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909631964493365757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620590639200059397",
+          "start": 0,
+          "username": "QwQMikuF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909631964493365757",
+    "in_reply_to_user_id": "1620590639200059397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909630751995576813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQMikuF 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1909627114711925075",
+        "created_at": "2025-04-08T15:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T16:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909631964493365757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620590639200059397",
+              "start": 0,
+              "username": "QwQMikuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909631964493365757",
+        "in_reply_to_user_id": "1620590639200059397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909630751995576813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQMikuF 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620590639200059397",
+        "conversation_id": "1909627114711925075",
+        "created_at": "2025-04-08T15:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T16:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909630751995576813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909630751995576813",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909627114711925075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 100，为了显得不是虚夸，所以90😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜不定期回fo，100%互ban｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~\n逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 5488,
+          "like_count": 1759,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T01:11:41.000Z",
+        "description": "普通中国高中牲/可以叫我葱葱！😼",
+        "id": "1620590639200059397",
+        "location": "People's Republic of China",
+        "name": "Y葱Y✞",
+        "pinned_tweet_id": "1863976575043252338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880621684585291776/nd7GKbWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 250,
+          "like_count": 1437,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1113
+        },
+        "username": "QwQMikuF",
+        "verified": false
+      }
+    ]
+  }
+}

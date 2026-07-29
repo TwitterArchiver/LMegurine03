@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920445648769351680"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1920431393856713136",
+    "created_at": "2025-05-08T11:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T12:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920445663403237589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "896550698543874049",
+          "start": 0,
+          "username": "UTDTrey"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fzKBCqbyGG",
+          "end": 32,
+          "expanded_url": "https://x.com/LMegurine03/status/1920445663403237589/photo/1",
+          "media_key": "3_1920445648769351680",
+          "start": 9,
+          "url": "https://t.co/fzKBCqbyGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920445663403237589",
+    "in_reply_to_user_id": "896550698543874049",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920431393856713136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UTDTrey https://t.co/fzKBCqbyGG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1920445648769351680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbLJIFXgAANIYJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1513,
+        "media_key": "3_1920431389238812672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqa-LHMW4AAYcEQ.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920445648769351680"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1920431393856713136",
+        "created_at": "2025-05-08T11:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T12:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920445663403237589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "896550698543874049",
+              "start": 0,
+              "username": "UTDTrey"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzKBCqbyGG",
+              "end": 32,
+              "expanded_url": "https://x.com/LMegurine03/status/1920445663403237589/photo/1",
+              "media_key": "3_1920445648769351680",
+              "start": 9,
+              "url": "https://t.co/fzKBCqbyGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920445663403237589",
+        "in_reply_to_user_id": "896550698543874049",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920431393856713136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UTDTrey https://t.co/fzKBCqbyGG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920431389238812672"
+          ]
+        },
+        "author_id": "896550698543874049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          }
+        ],
+        "conversation_id": "1920431393856713136",
+        "created_at": "2025-05-08T10:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T11:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920431393856713136"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Champions League",
+              "probability": 0.9697,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRVJtDja7V",
+              "end": 91,
+              "expanded_url": "https://x.com/UTDTrey/status/1920431393856713136/photo/1",
+              "media_key": "3_1920431389238812672",
+              "start": 68,
+              "url": "https://t.co/FRVJtDja7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920431393856713136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 82799,
+          "like_count": 5231,
+          "quote_count": 61,
+          "reply_count": 387,
+          "retweet_count": 416
+        },
+        "reply_settings": "everyone",
+        "text": "Random but drop a pic of your club with the Champions League trophy https://t.co/FRVJtDja7V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 7031,
+          "like_count": 2156,
+          "listed_count": 3,
+          "media_count": 542,
+          "tweet_count": 2247
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-13T01:55:18.000Z",
+        "description": "Fan Account || If my tweets piss you off, I'm not sorry because I speak the truth. Business- DMs || 18+|| @TheHQQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 106,
+                "username": "TheHQQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/utdtrey",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/utdtrey",
+                "start": 0,
+                "url": "https://t.co/LOKiyIu5Ce"
+              }
+            ]
+          }
+        },
+        "id": "896550698543874049",
+        "location": "Somewhere",
+        "name": "Trey",
+        "pinned_tweet_id": "1891463491829088687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617857952408391681/TUkMzKkF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378328,
+          "following_count": 994,
+          "like_count": 230685,
+          "listed_count": 2223,
+          "media_count": 15697,
+          "tweet_count": 130710
+        },
+        "url": "https://t.co/LOKiyIu5Ce",
+        "username": "UTDTrey",
+        "verified": true
+      }
+    ]
+  }
+}

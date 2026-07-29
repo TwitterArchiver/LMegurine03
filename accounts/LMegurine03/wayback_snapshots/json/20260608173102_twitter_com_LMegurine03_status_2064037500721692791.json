@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2064033219251782136",
+    "created_at": "2026-06-08T17:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064037500721692791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914766734420279296",
+          "start": 0,
+          "username": "yangtao1729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064037500721692791",
+    "in_reply_to_user_id": "1914766734420279296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064033219251782136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangtao1729 我也要🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2064033219251782136",
+        "created_at": "2026-06-08T17:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064037500721692791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914766734420279296",
+              "start": 0,
+              "username": "yangtao1729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064037500721692791",
+        "in_reply_to_user_id": "1914766734420279296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064033219251782136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangtao1729 我也要🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914766734420279296",
+        "conversation_id": "2064033219251782136",
+        "created_at": "2026-06-08T17:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064033219251782136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064033219251782136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要疯狂关注人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4257,
+          "following_count": 7381,
+          "like_count": 7592,
+          "listed_count": 7,
+          "media_count": 1654,
+          "tweet_count": 6631
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T19:42:30.000Z",
+        "description": "♂男   会被时间吞掉的吧\n                 永远的@XiShangguan    \n                    我是坏人 没有自我介绍喔，我不配被认识呢。                                               我大哥@yangtao1708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "XiShangguan"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "yangtao1708"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangtao1729",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangtao1729",
+                "start": 0,
+                "url": "https://t.co/MjsQHi05n5"
+              }
+            ]
+          }
+        },
+        "id": "1914766734420279296",
+        "location": "下界",
+        "name": "白骑士与刺玫瑰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 221,
+          "like_count": 18171,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 8704
+        },
+        "url": "https://t.co/MjsQHi05n5",
+        "username": "yangtao1729",
+        "verified": false
+      }
+    ]
+  }
+}

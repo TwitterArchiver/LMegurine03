@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2078850238824300758",
+    "created_at": "2026-07-19T14:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078853609866064356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060652328915701760",
+          "start": 0,
+          "username": "MEMZFuHua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078853609866064356",
+    "in_reply_to_user_id": "2060652328915701760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078850238824300758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEMZFuHua 摸摸……真的好忙诶🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2078850238824300758",
+        "created_at": "2026-07-19T14:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078853609866064356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060652328915701760",
+              "start": 0,
+              "username": "MEMZFuHua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078853609866064356",
+        "in_reply_to_user_id": "2060652328915701760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078850238824300758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEMZFuHua 摸摸……真的好忙诶🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060652328915701760",
+        "conversation_id": "2078850238824300758",
+        "created_at": "2026-07-19T14:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078850238824300758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078850238824300758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "计划赶不上变化……衔接班直接上到29号中途只放一天而且上下午都有课，这就导致我的一对一课程要排到8月份，十几号就要军训了，目前看能不能争取到30和31号这两天休息时间，上午去医院查个激素下午去打舞萌去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 7499,
+          "like_count": 8158,
+          "listed_count": 8,
+          "media_count": 1881,
+          "tweet_count": 7123
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T09:20:39.000Z",
+        "description": "2010.12.27崭新下线 | HRT2026.6.11 | 理科不好 | 无证含糖 | 中度抑郁 | 同类互fo | 技术花粉 | 抖m | 不OD不割手",
+        "id": "2060652328915701760",
+        "location": "中国 安徽",
+        "name": "MEMZ-FuHua🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2075555105970233537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075471807206084610/ovf4uAvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 143,
+          "like_count": 251,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "MEMZFuHua",
+        "verified": true
+      }
+    ]
+  }
+}

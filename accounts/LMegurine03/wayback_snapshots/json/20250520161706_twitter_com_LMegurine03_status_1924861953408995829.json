@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1924803541899866217",
+    "created_at": "2025-05-20T16:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T17:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924861953408995829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1186651487155322880",
+          "start": 0,
+          "username": "RonaldSimmonsUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924861953408995829",
+    "in_reply_to_user_id": "1186651487155322880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924803541899866217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RonaldSimmonsUS 现在基本上都不用了，但是在南方的一些地区或者某些特殊情况下还会在家族中存在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1924803541899866217",
+        "created_at": "2025-05-20T16:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T17:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924861953408995829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1186651487155322880",
+              "start": 0,
+              "username": "RonaldSimmonsUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924861953408995829",
+        "in_reply_to_user_id": "1186651487155322880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924803541899866217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RonaldSimmonsUS 现在基本上都不用了，但是在南方的一些地区或者某些特殊情况下还会在家族中存在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1186651487155322880",
+        "conversation_id": "1924803541899866217",
+        "created_at": "2025-05-20T12:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T13:24:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924803441790222673",
+          "1924803541899866217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924803541899866217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4705,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "【提问】\n中国哪些地区的人习惯把法（fǎ）国读成法（fà）国？把亚（yà）洲读成亚（yǎ）洲？\n我发现王志安和他的前妻都有这个习惯。\n请问，这是北京地区特有的方言吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 7306,
+          "like_count": 2374,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 2459
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-22T14:32:26.000Z",
+        "description": "American, Christian, patriot(Republican), journalist, Julian Assange supporter.\nGod bless America!\n🇺🇸🤝🇮🇱\n#MadeInUSA\n#1A\n#2A\n#FollowBack 100%\n#IFBAP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 105,
+                "tag": "MadeInUSA"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "1A"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "2A"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "tag": "FollowBack"
+              },
+              {
+                "end": 147,
+                "start": 141,
+                "tag": "IFBAP"
+              }
+            ]
+          }
+        },
+        "id": "1186651487155322880",
+        "location": "Washington, DC",
+        "name": "Ronald Simmons🇺🇸🦅✝️",
+        "pinned_tweet_id": "1869860983642173565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343476573706485760/y4nITVko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58322,
+          "following_count": 48834,
+          "like_count": 168055,
+          "listed_count": 113,
+          "media_count": 25194,
+          "tweet_count": 159283
+        },
+        "username": "RonaldSimmonsUS",
+        "verified": true
+      }
+    ]
+  }
+}

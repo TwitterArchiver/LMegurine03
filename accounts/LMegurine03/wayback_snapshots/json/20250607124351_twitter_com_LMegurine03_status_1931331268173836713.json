@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1931331252520648704"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1931331268173836713",
+    "created_at": "2025-06-07T12:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T13:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931331268173836713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7JckBdDTpc",
+          "end": 41,
+          "expanded_url": "https://x.com/LMegurine03/status/1931331268173836713/photo/1",
+          "media_key": "16_1931331252520648704",
+          "start": 18,
+          "url": "https://t.co/7JckBdDTpc"
+        },
+        {
+          "display_url": "x.com/Amemiya_Hasumi…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Amemiya_Hasumi/status/1931300488051605578",
+          "start": 42,
+          "url": "https://t.co/hJ4Mer71Eb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931331268173836713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931300488051605578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很好奇你们对我的印象开始于哪里🤔 https://t.co/7JckBdDTpc https://t.co/hJ4Mer71Eb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "16_1931331252520648704",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gs13iqIagAA4BvI.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gs13iqIagAA4BvI.mp4"
+          }
+        ],
+        "width": 192
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1931300486185119744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs1bj0macAAZFD5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1931331252520648704"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1931331268173836713",
+        "created_at": "2025-06-07T12:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931331268173836713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7JckBdDTpc",
+              "end": 41,
+              "expanded_url": "https://x.com/LMegurine03/status/1931331268173836713/photo/1",
+              "media_key": "16_1931331252520648704",
+              "start": 18,
+              "url": "https://t.co/7JckBdDTpc"
+            },
+            {
+              "display_url": "x.com/Amemiya_Hasumi…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Amemiya_Hasumi/status/1931300488051605578",
+              "start": 42,
+              "url": "https://t.co/hJ4Mer71Eb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931331268173836713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931300488051605578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很好奇你们对我的印象开始于哪里🤔 https://t.co/7JckBdDTpc https://t.co/hJ4Mer71Eb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931300486185119744"
+          ]
+        },
+        "author_id": "1841801152381558784",
+        "conversation_id": "1931300488051605578",
+        "created_at": "2025-06-07T10:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931300488051605578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cp8TT7PUfj",
+              "end": 41,
+              "expanded_url": "https://x.com/Amemiya_Hasumi/status/1931300488051605578/photo/1",
+              "media_key": "3_1931300486185119744",
+              "start": 18,
+              "url": "https://t.co/Cp8TT7PUfj"
+            },
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/1931263591132672442",
+              "start": 42,
+              "url": "https://t.co/d5uih5408x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931300488051605578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931263591132672442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很好奇你们对我的印象开始于哪里🤔 https://t.co/Cp8TT7PUfj https://t.co/d5uih5408x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 7501,
+          "like_count": 3043,
+          "listed_count": 6,
+          "media_count": 676,
+          "tweet_count": 2781
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "Coser，直男，偶尔是男娘。\n第二人格@Hasumi_Amemiya。\n团长@Liberte_RA 前卫@vanofthess 小加@Plus_NGC1333 小绿@lamte15072 老金@KiminTW_Offical\n往期照片请见亮点，禁敏感政治/No Politics。\n↓更多介绍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Hasumi_Amemiya"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Liberte_RA"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "vanofthess"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Plus_NGC1333"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "lamte15072"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "KiminTW_Offical"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918165588679245825/T3Da3VAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4317,
+          "following_count": 2327,
+          "like_count": 37796,
+          "listed_count": 8,
+          "media_count": 1191,
+          "tweet_count": 8571
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

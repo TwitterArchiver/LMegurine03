@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1938519624548774203",
+    "created_at": "2025-06-27T08:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T09:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938519632874455475"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938519632874455475",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938519627061170362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并没有选择改建电车可能是因为用地和设备的问题，难以扩建和提速，所以选择了电车和1号线共线11公里，这个设计也显得比较匪夷所思，1/2，3号线在北站附近因为没有预留至今没有连接，只能选择公交接驳，高峰期现有两处换乘承载的压力过大，也反映出轨道交通修建由于规避审批原因而缺乏长期规划的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938519624548774203",
+        "created_at": "2025-06-27T08:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938519632874455475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938519632874455475",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938519627061170362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并没有选择改建电车可能是因为用地和设备的问题，难以扩建和提速，所以选择了电车和1号线共线11公里，这个设计也显得比较匪夷所思，1/2，3号线在北站附近因为没有预留至今没有连接，只能选择公交接驳，高峰期现有两处换乘承载的压力过大，也反映出轨道交通修建由于规避审批原因而缺乏长期规划的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938519624548774203",
+        "created_at": "2025-06-27T08:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938519627061170362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938519627061170362",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938519624548774203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而市区的1，2号线是后来修建了全地下线路，按照地铁标准，因此导致了一段时间整个城市出现三个完全独立的系统，因此后一段的发展基本上都是想尽办法将这三个独立系统连接，2，3号线市区段的连接选择了用5号线，形成的连续两个换乘站的结构，1，12号线则选择将两条线路延伸至河口（12号线进入地下）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 7465,
+          "like_count": 3369,
+          "listed_count": 4,
+          "media_count": 742,
+          "tweet_count": 3038
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

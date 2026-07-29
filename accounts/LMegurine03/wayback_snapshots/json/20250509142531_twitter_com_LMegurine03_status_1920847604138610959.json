@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1920835705191711122",
+    "created_at": "2025-05-09T14:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T15:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920847604138610959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683348184331059201",
+          "start": 0,
+          "username": "ccckoajiahao"
+        },
+        {
+          "end": 30,
+          "id": "1768924783734104064",
+          "start": 14,
+          "username": "yuan666ccc73844"
+        },
+        {
+          "end": 44,
+          "id": "1807678557826797568",
+          "start": 31,
+          "username": "TeRiri141421"
+        },
+        {
+          "end": 55,
+          "id": "1885154179922227200",
+          "start": 45,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920847604138610959",
+    "in_reply_to_user_id": "1683348184331059201",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920846887751467481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccckoajiahao @yuan666ccc73844 @TeRiri141421 @Snow_Xue_ 8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1920835705191711122",
+        "created_at": "2025-05-09T14:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T15:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920847604138610959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683348184331059201",
+              "start": 0,
+              "username": "ccckoajiahao"
+            },
+            {
+              "end": 30,
+              "id": "1768924783734104064",
+              "start": 14,
+              "username": "yuan666ccc73844"
+            },
+            {
+              "end": 44,
+              "id": "1807678557826797568",
+              "start": 31,
+              "username": "TeRiri141421"
+            },
+            {
+              "end": 55,
+              "id": "1885154179922227200",
+              "start": 45,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920847604138610959",
+        "in_reply_to_user_id": "1683348184331059201",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920846887751467481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccckoajiahao @yuan666ccc73844 @TeRiri141421 @Snow_Xue_ 8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683348184331059201",
+        "conversation_id": "1920835705191711122",
+        "created_at": "2025-05-09T14:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T15:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920846887751467481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768924783734104064",
+              "start": 0,
+              "username": "yuan666ccc73844"
+            },
+            {
+              "end": 30,
+              "id": "1807678557826797568",
+              "start": 17,
+              "username": "TeRiri141421"
+            },
+            {
+              "end": 41,
+              "id": "1885154179922227200",
+              "start": 31,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920846887751467481",
+        "in_reply_to_user_id": "1768924783734104064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920844632939762127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan666ccc73844 @TeRiri141421 @Snow_Xue_ 7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 7102,
+          "like_count": 2181,
+          "listed_count": 3,
+          "media_count": 551,
+          "tweet_count": 2289
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T05:27:50.000Z",
+        "description": "我是男银… 常在线，求骚扰（互fo）还有额…..算了算了不会写简介！就这样吧求骚扰！",
+        "id": "1683348184331059201",
+        "location": "1m",
+        "name": "c cc ko a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683349322598068224/LTc07JBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 354,
+          "like_count": 3181,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1930
+        },
+        "username": "ccckoajiahao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T08:58:41.000Z",
+        "description": "https://t.co/CfwPCco7NV匿名题问箱\n16岁高中生 幻想哥布林\n🥺周一到周五不在狸\n有时会用ai生图\n星怒⭐😡@xiaoliaoyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "xiaoliaoyou"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yuanhhh4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuanhhh4",
+                "start": 0,
+                "url": "https://t.co/CfwPCco7NV"
+              }
+            ]
+          }
+        },
+        "id": "1768924783734104064",
+        "location": "鸡窝托斯",
+        "name": "星野酱太可爱了🥰",
+        "pinned_tweet_id": "1917571521071178177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919233646936117248/S2EIjKN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 1489,
+          "like_count": 6179,
+          "listed_count": 1,
+          "media_count": 685,
+          "tweet_count": 2077
+        },
+        "username": "yuan666ccc73844",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T07:32:15.000Z",
+        "description": "阿巴阿巴…… 痴呆ㅇㅁㅇing…… 喵）现在是~蜕变😋 （ 愿望是：无",
+        "id": "1807678557826797568",
+        "location": "Izena-son, Okinawa",
+        "name": "呼咻~（",
+        "pinned_tweet_id": "1821930143771979992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874115211260813314/8cSsZofv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 2180,
+          "like_count": 58684,
+          "listed_count": 4,
+          "media_count": 1094,
+          "tweet_count": 8581
+        },
+        "username": "TeRiri141421",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "快递被父母监视，没法吃糖，天赋也一般:(\n父母半反贼（？）\n\n别看你今天闹得欢，小心今后拉清单\n\n只是一张白纸！他们在怕什么！？",
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906588909070589953/QQGqwlVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 120,
+          "like_count": 2812,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 356
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

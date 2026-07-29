@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1911029921650008140",
+    "created_at": "2025-04-12T12:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T13:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911037217881076207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882087876906676224",
+          "start": 0,
+          "username": "wwangandhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911037217881076207",
+    "in_reply_to_user_id": "1882087876906676224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911029921650008140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwangandhuang 喜欢香香软软的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1911029921650008140",
+        "created_at": "2025-04-12T12:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T13:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911037217881076207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882087876906676224",
+              "start": 0,
+              "username": "wwangandhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911037217881076207",
+        "in_reply_to_user_id": "1882087876906676224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911029921650008140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwangandhuang 喜欢香香软软的（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1911029919607341056"
+          ]
+        },
+        "author_id": "1882087876906676224",
+        "conversation_id": "1911029921650008140",
+        "created_at": "2025-04-12T12:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T13:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911029921650008140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911029921650008140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更喜欢肌肉男还是薄肌男？？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "FLjungberg08"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 5621,
+          "like_count": 1823,
+          "listed_count": 3,
+          "media_count": 480,
+          "tweet_count": 2010
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T15:28:22.000Z",
+        "description": "🚪52.0000000￥ 无福利/私信会回/不定时删帖/↓↓↓匿名提问/我这人就这样/顺来逆受/西伯利亚本地鼠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oi97851",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oi97851",
+                "start": 0,
+                "url": "https://t.co/1HY8SICZqs"
+              }
+            ]
+          }
+        },
+        "id": "1882087876906676224",
+        "name": "oi（秽土转生）",
+        "pinned_tweet_id": "1909589069472186536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893674858695061504/feyAfAlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 116,
+          "like_count": 7934,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/1HY8SICZqs",
+        "username": "wwangandhuang",
+        "verified": false
+      }
+    ]
+  }
+}

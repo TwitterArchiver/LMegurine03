@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1925189071988736373",
+    "created_at": "2025-05-31T17:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T18:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928870916064207337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877014604599230464",
+          "start": 0,
+          "username": "laohei11451419"
+        },
+        {
+          "end": 29,
+          "id": "1889295444557357056",
+          "start": 16,
+          "username": "zhshsh116388"
+        },
+        {
+          "end": 45,
+          "id": "1270247428092858368",
+          "start": 30,
+          "username": "ACShow_AngeloW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928870916064207337",
+    "in_reply_to_user_id": "1877014604599230464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928795759492706343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laohei11451419 @zhshsh116388 @ACShow_AngeloW 笑死我了，你俩就这么对着轰十多天，像在我这打卡一样，你们是真有耐心，现在他号被封了，估计就是发那么些血腥图片发的（"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [zhshsh116388].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "zhshsh116388",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "zhshsh116388"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1925189071988736373",
+        "created_at": "2025-05-31T17:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T18:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928870916064207337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877014604599230464",
+              "start": 0,
+              "username": "laohei11451419"
+            },
+            {
+              "end": 29,
+              "id": "1889295444557357056",
+              "start": 16,
+              "username": "zhshsh116388"
+            },
+            {
+              "end": 45,
+              "id": "1270247428092858368",
+              "start": 30,
+              "username": "ACShow_AngeloW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928870916064207337",
+        "in_reply_to_user_id": "1877014604599230464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928795759492706343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laohei11451419 @zhshsh116388 @ACShow_AngeloW 笑死我了，你俩就这么对着轰十多天，像在我这打卡一样，你们是真有耐心，现在他号被封了，估计就是发那么些血腥图片发的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877014604599230464",
+        "conversation_id": "1925189071988736373",
+        "created_at": "2025-05-31T12:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T13:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928795759492706343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889295444557357056",
+              "start": 0,
+              "username": "zhshsh116388"
+            },
+            {
+              "end": 26,
+              "id": "1877035470615638016",
+              "start": 14,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 42,
+              "id": "1270247428092858368",
+              "start": 27,
+              "username": "ACShow_AngeloW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928795759492706343",
+        "in_reply_to_user_id": "1889295444557357056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928750165789204571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhshsh116388 @LMegurine03 @ACShow_AngeloW 醣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 7498,
+          "like_count": 2876,
+          "listed_count": 3,
+          "media_count": 644,
+          "tweet_count": 2681
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T15:29:11.000Z",
+        "description": "喜欢和小支黑对线因为有乐子，一人战6头小支黑没输过战绩可查，我养的狗@TuGong105106 ，@xijinpingSB5784，每天都会@它的主人来表达对我的忠诚和臣服，还有我对它如父爱般的养育之恩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "TuGong105106"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "xijinpingSB5784"
+              }
+            ]
+          }
+        },
+        "id": "1877014604599230464",
+        "location": "小支黑研究收容基地",
+        "name": "极恶贝利亚",
+        "pinned_tweet_id": "1920490242231955456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920798979920367616/hImgucl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 38,
+          "like_count": 61,
+          "listed_count": 6,
+          "media_count": 437,
+          "tweet_count": 1764
+        },
+        "username": "laohei11451419",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-09T06:52:50.000Z",
+        "description": "我不做自媒体、不做媒体、只做经典",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Angelo_Amorayi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Angelo_Amorayi",
+                "start": 0,
+                "url": "https://t.co/kliyknMfTU"
+              }
+            ]
+          }
+        },
+        "id": "1270247428092858368",
+        "name": "AC Show 「Angelo的常识」",
+        "pinned_tweet_id": "1816459373570585008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755201970602909696/DQIuL8a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7978,
+          "following_count": 2,
+          "like_count": 2200,
+          "listed_count": 52,
+          "media_count": 1185,
+          "tweet_count": 9887
+        },
+        "url": "https://t.co/kliyknMfTU",
+        "username": "ACShow_AngeloW",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1943572591769190663",
+    "created_at": "2025-07-11T07:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T08:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943572591769190663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1861412609121210368",
+          "start": 3,
+          "username": "SFyear_15_32768"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/krNCN",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/krNCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943572591769190663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943563824877232161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SFyear_15_32768: 【约稿】周岁15小卖部开业啦～\n标价如图，P1-2 15r/，P3 30r/，P4 7帧 20r。\n购买后可随意使用，可自印，商用*2，买断*3。\n多购有优惠。\n买不了吃亏买不了上当——欢迎约稿喵～ https://t.co/krNCN…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_1943563805021417472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvjs-7SbsAAKnyd.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1943563804786462722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvjs-6aakAIXnTJ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1943563804773879810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvjs-6XakAI17y0.jpg",
+        "width": 768
+      },
+      {
+        "height": 400,
+        "media_key": "16_1943563804966596608",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gvjs-7FXMAA-BTM.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gvjs-7FXMAA-BTM.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1943572591769190663",
+        "created_at": "2025-07-11T07:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T08:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943572591769190663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1861412609121210368",
+              "start": 3,
+              "username": "SFyear_15_32768"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/krNCN",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/krNCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943572591769190663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943563824877232161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SFyear_15_32768: 【约稿】周岁15小卖部开业啦～\n标价如图，P1-2 15r/，P3 30r/，P4 7帧 20r。\n购买后可随意使用，可自印，商用*2，买断*3。\n多购有优惠。\n买不了吃亏买不了上当——欢迎约稿喵～ https://t.co/krNCN…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943563805021417472",
+            "3_1943563804786462722",
+            "3_1943563804773879810",
+            "16_1943563804966596608"
+          ]
+        },
+        "author_id": "1861412609121210368",
+        "conversation_id": "1943563824877232161",
+        "created_at": "2025-07-11T06:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T07:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943563824877232161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/krNCNkoHfp",
+              "end": 123,
+              "expanded_url": "https://x.com/SFyear_15_32768/status/1943563824877232161/photo/1",
+              "media_key": "3_1943563805021417472",
+              "start": 100,
+              "url": "https://t.co/krNCNkoHfp"
+            },
+            {
+              "display_url": "pic.x.com/krNCNkoHfp",
+              "end": 123,
+              "expanded_url": "https://x.com/SFyear_15_32768/status/1943563824877232161/photo/1",
+              "media_key": "3_1943563804786462722",
+              "start": 100,
+              "url": "https://t.co/krNCNkoHfp"
+            },
+            {
+              "display_url": "pic.x.com/krNCNkoHfp",
+              "end": 123,
+              "expanded_url": "https://x.com/SFyear_15_32768/status/1943563824877232161/photo/1",
+              "media_key": "3_1943563804773879810",
+              "start": 100,
+              "url": "https://t.co/krNCNkoHfp"
+            },
+            {
+              "display_url": "pic.x.com/krNCNkoHfp",
+              "end": 123,
+              "expanded_url": "https://x.com/SFyear_15_32768/status/1943563824877232161/photo/1",
+              "media_key": "16_1943563804966596608",
+              "start": 100,
+              "url": "https://t.co/krNCNkoHfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943563824877232161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【约稿】周岁15小卖部开业啦～\n标价如图，P1-2 15r/，P3 30r/，P4 7帧 20r。\n购买后可随意使用，可自印，商用*2，买断*3。\n多购有优惠。\n买不了吃亏买不了上当——欢迎约稿喵～ https://t.co/krNCNkoHfp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 7478,
+          "like_count": 3538,
+          "listed_count": 4,
+          "media_count": 766,
+          "tweet_count": 3306
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T14:12:21.000Z",
+        "description": "",
+        "id": "1861412609121210368",
+        "location": "White World System",
+        "name": "sfv",
+        "pinned_tweet_id": "1903706395746222178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939238678154317824/ZAHHbSCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 134,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 933
+        },
+        "username": "SFyear_15_32768",
+        "verified": false
+      }
+    ]
+  }
+}

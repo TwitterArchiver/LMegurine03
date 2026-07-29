@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2077453641599094969",
+    "created_at": "2026-07-19T12:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078816868622827763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1598195391651991552",
+          "start": 0,
+          "username": "qwertyu33080744"
+        },
+        {
+          "end": 33,
+          "id": "1822380396497313792",
+          "start": 17,
+          "username": "FascinatingAnon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078816868622827763",
+    "in_reply_to_user_id": "1598195391651991552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077560725136904275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwertyu33080744 @FascinatingAnon 嗯，这个也确实，不过还是觉得主世界的话能更有意思点吧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2077453641599094969",
+        "created_at": "2026-07-19T12:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078816868622827763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1598195391651991552",
+              "start": 0,
+              "username": "qwertyu33080744"
+            },
+            {
+              "end": 33,
+              "id": "1822380396497313792",
+              "start": 17,
+              "username": "FascinatingAnon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078816868622827763",
+        "in_reply_to_user_id": "1598195391651991552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077560725136904275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwertyu33080744 @FascinatingAnon 嗯，这个也确实，不过还是觉得主世界的话能更有意思点吧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598195391651991552",
+        "conversation_id": "2077453641599094969",
+        "created_at": "2026-07-16T01:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077560725136904275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077560725136904275",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077453641599094969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 从地狱走更快呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4420,
+          "following_count": 7501,
+          "like_count": 8144,
+          "listed_count": 8,
+          "media_count": 1873,
+          "tweet_count": 7101
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T06:00:59.000Z",
+        "description": "幽默幻想，坚强且社恐的孤僻型人格坚强是肯经常违背自己的个人意愿人很倒霉我爱的人都离我远去被情所伤封心锁爱，NFSW别找我色了我只接受交朋友，🔪轻度抑郁，讨厌别人碰我，不想被讨厌，喜欢别人喜欢我🥺，粘人，腰椎间盘突出，🎨想做个小哑巴，死亡美颜滤镜，小懿",
+        "id": "1598195391651991552",
+        "location": "America",
+        "name": "qwerty",
+        "pinned_tweet_id": "1752274166672425228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957233904017940480/MEvUoARo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1139,
+          "like_count": 9993,
+          "listed_count": 5,
+          "media_count": 756,
+          "tweet_count": 2237
+        },
+        "url": "",
+        "username": "qwertyu33080744",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T21:12:13.000Z",
+        "description": "明かり | 备用账号：@Akari_Hana_25 | 裏@Minami_Hana_25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "Akari_Hana_25"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "Minami_Hana_25"
+              }
+            ]
+          }
+        },
+        "id": "1822380396497313792",
+        "location": "110m",
+        "name": "Akari.",
+        "pinned_tweet_id": "2075968811602415919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075144100282793984/36Su3b5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 1014,
+          "like_count": 22934,
+          "listed_count": 3,
+          "media_count": 2356,
+          "tweet_count": 13177
+        },
+        "url": "",
+        "username": "FascinatingAnon",
+        "verified": false
+      }
+    ]
+  }
+}

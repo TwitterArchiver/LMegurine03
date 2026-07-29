@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Sapporo",
+          "id": "1009884650444021760",
+          "name": "Sapporo"
+        }
+      }
+    ],
+    "conversation_id": "2057496435508342866",
+    "created_at": "2026-05-23T06:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058078947414593600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1722593903348699136",
+          "start": 0,
+          "username": "49mFar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058078947414593600",
+    "in_reply_to_user_id": "1722593903348699136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057624362174537953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@49mFar 嗯，比较有年代的说法了，当年刚进入中国市场的时候为了方便记忆所以这么翻的，现在官方都统一翻成札幌啤酒，但是日常当中也有这么说的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          }
+        ],
+        "conversation_id": "2057496435508342866",
+        "created_at": "2026-05-23T06:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058078947414593600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1722593903348699136",
+              "start": 0,
+              "username": "49mFar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058078947414593600",
+        "in_reply_to_user_id": "1722593903348699136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057624362174537953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@49mFar 嗯，比较有年代的说法了，当年刚进入中国市场的时候为了方便记忆所以这么翻的，现在官方都统一翻成札幌啤酒，但是日常当中也有这么说的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722593903348699136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          }
+        ],
+        "conversation_id": "2057496435508342866",
+        "created_at": "2026-05-22T00:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057624362174537953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057624362174537953",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057496435508342866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 sapporo原来被翻译为三宝乐。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4147,
+          "following_count": 7206,
+          "like_count": 7400,
+          "listed_count": 6,
+          "media_count": 1613,
+          "tweet_count": 6463
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T12:36:13.000Z",
+        "description": "三天不学习，赶不上刘少奇。  人民好总理， 苏联来了要做儿皇帝。",
+        "id": "1722593903348699136",
+        "name": "离右派只差49米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769593423353552896/zIAwC4jn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 30,
+          "like_count": 229,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 3452
+        },
+        "username": "49mFar",
+        "verified": false
+      }
+    ]
+  }
+}

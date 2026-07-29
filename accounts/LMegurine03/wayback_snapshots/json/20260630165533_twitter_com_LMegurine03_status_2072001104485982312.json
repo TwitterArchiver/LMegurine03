@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2071978423162167476",
+    "created_at": "2026-06-30T16:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072001104485982312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527114974841012225",
+          "start": 0,
+          "username": "Kiger_YuQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072001104485982312",
+    "in_reply_to_user_id": "1527114974841012225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071978423162167476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiger_YuQing 摸摸🥺\n智齿这个真的好难受，前段时间折磨我好几个月了，20多天前拔掉之后现在才恢复差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2071978423162167476",
+        "created_at": "2026-06-30T16:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072001104485982312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527114974841012225",
+              "start": 0,
+              "username": "Kiger_YuQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072001104485982312",
+        "in_reply_to_user_id": "1527114974841012225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071978423162167476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiger_YuQing 摸摸🥺\n智齿这个真的好难受，前段时间折磨我好几个月了，20多天前拔掉之后现在才恢复差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527114974841012225",
+        "conversation_id": "2071978423162167476",
+        "created_at": "2026-06-30T15:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071978423162167476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071978423162167476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘴巴完全合不上了\n连带吞咽也受了影响\n所以....长智齿也算被调？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4363,
+          "following_count": 7473,
+          "like_count": 7973,
+          "listed_count": 7,
+          "media_count": 1755,
+          "tweet_count": 6860
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫小雨丨清水不涩丨娃勤摄三位一体黄金冤种丨键政禁止丨头壳是自设+特蕾西娅丨暴躁社恐丨注孤的Aquarius丨INFP-T 4w5丨不首先不主动不礼貌丨只对友善的人友善丨中日英OK",
+        "id": "1527114974841012225",
+        "location": "卡兹屯口垃姬桶",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2051280611957186870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048206160784961536/y1rJhNIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 769,
+          "like_count": 6850,
+          "listed_count": 16,
+          "media_count": 314,
+          "tweet_count": 6691
+        },
+        "url": "",
+        "username": "Kiger_YuQing",
+        "verified": true
+      }
+    ]
+  }
+}

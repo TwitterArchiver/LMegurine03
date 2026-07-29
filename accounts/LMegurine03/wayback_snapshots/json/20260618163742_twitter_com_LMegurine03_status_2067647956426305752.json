@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067647949048524801"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2067647956426305752",
+    "created_at": "2026-06-18T16:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067647956426305752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F9GdvPMWIP",
+          "end": 32,
+          "expanded_url": "https://x.com/LMegurine03/status/2067647956426305752/photo/1",
+          "media_key": "3_2067647949048524801",
+          "start": 9,
+          "url": "https://t.co/F9GdvPMWIP"
+        },
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2066142107929026877",
+          "start": 33,
+          "url": "https://t.co/UfAs8xRXdo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067647956426305752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066142107929026877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跟风玩一下这个（ https://t.co/F9GdvPMWIP https://t.co/UfAs8xRXdo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2067647949048524801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHC2tOaMAEjVU3.jpg",
+        "width": 941
+      },
+      {
+        "height": 1492,
+        "media_key": "3_2066116770260504576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxSQXva0AAGRKn.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067647949048524801"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2067647956426305752",
+        "created_at": "2026-06-18T16:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067647956426305752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9GdvPMWIP",
+              "end": 32,
+              "expanded_url": "https://x.com/LMegurine03/status/2067647956426305752/photo/1",
+              "media_key": "3_2067647949048524801",
+              "start": 9,
+              "url": "https://t.co/F9GdvPMWIP"
+            },
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2066142107929026877",
+              "start": 33,
+              "url": "https://t.co/UfAs8xRXdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067647956426305752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066142107929026877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟风玩一下这个（ https://t.co/F9GdvPMWIP https://t.co/UfAs8xRXdo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066116770260504576"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2066142107929026877",
+        "created_at": "2026-06-14T12:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066142107929026877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kbr4EnpT4x",
+              "end": 157,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2066142107929026877/photo/1",
+              "media_key": "3_2066116770260504576",
+              "start": 134,
+              "url": "https://t.co/Kbr4EnpT4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066142107929026877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 43834,
+          "like_count": 317,
+          "quote_count": 46,
+          "reply_count": 80,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "参考这张二次元少女图，将其转换为手机摄影风格，画面略微模糊失焦，低饱和度，拍摄一个漂亮少女的低角度仰视特写自拍，她眉眼清晰，带着些许慵懒犯困的眼神，头发有些凌乱，背景露出部分天花板和一些灯光，她自然地用一只手撑着下巴，少女的发丝更显凌乱，灯光氛围更柔和朦胧。原比例。 https://t.co/Kbr4EnpT4x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4308,
+          "following_count": 7409,
+          "like_count": 7672,
+          "listed_count": 7,
+          "media_count": 1689,
+          "tweet_count": 6729
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7066,
+          "following_count": 869,
+          "like_count": 26853,
+          "listed_count": 12,
+          "media_count": 1566,
+          "tweet_count": 8355
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

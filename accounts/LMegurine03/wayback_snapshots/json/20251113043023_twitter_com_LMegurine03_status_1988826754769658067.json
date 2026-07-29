@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1988645109186081131",
+    "created_at": "2025-11-13T04:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988826754769658067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982268780559626240",
+          "start": 0,
+          "username": "allthistime42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988826754769658067",
+    "in_reply_to_user_id": "1982268780559626240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988662297842364785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allthistime42 我觉得也是，这样的人似乎在塑造一种不靠互关也可以涨粉的形象，但确实像你说的，可能不会和没有影响力的粉丝互动，我感觉这样也不是一个很好的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1988645109186081131",
+        "created_at": "2025-11-13T04:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988826754769658067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982268780559626240",
+              "start": 0,
+              "username": "allthistime42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988826754769658067",
+        "in_reply_to_user_id": "1982268780559626240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988662297842364785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allthistime42 我觉得也是，这样的人似乎在塑造一种不靠互关也可以涨粉的形象，但确实像你说的，可能不会和没有影响力的粉丝互动，我感觉这样也不是一个很好的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982268780559626240",
+        "conversation_id": "1988645109186081131",
+        "created_at": "2025-11-12T17:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988662297842364785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988662297842364785",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988645109186081131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 我只会认为，比例低了说明这个人不太活跃，不会经常和别人互动\n比例高了反而说明经常和大家互动，长时间在线，是个很容易靠近的人呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx｜泛性恋｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "realmadrid"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3488,
+          "following_count": 7502,
+          "like_count": 5856,
+          "listed_count": 7,
+          "media_count": 1060,
+          "tweet_count": 4604
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T02:11:50.000Z",
+        "description": "或许稍微休息一会，我就能飞得更好",
+        "id": "1982268780559626240",
+        "location": "云层之上☁",
+        "name": "不擅飞翔的伊卡洛斯",
+        "pinned_tweet_id": "1982468736629272584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982820979890860032/wB4sGYMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 238,
+          "like_count": 4505,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1128
+        },
+        "username": "allthistime42",
+        "verified": false
+      }
+    ]
+  }
+}

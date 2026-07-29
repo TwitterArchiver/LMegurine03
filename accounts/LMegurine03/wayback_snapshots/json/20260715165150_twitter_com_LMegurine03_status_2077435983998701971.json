@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077435940063326208",
+        "3_2077435954399494144",
+        "3_2077435963169783809",
+        "3_2077435974280511488"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2077435983998701971",
+    "created_at": "2026-07-15T16:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077435983998701971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yOv4sn0iSZ",
+          "end": 92,
+          "expanded_url": "https://x.com/LMegurine03/status/2077435983998701971/photo/1",
+          "media_key": "3_2077435940063326208",
+          "start": 69,
+          "url": "https://t.co/yOv4sn0iSZ"
+        },
+        {
+          "display_url": "pic.x.com/yOv4sn0iSZ",
+          "end": 92,
+          "expanded_url": "https://x.com/LMegurine03/status/2077435983998701971/photo/1",
+          "media_key": "3_2077435954399494144",
+          "start": 69,
+          "url": "https://t.co/yOv4sn0iSZ"
+        },
+        {
+          "display_url": "pic.x.com/yOv4sn0iSZ",
+          "end": 92,
+          "expanded_url": "https://x.com/LMegurine03/status/2077435983998701971/photo/1",
+          "media_key": "3_2077435963169783809",
+          "start": 69,
+          "url": "https://t.co/yOv4sn0iSZ"
+        },
+        {
+          "display_url": "pic.x.com/yOv4sn0iSZ",
+          "end": 92,
+          "expanded_url": "https://x.com/LMegurine03/status/2077435983998701971/photo/1",
+          "media_key": "3_2077435974280511488",
+          "start": 69,
+          "url": "https://t.co/yOv4sn0iSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077435983998701971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是用无人机视角拍的紫极宫，是道教建筑，虽然说这里都是适飞区，但是120米的限高其实很限制发挥的，不过拍摄建筑群和山体局部倒也还可以接受 https://t.co/yOv4sn0iSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2077435940063326208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSI-xMasAAoL5o.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2077435954399494144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSI_mmbQAA3_Ea.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2077435963169783809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSJAHRbQAEgHi0.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2077435974280511488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSJAwqbgAAB0Rj.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077435940063326208",
+            "3_2077435954399494144",
+            "3_2077435963169783809",
+            "3_2077435974280511488"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2077435983998701971",
+        "created_at": "2026-07-15T16:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077435983998701971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOv4sn0iSZ",
+              "end": 92,
+              "expanded_url": "https://x.com/LMegurine03/status/2077435983998701971/photo/1",
+              "media_key": "3_2077435940063326208",
+              "start": 69,
+              "url": "https://t.co/yOv4sn0iSZ"
+            },
+            {
+              "display_url": "pic.x.com/yOv4sn0iSZ",
+              "end": 92,
+              "expanded_url": "https://x.com/LMegurine03/status/2077435983998701971/photo/1",
+              "media_key": "3_2077435954399494144",
+              "start": 69,
+              "url": "https://t.co/yOv4sn0iSZ"
+            },
+            {
+              "display_url": "pic.x.com/yOv4sn0iSZ",
+              "end": 92,
+              "expanded_url": "https://x.com/LMegurine03/status/2077435983998701971/photo/1",
+              "media_key": "3_2077435963169783809",
+              "start": 69,
+              "url": "https://t.co/yOv4sn0iSZ"
+            },
+            {
+              "display_url": "pic.x.com/yOv4sn0iSZ",
+              "end": 92,
+              "expanded_url": "https://x.com/LMegurine03/status/2077435983998701971/photo/1",
+              "media_key": "3_2077435974280511488",
+              "start": 69,
+              "url": "https://t.co/yOv4sn0iSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077435983998701971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是用无人机视角拍的紫极宫，是道教建筑，虽然说这里都是适飞区，但是120米的限高其实很限制发挥的，不过拍摄建筑群和山体局部倒也还可以接受 https://t.co/yOv4sn0iSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4415,
+          "following_count": 7501,
+          "like_count": 8072,
+          "listed_count": 8,
+          "media_count": 1838,
+          "tweet_count": 7040
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

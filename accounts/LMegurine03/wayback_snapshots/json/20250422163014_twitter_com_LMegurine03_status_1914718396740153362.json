@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1914005185644675138",
+    "created_at": "2025-04-22T16:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T17:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914718396740153362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914718396740153362",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914717199148957945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 我感觉这个纯是随机的，不用在意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1914005185644675138",
+        "created_at": "2025-04-22T16:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T17:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914718396740153362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914718396740153362",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914717199148957945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 我感觉这个纯是随机的，不用在意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847835560175685635",
+        "conversation_id": "1914005185644675138",
+        "created_at": "2025-04-22T16:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T17:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914717199148957945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914717199148957945",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914005185644675138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 没有我呀，呜呜( ‘-ωก̀ )\n算惹，习惯了&lt;(。_。)&gt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 6340,
+          "like_count": 2050,
+          "listed_count": 3,
+          "media_count": 513,
+          "tweet_count": 2121
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "OPPO粉的推特账号，有时候发些日常，不会安慰人(｡í _ ì｡)丨本人仍然将X称为推特，谢谢(˵¯͒〰¯͒˵)丨如果哪天突然消失了，就是加速器炸了(つд⊂)丨会互fo哦੭ ᐕ)੭*⁾⁾丨可以叫我OPPO粉，OPPOFANS，OPPO酱，粉猫猫，小粉，饭饭丨要天天开心(๑•̀ㅂ•́)ﾉ♡丨INFP丨爱用颜文字(／ω＼)",
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906953056077647872/jh7TXIpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 465,
+          "like_count": 2107,
+          "listed_count": 5,
+          "media_count": 116,
+          "tweet_count": 2664
+        },
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

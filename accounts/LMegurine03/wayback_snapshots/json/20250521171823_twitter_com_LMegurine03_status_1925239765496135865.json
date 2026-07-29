@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1925186728614412595",
+    "created_at": "2025-05-21T17:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T18:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925239765496135865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1005681050578649088",
+          "start": 0,
+          "username": "c575b66g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925239765496135865",
+    "in_reply_to_user_id": "1005681050578649088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925238632815993249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c575b66g 可能指的是长袖的校服外套吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1925186728614412595",
+        "created_at": "2025-05-21T17:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T18:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925239765496135865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1005681050578649088",
+              "start": 0,
+              "username": "c575b66g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925239765496135865",
+        "in_reply_to_user_id": "1005681050578649088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925238632815993249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c575b66g 可能指的是长袖的校服外套吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1005681050578649088",
+        "conversation_id": "1925186728614412595",
+        "created_at": "2025-05-21T17:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T18:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925238632815993249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925238632815993249",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925186728614412595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 啊？穿校服短袖短裤不算真空吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 7332,
+          "like_count": 2449,
+          "listed_count": 3,
+          "media_count": 616,
+          "tweet_count": 2522
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-10T05:20:21.000Z",
+        "description": "努力想告诉大家我不是机器人，不过网络不行",
+        "id": "1005681050578649088",
+        "name": "c575b66g",
+        "pinned_tweet_id": "1906259075697877124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1074222810577264640/4152W2lp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 3144,
+          "like_count": 18358,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10026
+        },
+        "username": "c575b66g",
+        "verified": false
+      }
+    ]
+  }
+}

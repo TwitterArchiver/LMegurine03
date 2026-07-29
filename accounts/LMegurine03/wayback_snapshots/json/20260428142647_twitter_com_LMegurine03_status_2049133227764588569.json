@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2048819886747730215",
+    "created_at": "2026-04-28T14:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049133227764588569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998820105627770880",
+          "start": 0,
+          "username": "TenpennyL62429"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049133227764588569",
+    "in_reply_to_user_id": "1998820105627770880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048852997434933475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TenpennyL62429 谢谢……还好呀，可以很帅气（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_2048852978992590848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG787dnasAAjsNs.jpg",
+        "width": 318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2048819886747730215",
+        "created_at": "2026-04-28T14:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049133227764588569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998820105627770880",
+              "start": 0,
+              "username": "TenpennyL62429"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049133227764588569",
+        "in_reply_to_user_id": "1998820105627770880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048852997434933475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TenpennyL62429 谢谢……还好呀，可以很帅气（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048852978992590848"
+          ]
+        },
+        "author_id": "1998820105627770880",
+        "conversation_id": "2048819886747730215",
+        "created_at": "2026-04-27T19:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T20:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048852997434933475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kXwq6hbAR9",
+              "end": 47,
+              "expanded_url": "https://x.com/TenpennyL62429/status/2048852997434933475/photo/1",
+              "media_key": "3_2048852978992590848",
+              "start": 24,
+              "url": "https://t.co/kXwq6hbAR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048852997434933475",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048819886747730215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 晚安，你喜歡披肩嗎🥰 https://t.co/kXwq6hbAR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4087,
+          "following_count": 7222,
+          "like_count": 7219,
+          "listed_count": 7,
+          "media_count": 1534,
+          "tweet_count": 6182
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T18:20:45.000Z",
+        "description": "本賬號是 @Mr.湯普尼 （@GEACPS1940629）的小號，會發一些歷史老照片，感興趣的話就點個關注吧🥰\n\n提問箱：https://t.co/mjqSr7Cft4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 5,
+                "username": "Mr"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "GEACPS1940629"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 84,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 61,
+                "url": "https://t.co/mjqSr7Cft4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://t.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/Ow1FjaGEow"
+              }
+            ]
+          }
+        },
+        "id": "1998820105627770880",
+        "name": "Mr.湯普尼▐┛（二代目）",
+        "pinned_tweet_id": "2043540051993436175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998820195599790082/UtF-9mcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 1537,
+          "like_count": 7127,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/Ow1FjaGEow",
+        "username": "TenpennyL62429",
+        "verified": false
+      }
+    ]
+  }
+}

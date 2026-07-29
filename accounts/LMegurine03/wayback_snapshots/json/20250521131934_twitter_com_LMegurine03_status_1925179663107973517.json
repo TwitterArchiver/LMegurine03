@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1925170673888141358",
+    "created_at": "2025-05-21T13:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T14:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925179663107973517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1586779015574327296",
+          "start": 0,
+          "username": "Cya_Ninnensuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925179663107973517",
+    "in_reply_to_user_id": "1586779015574327296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925171702180487174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cya_Ninnensuki 原来的帝宫是由于资源有限，因此改造原有的吉黑榷运局，性质接近临时过渡的建筑，所以在38年之后当资源相对充足的时候又规划修建新的宫殿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1925170673888141358",
+        "created_at": "2025-05-21T13:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T14:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925179663107973517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1586779015574327296",
+              "start": 0,
+              "username": "Cya_Ninnensuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925179663107973517",
+        "in_reply_to_user_id": "1586779015574327296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925171702180487174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cya_Ninnensuki 原来的帝宫是由于资源有限，因此改造原有的吉黑榷运局，性质接近临时过渡的建筑，所以在38年之后当资源相对充足的时候又规划修建新的宫殿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586779015574327296",
+        "conversation_id": "1925170673888141358",
+        "created_at": "2025-05-21T12:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T13:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925171702180487174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925171702180487174",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925170673888141358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 为什么要建新帝宫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 7317,
+          "like_count": 2384,
+          "listed_count": 3,
+          "media_count": 612,
+          "tweet_count": 2501
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "169㎝ 52.5㎏・OCD・ADHD可能・喜欢JK制服/lolita/地雷系・一直是果然多\n常态化的Nagi",
+        "id": "1586779015574327296",
+        "name": "鹿野外的茶酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908588163553255426/clN8pKQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 359,
+          "like_count": 13618,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 11757
+        },
+        "username": "Cya_Ninnensuki",
+        "verified": false
+      }
+    ]
+  }
+}

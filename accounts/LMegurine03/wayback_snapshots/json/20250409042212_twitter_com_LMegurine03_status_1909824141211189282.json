@@ -1,0 +1,627 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1909705459784699904"
+      ],
+      "media_source_tweet_id": [
+        "1909705559147692224"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "813454796225024000",
+          "name": "Declan Rice"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "813454796225024000",
+          "name": "Declan Rice"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "813454796225024000",
+          "name": "Declan Rice"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1909824141211189282",
+    "created_at": "2025-04-09T04:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T05:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909824141211189282"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Declan Rice",
+          "probability": 0.937,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2153702508",
+          "start": 3,
+          "username": "PurelyFootball"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g7jSJ8totO",
+          "end": 94,
+          "expanded_url": "https://x.com/kingyschamp/status/1909705559147692224/video/1",
+          "media_key": "7_1909705459784699904",
+          "start": 71,
+          "url": "https://t.co/g7jSJ8totO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909824141211189282",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 546
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909705862614069380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PurelyFootball: Declan Rice with a second unbelievable free kick🤯🎯 https://t.co/g7jSJ8totO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30583,
+        "height": 1080,
+        "media_key": "7_1909705459784699904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1909705459784699904/pu/img/As1SY-_Zr5HMkQGW.jpg",
+        "public_metrics": {
+          "view_count": 7115403
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909705459784699904/pu/vid/avc1/480x270/GPkz-OAAcRKSnMcv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909705459784699904/pu/vid/avc1/640x360/xeGnNIGFyny9pP_L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909705459784699904/pu/vid/avc1/1280x720/y-fBMo5kQedTvmtF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1909705459784699904/pu/pl/V2w0cy_hnIjnXDUq.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1909705459784699904"
+          ],
+          "media_source_tweet_id": [
+            "1909705559147692224"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1909824141211189282",
+        "created_at": "2025-04-09T04:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T05:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909824141211189282"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Declan Rice",
+              "probability": 0.937,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2153702508",
+              "start": 3,
+              "username": "PurelyFootball"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7jSJ8totO",
+              "end": 94,
+              "expanded_url": "https://x.com/kingyschamp/status/1909705559147692224/video/1",
+              "media_key": "7_1909705459784699904",
+              "start": 71,
+              "url": "https://t.co/g7jSJ8totO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909824141211189282",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 546
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909705862614069380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PurelyFootball: Declan Rice with a second unbelievable free kick🤯🎯 https://t.co/g7jSJ8totO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1909705459784699904"
+          ],
+          "media_source_tweet_id": [
+            "1909705559147692224"
+          ]
+        },
+        "author_id": "2153702508",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226207908290561",
+              "name": "International Clubs - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1893094556213678080",
+              "name": "Arsenal FC vs Real Madrid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "813454796225024000",
+              "name": "Declan Rice"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1909705862614069380",
+        "created_at": "2025-04-08T20:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T21:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909705862614069380"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Declan Rice",
+              "probability": 0.9691,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7jSJ8totO",
+              "end": 74,
+              "expanded_url": "https://x.com/kingyschamp/status/1909705559147692224/video/1",
+              "media_key": "7_1909705459784699904",
+              "start": 51,
+              "url": "https://t.co/g7jSJ8totO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909705862614069380",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 396876,
+          "like_count": 5792,
+          "quote_count": 147,
+          "reply_count": 39,
+          "retweet_count": 546
+        },
+        "reply_settings": "everyone",
+        "text": "Declan Rice with a second unbelievable free kick🤯🎯 https://t.co/g7jSJ8totO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@CnHpaHky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 146,
+                "username": "CnHpaHky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 5504,
+          "like_count": 1776,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-24T21:46:43.000Z",
+        "description": "PurelyFootball®️. Premier League football page run by fans for the fans!",
+        "id": "2153702508",
+        "location": "England, United Kingdom",
+        "name": "PurelyFootball ℗",
+        "pinned_tweet_id": "1909705862614069380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1273721681228582921/E5sjPYo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617617,
+          "following_count": 878,
+          "like_count": 8,
+          "listed_count": 1548,
+          "media_count": 9872,
+          "tweet_count": 11407
+        },
+        "username": "PurelyFootball",
+        "verified": true
+      }
+    ]
+  }
+}

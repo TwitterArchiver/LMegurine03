@@ -1,0 +1,636 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925354999149723648"
+      ],
+      "media_source_tweet_id": [
+        "1925461633842737206"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10004508201",
+          "name": "UEFA Europa League Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Coverage from the UEFA Europa League, an annual competition for European football clubs.",
+          "id": "10027383833",
+          "name": "UEFA Europa League Football"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10029413906",
+          "name": "UEFA Europa League Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756530479140864",
+          "name": "UEFA Europa League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756530479140864",
+          "name": "UEFA Europa League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1925808812851626018",
+    "created_at": "2025-05-23T06:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T07:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925808812851626018"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "UELfinal",
+          "probability": 0.913,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 29,
+          "tag": "UELfinal"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "789605024",
+          "start": 3,
+          "username": "EuropaLeague"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ExoY8sATNy",
+          "end": 62,
+          "expanded_url": "https://x.com/EuropaLeague/status/1925461633842737206/photo/1",
+          "media_key": "3_1925354999149723648",
+          "start": 39,
+          "url": "https://t.co/ExoY8sATNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925808812851626018",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2538
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925461633842737206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EuropaLeague: Crucial 😲\n\n#UELfinal https://t.co/ExoY8sATNy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1925354999149723648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grg8K7bXgAA8srU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925354999149723648"
+          ],
+          "media_source_tweet_id": [
+            "1925461633842737206"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10004508201",
+              "name": "UEFA Europa League Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Coverage from the UEFA Europa League, an annual competition for European football clubs.",
+              "id": "10027383833",
+              "name": "UEFA Europa League Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029413906",
+              "name": "UEFA Europa League Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756530479140864",
+              "name": "UEFA Europa League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756530479140864",
+              "name": "UEFA Europa League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1925808812851626018",
+        "created_at": "2025-05-23T06:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T07:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925808812851626018"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "UELfinal",
+              "probability": 0.913,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "UELfinal"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "789605024",
+              "start": 3,
+              "username": "EuropaLeague"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExoY8sATNy",
+              "end": 62,
+              "expanded_url": "https://x.com/EuropaLeague/status/1925461633842737206/photo/1",
+              "media_key": "3_1925354999149723648",
+              "start": 39,
+              "url": "https://t.co/ExoY8sATNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925808812851626018",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2538
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925461633842737206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EuropaLeague: Crucial 😲\n\n#UELfinal https://t.co/ExoY8sATNy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925354999149723648"
+          ]
+        },
+        "author_id": "789605024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10004508201",
+              "name": "UEFA Europa League Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Coverage from the UEFA Europa League, an annual competition for European football clubs.",
+              "id": "10027383833",
+              "name": "UEFA Europa League Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756530479140864",
+              "name": "UEFA Europa League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756530479140864",
+              "name": "UEFA Europa League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1925461633842737206",
+        "created_at": "2025-05-22T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925461633842737206"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "UELfinal",
+              "probability": 0.9425,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "UELfinal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExoY8sATNy",
+              "end": 44,
+              "expanded_url": "https://x.com/EuropaLeague/status/1925461633842737206/photo/1",
+              "media_key": "3_1925354999149723648",
+              "start": 21,
+              "url": "https://t.co/ExoY8sATNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925461633842737206",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 397,
+          "impression_count": 519452,
+          "like_count": 40848,
+          "quote_count": 83,
+          "reply_count": 130,
+          "retweet_count": 2538
+        },
+        "reply_settings": "everyone",
+        "text": "Crucial 😲\n\n#UELfinal https://t.co/ExoY8sATNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 7500,
+          "like_count": 2553,
+          "listed_count": 3,
+          "media_count": 617,
+          "tweet_count": 2542
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-29T15:45:49.000Z",
+        "description": "The official home of the #UEL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 25,
+                "tag": "UEL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "uefa.com/uefaeuropaleag…",
+                "end": 23,
+                "expanded_url": "http://uefa.com/uefaeuropaleague",
+                "start": 0,
+                "url": "https://t.co/bkAxAuZPwE"
+              }
+            ]
+          }
+        },
+        "id": "789605024",
+        "location": "Nyon, Switzerland",
+        "name": "UEFA Europa League",
+        "pinned_tweet_id": "1925295195844677729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12995855,
+          "following_count": 285,
+          "like_count": 1742,
+          "listed_count": 12380,
+          "media_count": 30086,
+          "tweet_count": 48254
+        },
+        "url": "https://t.co/bkAxAuZPwE",
+        "username": "EuropaLeague",
+        "verified": true
+      }
+    ]
+  }
+}

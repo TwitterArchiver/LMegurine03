@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1931373458832990507",
+    "created_at": "2025-06-07T15:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T16:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931373458832990507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "-, 视频播放量 418402、弹幕量 427、点赞数 63510、投硬币枚数 2266、收藏人数 30472、转发人数 11663, 视频作者 疯神lo, 作者简介 生命不息，肝无止境，相关视频：德国民歌《艾丽卡》，谁能听出来这是《Erika》？，柏林之声—万恶之源，真是越来越喜欢数学题了，西海！，美术落榜的区别，为什么挡灾的总是玉和银？，希特勒口音吓疯路人，当你在学校广播站放德国民歌《艾丽卡》……，沉浸式听柏林之声，【犹点意思】当金色大厅响起德意志民歌【艾丽卡（ERIKA）】",
+          "display_url": "b23.tv/BkI8dpT",
+          "end": 75,
+          "expanded_url": "https://b23.tv/BkI8dpT",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/1931373468924420096/DR_FGOvP?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/1931373468924420096/DR_FGOvP?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 52,
+          "status": 200,
+          "title": "？_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1MBJAzXELj/?buvid=XU773EA70994527387E01DC439D301C0EAC05&from_spmid=main.my-history.0.0&is_story_h5=false&mid=mvhShytwty5qqLtd4%2Fx2DA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=69951eca-dbee-4084-90b9-ea9125d6e7b2&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1749310220&unique_k=BkI8dpT&up_id=3546898784848056",
+          "url": "https://t.co/1JxwZ9zxfj"
+        },
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/LMegurine03/status/1931206421401538772",
+          "start": 76,
+          "url": "https://t.co/HbDtThcLYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931373458832990507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931206421401538772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实这首歌应该是Erika，但是好像不同的手机键盘的效果还不太一样，效果最好的应该是这样子，在这个链接里https://t.co/1JxwZ9zxfj https://t.co/HbDtThcLYE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1931373458832990507",
+        "created_at": "2025-06-07T15:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T16:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931373458832990507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "-, 视频播放量 418402、弹幕量 427、点赞数 63510、投硬币枚数 2266、收藏人数 30472、转发人数 11663, 视频作者 疯神lo, 作者简介 生命不息，肝无止境，相关视频：德国民歌《艾丽卡》，谁能听出来这是《Erika》？，柏林之声—万恶之源，真是越来越喜欢数学题了，西海！，美术落榜的区别，为什么挡灾的总是玉和银？，希特勒口音吓疯路人，当你在学校广播站放德国民歌《艾丽卡》……，沉浸式听柏林之声，【犹点意思】当金色大厅响起德意志民歌【艾丽卡（ERIKA）】",
+              "display_url": "b23.tv/BkI8dpT",
+              "end": 75,
+              "expanded_url": "https://b23.tv/BkI8dpT",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1931373468924420096/DR_FGOvP?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1931373468924420096/DR_FGOvP?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "？_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1MBJAzXELj/?buvid=XU773EA70994527387E01DC439D301C0EAC05&from_spmid=main.my-history.0.0&is_story_h5=false&mid=mvhShytwty5qqLtd4%2Fx2DA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=69951eca-dbee-4084-90b9-ea9125d6e7b2&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1749310220&unique_k=BkI8dpT&up_id=3546898784848056",
+              "url": "https://t.co/1JxwZ9zxfj"
+            },
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/LMegurine03/status/1931206421401538772",
+              "start": 76,
+              "url": "https://t.co/HbDtThcLYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931373458832990507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931206421401538772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实这首歌应该是Erika，但是好像不同的手机键盘的效果还不太一样，效果最好的应该是这样子，在这个链接里https://t.co/1JxwZ9zxfj https://t.co/HbDtThcLYE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1931206421401538772",
+        "created_at": "2025-06-07T04:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T05:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931206421401538772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931206421401538772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 462,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在电话里把这些东西打出来你可以获得一首经典歌曲1266699##96269#96\n1266699##96269#96\n132222123369999#96\n1266699##96269#96"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 7503,
+          "like_count": 3047,
+          "listed_count": 6,
+          "media_count": 676,
+          "tweet_count": 2782
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

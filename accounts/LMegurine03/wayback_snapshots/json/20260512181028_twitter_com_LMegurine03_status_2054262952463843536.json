@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054262949754363904"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2054262952463843536",
+    "created_at": "2026-05-12T18:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T19:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054262952463843536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pP3iJ3l8Bt",
+          "end": 116,
+          "expanded_url": "https://x.com/LMegurine03/status/2054262952463843536/photo/1",
+          "media_key": "3_2054262949754363904",
+          "start": 93,
+          "url": "https://t.co/pP3iJ3l8Bt"
+        },
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2054260907950432314",
+          "start": 117,
+          "url": "https://t.co/YI2ZxKAXeY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054262952463843536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054260907950432314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就像刚才的照片一样，如果我预先告诉图片当中建筑位置和高度如何，或许作为观者，只能记住这些，但是如果挑一个小细节，说一个简短的感受，甚至什么都不说，一些被忽略的东西，或许又会浮现出来…… https://t.co/pP3iJ3l8Bt https://t.co/YI2ZxKAXeY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054262949754363904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HII1RNNa4AAF6YY.jpg",
+        "width": 1387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054262949754363904"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2054262952463843536",
+        "created_at": "2026-05-12T18:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054262952463843536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pP3iJ3l8Bt",
+              "end": 116,
+              "expanded_url": "https://x.com/LMegurine03/status/2054262952463843536/photo/1",
+              "media_key": "3_2054262949754363904",
+              "start": 93,
+              "url": "https://t.co/pP3iJ3l8Bt"
+            },
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2054260907950432314",
+              "start": 117,
+              "url": "https://t.co/YI2ZxKAXeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054262952463843536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054260907950432314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就像刚才的照片一样，如果我预先告诉图片当中建筑位置和高度如何，或许作为观者，只能记住这些，但是如果挑一个小细节，说一个简短的感受，甚至什么都不说，一些被忽略的东西，或许又会浮现出来…… https://t.co/pP3iJ3l8Bt https://t.co/YI2ZxKAXeY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2054260907950432314",
+        "created_at": "2026-05-12T18:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054260907950432314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054260907950432314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才在给图片试着写一些文案的时候，突然想到作为一个分享者，其实真的不必完全提前替观众完成观看和理解，这会让感受和情绪损失太多，确实分享一个作品和感受的时候，内容逻辑要完整无误，要具有最基本的可读性，但是这并不意味着把所有看到知道的都要灌注到其中，当信息的密度达到一定层次的时候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4090,
+          "following_count": 7115,
+          "like_count": 7234,
+          "listed_count": 7,
+          "media_count": 1570,
+          "tweet_count": 6271
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

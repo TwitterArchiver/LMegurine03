@@ -1,0 +1,851 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774652439302144",
+          "name": "Luka Modric"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1303663877104705536",
+          "name": "Fabrizio Romano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226162496593920",
+          "name": "AC Milan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774652439302144",
+          "name": "Luka Modric"
+        }
+      },
+      {
+        "domain": {
+          "description": "A journalist like 'Anderson Cooper'",
+          "id": "94",
+          "name": "Journalist"
+        },
+        "entity": {
+          "id": "1303663877104705536",
+          "name": "Fabrizio Romano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226162496593920",
+          "name": "AC Milan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774652439302144",
+          "name": "Luka Modric"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports Figures",
+          "id": "1074755059433463813",
+          "name": "Sports journalists"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303663877104705536",
+          "name": "Fabrizio Romano"
+        }
+      }
+    ],
+    "conversation_id": "1943316916900389092",
+    "created_at": "2025-07-10T14:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T15:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943316916900389092"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Luka Modrić",
+          "probability": 0.9462,
+          "start": 25,
+          "type": "Person"
+        },
+        {
+          "end": 47,
+          "normalized_text": "AC Milan",
+          "probability": 0.8355,
+          "start": 40,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "330262748",
+          "start": 3,
+          "username": "FabrizioRomano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943316916900389092",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6730
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943205801100730810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FabrizioRomano: 🚨🔴⚫️ Luka Modrić to AC Milan, here we go confirmed! Exclusive story from June and deal now in place for Croatian midfie…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1943120855694766080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvdaH4dW8AAVjI-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774652439302144",
+              "name": "Luka Modric"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226162496593920",
+              "name": "AC Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774652439302144",
+              "name": "Luka Modric"
+            }
+          },
+          {
+            "domain": {
+              "description": "A journalist like 'Anderson Cooper'",
+              "id": "94",
+              "name": "Journalist"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226162496593920",
+              "name": "AC Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774652439302144",
+              "name": "Luka Modric"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          }
+        ],
+        "conversation_id": "1943316916900389092",
+        "created_at": "2025-07-10T14:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T15:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943316916900389092"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Luka Modrić",
+              "probability": 0.9462,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 47,
+              "normalized_text": "AC Milan",
+              "probability": 0.8355,
+              "start": 40,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "330262748",
+              "start": 3,
+              "username": "FabrizioRomano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943316916900389092",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6730
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943205801100730810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FabrizioRomano: 🚨🔴⚫️ Luka Modrić to AC Milan, here we go confirmed! Exclusive story from June and deal now in place for Croatian midfie…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943120855694766080"
+          ]
+        },
+        "author_id": "330262748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10052076828",
+              "name": "FIFAクラブワールドカップUAE2017"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774652439302144",
+              "name": "Luka Modric"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226162496593920",
+              "name": "AC Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226259695357952",
+              "name": "Croatia"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756526972653568",
+              "name": "FIFA Club World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774652439302144",
+              "name": "Luka Modric"
+            }
+          },
+          {
+            "domain": {
+              "description": "A journalist like 'Anderson Cooper'",
+              "id": "94",
+              "name": "Journalist"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226162496593920",
+              "name": "AC Milan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226259695357952",
+              "name": "Croatia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756526972653568",
+              "name": "FIFA Club World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774652439302144",
+              "name": "Luka Modric"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1943205801100730810",
+        "created_at": "2025-07-10T07:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T08:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943205801100730810"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Luka Modrić",
+              "probability": 0.9184,
+              "start": 5,
+              "type": "Person"
+            },
+            {
+              "end": 27,
+              "normalized_text": "AC Milan",
+              "probability": 0.8949,
+              "start": 20,
+              "type": "Organization"
+            },
+            {
+              "end": 131,
+              "normalized_text": "Modrić",
+              "probability": 0.8802,
+              "start": 126,
+              "type": "Person"
+            },
+            {
+              "end": 176,
+              "normalized_text": "AC Milan",
+              "probability": 0.9277,
+              "start": 169,
+              "type": "Organization"
+            },
+            {
+              "end": 229,
+              "normalized_text": "Club World Cup",
+              "probability": 0.6462,
+              "start": 216,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwRBg7oNp6",
+              "end": 287,
+              "expanded_url": "https://x.com/FabrizioRomano/status/1943205801100730810/photo/1",
+              "media_key": "3_1943120855694766080",
+              "start": 264,
+              "url": "https://t.co/mwRBg7oNp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943205801100730810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 661,
+          "impression_count": 3000676,
+          "like_count": 90157,
+          "quote_count": 863,
+          "reply_count": 1034,
+          "retweet_count": 6730
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🔴⚫️ Luka Modrić to AC Milan, here we go confirmed! Exclusive story from June and deal now in place for Croatian midfielder.\n\nModrić counter signed one year contract at AC Milan valid until June 2026, arriving after Club World Cup as planned.\n\nDeal confirmed. ✅🇭🇷 https://t.co/mwRBg7oNp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 7465,
+          "like_count": 3535,
+          "listed_count": 4,
+          "media_count": 765,
+          "tweet_count": 3297
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-06T10:58:55.000Z",
+        "description": "Here we go! © fabrizio.romano93@gmail.com 📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@FabrizioRoman…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@FabrizioRomanoYT",
+                "start": 0,
+                "url": "https://t.co/btxI8gbc2z"
+              }
+            ]
+          }
+        },
+        "id": "330262748",
+        "location": "Milano, Italia",
+        "name": "Fabrizio Romano",
+        "pinned_tweet_id": "1942658122969170129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741753635158024192/j0m8Ucvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25207735,
+          "following_count": 2636,
+          "like_count": 11457,
+          "listed_count": 29310,
+          "media_count": 35768,
+          "tweet_count": 60422
+        },
+        "url": "https://t.co/btxI8gbc2z",
+        "username": "FabrizioRomano",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2038611970124075424",
+    "created_at": "2026-03-30T13:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038611972879745432"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038611972879745432",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038611970124075424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至于所谓二次埋藏就是经历过砸碎埋藏行为或者仪式的历史器物，因此也就导致了发掘过程当中的两个特点，一个就是文物的高度集中，整个文明的技术尖端几乎都集中在这附近，因此也有沉睡数千年，一醒惊天下的说法，而另外一个也就是器物大多有损毁和遗失，拼装复原的难度相应的也会非常巨大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_2038611957994172416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqaxlcbMAAxoWQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1318,
+        "media_key": "3_2038611958652637184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqaxn5akAA-LWI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2038611970124075424",
+        "created_at": "2026-03-30T13:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038611972879745432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038611972879745432",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038611970124075424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至于所谓二次埋藏就是经历过砸碎埋藏行为或者仪式的历史器物，因此也就导致了发掘过程当中的两个特点，一个就是文物的高度集中，整个文明的技术尖端几乎都集中在这附近，因此也有沉睡数千年，一醒惊天下的说法，而另外一个也就是器物大多有损毁和遗失，拼装复原的难度相应的也会非常巨大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038611957994172416",
+            "3_2038611958652637184"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2038611970124075424",
+        "created_at": "2026-03-30T13:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038611970124075424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Ye5nVZJ4A",
+              "end": 146,
+              "expanded_url": "https://x.com/LMegurine03/status/2038611970124075424/photo/1",
+              "media_key": "3_2038611957994172416",
+              "start": 123,
+              "url": "https://t.co/5Ye5nVZJ4A"
+            },
+            {
+              "display_url": "pic.x.com/5Ye5nVZJ4A",
+              "end": 146,
+              "expanded_url": "https://x.com/LMegurine03/status/2038611970124075424/photo/1",
+              "media_key": "3_2038611958652637184",
+              "start": 123,
+              "url": "https://t.co/5Ye5nVZJ4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038611970124075424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是三星堆发掘坑的模拟，体现出了这个遗址的核心特征就是二次埋藏，这是因为这个地方很有可能经历了一次国家规格的渐近的迁都仪式，由于一些因素（比如河流改道），国家的行政中心逐渐的向成都附近的其他地区（比如金沙遗址）迁移，叠加他们神权祭祀的体制导致的 https://t.co/5Ye5nVZJ4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4142,
+          "following_count": 7122,
+          "like_count": 6852,
+          "listed_count": 7,
+          "media_count": 1384,
+          "tweet_count": 5804
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

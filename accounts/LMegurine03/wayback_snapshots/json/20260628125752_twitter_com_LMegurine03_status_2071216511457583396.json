@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2071214661958066369",
+    "created_at": "2026-06-28T12:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071216511457583396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567903529943339009",
+          "start": 0,
+          "username": "_gray_dust_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071216511457583396",
+    "in_reply_to_user_id": "1567903529943339009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071214661958066369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_gray_dust_ 好看🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2071214657239445504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5uwcpW8AA5H_a.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2071214661958066369",
+        "created_at": "2026-06-28T12:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071216511457583396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567903529943339009",
+              "start": 0,
+              "username": "_gray_dust_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071216511457583396",
+        "in_reply_to_user_id": "1567903529943339009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071214661958066369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_gray_dust_ 好看🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071214657239445504"
+          ]
+        },
+        "author_id": "1567903529943339009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1574831043118395392",
+              "name": "Fate series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855313203634462720",
+              "name": "Fate/Grand Order"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2071214661958066369",
+        "created_at": "2026-06-28T12:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071214661958066369"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "FGO"
+            },
+            {
+              "end": 64,
+              "start": 53,
+              "tag": "FGOcospaly"
+            },
+            {
+              "end": 71,
+              "start": 65,
+              "tag": "Karna"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "小太阳"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "迦尔纳"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "カルナ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBeA5GIioR",
+              "end": 110,
+              "expanded_url": "https://x.com/_gray_dust_/status/2071214661958066369/photo/1",
+              "media_key": "3_2071214657239445504",
+              "start": 87,
+              "url": "https://t.co/OBeA5GIioR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071214661958066369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于摄影的好意光速获得了一张预告，这张是我在一边想动作一边理扇子的时候摄影抓拍的，意外的不赖😋\n#FGO #FGOcospaly #Karna #小太阳 #迦尔纳 #カルナ https://t.co/OBeA5GIioR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4352,
+          "following_count": 7460,
+          "like_count": 7949,
+          "listed_count": 7,
+          "media_count": 1737,
+          "tweet_count": 6828
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T15:52:12.000Z",
+        "description": "❗❗❗❗本账号含有🔞❗❗❗❗\nFGO牢玩家。混杂大量日常/吐槽/黑泥/抽象擦边文案/偶尔还会传个一两张cos照❗但主要还是拿来看涩涩的号，请务必分辨清楚闲聊完全OK！虽然本人有点社恐很难主动开启话题（）点了follow的话可能会来视坚你👁️👁️（？）可爱男孩子请和我互fo🤤🤤🤤",
+        "id": "1567903529943339009",
+        "location": "南极洲迦勒底",
+        "name": "Dust",
+        "pinned_tweet_id": "1925368369978486871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880178391338319872/RqDR6zuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 385,
+          "like_count": 40123,
+          "listed_count": 4,
+          "media_count": 356,
+          "tweet_count": 14502
+        },
+        "url": "",
+        "username": "_gray_dust_",
+        "verified": false
+      }
+    ]
+  }
+}

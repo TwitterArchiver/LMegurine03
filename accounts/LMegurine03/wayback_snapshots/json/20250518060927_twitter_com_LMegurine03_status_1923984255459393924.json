@@ -1,0 +1,1373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "A match from the oldest football competition in the world, the FA Cup.",
+          "id": "10011575181",
+          "name": "FA Cup Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Live coverage from the FA Cup, the world's oldest national football competition.",
+          "id": "10028155194",
+          "name": "Live: FA Cup Football"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Live coverage of the action from the Coppa Italia, Italy's annual football cup competition.",
+          "id": "10028694317",
+          "name": "Live: Coppa Italia Football"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053653751",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1907591345834725377",
+          "name": "Arsenal FC vs Newcastle United"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "731226211804794880",
+          "name": "England - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756524527374337",
+          "name": "FA Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756534962851840",
+          "name": "EFL Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "758072104302448640",
+          "name": "Coppa Italia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1907591345834725377",
+          "name": "Arsenal FC vs Newcastle United"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Soccer matches",
+          "id": "43",
+          "name": "Soccer Match"
+        },
+        "entity": {
+          "id": "1907591345834725377",
+          "name": "Arsenal FC vs Newcastle United"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756524527374337",
+          "name": "FA Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756534962851840",
+          "name": "EFL Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "758072104302448640",
+          "name": "Coppa Italia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226180674670592",
+          "name": "Newcastle United FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226211519582208",
+          "name": "Crystal Palace FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226180674670592",
+          "name": "Newcastle United FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226211519582208",
+          "name": "Crystal Palace FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "733756526872006656",
+          "name": "Premier League"
+        }
+      }
+    ],
+    "conversation_id": "1923984255459393924",
+    "created_at": "2025-05-18T06:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T07:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923984255459393924"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "�󠁥󠁮",
+          "probability": 0.9092,
+          "start": -1,
+          "type": "Organization"
+        },
+        {
+          "end": 23,
+          "normalized_text": "�󠁿 N",
+          "probability": 0.7469,
+          "start": -1,
+          "type": "Organization"
+        },
+        {
+          "end": -2,
+          "normalized_text": " 🏆\n🇳�",
+          "probability": 0.6695,
+          "start": 42,
+          "type": "Organization"
+        },
+        {
+          "end": 55,
+          "normalized_text": "Go Ahead",
+          "probability": 0.8103,
+          "start": 48,
+          "type": "Organization"
+        },
+        {
+          "end": -2,
+          "normalized_text": "Cup �",
+          "probability": 0.5664,
+          "start": 71,
+          "type": "Organization"
+        },
+        {
+          "end": 83,
+          "normalized_text": "���🇹 Bolo",
+          "probability": 0.8826,
+          "start": -1,
+          "type": "Other"
+        },
+        {
+          "end": -2,
+          "normalized_text": "a 🏆\n🏴�",
+          "probability": 0.9197,
+          "start": 101,
+          "type": "Organization"
+        },
+        {
+          "end": 108,
+          "normalized_text": "��󠁥",
+          "probability": 0.5877,
+          "start": -1,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "212315904",
+          "start": 3,
+          "username": "livescore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923984255459393924",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4896
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923801047027360027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @livescore: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle - EFL Cup 🏆\n🇳🇱 Go Ahead Eagles - KNVB Cup 🏆\n🇮🇹 Bologna - Coppa Italia 🏆\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace - FA Cup 🏆…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1923800941435715584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrK2w3TWgAAXaor.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "A match from the oldest football competition in the world, the FA Cup.",
+              "id": "10011575181",
+              "name": "FA Cup Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Live coverage from the FA Cup, the world's oldest national football competition.",
+              "id": "10028155194",
+              "name": "Live: FA Cup Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Live coverage of the action from the Coppa Italia, Italy's annual football cup competition.",
+              "id": "10028694317",
+              "name": "Live: Coppa Italia Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053653751",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1907591345834725377",
+              "name": "Arsenal FC vs Newcastle United"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226211804794880",
+              "name": "England - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756524527374337",
+              "name": "FA Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756534962851840",
+              "name": "EFL Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "758072104302448640",
+              "name": "Coppa Italia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1907591345834725377",
+              "name": "Arsenal FC vs Newcastle United"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1907591345834725377",
+              "name": "Arsenal FC vs Newcastle United"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756524527374337",
+              "name": "FA Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756534962851840",
+              "name": "EFL Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "758072104302448640",
+              "name": "Coppa Italia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226180674670592",
+              "name": "Newcastle United FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226211519582208",
+              "name": "Crystal Palace FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226180674670592",
+              "name": "Newcastle United FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226211519582208",
+              "name": "Crystal Palace FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          }
+        ],
+        "conversation_id": "1923984255459393924",
+        "created_at": "2025-05-18T06:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T07:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923984255459393924"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "�󠁥󠁮",
+              "probability": 0.9092,
+              "start": -1,
+              "type": "Organization"
+            },
+            {
+              "end": 23,
+              "normalized_text": "�󠁿 N",
+              "probability": 0.7469,
+              "start": -1,
+              "type": "Organization"
+            },
+            {
+              "end": -2,
+              "normalized_text": " 🏆\n🇳�",
+              "probability": 0.6695,
+              "start": 42,
+              "type": "Organization"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Go Ahead",
+              "probability": 0.8103,
+              "start": 48,
+              "type": "Organization"
+            },
+            {
+              "end": -2,
+              "normalized_text": "Cup �",
+              "probability": 0.5664,
+              "start": 71,
+              "type": "Organization"
+            },
+            {
+              "end": 83,
+              "normalized_text": "���🇹 Bolo",
+              "probability": 0.8826,
+              "start": -1,
+              "type": "Other"
+            },
+            {
+              "end": -2,
+              "normalized_text": "a 🏆\n🏴�",
+              "probability": 0.9197,
+              "start": 101,
+              "type": "Organization"
+            },
+            {
+              "end": 108,
+              "normalized_text": "��󠁥",
+              "probability": 0.5877,
+              "start": -1,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "212315904",
+              "start": 3,
+              "username": "livescore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923984255459393924",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4896
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923801047027360027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @livescore: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle - EFL Cup 🏆\n🇳🇱 Go Ahead Eagles - KNVB Cup 🏆\n🇮🇹 Bologna - Coppa Italia 🏆\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace - FA Cup 🏆…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923800941435715584"
+          ]
+        },
+        "author_id": "212315904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "A match from the oldest football competition in the world, the FA Cup.",
+              "id": "10011575181",
+              "name": "FA Cup Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Live coverage from the FA Cup, the world's oldest national football competition.",
+              "id": "10028155194",
+              "name": "Live: FA Cup Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Live coverage of the action from the Coppa Italia, Italy's annual football cup competition.",
+              "id": "10028694317",
+              "name": "Live: Coppa Italia Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053653751",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1907591345834725377",
+              "name": "Arsenal FC vs Newcastle United"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226211804794880",
+              "name": "England - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756524527374337",
+              "name": "FA Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756534962851840",
+              "name": "EFL Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "758072104302448640",
+              "name": "Coppa Italia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1907591345834725377",
+              "name": "Arsenal FC vs Newcastle United"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1907591345834725377",
+              "name": "Arsenal FC vs Newcastle United"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756524527374337",
+              "name": "FA Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756534962851840",
+              "name": "EFL Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "758072104302448640",
+              "name": "Coppa Italia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226180674670592",
+              "name": "Newcastle United FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226211519582208",
+              "name": "Crystal Palace FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226180674670592",
+              "name": "Newcastle United FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226211519582208",
+              "name": "Crystal Palace FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "733756526872006656",
+              "name": "Premier League"
+            }
+          }
+        ],
+        "conversation_id": "1923801047027360027",
+        "created_at": "2025-05-17T18:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923801047027360027"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "�󠁥󠁮",
+              "probability": 0.8994,
+              "start": -1,
+              "type": "Organization"
+            },
+            {
+              "end": 8,
+              "normalized_text": "�󠁿 N",
+              "probability": 0.7565,
+              "start": -1,
+              "type": "Organization"
+            },
+            {
+              "end": -2,
+              "normalized_text": " 🏆\n🇳�",
+              "probability": 0.6514,
+              "start": 27,
+              "type": "Organization"
+            },
+            {
+              "end": 40,
+              "normalized_text": "Go Ahead",
+              "probability": 0.7818,
+              "start": 33,
+              "type": "Organization"
+            },
+            {
+              "end": -2,
+              "normalized_text": "Cup �",
+              "probability": 0.4516,
+              "start": 56,
+              "type": "Organization"
+            },
+            {
+              "end": 68,
+              "normalized_text": "���🇹 Bolo",
+              "probability": 0.8344,
+              "start": -1,
+              "type": "Other"
+            },
+            {
+              "end": -2,
+              "normalized_text": "a 🏆\n🏴�",
+              "probability": 0.9066,
+              "start": 86,
+              "type": "Organization"
+            },
+            {
+              "end": 93,
+              "normalized_text": "��󠁥",
+              "probability": 0.5247,
+              "start": -1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4utbwUREtB",
+              "end": 190,
+              "expanded_url": "https://x.com/livescore/status/1923801047027360027/photo/1",
+              "media_key": "3_1923800941435715584",
+              "start": 167,
+              "url": "https://t.co/4utbwUREtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923801047027360027",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 865,
+          "impression_count": 755614,
+          "like_count": 30495,
+          "quote_count": 718,
+          "reply_count": 639,
+          "retweet_count": 4896
+        },
+        "reply_settings": "everyone",
+        "text": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Newcastle - EFL Cup 🏆\n🇳🇱 Go Ahead Eagles - KNVB Cup 🏆\n🇮🇹 Bologna - Coppa Italia 🏆\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Crystal Palace - FA Cup 🏆\n\n2025 is the year to end trophy droughts 🤩 https://t.co/4utbwUREtB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 7268,
+          "like_count": 2337,
+          "listed_count": 3,
+          "media_count": 574,
+          "tweet_count": 2430
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-05T18:54:58.000Z",
+        "description": "Official account for https://t.co/kTbusVlccD ⚫️🟠 For the latest football news, stats & insight 🗞️ Download the app and join our community 👇",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Livescore.com",
+                "end": 44,
+                "expanded_url": "http://Livescore.com",
+                "start": 21,
+                "url": "https://t.co/kTbusVlccD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/4cVsSCU",
+                "end": 23,
+                "expanded_url": "https://bit.ly/4cVsSCU",
+                "start": 0,
+                "url": "https://t.co/jVrW9ajKS6"
+              }
+            ]
+          }
+        },
+        "id": "212315904",
+        "location": "Pitchside",
+        "name": "LiveScore",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774724025547182080/bDPmXwB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474870,
+          "following_count": 484,
+          "like_count": 767,
+          "listed_count": 665,
+          "media_count": 41458,
+          "tweet_count": 50054
+        },
+        "url": "https://t.co/jVrW9ajKS6",
+        "username": "livescore",
+        "verified": true
+      }
+    ]
+  }
+}

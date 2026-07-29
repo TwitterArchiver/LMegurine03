@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1920694569936572454",
+    "created_at": "2025-05-09T12:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T13:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920818335832227859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1572648881724297216",
+          "start": 0,
+          "username": "SSakikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920818335832227859",
+    "in_reply_to_user_id": "1572648881724297216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920810691776184442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SSakikaze 对呀，历史建筑和一个城市的历史一样，都是不应该去刻意抹掉的，随时代变迁多少也会保留一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1920694569936572454",
+        "created_at": "2025-05-09T12:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T13:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920818335832227859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1572648881724297216",
+              "start": 0,
+              "username": "SSakikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920818335832227859",
+        "in_reply_to_user_id": "1572648881724297216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920810691776184442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SSakikaze 对呀，历史建筑和一个城市的历史一样，都是不应该去刻意抹掉的，随时代变迁多少也会保留一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572648881724297216",
+        "conversation_id": "1920694569936572454",
+        "created_at": "2025-05-09T11:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T12:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920810691776184442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920810691776184442",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920694569936572454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 长春这里也有的是（\n过条街就是满铁老房子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 7100,
+          "like_count": 2182,
+          "listed_count": 3,
+          "media_count": 550,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-21T18:08:19.000Z",
+        "description": "I'm dumbass\n\nルカ推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/5zUmXbP",
+                "end": 23,
+                "expanded_url": "https://b23.tv/5zUmXbP",
+                "start": 0,
+                "url": "https://t.co/HdJM6XGHHd"
+              }
+            ]
+          }
+        },
+        "id": "1572648881724297216",
+        "location": "-咲風邸-Sakikaze Mansion-   NE.CN",
+        "name": "Sano Sakikaze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572649715283509249/ot_jQUqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 128,
+          "like_count": 9708,
+          "listed_count": 3,
+          "media_count": 658,
+          "tweet_count": 3296
+        },
+        "url": "https://t.co/HdJM6XGHHd",
+        "username": "SSakikaze",
+        "verified": false
+      }
+    ]
+  }
+}

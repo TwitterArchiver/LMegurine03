@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2054971807158108339",
+    "created_at": "2026-05-17T17:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056062790738342119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056062790738342119",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055076141325758524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao 嗯，其实我觉得具体发型和发型之间应该也不太一样的，什么样的思路能好一些呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2054971807158108339",
+        "created_at": "2026-05-17T17:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056062790738342119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056062790738342119",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055076141325758524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao 嗯，其实我觉得具体发型和发型之间应该也不太一样的，什么样的思路能好一些呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "conversation_id": "2054971807158108339",
+        "created_at": "2026-05-15T00:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055076141325758524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055076141325758524",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054971807158108339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 去小红书找中长发，直接给理发师看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4122,
+          "following_count": 7166,
+          "like_count": 7293,
+          "listed_count": 7,
+          "media_count": 1585,
+          "tweet_count": 6350
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 361,
+          "like_count": 9707,
+          "listed_count": 3,
+          "media_count": 388,
+          "tweet_count": 1602
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

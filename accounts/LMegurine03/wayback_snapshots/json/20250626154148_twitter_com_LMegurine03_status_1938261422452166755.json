@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1938258047769468994",
+    "created_at": "2025-06-26T15:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T16:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938261422452166755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880464735675813888",
+          "start": 0,
+          "username": "ShikuiL23822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938261422452166755",
+    "in_reply_to_user_id": "1880464735675813888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938260634011128221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShikuiL23822 好哦，谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938258047769468994",
+        "created_at": "2025-06-26T15:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938261422452166755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880464735675813888",
+              "start": 0,
+              "username": "ShikuiL23822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938261422452166755",
+        "in_reply_to_user_id": "1880464735675813888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938260634011128221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShikuiL23822 好哦，谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880464735675813888",
+        "conversation_id": "1938258047769468994",
+        "created_at": "2025-06-26T15:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938260634011128221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938260634011128221",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938258047769468994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 脚下的路是自己的，只要是自己想走的，哪怕跪着也会走下去，如果是自己不想走的，哪怕再平坦也不会往前一步，你已经很棒了，遵循自己的内心，旁人给予的只是他们的人生建议，我们只需要听取，不一定要执行，加油\n(づ ●─●"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 7446,
+          "like_count": 3295,
+          "listed_count": 4,
+          "media_count": 739,
+          "tweet_count": 3014
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T03:58:47.000Z",
+        "description": "愿上帝拯救这只迷途羔羊🐏 ▪ 永恒的星星✨  @_AkitaYura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_AkitaYura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TTzC008",
+                "end": 23,
+                "expanded_url": "http://t.me/TTzC008",
+                "start": 0,
+                "url": "https://t.co/EjoAMBIto9"
+              }
+            ]
+          }
+        },
+        "id": "1880464735675813888",
+        "location": "天堂",
+        "name": "白羊✨冰淇淋ice🍦",
+        "pinned_tweet_id": "1925431546036855045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897872965955649537/BByH9jO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 146,
+          "like_count": 2028,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/EjoAMBIto9",
+        "username": "ShikuiL23822",
+        "verified": false
+      }
+    ]
+  }
+}

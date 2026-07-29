@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1938264579727102274",
+    "created_at": "2025-06-27T07:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T08:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938506690628034995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547580106507694081",
+          "start": 0,
+          "username": "JamesAdmiralLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938506690628034995",
+    "in_reply_to_user_id": "1547580106507694081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938385673943470276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JamesAdmiralLi 当然可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938264579727102274",
+        "created_at": "2025-06-27T07:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938506690628034995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547580106507694081",
+              "start": 0,
+              "username": "JamesAdmiralLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938506690628034995",
+        "in_reply_to_user_id": "1547580106507694081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938385673943470276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamesAdmiralLi 当然可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547580106507694081",
+        "conversation_id": "1938264579727102274",
+        "created_at": "2025-06-26T23:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T00:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938385673943470276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938385673943470276",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938264579727102274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 第一，我也不算好看；\n第二，我也不算有钱，并且也想不到什么真正的高消费；\n第三，只是两个人安静地走在一起就可以了，有话我可以先说；\n第四，我也有点鲨鲨的；\n第五，也不是不可以；\n第六，喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 7459,
+          "like_count": 3369,
+          "listed_count": 4,
+          "media_count": 742,
+          "tweet_count": 3031
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T13:53:59.000Z",
+        "description": "学无止境/Keep on learning/勉強しています",
+        "id": "1547580106507694081",
+        "location": "中華民國",
+        "name": "Friedrich Li(学业淡推）",
+        "pinned_tweet_id": "1551861719202336768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602827733980979200/4MQHETkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 92,
+          "like_count": 9163,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1533
+        },
+        "username": "JamesAdmiralLi",
+        "verified": false
+      }
+    ]
+  }
+}

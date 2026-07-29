@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1927843511803564177",
+    "created_at": "2025-05-28T21:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T22:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927844108049031251"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854516260861808640",
+          "start": 0,
+          "username": "grape1106jhc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927844108049031251",
+    "in_reply_to_user_id": "1854516260861808640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927843511803564177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grape1106jhc 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1927843505738764295",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsETdE4aUAc6vcX.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1927843511803564177",
+        "created_at": "2025-05-28T21:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T22:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927844108049031251"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854516260861808640",
+              "start": 0,
+              "username": "grape1106jhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927844108049031251",
+        "in_reply_to_user_id": "1854516260861808640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927843511803564177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grape1106jhc 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927843505738764295"
+          ]
+        },
+        "author_id": "1854516260861808640",
+        "conversation_id": "1927843511803564177",
+        "created_at": "2025-05-28T21:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T22:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927843511803564177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1wGJ2bMcrL",
+              "end": 43,
+              "expanded_url": "https://x.com/grape1106jhc/status/1927843511803564177/photo/1",
+              "media_key": "3_1927843505738764295",
+              "start": 20,
+              "url": "https://t.co/1wGJ2bMcrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927843511803564177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们是冠军，欧洲唯一一支欧战大满贯球队 https://t.co/1wGJ2bMcrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 7500,
+          "like_count": 2657,
+          "listed_count": 3,
+          "media_count": 644,
+          "tweet_count": 2645
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T13:28:42.000Z",
+        "description": "Chelsea Chinese fun",
+        "id": "1854516260861808640",
+        "name": "rape g",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869228090959761408/9pGNTrtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 145,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 350
+        },
+        "username": "grape1106jhc",
+        "verified": false
+      }
+    ]
+  }
+}

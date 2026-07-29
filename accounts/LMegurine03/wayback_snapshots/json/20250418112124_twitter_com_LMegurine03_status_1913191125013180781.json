@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1912818890830135805",
+    "created_at": "2025-04-18T11:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T12:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913191125013180781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1611518842089648128",
+          "start": 0,
+          "username": "Awake1mg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913191125013180781",
+    "in_reply_to_user_id": "1611518842089648128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913189803371495867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Awake1mg 你得等我有36了再说（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1912818890830135805",
+        "created_at": "2025-04-18T11:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T12:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913191125013180781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1611518842089648128",
+              "start": 0,
+              "username": "Awake1mg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913191125013180781",
+        "in_reply_to_user_id": "1611518842089648128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913189803371495867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Awake1mg 你得等我有36了再说（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611518842089648128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1912818890830135805",
+        "created_at": "2025-04-18T11:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T12:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913189803371495867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913189803371495867",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912818890830135805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 那……那个，我很可爱，给我打钱。唔，会不会太凶了……对不起对不起，从来都没有人给我V过68……唔，我……我想买Arcaea曲包，如果，如果太多的话……36也可以的，啊……我是不是太不要脸了？对不起对不起呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 5980,
+          "like_count": 2002,
+          "listed_count": 3,
+          "media_count": 500,
+          "tweet_count": 2090
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-07T00:23:43.000Z",
+        "description": "中文/EN | Rhythm game player / Minecraft | Senior 3 | Male |\nQQ:3328093975 Please friend me on it😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ETyQbOp",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ETyQbOp",
+                "start": 0,
+                "url": "https://t.co/ltjHfJvAM5"
+              }
+            ]
+          }
+        },
+        "id": "1611518842089648128",
+        "location": "哈密⇆武威",
+        "name": "Awake1mg@梦醒酱",
+        "pinned_tweet_id": "1893171739544232175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886575874218319874/bXo-zVET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 337,
+          "like_count": 6657,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 1748
+        },
+        "url": "https://t.co/ltjHfJvAM5",
+        "username": "Awake1mg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1192156483078606848",
+          "name": "@WWF"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      }
+    ],
+    "conversation_id": "1995613887035785407",
+    "created_at": "2025-12-02T13:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T14:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995844715414208513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "889246380165877762",
+          "start": 0,
+          "username": "AmiriLover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995844715414208513",
+    "in_reply_to_user_id": "889246380165877762",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995613887035785407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmiriLover WWF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1478,
+        "media_key": "3_1995536634071437312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GR_vIbUAA16db.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1192156483078606848",
+              "name": "@WWF"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "1995613887035785407",
+        "created_at": "2025-12-02T13:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T14:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995844715414208513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "889246380165877762",
+              "start": 0,
+              "username": "AmiriLover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995844715414208513",
+        "in_reply_to_user_id": "889246380165877762",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995613887035785407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmiriLover WWF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995536634071437312"
+          ]
+        },
+        "author_id": "889246380165877762",
+        "conversation_id": "1995613887035785407",
+        "created_at": "2025-12-01T22:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T23:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995613887035785407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yt8GDa6OQB",
+              "end": 49,
+              "expanded_url": "https://x.com/AmiriLover/status/1995613887035785407/photo/1",
+              "media_key": "3_1995536634071437312",
+              "start": 26,
+              "url": "https://t.co/Yt8GDa6OQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995613887035785407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 533328,
+          "like_count": 2924,
+          "quote_count": 167,
+          "reply_count": 2471,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "90%の人が見えない画像です。\n何が見えましたか？ https://t.co/Yt8GDa6OQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx｜泛性恋｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "realmadrid"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3571,
+          "following_count": 7501,
+          "like_count": 6151,
+          "listed_count": 7,
+          "media_count": 1144,
+          "tweet_count": 4926
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-23T22:10:33.000Z",
+        "description": "無所属完全個人Vtuber/日常垢→@687081 避難用→@AmiriLoves 相方？→@ZERO_GTR_0 /お父様→@hassy_animation /案件はDMへ/FA→#Ami_Art #あみあーと ファンネーム→ #あみとも その他→#あみりんぐ #あみりみてみて ※投稿内容は他画像引用してます",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 91,
+                "tag": "Ami_Art"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "tag": "あみあーと"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "あみとも"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "あみりんぐ"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "tag": "あみりみてみて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "687081"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "AmiriLoves"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "ZERO_GTR_0"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "hassy_animation"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@AmiriLover",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@AmiriLover",
+                "start": 0,
+                "url": "https://t.co/HdLqYIauDY"
+              }
+            ]
+          }
+        },
+        "id": "889246380165877762",
+        "location": "インターネットの中 ↓優しい人チャンネル登録お願い！",
+        "name": "あみりちゃん@Vtuberになりました🦋ෆ˚*",
+        "pinned_tweet_id": "1979020793888805325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353282959764144134/Pq6To4d5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95196,
+          "following_count": 6550,
+          "like_count": 124590,
+          "listed_count": 32,
+          "media_count": 8823,
+          "tweet_count": 37416
+        },
+        "url": "https://t.co/HdLqYIauDY",
+        "username": "AmiriLover",
+        "verified": true
+      }
+    ]
+  }
+}

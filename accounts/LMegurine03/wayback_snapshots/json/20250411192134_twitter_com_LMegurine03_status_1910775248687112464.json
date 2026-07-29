@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1910757668395897112",
+    "created_at": "2025-04-11T19:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T20:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910775248687112464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1111976778065723393",
+          "start": 0,
+          "username": "nocontextfooty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910775248687112464",
+    "in_reply_to_user_id": "1111976778065723393",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910757668395897112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nocontextfooty I'm really going to collapse. I've watched this goal countless times today😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20687,
+        "height": 1024,
+        "media_key": "13_1910291289301450752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1910291289301450752/img/uTx8dohxMJ4VGxr_.jpg",
+        "public_metrics": {
+          "view_count": 384793
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910291289301450752/vid/avc1/320x568/OsiNz-PdCAs-_Cas.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910291289301450752/vid/avc1/480x852/99X5CQkoXiduGm_7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910291289301450752/vid/avc1/576x1024/0a7K9muXCTnB6F3B.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1910291289301450752/pl/IO2YiOMH9lljheXH.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1910757668395897112",
+        "created_at": "2025-04-11T19:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T20:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910775248687112464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1111976778065723393",
+              "start": 0,
+              "username": "nocontextfooty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910775248687112464",
+        "in_reply_to_user_id": "1111976778065723393",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910757668395897112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nocontextfooty I'm really going to collapse. I've watched this goal countless times today😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1910291289301450752"
+          ],
+          "media_source_tweet_id": [
+            "1910291342917317032"
+          ]
+        },
+        "author_id": "1111976778065723393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1910757668395897112",
+        "created_at": "2025-04-11T18:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T19:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910757668395897112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pX9J6UgVV0",
+              "end": 23,
+              "expanded_url": "https://x.com/RiceRice_baby4/status/1910291342917317032/video/1",
+              "media_key": "13_1910291289301450752",
+              "start": 0,
+              "url": "https://t.co/pX9J6UgVV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910757668395897112",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 217184,
+          "like_count": 3839,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pX9J6UgVV0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "FLjungberg08"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 5603,
+          "like_count": 1817,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 1999
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-30T13:01:38.000Z",
+        "description": "DM requests. ⚽️ @bcgame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "bcgame"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nocontextfooty",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/nocontextfooty",
+                "start": 0,
+                "url": "https://t.co/IyV9UblMrk"
+              }
+            ]
+          }
+        },
+        "id": "1111976778065723393",
+        "location": "nocontextfooty@gmail.com",
+        "name": "Out Of Context Football",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1112323410837815296/wxhDfc5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4420753,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 7591,
+          "media_count": 26737,
+          "tweet_count": 26862
+        },
+        "url": "https://t.co/IyV9UblMrk",
+        "username": "nocontextfooty",
+        "verified": true
+      }
+    ]
+  }
+}

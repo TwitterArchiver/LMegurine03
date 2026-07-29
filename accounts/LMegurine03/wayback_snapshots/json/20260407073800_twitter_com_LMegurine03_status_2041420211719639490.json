@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2041420211719639490",
+    "created_at": "2026-04-07T07:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041420211719639490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2041419107917300185",
+          "start": 66,
+          "url": "https://t.co/TeDJvMFb0t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041420211719639490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041419107917300185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们这帮人进度差的都挺大的，都是各搞各的，根本就不鼓励相互比较，所以也没啥的，虽然说进度紧，但是也急不得，就当又多了半天假就好了（ https://t.co/TeDJvMFb0t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 369,
+        "media_key": "3_2041419105572667392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFST3FFawAAokJw.jpg",
+        "width": 364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2041420211719639490",
+        "created_at": "2026-04-07T07:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041420211719639490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2041419107917300185",
+              "start": 66,
+              "url": "https://t.co/TeDJvMFb0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041420211719639490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041419107917300185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们这帮人进度差的都挺大的，都是各搞各的，根本就不鼓励相互比较，所以也没啥的，虽然说进度紧，但是也急不得，就当又多了半天假就好了（ https://t.co/TeDJvMFb0t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041419105572667392"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2041419107917300185",
+        "created_at": "2026-04-07T07:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041419107917300185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9M4wOW8GJL",
+              "end": 163,
+              "expanded_url": "https://x.com/LMegurine03/status/2041419107917300185/photo/1",
+              "media_key": "3_2041419105572667392",
+              "start": 140,
+              "url": "https://t.co/9M4wOW8GJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041419107917300185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天因为课前考试没考过没让我上课……当时有点焦虑，我之前也提到过怕这种情况出现（可能会掉段跟不上进度之类的），但是现在看来完全没有，它和高中那种惩罚性质的完全不同，就是一种中性的的进度调整，说实话在这种准备不充分的情况下直接上课也不是一个好的选择，还不如再复习一下另找时间再补（ https://t.co/9M4wOW8GJL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4131,
+          "following_count": 7132,
+          "like_count": 7044,
+          "listed_count": 7,
+          "media_count": 1450,
+          "tweet_count": 5984
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

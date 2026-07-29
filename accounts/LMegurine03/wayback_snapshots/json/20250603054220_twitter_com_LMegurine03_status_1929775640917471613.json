@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1929753524294111582",
+    "created_at": "2025-06-03T05:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T06:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929775640917471613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1532663208393117696",
+          "start": 0,
+          "username": "Ziverk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929775640917471613",
+    "in_reply_to_user_id": "1532663208393117696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929753524294111582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ziverk2 简直就是我😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1929753524294111582",
+        "created_at": "2025-06-03T05:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T06:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929775640917471613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1532663208393117696",
+              "start": 0,
+              "username": "Ziverk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929775640917471613",
+        "in_reply_to_user_id": "1532663208393117696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929753524294111582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ziverk2 简直就是我😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532663208393117696",
+        "conversation_id": "1929753524294111582",
+        "created_at": "2025-06-03T04:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T05:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929753524294111582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929753524294111582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 469,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不上学，没有发展能力，没有经济来源，没有独自生活能力，间歇和家里闹僵直，无力/无法更pass所以几乎只是个含糖友跨....好讨厌我这个废物。要是能早点死就好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 7501,
+          "like_count": 2953,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 2722
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "一只没有成年的成年猫猫w\n|像MTF的MTX🏳️‍⚧️🍥 SINCE 2024.11\n| 极度社恐\n| 偶尔血图\n|小群 1020709329\n| Office @mtitstudio\n| ♥️ @lm9325435076267",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "mtitstudio"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "username": "lm9325435076267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "einashome.byethost22.com",
+                "end": 23,
+                "expanded_url": "http://einashome.byethost22.com",
+                "start": 0,
+                "url": "https://t.co/AFyZbAfkaM"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1884407282454482944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 5004,
+          "like_count": 149576,
+          "listed_count": 9,
+          "media_count": 130,
+          "tweet_count": 11833
+        },
+        "url": "https://t.co/AFyZbAfkaM",
+        "username": "Ziverk2",
+        "verified": false
+      }
+    ]
+  }
+}

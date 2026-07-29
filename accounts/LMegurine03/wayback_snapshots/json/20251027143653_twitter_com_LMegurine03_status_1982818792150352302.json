@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1982818792150352302",
+    "created_at": "2025-10-27T14:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T15:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982818792150352302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Goku1683/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Goku1683/status/1982457515133858169",
+          "start": 16,
+          "url": "https://t.co/DtgWFMnRpD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982818792150352302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982457515133858169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是的……只是想找一个真正的家 https://t.co/DtgWFMnRpD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1565,
+        "media_key": "3_1982457501539807232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MamBmWsAAOt5X.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1982818792150352302",
+        "created_at": "2025-10-27T14:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982818792150352302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Goku1683/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Goku1683/status/1982457515133858169",
+              "start": 16,
+              "url": "https://t.co/DtgWFMnRpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982818792150352302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982457515133858169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是的……只是想找一个真正的家 https://t.co/DtgWFMnRpD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982457501539807232"
+          ]
+        },
+        "author_id": "2886649711",
+        "conversation_id": "1982457515133858169",
+        "created_at": "2025-10-26T14:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T15:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982457515133858169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHGMjLCUjy",
+              "end": 26,
+              "expanded_url": "https://x.com/Goku1683/status/1982457515133858169/photo/1",
+              "media_key": "3_1982457501539807232",
+              "start": 3,
+              "url": "https://t.co/uHGMjLCUjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982457515133858169",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 17687,
+          "like_count": 171,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "➕1 https://t.co/uHGMjLCUjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx｜泛性恋｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "realmadrid"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "KChiharu34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3119,
+          "following_count": 7501,
+          "like_count": 5202,
+          "listed_count": 6,
+          "media_count": 961,
+          "tweet_count": 4177
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-01T18:35:18.000Z",
+        "description": "🏳️‍⚧️/BPD/敢爱敢恨/情绪化/情绪时常处于两个极端/猎奇/表面是个m实则是个暴力s/略带偏执属性/待开发中..它说蓝色是忧郁*",
+        "id": "2886649711",
+        "name": "到里斯本看海*^🍥",
+        "pinned_tweet_id": "1955673579095539766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951570985435717632/hrFmnHgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 600,
+          "like_count": 1027,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 123
+        },
+        "username": "Goku1683",
+        "verified": false
+      }
+    ]
+  }
+}

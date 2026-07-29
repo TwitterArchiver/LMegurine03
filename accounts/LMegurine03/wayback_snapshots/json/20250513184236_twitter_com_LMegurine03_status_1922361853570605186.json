@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1922357010869190993",
+    "created_at": "2025-05-13T18:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T19:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922361853570605186"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Arsenal",
+          "probability": 0.9698,
+          "start": 15,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "571964518",
+          "start": 0,
+          "username": "TrollFootball"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922361853570605186",
+    "in_reply_to_user_id": "571964518",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922357010869190993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrollFootball Arsenal is the same, they haven't even lost in the semi-finals"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_1922356976572628993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq2VfDAbAAEDXAl.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1922357010869190993",
+        "created_at": "2025-05-13T18:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T19:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922361853570605186"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Arsenal",
+              "probability": 0.9698,
+              "start": 15,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "571964518",
+              "start": 0,
+              "username": "TrollFootball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922361853570605186",
+        "in_reply_to_user_id": "571964518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922357010869190993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrollFootball Arsenal is the same, they haven't even lost in the semi-finals"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922356976572628993"
+          ]
+        },
+        "author_id": "571964518",
+        "conversation_id": "1922357010869190993",
+        "created_at": "2025-05-13T18:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T19:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922357010869190993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvxwLCoMVb",
+              "end": 88,
+              "expanded_url": "https://x.com/TrollFootball/status/1922357010869190993/photo/1",
+              "media_key": "3_1922356976572628993",
+              "start": 65,
+              "url": "https://t.co/YvxwLCoMVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922357010869190993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 45111,
+          "like_count": 1975,
+          "quote_count": 2,
+          "reply_count": 49,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "Two clubs that haven't lost a European final in the last decade. https://t.co/YvxwLCoMVb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 7329,
+          "like_count": 2297,
+          "listed_count": 3,
+          "media_count": 565,
+          "tweet_count": 2382
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-05T18:11:01.000Z",
+        "description": "🚨 Don't follow us if you can't take a troll on your fav club/player. Contact: trollfootballcontact@gmail.com | @Gamdom |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 111,
+                "username": "Gamdom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/thetro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/thetrollfootball.bsky.social",
+                "start": 0,
+                "url": "https://t.co/wR6DjRndSp"
+              }
+            ]
+          }
+        },
+        "id": "571964518",
+        "name": "Troll Football",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612788418010042369/9wIHyK2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514032,
+          "following_count": 521,
+          "like_count": 685,
+          "listed_count": 7967,
+          "media_count": 14880,
+          "tweet_count": 16576
+        },
+        "url": "https://t.co/wR6DjRndSp",
+        "username": "TrollFootball",
+        "verified": true
+      }
+    ]
+  }
+}

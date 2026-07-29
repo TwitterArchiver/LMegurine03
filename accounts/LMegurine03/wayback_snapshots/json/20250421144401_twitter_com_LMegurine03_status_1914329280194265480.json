@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1914329280194265480",
+    "created_at": "2025-04-21T14:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T15:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914329280194265480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FurinaDF/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/FurinaDF/status/1914325212763660376",
+          "start": 8,
+          "url": "https://t.co/ekfbJ23LU3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914329280194265480",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914325212763660376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "R. I. P https://t.co/ekfbJ23LU3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_1914325198297575424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpEMoBUbMAA1Hy4.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1914329280194265480",
+        "created_at": "2025-04-21T14:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914329280194265480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FurinaDF/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/FurinaDF/status/1914325212763660376",
+              "start": 8,
+              "url": "https://t.co/ekfbJ23LU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914329280194265480",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914325212763660376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "R. I. P https://t.co/ekfbJ23LU3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914325198297575424"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1914325212763660376",
+        "created_at": "2025-04-21T14:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914325212763660376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zKz28AiAP",
+              "end": 51,
+              "expanded_url": "https://x.com/FurinaDF/status/1914325212763660376/photo/1",
+              "media_key": "3_1914325198297575424",
+              "start": 28,
+              "url": "https://t.co/2zKz28AiAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914325212763660376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "方济各（1936年12月17日—2025年4月21日） https://t.co/2zKz28AiAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 6267,
+          "like_count": 2037,
+          "listed_count": 3,
+          "media_count": 512,
+          "tweet_count": 2117
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "太好啦！太好啦！听妈妈说，我手机里的推特自动关注了芙宁娜娜，我不知所云地欢呼起来。芙宁娜娜这个恶俗玩意儿到底是什么呢？爸爸告诉我，她就像一个遍布网络的巨大屎壳郎，把抽象乐子和魔怔烂梗搬运得到处都是。有了芙宁娜娜，咱们的推特就变成了一个小垃圾堆，五洲四海的浪蛆们可以随时进行别样的炒作大战。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1912207020780028155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21815,
+          "following_count": 2038,
+          "like_count": 23602,
+          "listed_count": 57,
+          "media_count": 4169,
+          "tweet_count": 7982
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

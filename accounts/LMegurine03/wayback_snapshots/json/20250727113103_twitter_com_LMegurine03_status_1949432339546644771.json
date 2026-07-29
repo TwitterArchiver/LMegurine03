@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1949305938961404130",
+    "created_at": "2025-07-27T11:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949432339546644771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "848780438776709120",
+          "start": 0,
+          "username": "ciguoe_che"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949432339546644771",
+    "in_reply_to_user_id": "848780438776709120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949430688177901983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciguoe_che 是啊，那个时候很多地方都不是城区"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_1949430657912025088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3E2tcaMAA3lae.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1949305938961404130",
+        "created_at": "2025-07-27T11:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949432339546644771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "848780438776709120",
+              "start": 0,
+              "username": "ciguoe_che"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949432339546644771",
+        "in_reply_to_user_id": "848780438776709120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949430688177901983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciguoe_che 是啊，那个时候很多地方都不是城区"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949430657912025088"
+          ]
+        },
+        "author_id": "848780438776709120",
+        "conversation_id": "1949305938961404130",
+        "created_at": "2025-07-27T11:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949430688177901983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKhCVbmoHx",
+              "end": 84,
+              "expanded_url": "https://x.com/ciguoe_che/status/1949430688177901983/photo/1",
+              "media_key": "3_1949430657912025088",
+              "start": 61,
+              "url": "https://t.co/JKhCVbmoHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949430688177901983",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949305938961404130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 之前见过这张东部市街户别案内图，相当详细，但是1918的年代比较早，加上只有劳动公园以东地区的 https://t.co/JKhCVbmoHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2743,
+          "following_count": 7493,
+          "like_count": 4009,
+          "listed_count": 4,
+          "media_count": 797,
+          "tweet_count": 3506
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-03T06:13:20.000Z",
+        "description": "，繁忙。\n@buri_aji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "buri_aji"
+              }
+            ]
+          }
+        },
+        "id": "848780438776709120",
+        "name": "e-hC",
+        "pinned_tweet_id": "1537793606236241920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931741127537000448/ZHmle6B2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 2826,
+          "like_count": 15300,
+          "listed_count": 3,
+          "media_count": 930,
+          "tweet_count": 2354
+        },
+        "username": "ciguoe_che",
+        "verified": false
+      }
+    ]
+  }
+}

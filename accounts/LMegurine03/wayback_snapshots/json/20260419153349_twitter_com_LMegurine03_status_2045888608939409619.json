@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2045888608939409619",
+    "created_at": "2026-04-19T15:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045888608939409619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2045887935674012113",
+          "start": 112,
+          "url": "https://t.co/aWuNbYQ3zB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045888608939409619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045887935674012113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过虽然单休，但早上最晚9点起来都没关系，中午还可以出去走走或者和同学一起吃个饭，下午最晚也不会超过5点，内容少的时候还能晚去或者早结束，和高中那种无休止的压力还是有很大区别，下周再调整一下心态大概也能找到不太累的节奏吧（ https://t.co/aWuNbYQ3zB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2045888608939409619",
+        "created_at": "2026-04-19T15:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045888608939409619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2045887935674012113",
+              "start": 112,
+              "url": "https://t.co/aWuNbYQ3zB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045888608939409619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045887935674012113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过虽然单休，但早上最晚9点起来都没关系，中午还可以出去走走或者和同学一起吃个饭，下午最晚也不会超过5点，内容少的时候还能晚去或者早结束，和高中那种无休止的压力还是有很大区别，下周再调整一下心态大概也能找到不太累的节奏吧（ https://t.co/aWuNbYQ3zB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2045887935674012113",
+        "created_at": "2026-04-19T15:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045887935674012113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045887935674012113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于找到时间发推了😭\n现在加上eju之后上课时间多了不少，三四五上jlpt，一二六上jlpt，也就勉强休上一天，也就哪天任务完成快点能抽出点时间玩会推了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4039,
+          "following_count": 7094,
+          "like_count": 7096,
+          "listed_count": 7,
+          "media_count": 1471,
+          "tweet_count": 6035
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

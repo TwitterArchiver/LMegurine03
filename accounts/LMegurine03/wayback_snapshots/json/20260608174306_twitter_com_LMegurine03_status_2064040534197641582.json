@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2063995495027220875",
+    "created_at": "2026-06-08T17:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064040534197641582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1781510736000274432",
+          "start": 0,
+          "username": "huantim1"
+        },
+        {
+          "end": 19,
+          "id": "1989517742127652866",
+          "start": 10,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064040534197641582",
+    "in_reply_to_user_id": "1781510736000274432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064038416355082406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huantim1 @AGNK_553 清了一下，但是后来发现应该是VPN的问题，那个节点正好就在东京新宿，原来用的是新加坡，估计是切换被检测到了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2063995495027220875",
+        "created_at": "2026-06-08T17:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064040534197641582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1781510736000274432",
+              "start": 0,
+              "username": "huantim1"
+            },
+            {
+              "end": 19,
+              "id": "1989517742127652866",
+              "start": 10,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064040534197641582",
+        "in_reply_to_user_id": "1781510736000274432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064038416355082406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huantim1 @AGNK_553 清了一下，但是后来发现应该是VPN的问题，那个节点正好就在东京新宿，原来用的是新加坡，估计是切换被检测到了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "2063995495027220875",
+        "created_at": "2026-06-08T17:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064038416355082406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 22,
+              "id": "1989517742127652866",
+              "start": 13,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064038416355082406",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064036454133887208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 @AGNK_553 其它设备登录清空没？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4257,
+          "following_count": 7381,
+          "like_count": 7594,
+          "listed_count": 7,
+          "media_count": 1654,
+          "tweet_count": 6632
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某高一牲 是mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huantim1.bsky.social",
+                "end": 23,
+                "expanded_url": "http://huantim1.bsky.social",
+                "start": 0,
+                "url": "https://t.co/cXdI7FG7B0"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮纱",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 719,
+          "like_count": 63895,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 5004
+        },
+        "url": "https://t.co/cXdI7FG7B0",
+        "username": "huantim1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "2025.11 重生喵~\n一般路过 553/Ag/any\n09.12 MTX🏳️‍⚧️\n（负能量预警）\n*非政治推 只是在骂让我不舒服的东西*\n喵就是心情好\nCN/EN🆗\n查成分回fo\n备用@agsg_553",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "agsg_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/nKx3eptIuF"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "✝️昇天✝️",
+        "name": "AG553🏳️‍⚧️",
+        "pinned_tweet_id": "2055235631958389230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 1654,
+          "like_count": 38792,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 3563
+        },
+        "url": "https://t.co/nKx3eptIuF",
+        "username": "AGNK_553",
+        "verified": false
+      }
+    ]
+  }
+}

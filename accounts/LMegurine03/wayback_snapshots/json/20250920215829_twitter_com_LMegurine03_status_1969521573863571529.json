@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1969521554225766797",
+    "created_at": "2025-09-20T21:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T22:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969521573863571529"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1969521573863571529",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969521570273247451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在的话对于这样的问题，我承认了解没那么细致，可能就是认识几个名词，仅此而已，要是当时的话，说不定会像逞能一样乱编一些概念跟别人说，真的很庆幸之前没跟真正可能存在上面说的那些解离性障碍的人讨论这些问题，不然真的不知道后果会是什么样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1969521554225766797",
+        "created_at": "2025-09-20T21:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T22:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969521573863571529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969521573863571529",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969521570273247451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在的话对于这样的问题，我承认了解没那么细致，可能就是认识几个名词，仅此而已，要是当时的话，说不定会像逞能一样乱编一些概念跟别人说，真的很庆幸之前没跟真正可能存在上面说的那些解离性障碍的人讨论这些问题，不然真的不知道后果会是什么样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1969521554225766797",
+        "created_at": "2025-09-20T21:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T22:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969521570273247451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969521570273247451",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969521567081382345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些东西我根本就理解不了，尤其是在自我认同方面，一种直觉告诉我这方面上从来没有出过异常，后来我仔细查了一下才发现确实是这样，可以理解为全都是我臆想出来的，简单自测了一下量表都发现完全不沾边，所以去寻找其他的人格就显得很扯了，还困扰我那么多时间，在我看来也真的算是个教训了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 7501,
+          "like_count": 4717,
+          "listed_count": 6,
+          "media_count": 907,
+          "tweet_count": 3967
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

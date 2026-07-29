@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2074525913249923486",
+    "created_at": "2026-07-09T13:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075206822592716842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362678086211301384",
+          "start": 0,
+          "username": "Amagalan_B1"
+        },
+        {
+          "end": 24,
+          "id": "2004949131450867712",
+          "start": 13,
+          "username": "xersy37737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075206822592716842",
+    "in_reply_to_user_id": "1362678086211301384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074620096354320755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amagalan_B1 @xersy37737 确实也是这样，算法过于粗略就没价值了😞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1541,
+        "media_key": "3_2074620088766881792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqH-prW4AA23oZ.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2074525913249923486",
+        "created_at": "2026-07-09T13:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075206822592716842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362678086211301384",
+              "start": 0,
+              "username": "Amagalan_B1"
+            },
+            {
+              "end": 24,
+              "id": "2004949131450867712",
+              "start": 13,
+              "username": "xersy37737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075206822592716842",
+        "in_reply_to_user_id": "1362678086211301384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074620096354320755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amagalan_B1 @xersy37737 确实也是这样，算法过于粗略就没价值了😞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074620088766881792"
+          ]
+        },
+        "author_id": "1362678086211301384",
+        "conversation_id": "2074525913249923486",
+        "created_at": "2026-07-07T22:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074620096354320755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMWOj8NAjA",
+              "end": 137,
+              "expanded_url": "https://x.com/Amagalan_B1/status/2074620096354320755/photo/1",
+              "media_key": "3_2074620088766881792",
+              "start": 114,
+              "url": "https://t.co/wMWOj8NAjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074620096354320755",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074525913249923486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 纯纯刻板印象，有同情心、宽容、考虑他人就是女的，没有感情、独断、严谨就是男的。我反正按照我自己的情况选的，但我一眼就知道出题人默认的男性选项和女性选项是什么，完全可以先射箭后画靶选，这个测试价值不高。 https://t.co/wMWOj8NAjA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4396,
+          "following_count": 7490,
+          "like_count": 8064,
+          "listed_count": 8,
+          "media_count": 1813,
+          "tweet_count": 6992
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T08:19:32.000Z",
+        "description": "A heavy tank made by Renault. A fan of trains, tanks，F1 & battleships. #Renault #Alpine💙💛 Car 35 WEC Fuji🥇 🎉🎉\n阿尔派/雷诺中文资讯",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 71,
+                "tag": "Renault"
+              },
+              {
+                "end": 87,
+                "start": 80,
+                "tag": "Alpine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "defense.gouv.fr",
+                "end": 23,
+                "expanded_url": "https://www.defense.gouv.fr/",
+                "start": 0,
+                "url": "https://t.co/hXf8XtfrY4"
+              }
+            ]
+          }
+        },
+        "id": "1362678086211301384",
+        "location": "Boulogne-Billancourt, France",
+        "name": "☢️Char B1 bis",
+        "pinned_tweet_id": "2060503160360231035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888752159979696128/1MaSeRRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 847,
+          "like_count": 76885,
+          "listed_count": 2,
+          "media_count": 576,
+          "tweet_count": 19522
+        },
+        "url": "https://t.co/hXf8XtfrY4",
+        "username": "Amagalan_B1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T16:15:12.000Z",
+        "description": "",
+        "id": "2004949131450867712",
+        "location": "数据层",
+        "name": "Xersy​",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668106528681985/cTBHzgLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 37,
+          "like_count": 2341,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "xersy37737",
+        "verified": true
+      }
+    ]
+  }
+}

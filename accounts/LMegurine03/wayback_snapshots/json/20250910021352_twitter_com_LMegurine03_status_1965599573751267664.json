@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1965599571587067908",
+    "created_at": "2025-09-10T02:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T03:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965599573751267664"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1965599573751267664",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965599571587067908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某方面来说也是，作者拥有版权以及对作品的解释权，要是想维护你就去吧，有DMCA这类的法案支持，大不了就是全平台下架而已，我看到的很多跨性别者是真心的喜欢这张图片的，“想成为新的自己”不妨也可以成为困境当中的生活态度，好多人都把这个图片当做个人主页的图片，要不希望她们不解读就不解读了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1965599571587067908",
+        "created_at": "2025-09-10T02:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T03:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965599573751267664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965599573751267664",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965599571587067908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某方面来说也是，作者拥有版权以及对作品的解释权，要是想维护你就去吧，有DMCA这类的法案支持，大不了就是全平台下架而已，我看到的很多跨性别者是真心的喜欢这张图片的，“想成为新的自己”不妨也可以成为困境当中的生活态度，好多人都把这个图片当做个人主页的图片，要不希望她们不解读就不解读了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1965599571587067908",
+        "created_at": "2025-09-10T02:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T03:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965599571587067908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ServalCandle/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/ServalCandle/status/1965287500211253421",
+              "start": 140,
+              "url": "https://t.co/WBcFQizHIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965599571587067908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965287500211253421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉这样的图片更像是一种网络迷因，当它已经形成的时候就不简简单单是一张图片了，更像是一种信息交流的载体和文化符号，这个时候再想收回或停止传播基本上是没有办法和没有必要的，再说投入商业目的的还是少数中的少数，甚至几乎没有，在带有媒体自由共识的社交文化当中这样做也真的显得很不对劲 https://t.co/WBcFQizHIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951274989153558529/NpX8QKVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2897,
+          "following_count": 7490,
+          "like_count": 4555,
+          "listed_count": 6,
+          "media_count": 875,
+          "tweet_count": 3855
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

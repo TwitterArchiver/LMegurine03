@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1932338615339909365",
+    "created_at": "2025-06-10T13:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T14:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932428723091112412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "HoshikawaNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932428723091112412",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932338615339909365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshikawaNF 152"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1932338605328134144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtELuTxbcAATAFK.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1932338615339909365",
+        "created_at": "2025-06-10T13:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T14:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932428723091112412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "HoshikawaNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932428723091112412",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932338615339909365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshikawaNF 152"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932338605328134144"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1932338615339909365",
+        "created_at": "2025-06-10T07:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T08:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932338615339909365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKqXwmwpAw",
+              "end": 42,
+              "expanded_url": "https://x.com/HoshikawaNF/status/1932338615339909365/photo/1",
+              "media_key": "3_1932338605328134144",
+              "start": 19,
+              "url": "https://t.co/aKqXwmwpAw"
+            },
+            {
+              "display_url": "x.com/addkaiz/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/addkaiz/status/1932298863144321143",
+              "start": 43,
+              "url": "https://t.co/fZnd8O1SkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932338615339909365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 898,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932298863144321143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要玩\n你关注的人有多少人关注了我 https://t.co/aKqXwmwpAw https://t.co/fZnd8O1SkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，没回关可以私信提醒｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 7396,
+          "like_count": 3093,
+          "listed_count": 6,
+          "media_count": 687,
+          "tweet_count": 2817
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "“必ず、生き返るだろう。”| カルト関係者(NHKも)🚫|🚹10代|‼️私の国籍は質問（推測）しないでください‼️|とても大切の人@chaox1220_2nd🥰|📬DMは相互フォローのみが送信できます。#あつ森 #音ゲー #プロセカ #日本語間違えてたら教えて 🇺🇦 🇯🇵🤝🇨🇳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "あつ森"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "音ゲー"
+              },
+              {
+                "end": 116,
+                "start": 111,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 130,
+                "start": 117,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "chaox1220_2nd"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "name": "𝑯𝒐𝒔𝒉𝒊𝒌𝒂𝒘𝒂 𝑺.",
+        "pinned_tweet_id": "1918514527236440407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930054160352980994/HrCSu2b__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1405,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1163
+        },
+        "username": "HoshikawaNF",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930617124596469760"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1930617127867920385",
+    "created_at": "2025-06-05T13:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T14:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930617127867920385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926706364044165121",
+          "start": 3,
+          "username": "Sakura_mo_li"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinityweet.me/love-calculato…",
+          "end": 55,
+          "expanded_url": "https://infinityweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1930538841036951552/CE7ezKyV?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1930538841036951552/CE7ezKyV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinityweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/oc4GCewKrI"
+        },
+        {
+          "display_url": "pic.x.com/AJ6Tn7DHpn",
+          "end": 79,
+          "expanded_url": "https://x.com/LMegurine03/status/1930617127867920385/photo/1",
+          "media_key": "3_1930617124596469760",
+          "start": 56,
+          "url": "https://t.co/AJ6Tn7DHpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930617127867920385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @Sakura_mo_li 的爱兼容性为 19%\n\n➡️ https://t.co/oc4GCewKrI https://t.co/AJ6Tn7DHpn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1930617124596469760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsruC8Tb0AAIWqM.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930617124596469760"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930617127867920385",
+        "created_at": "2025-06-05T13:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930617127867920385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926706364044165121",
+              "start": 3,
+              "username": "Sakura_mo_li"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinityweet.me/love-calculato…",
+              "end": 55,
+              "expanded_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1930538841036951552/CE7ezKyV?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1930538841036951552/CE7ezKyV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/oc4GCewKrI"
+            },
+            {
+              "display_url": "pic.x.com/AJ6Tn7DHpn",
+              "end": 79,
+              "expanded_url": "https://x.com/LMegurine03/status/1930617127867920385/photo/1",
+              "media_key": "3_1930617124596469760",
+              "start": 56,
+              "url": "https://t.co/AJ6Tn7DHpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930617127867920385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @Sakura_mo_li 的爱兼容性为 19%\n\n➡️ https://t.co/oc4GCewKrI https://t.co/AJ6Tn7DHpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 7501,
+          "like_count": 3004,
+          "listed_count": 5,
+          "media_count": 668,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T18:26:33.000Z",
+        "description": "生产日期:2009.10.19|HRT_2025.2.16|无证含糖🍬|休学一年/::Z是个地雷女💥喜欢GBC，术力口|坐标川崎可接线下，重度躁郁症.精神分裂|最爱的姐姐@Sakura_mo_yu|QV门槛🚪20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Sakura_mo_yu"
+              }
+            ]
+          }
+        },
+        "id": "1926706364044165121",
+        "name": "中村沫梨🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926706982091636736/oMTznb1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 29,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 52
+        },
+        "username": "Sakura_mo_li",
+        "verified": false
+      }
+    ]
+  }
+}

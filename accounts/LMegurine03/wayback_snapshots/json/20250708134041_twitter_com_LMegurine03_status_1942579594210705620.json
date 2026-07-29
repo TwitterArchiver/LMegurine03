@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1942536471107215379",
+    "created_at": "2025-07-08T13:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T14:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942579594210705620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789545189993758721",
+          "start": 0,
+          "username": "FpsloverPeter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942579594210705620",
+    "in_reply_to_user_id": "1789545189993758721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942536471107215379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FpsloverPeter 你觉得我怎么样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1942536471107215379",
+        "created_at": "2025-07-08T13:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T14:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942579594210705620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789545189993758721",
+              "start": 0,
+              "username": "FpsloverPeter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942579594210705620",
+        "in_reply_to_user_id": "1789545189993758721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942536471107215379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FpsloverPeter 你觉得我怎么样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789545189993758721",
+        "conversation_id": "1942536471107215379",
+        "created_at": "2025-07-08T10:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T11:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942536471107215379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942536471107215379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3923,
+          "like_count": 25,
+          "quote_count": 15,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对中推左人的评价\n辉夜：可以的，左人天花板。\n十月人：在台湾那边理想算灯塔了。\n春木：弱版辉夜。\n保卫毛泽东：和安人斗嘴挺有意思的。\n安人：理论没啥问题。\n张春桥，图赵家人：跟辉夜一样，左人天花板。\n菲利普贝当，德🎧：有点魔怔，但至少算左人🤔\n番茄大叔，三叶,套皮毛泽东：你们他妈也算左？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 7439,
+          "like_count": 3526,
+          "listed_count": 4,
+          "media_count": 762,
+          "tweet_count": 3286
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T06:36:46.000Z",
+        "description": "Social liberal,support a welfare and equal society,be interested in western history and politics,like play The fire rises",
+        "id": "1789545189993758721",
+        "location": "CSA Chicago",
+        "name": "Warsaw Treaty Organization",
+        "pinned_tweet_id": "1888189312140992648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893605033691762688/K7xCWjCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 488,
+          "like_count": 3421,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 341
+        },
+        "username": "FpsloverPeter",
+        "verified": false
+      }
+    ]
+  }
+}

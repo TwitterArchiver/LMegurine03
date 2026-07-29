@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078833583645671424"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2078833634627523053",
+    "created_at": "2026-07-19T13:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078833634627523053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T9JHWIlD4O",
+          "end": 70,
+          "expanded_url": "https://x.com/LMegurine03/status/2078833634627523053/video/1",
+          "media_key": "13_2078833583645671424",
+          "start": 47,
+          "url": "https://t.co/T9JHWIlD4O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078833634627523053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在海边看到的烟花，补发一下上一次的……另外你们觉不觉得大桥上面的光束怪怪的，有一些不协调（？ https://t.co/T9JHWIlD4O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14187,
+        "height": 720,
+        "media_key": "13_2078833583645671424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078833583645671424/img/KCYrtdU9KByB451-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078833583645671424/vid/avc1/480x270/bFSD2q_OhruSPoZd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078833583645671424/vid/avc1/640x360/wyHr3RHYhGBBhmlS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078833583645671424/vid/avc1/1280x720/DhzHP6dEPGRlDQn-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078833583645671424/pl/0pTvaTyD5MYlCvnr.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078833583645671424"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2078833634627523053",
+        "created_at": "2026-07-19T13:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078833634627523053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9JHWIlD4O",
+              "end": 70,
+              "expanded_url": "https://x.com/LMegurine03/status/2078833634627523053/video/1",
+              "media_key": "13_2078833583645671424",
+              "start": 47,
+              "url": "https://t.co/T9JHWIlD4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078833634627523053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在海边看到的烟花，补发一下上一次的……另外你们觉不觉得大桥上面的光束怪怪的，有一些不协调（？ https://t.co/T9JHWIlD4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 7501,
+          "like_count": 8149,
+          "listed_count": 8,
+          "media_count": 1880,
+          "tweet_count": 7115
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

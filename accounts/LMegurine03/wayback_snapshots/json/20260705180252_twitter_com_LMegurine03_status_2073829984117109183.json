@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2067642090436321618",
+    "created_at": "2026-07-05T18:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073829984117109183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032682218284527620",
+          "start": 0,
+          "username": "lbwnb789113"
+        },
+        {
+          "end": 26,
+          "id": "2043042166029848579",
+          "start": 13,
+          "username": "HuangFeij3gc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073829984117109183",
+    "in_reply_to_user_id": "2032682218284527620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067864464360157420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbwnb789113 @HuangFeij3gc 这个真的不是AI哦，搜原视频能搜到的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2067642090436321618",
+        "created_at": "2026-07-05T18:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073829984117109183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032682218284527620",
+              "start": 0,
+              "username": "lbwnb789113"
+            },
+            {
+              "end": 26,
+              "id": "2043042166029848579",
+              "start": 13,
+              "username": "HuangFeij3gc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073829984117109183",
+        "in_reply_to_user_id": "2032682218284527620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067864464360157420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbwnb789113 @HuangFeij3gc 这个真的不是AI哦，搜原视频能搜到的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032682218284527620",
+        "conversation_id": "2067642090436321618",
+        "created_at": "2026-06-19T06:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067864464360157420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043042166029848579",
+              "start": 0,
+              "username": "HuangFeij3gc"
+            },
+            {
+              "end": 26,
+              "id": "1877035470615638016",
+              "start": 14,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067864464360157420",
+        "in_reply_to_user_id": "2043042166029848579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2477,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067829974976065564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangFeij3gc @LMegurine03 用AI给自己玩嗨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4392,
+          "following_count": 7501,
+          "like_count": 8030,
+          "listed_count": 8,
+          "media_count": 1799,
+          "tweet_count": 6955
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T04:57:05.000Z",
+        "description": "喜欢共产党👍🧑‍🧑‍🧒\n喜欢国民党👍🧑‍🧑‍🧒\n喜欢其他各种各样的党👍🧑‍🧑‍🧒\n喜欢一个党以极端的语言去攻击另一个党👎👤\n特别是是废支物黑婊就该去卖",
+        "id": "2032682218284527620",
+        "name": "日本の深情な老高校生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066355422781472768/UHUKwQdA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 49,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "lbwnb789113",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T19:04:23.000Z",
+        "description": "",
+        "id": "2043042166029848579",
+        "name": "HuangFei",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "HuangFeij3gc",
+        "verified": false
+      }
+    ]
+  }
+}

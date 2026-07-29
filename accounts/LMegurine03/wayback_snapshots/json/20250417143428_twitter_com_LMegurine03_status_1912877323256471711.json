@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912877320660291584"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "1912877323256471711",
+    "created_at": "2025-04-17T14:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T15:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912877323256471711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FDADPaqw4W",
+          "end": 38,
+          "expanded_url": "https://x.com/LMegurine03/status/1912877323256471711/photo/1",
+          "media_key": "3_1912877320660291584",
+          "start": 15,
+          "url": "https://t.co/FDADPaqw4W"
+        },
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/LMegurine03/status/1912536992933622016",
+          "start": 39,
+          "url": "https://t.co/0c89AWInmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912877323256471711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912536992933622016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天这样还算将就，早点休息😺 https://t.co/FDADPaqw4W https://t.co/0c89AWInmi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_1912877320660291584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GovnyczbkAA2wA_.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1363,
+        "media_key": "3_1912536989414617091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoqyQkHacAMM3YY.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912877320660291584"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1912877323256471711",
+        "created_at": "2025-04-17T14:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T15:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912877323256471711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FDADPaqw4W",
+              "end": 38,
+              "expanded_url": "https://x.com/LMegurine03/status/1912877323256471711/photo/1",
+              "media_key": "3_1912877320660291584",
+              "start": 15,
+              "url": "https://t.co/FDADPaqw4W"
+            },
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/LMegurine03/status/1912536992933622016",
+              "start": 39,
+              "url": "https://t.co/0c89AWInmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912877323256471711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912536992933622016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天这样还算将就，早点休息😺 https://t.co/FDADPaqw4W https://t.co/0c89AWInmi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912536989414617091"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1912536992933622016",
+        "created_at": "2025-04-16T16:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T17:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912536992933622016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnCvDASPtE",
+              "end": 37,
+              "expanded_url": "https://x.com/LMegurine03/status/1912536992933622016/photo/1",
+              "media_key": "3_1912536989414617091",
+              "start": 14,
+              "url": "https://t.co/tnCvDASPtE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912536992933622016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这是在干什么，不要命了😭 https://t.co/tnCvDASPtE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜偶尔键政｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜轻度焦虑和强迫倾向｜有一点点情绪问题，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pncysz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pncyszdusc75789.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CMTlpCbNau"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 5932,
+          "like_count": 1984,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 2075
+        },
+        "url": "https://t.co/CMTlpCbNau",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

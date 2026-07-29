@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1914598178961416678",
+    "created_at": "2025-04-22T09:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T10:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914606796041551888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1261913296120066048",
+          "start": 0,
+          "username": "Moonhead1184"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914606796041551888",
+    "in_reply_to_user_id": "1261913296120066048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914598178961416678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moonhead1184 你ID怎么搞得那么长（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1914598177115947008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpIE5eqbQAA8xH4.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1914598178961416678",
+        "created_at": "2025-04-22T09:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T10:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914606796041551888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1261913296120066048",
+              "start": 0,
+              "username": "Moonhead1184"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914606796041551888",
+        "in_reply_to_user_id": "1261913296120066048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914598178961416678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moonhead1184 你ID怎么搞得那么长（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914598177115947008"
+          ]
+        },
+        "author_id": "1261913296120066048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1914598178961416678",
+        "created_at": "2025-04-22T08:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T09:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914598178961416678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1913863755974512640/I4kitvIc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1913863755974512640/I4kitvIc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/ngHZzCg5yd"
+            },
+            {
+              "display_url": "pic.x.com/15bsvsM9gu",
+              "end": 64,
+              "expanded_url": "https://x.com/Moonhead1184/status/1914598178961416678/photo/1",
+              "media_key": "3_1914598177115947008",
+              "start": 41,
+              "url": "https://t.co/15bsvsM9gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914598178961416678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/ngHZzCg5yd https://t.co/15bsvsM9gu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 6296,
+          "like_count": 2041,
+          "listed_count": 3,
+          "media_count": 512,
+          "tweet_count": 2118
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T06:56:21.000Z",
+        "description": "03年 北京/友🏳️‍⚧️🏳️‍🌈/maimai w6/Arcaea ptt12.67/prsk/坚持使用颜文字(◦˙▽˙◦)/减肥中🏋️/魂5/炉石/德拜球迷🇩🇪🔴⚪",
+        "id": "1261913296120066048",
+        "location": "北京市",
+        "name": "月头偶遇泼猴大意被薅下JJ觉醒了心中的雌把猴子绑回家里使用手握法和电刺激法疯狂榨精做成猴子精液盖浇饭",
+        "pinned_tweet_id": "1909517362380034124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914535015322673155/pdLVpNXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 795,
+          "like_count": 11248,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 2088
+        },
+        "username": "Moonhead1184",
+        "verified": false
+      }
+    ]
+  }
+}

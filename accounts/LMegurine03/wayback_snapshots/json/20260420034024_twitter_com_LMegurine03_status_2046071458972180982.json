@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2046062689664020700",
+    "created_at": "2026-04-20T03:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T04:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046071458972180982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029058441290104835",
+          "start": 0,
+          "username": "tri_maple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046071458972180982",
+    "in_reply_to_user_id": "2029058441290104835",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046064244748341341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tri_maple 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2046062689664020700",
+        "created_at": "2026-04-20T03:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046071458972180982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029058441290104835",
+              "start": 0,
+              "username": "tri_maple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046071458972180982",
+        "in_reply_to_user_id": "2029058441290104835",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046064244748341341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tri_maple 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029058441290104835",
+        "conversation_id": "2046062689664020700",
+        "created_at": "2026-04-20T03:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046064244748341341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046064244748341341",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046062689664020700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 并非小姑娘，是20岁御姐（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4052,
+          "following_count": 7101,
+          "like_count": 7108,
+          "listed_count": 7,
+          "media_count": 1505,
+          "tweet_count": 6089
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T04:56:52.000Z",
+        "description": "Shizuha & Luka CV03／MTX (F?)／ACE／\nCosplay／Wafū／Toho Fangame／Vocaloid\n「言えない恋は  その胸に  癒えない傷を  重ねたね\n消えない愛よ  叶うなら  せめてこの歌を  響かせて」",
+        "id": "2029058441290104835",
+        "name": "Shizuluka @CV03",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029058545938042880/hFCc1YDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 36,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "tri_maple",
+        "verified": false
+      }
+    ]
+  }
+}

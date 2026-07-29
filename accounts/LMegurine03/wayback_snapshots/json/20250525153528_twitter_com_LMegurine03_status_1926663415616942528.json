@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1926450282172416196",
+    "created_at": "2025-05-25T15:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T16:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926663415616942528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753419726582345728",
+          "start": 0,
+          "username": "GravitySwiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926663415616942528",
+    "in_reply_to_user_id": "1753419726582345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926450282172416196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GravitySwiss 那要看你的个性是不是在我审美之上了，如果是的话当然是萌点，如果不是的话就算是无感吧，毕竟都是正常现象，也不算缺点（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_1926450274870181888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrwgUXcXQAA_xG5.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1926450282172416196",
+        "created_at": "2025-05-25T15:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T16:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926663415616942528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753419726582345728",
+              "start": 0,
+              "username": "GravitySwiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926663415616942528",
+        "in_reply_to_user_id": "1753419726582345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926450282172416196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GravitySwiss 那要看你的个性是不是在我审美之上了，如果是的话当然是萌点，如果不是的话就算是无感吧，毕竟都是正常现象，也不算缺点（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926450274870181888"
+          ]
+        },
+        "author_id": "1753419726582345728",
+        "conversation_id": "1926450282172416196",
+        "created_at": "2025-05-25T01:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T02:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926450282172416196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmHZXt0fwg",
+              "end": 34,
+              "expanded_url": "https://x.com/GravitySwiss/status/1926450282172416196/photo/1",
+              "media_key": "3_1926450274870181888",
+              "start": 11,
+              "url": "https://t.co/QmHZXt0fwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926450282172416196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2685,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "炫压抑算萌点还是缺点 https://t.co/QmHZXt0fwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 7501,
+          "like_count": 2606,
+          "listed_count": 3,
+          "media_count": 635,
+          "tweet_count": 2598
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "open your eyes for the next ∅'s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "pinned_tweet_id": "1922321730225180923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 2736,
+          "like_count": 110688,
+          "listed_count": 17,
+          "media_count": 1469,
+          "tweet_count": 32869
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      }
+    ]
+  }
+}

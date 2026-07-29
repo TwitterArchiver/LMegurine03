@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1919643486212784533",
+    "created_at": "2025-05-06T09:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T10:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919688004660298106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "kagurazakaSiri_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919688004660298106",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919643486212784533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakaSiri_ 看的我鸡都叮咚了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1919643477622849537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqPxknsbAAEo6ik.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1919643486212784533",
+        "created_at": "2025-05-06T09:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T10:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919688004660298106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "kagurazakaSiri_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919688004660298106",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919643486212784533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakaSiri_ 看的我鸡都叮咚了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919643477622849537"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1919643486212784533",
+        "created_at": "2025-05-06T06:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T07:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919643486212784533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIXGt9Dskf",
+              "end": 39,
+              "expanded_url": "https://x.com/kagurazakaSiri_/status/1919643486212784533/photo/1",
+              "media_key": "3_1919643477622849537",
+              "start": 16,
+              "url": "https://t.co/jIXGt9Dskf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919643486212784533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 8176,
+          "like_count": 241,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "想出这个打码方式的家里请高人了 https://t.co/jIXGt9Dskf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 6942,
+          "like_count": 2113,
+          "listed_count": 3,
+          "media_count": 537,
+          "tweet_count": 2213
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "那很急麻笑典崩了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "🏳️‍🌈🏳️‍⚧️",
+        "name": "翎.",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916471335238422528/As6XMr1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2959,
+          "following_count": 788,
+          "like_count": 19883,
+          "listed_count": 6,
+          "media_count": 1069,
+          "tweet_count": 8132
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaSiri_",
+        "verified": false
+      }
+    ]
+  }
+}

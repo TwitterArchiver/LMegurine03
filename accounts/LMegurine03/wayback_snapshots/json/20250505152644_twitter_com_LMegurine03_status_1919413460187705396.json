@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1919404396170838297",
+    "created_at": "2025-05-05T15:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T16:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919413460187705396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1612045525850939393",
+          "start": 0,
+          "username": "waretowatasi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919413460187705396",
+    "in_reply_to_user_id": "1612045525850939393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919409391658225934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waretowatasi 我记得有的时候也可以这么用，当然你说的反身代词也没有问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1919404396170838297",
+        "created_at": "2025-05-05T15:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T16:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919413460187705396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1612045525850939393",
+              "start": 0,
+              "username": "waretowatasi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919413460187705396",
+        "in_reply_to_user_id": "1612045525850939393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919409391658225934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waretowatasi 我记得有的时候也可以这么用，当然你说的反身代词也没有问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612045525850939393",
+        "conversation_id": "1919404396170838297",
+        "created_at": "2025-05-05T15:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T16:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919409391658225934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919409391658225934",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919404396170838297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 自分 严格来说并不能算第一人称，它也可以指him，her，you等。是个反身代词。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 6898,
+          "like_count": 2101,
+          "listed_count": 3,
+          "media_count": 535,
+          "tweet_count": 2196
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-08T11:17:18.000Z",
+        "description": "初めまして、これからよろしくね！休みの時にゲームが大好きです。毎日は日本語の勉強に頑張っています！( この垢は言葉のゴミ箱みたいだ、 ハハ୧₍˄·͈༝·͈˄₎୨",
+        "id": "1612045525850939393",
+        "name": "辺緣人（へんヨンじん）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917956832167071744/ESlgbhD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 133,
+          "like_count": 2575,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1129
+        },
+        "username": "waretowatasi",
+        "verified": false
+      }
+    ]
+  }
+}

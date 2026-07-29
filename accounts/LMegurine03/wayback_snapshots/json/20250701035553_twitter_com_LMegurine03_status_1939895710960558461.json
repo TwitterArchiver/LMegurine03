@@ -1,0 +1,701 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939892946771312641"
+      ],
+      "media_source_tweet_id": [
+        "1939892984255836598"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1923538730859495424",
+          "name": "Manchester City vs Al Hilal SFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "731226207908290561",
+          "name": "International Clubs - Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756526972653568",
+          "name": "FIFA Club World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1923538730859495424",
+          "name": "Manchester City vs Al Hilal SFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Soccer matches",
+          "id": "43",
+          "name": "Soccer Match"
+        },
+        "entity": {
+          "id": "1923538730859495424",
+          "name": "Manchester City vs Al Hilal SFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226203856637952",
+          "name": "Manchester City"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226203856637952",
+          "name": "Manchester City"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1939895710960558461",
+    "created_at": "2025-07-01T03:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T04:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939895710960558461"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "FIFACWC",
+          "probability": 0.7369,
+          "start": 62,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 61,
+          "tag": "FIFACWC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "14573900",
+          "start": 3,
+          "username": "ManCity"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oVAqT8qQEc",
+          "end": 93,
+          "expanded_url": "https://x.com/ManCity/status/1939892984255836598/photo/1",
+          "media_key": "3_1939892946771312641",
+          "start": 70,
+          "url": "https://t.co/oVAqT8qQEc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939895710960558461",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1156
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939892984255836598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ManCity: FULL-TIME | Defeat in the Round of 16.\n\n🩵 3-4 🌙 #FIFACWC https://t.co/oVAqT8qQEc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_1939892946771312641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuviW2qXAAEhzFZ.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939892946771312641"
+          ],
+          "media_source_tweet_id": [
+            "1939892984255836598"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1923538730859495424",
+              "name": "Manchester City vs Al Hilal SFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226207908290561",
+              "name": "International Clubs - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756526972653568",
+              "name": "FIFA Club World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1923538730859495424",
+              "name": "Manchester City vs Al Hilal SFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1923538730859495424",
+              "name": "Manchester City vs Al Hilal SFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1939895710960558461",
+        "created_at": "2025-07-01T03:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T04:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939895710960558461"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "FIFACWC",
+              "probability": 0.7369,
+              "start": 62,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 61,
+              "tag": "FIFACWC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "14573900",
+              "start": 3,
+              "username": "ManCity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVAqT8qQEc",
+              "end": 93,
+              "expanded_url": "https://x.com/ManCity/status/1939892984255836598/photo/1",
+              "media_key": "3_1939892946771312641",
+              "start": 70,
+              "url": "https://t.co/oVAqT8qQEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939895710960558461",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1156
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939892984255836598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ManCity: FULL-TIME | Defeat in the Round of 16.\n\n🩵 3-4 🌙 #FIFACWC https://t.co/oVAqT8qQEc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939892946771312641"
+          ]
+        },
+        "author_id": "14573900",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1923538730859495424",
+              "name": "Manchester City vs Al Hilal SFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226207908290561",
+              "name": "International Clubs - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756526972653568",
+              "name": "FIFA Club World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1923538730859495424",
+              "name": "Manchester City vs Al Hilal SFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1923538730859495424",
+              "name": "Manchester City vs Al Hilal SFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1923538730859495424",
+              "name": "Manchester City vs Al Hilal SFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1923538730859495424",
+              "name": "Manchester City vs Al Hilal SFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1923538730859495424",
+              "name": "Manchester City vs Al Hilal SFC"
+            }
+          }
+        ],
+        "conversation_id": "1939892984255836598",
+        "created_at": "2025-07-01T03:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T04:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939892984255836598"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "FIFACWC",
+              "probability": 0.7243,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "FIFACWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVAqT8qQEc",
+              "end": 80,
+              "expanded_url": "https://x.com/ManCity/status/1939892984255836598/photo/1",
+              "media_key": "3_1939892946771312641",
+              "start": 57,
+              "url": "https://t.co/oVAqT8qQEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939892984255836598",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 221214,
+          "like_count": 6177,
+          "quote_count": 882,
+          "reply_count": 1918,
+          "retweet_count": 1156
+        },
+        "reply_settings": "everyone",
+        "text": "FULL-TIME | Defeat in the Round of 16.\n\n🩵 3-4 🌙 #FIFACWC https://t.co/oVAqT8qQEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 7501,
+          "like_count": 3436,
+          "listed_count": 4,
+          "media_count": 749,
+          "tweet_count": 3140
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-28T19:28:08.000Z",
+        "description": "Grab your FIFA Club World Cup Tickets👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.mancity.com",
+                "end": 23,
+                "expanded_url": "http://bio.mancity.com",
+                "start": 0,
+                "url": "https://t.co/0WG3Wn7zQd"
+              }
+            ]
+          }
+        },
+        "id": "14573900",
+        "location": "Etihad Stadium",
+        "name": "Manchester City",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856263834400358400/RysToJDu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18056353,
+          "following_count": 46869,
+          "like_count": 16829,
+          "listed_count": 19880,
+          "media_count": 65559,
+          "tweet_count": 172424
+        },
+        "url": "https://t.co/0WG3Wn7zQd",
+        "username": "ManCity",
+        "verified": true
+      }
+    ]
+  }
+}

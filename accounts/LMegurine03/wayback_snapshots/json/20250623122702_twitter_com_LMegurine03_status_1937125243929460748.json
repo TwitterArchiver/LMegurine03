@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1937100956237447226",
+    "created_at": "2025-06-23T12:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T13:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937125243929460748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "886210783100551168",
+          "start": 0,
+          "username": "Akinosoratsuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937125243929460748",
+    "in_reply_to_user_id": "886210783100551168",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937122880933728561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinosoratsuru 1919810"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1937100956237447226",
+        "created_at": "2025-06-23T12:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T13:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937125243929460748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "886210783100551168",
+              "start": 0,
+              "username": "Akinosoratsuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937125243929460748",
+        "in_reply_to_user_id": "886210783100551168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937122880933728561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinosoratsuru 1919810"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886210783100551168",
+        "conversation_id": "1937100956237447226",
+        "created_at": "2025-06-23T12:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T13:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937122880933728561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937122880933728561",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937100956237447226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 114514"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 7501,
+          "like_count": 3261,
+          "listed_count": 4,
+          "media_count": 728,
+          "tweet_count": 2977
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-15T13:08:10.000Z",
+        "description": "(´▽`ʃƪ)english is ok 日本語は大丈夫   한국말잘못해요.\n中文( ͡° ͜ʖ ͡°)✧\n虚無主義者 Nihilist 随地大小便 心理變態 好奇星人\n如果对你太热情，那可能就是我因为没有朋友所带来的副作用\n一辈子的辅助位。渣男",
+        "id": "886210783100551168",
+        "location": "虚无",
+        "name": "Akinosoratsuru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905174037149741056/faqwGxSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 181,
+          "like_count": 2308,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 2794
+        },
+        "username": "Akinosoratsuru",
+        "verified": false
+      }
+    ]
+  }
+}

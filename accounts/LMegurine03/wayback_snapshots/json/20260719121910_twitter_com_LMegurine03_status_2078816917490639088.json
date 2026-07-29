@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2077437828624224554",
+    "created_at": "2026-07-19T12:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078816917490639088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874344131855859712",
+          "start": 0,
+          "username": "bizhuz312994"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078816917490639088",
+    "in_reply_to_user_id": "1874344131855859712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077579470668730666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bizhuz312994 对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2077437828624224554",
+        "created_at": "2026-07-19T12:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078816917490639088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874344131855859712",
+              "start": 0,
+              "username": "bizhuz312994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078816917490639088",
+        "in_reply_to_user_id": "1874344131855859712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077579470668730666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bizhuz312994 对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874344131855859712",
+        "conversation_id": "2077437828624224554",
+        "created_at": "2026-07-16T02:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077579470668730666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077579470668730666",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077437828624224554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 武功山吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4420,
+          "following_count": 7501,
+          "like_count": 8144,
+          "listed_count": 8,
+          "media_count": 1873,
+          "tweet_count": 7102
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T06:37:28.000Z",
+        "description": "何もない",
+        "id": "1874344131855859712",
+        "name": "꜀(˘꒳˘ ꜀)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038312056932450304/lPyQq4H6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 158,
+          "like_count": 4392,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 718
+        },
+        "url": "",
+        "username": "bizhuz312994",
+        "verified": false
+      }
+    ]
+  }
+}

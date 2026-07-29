@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2071998652693004764",
+    "created_at": "2026-06-30T18:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T19:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072019228111364352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1810940278468964352",
+          "start": 0,
+          "username": "stgggjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072019228111364352",
+    "in_reply_to_user_id": "1810940278468964352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072017532605911453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stgggjj 没有没有，只是和印象当中不太一样（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072017532605911453].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072017532605911453",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2072017532605911453"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2071998652693004764",
+        "created_at": "2026-06-30T18:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072019228111364352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810940278468964352",
+              "start": 0,
+              "username": "stgggjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072019228111364352",
+        "in_reply_to_user_id": "1810940278468964352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072017532605911453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stgggjj 没有没有，只是和印象当中不太一样（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4364,
+          "following_count": 7480,
+          "like_count": 7984,
+          "listed_count": 7,
+          "media_count": 1756,
+          "tweet_count": 6876
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T07:33:14.000Z",
+        "description": "［我没把握说自己真的是生物、真的在生存什么的］\n\n提问箱https://t.co/xQun8GlnPU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/27rainyseason",
+                "end": 51,
+                "expanded_url": "https://ngl.link/27rainyseason",
+                "start": 28,
+                "url": "https://t.co/xQun8GlnPU"
+              }
+            ]
+          }
+        },
+        "id": "1810940278468964352",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "骑士小鱼🐟",
+        "pinned_tweet_id": "2057843541410480616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071878856277946368/hjoUh0IS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 529,
+          "like_count": 10174,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 7634
+        },
+        "url": "",
+        "username": "stgggjj",
+        "verified": false
+      }
+    ]
+  }
+}

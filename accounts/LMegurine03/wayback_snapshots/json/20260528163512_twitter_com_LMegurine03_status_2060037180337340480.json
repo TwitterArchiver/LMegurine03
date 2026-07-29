@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2060037137530273885",
+    "created_at": "2026-05-28T16:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060037180337340480"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060037180337340480",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060037137530273885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我分不清自己是漂浮还是下沉，时间也像融化了一样，温暖包围着我，却又有一丝空洞，好像有些什么在消散，却永远触不到……就这样，我大概已经死了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2060037137530273885",
+        "created_at": "2026-05-28T16:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060037180337340480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060037180337340480",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060037137530273885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我分不清自己是漂浮还是下沉，时间也像融化了一样，温暖包围着我，却又有一丝空洞，好像有些什么在消散，却永远触不到……就这样，我大概已经死了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2060037137530273885",
+        "created_at": "2026-05-28T16:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060037137530273885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/huihui_mikumi/status/2059973257055580593",
+              "start": 130,
+              "url": "https://t.co/4fegaJ8XUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060037137530273885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059973257055580593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我睡过去了，在一个有点熟悉却叫不出名字的海边醒来，天色微微蒙蒙亮，我朝着那抹亮光走去，踏入海水的瞬间，没有听到水声，也没有感到寒凉，只有一种轻盈、柔软的触感，带着微微温暖，仿佛身体从未存在过，我就这样走着，沉入这片温柔的海，沉沦其中，水面下的光影像丝绸般流动 https://t.co/4fegaJ8XUY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4181,
+          "following_count": 7265,
+          "like_count": 7453,
+          "listed_count": 7,
+          "media_count": 1620,
+          "tweet_count": 6516
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

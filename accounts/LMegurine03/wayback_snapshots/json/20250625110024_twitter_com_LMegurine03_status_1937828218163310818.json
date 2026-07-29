@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1937828218163310818",
+    "created_at": "2025-06-25T11:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T12:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937828218163310818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/LMegurine03/status/1937183930811318700",
+          "start": 62,
+          "url": "https://t.co/aQNj2XmGdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937828218163310818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937183930811318700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发现每次用这种需要开访问权限的网站都会莫名其妙关注一些没见过的账号，并且还自动隐藏了，是不是取关就可以了，没什么大问题吧 https://t.co/aQNj2XmGdV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1937183927460048896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuJChLTaMAAHoiI.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1937828218163310818",
+        "created_at": "2025-06-25T11:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937828218163310818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/LMegurine03/status/1937183930811318700",
+              "start": 62,
+              "url": "https://t.co/aQNj2XmGdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937828218163310818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937183930811318700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现每次用这种需要开访问权限的网站都会莫名其妙关注一些没见过的账号，并且还自动隐藏了，是不是取关就可以了，没什么大问题吧 https://t.co/aQNj2XmGdV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937183927460048896"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1937183930811318700",
+        "created_at": "2025-06-23T16:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T17:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937183930811318700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1546634810973917184",
+              "start": 16,
+              "username": "lightingboy567"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Someone is secretly in love with you... but they don't tell you... 😳 We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinityweet.com/secret-crush?l…",
+              "end": 59,
+              "expanded_url": "https://infinityweet.com/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1936715774485549056/WhXZutzH?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1936715774485549056/WhXZutzH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinityweet.com/secret-crush?lang=zh",
+              "url": "https://t.co/vKLFPng0CA"
+            },
+            {
+              "display_url": "pic.x.com/EQvM6jV5cA",
+              "end": 83,
+              "expanded_url": "https://x.com/LMegurine03/status/1937183930811318700/photo/1",
+              "media_key": "3_1937183927460048896",
+              "start": 60,
+              "url": "https://t.co/EQvM6jV5cA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937183930811318700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @lightingboy567\n\n➡️ https://t.co/vKLFPng0CA https://t.co/EQvM6jV5cA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2375,
+          "following_count": 7425,
+          "like_count": 3281,
+          "listed_count": 4,
+          "media_count": 738,
+          "tweet_count": 3002
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

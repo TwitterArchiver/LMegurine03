@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1932419532729258303",
+    "created_at": "2025-06-10T13:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T14:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932436428589535700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1477695390619254794",
+          "start": 0,
+          "username": "shishishidifufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932436428589535700",
+    "in_reply_to_user_id": "1477695390619254794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932419532729258303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishishidifufu 岛津"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_1932419529365389312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFVUtTaAAABA1c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1932419532729258303",
+        "created_at": "2025-06-10T13:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T14:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932436428589535700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1477695390619254794",
+              "start": 0,
+              "username": "shishishidifufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932436428589535700",
+        "in_reply_to_user_id": "1477695390619254794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932419532729258303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishishidifufu 岛津"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932419529365389312"
+          ]
+        },
+        "author_id": "1477695390619254794",
+        "conversation_id": "1932419532729258303",
+        "created_at": "2025-06-10T12:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932419532729258303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/unpURC6LFi",
+              "end": 23,
+              "expanded_url": "https://x.com/shishishidifufu/status/1932419532729258303/photo/1",
+              "media_key": "3_1932419529365389312",
+              "start": 0,
+              "url": "https://t.co/unpURC6LFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932419532729258303",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3180,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/unpURC6LFi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，没回关可以私信提醒｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 7397,
+          "like_count": 3094,
+          "listed_count": 6,
+          "media_count": 687,
+          "tweet_count": 2819
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T17:37:04.000Z",
+        "description": "我是史蒂夫 想和大家交朋友｜看包浆梗图 享百味人生｜language🇨🇳🇺🇸🇯🇵｜可以互fo❤️由于频繁目前不会全部回关，想互关麻烦私信，不论成分都会回关的٩(๑^o^๑)۶｜不鉴证🧐｜多多指教性格友好😘 若有冒犯请您指出🍀｜试试史蒂夫推荐的梯子？相当于给史蒂夫买瓶水噢谢谢啦(◍•ᴗ•◍)包好用的😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.shidifu.me",
+                "end": 23,
+                "expanded_url": "http://vpn.shidifu.me",
+                "start": 0,
+                "url": "https://t.co/ZfTKJVxQj8"
+              }
+            ]
+          }
+        },
+        "id": "1477695390619254794",
+        "location": "5元150g/月不限速机场 史蒂夫倾力推荐👇",
+        "name": "史蒂夫（不论成分互fo记得私信）",
+        "pinned_tweet_id": "1913860691502719187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910709431391920128/Dv1O0A-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6595,
+          "following_count": 1242,
+          "like_count": 1169,
+          "listed_count": 7,
+          "media_count": 1135,
+          "tweet_count": 1582
+        },
+        "url": "https://t.co/ZfTKJVxQj8",
+        "username": "shishishidifufu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2048411552156655649",
+    "created_at": "2026-04-26T14:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048411552156655649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/aoim33/status/2048380656724615589",
+          "start": 8,
+          "url": "https://t.co/if74cV2bW2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048411552156655649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048380656724615589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯嗯，谢谢你🥺 https://t.co/if74cV2bW2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2048411552156655649",
+        "created_at": "2026-04-26T14:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048411552156655649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/aoim33/status/2048380656724615589",
+              "start": 8,
+              "url": "https://t.co/if74cV2bW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048411552156655649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048380656724615589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嗯，谢谢你🥺 https://t.co/if74cV2bW2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2048380656724615589",
+        "created_at": "2026-04-26T12:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048380656724615589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048380656724615589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1451,
+          "like_count": 55,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "玩推特就不要怕掉 fo\n你只需要一直输出自己的想法，一直发出声音\n不停地洗走不认同你的人\n认同你的人自然也会随之而来\n留下的都是志同道合的，就会越来越开心\n\n提纯！提纯！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4084,
+          "following_count": 7170,
+          "like_count": 7169,
+          "listed_count": 7,
+          "media_count": 1514,
+          "tweet_count": 6113
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2046398591196094655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4951,
+          "following_count": 2849,
+          "like_count": 45672,
+          "listed_count": 19,
+          "media_count": 2569,
+          "tweet_count": 11221
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

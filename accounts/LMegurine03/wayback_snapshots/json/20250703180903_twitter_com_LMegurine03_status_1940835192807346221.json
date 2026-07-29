@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1940821087136502051",
+    "created_at": "2025-07-03T18:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T19:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940835192807346221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723715289723092992",
+          "start": 0,
+          "username": "CharmingFurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940835192807346221",
+    "in_reply_to_user_id": "1723715289723092992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940834867891392820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharmingFurina 那也可以，随意也算一种风格，要是能见到的话我可以帮你拍一下试试（对不起啊有时候容易瞎提意见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1940821087136502051",
+        "created_at": "2025-07-03T18:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T19:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940835192807346221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723715289723092992",
+              "start": 0,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940835192807346221",
+        "in_reply_to_user_id": "1723715289723092992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940834867891392820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharmingFurina 那也可以，随意也算一种风格，要是能见到的话我可以帮你拍一下试试（对不起啊有时候容易瞎提意见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723715289723092992",
+        "conversation_id": "1940821087136502051",
+        "created_at": "2025-07-03T18:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T19:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940834867891392820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940834867891392820",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940834659627344071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 我家燈光就這樣，沒辦法，你來給我拍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 7449,
+          "like_count": 3457,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 3183
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T14:52:12.000Z",
+        "description": "中推第一芙廚🥰/重慶07男高/高二/理科生/日常清水推/右翼中華民國派❂(RKMT)/183cm 62kg/澀澀/數學/語言文字學/中華&印度文化圈研究/喜歡東亞、東南亞/原神、崩鐵/友LGBT/漢英日韓泰法語ok/會發自拍🥰/小帳@Furina_Thailand/亞鐵@kgdyodyi/@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 116,
+                "username": "Furina_Thailand"
+              },
+              {
+                "end": 144,
+                "start": 135,
+                "username": "kgdyodyi"
+              },
+              {
+                "end": 154,
+                "start": 145,
+                "username": "LiciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/charmingfurina",
+                "end": 23,
+                "expanded_url": "http://ngl.link/charmingfurina",
+                "start": 0,
+                "url": "https://t.co/Y8AOwF2rRY"
+              }
+            ]
+          }
+        },
+        "id": "1723715289723092992",
+        "location": "Palais Mermonia, Fontaine",
+        "name": "💙迷人的芙芙💙",
+        "pinned_tweet_id": "1929101204237287777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918590799119630336/Z2G66HRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 3351,
+          "like_count": 75494,
+          "listed_count": 12,
+          "media_count": 1167,
+          "tweet_count": 14707
+        },
+        "url": "https://t.co/Y8AOwF2rRY",
+        "username": "CharmingFurina",
+        "verified": false
+      }
+    ]
+  }
+}

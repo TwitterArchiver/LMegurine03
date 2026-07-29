@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1938880634564575693",
+    "created_at": "2025-06-28T09:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T10:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938886967556800935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1588727052290510849",
+          "start": 0,
+          "username": "XiaoNan426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938886967556800935",
+    "in_reply_to_user_id": "1588727052290510849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938880634564575693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoNan426 也祝你开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1938880634564575693",
+        "created_at": "2025-06-28T09:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T10:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938886967556800935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1588727052290510849",
+              "start": 0,
+              "username": "XiaoNan426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938886967556800935",
+        "in_reply_to_user_id": "1588727052290510849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938880634564575693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoNan426 也祝你开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588727052290510849",
+        "conversation_id": "1938880634564575693",
+        "created_at": "2025-06-28T08:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T09:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938880634564575693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938880634564575693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望看到这条帖子的人开心^_^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 7401,
+          "like_count": 3394,
+          "listed_count": 4,
+          "media_count": 746,
+          "tweet_count": 3079
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T02:57:09.000Z",
+        "description": "NSFW🔞\n#女装初心者\n 目前清水",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "女装初心者"
+              }
+            ]
+          }
+        },
+        "id": "1588727052290510849",
+        "location": "🚪30 口令红包",
+        "name": "梁晓南",
+        "pinned_tweet_id": "1936443306369831052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857129997850619904/5Fj1iBXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22048,
+          "following_count": 1102,
+          "like_count": 7916,
+          "listed_count": 96,
+          "media_count": 286,
+          "tweet_count": 2575
+        },
+        "username": "XiaoNan426",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043326494924263424",
+        "3_2043326494559326208",
+        "3_2043326494865522688"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043326507213639778",
+    "created_at": "2026-04-12T13:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043326507213639778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1295507211599278081",
+          "start": 11,
+          "username": "w123456wbw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qafgIHukPo",
+          "end": 46,
+          "expanded_url": "https://x.com/LMegurine03/status/2043326507213639778/photo/1",
+          "media_key": "3_2043326494924263424",
+          "start": 23,
+          "url": "https://t.co/qafgIHukPo"
+        },
+        {
+          "display_url": "pic.x.com/qafgIHukPo",
+          "end": 46,
+          "expanded_url": "https://x.com/LMegurine03/status/2043326507213639778/photo/1",
+          "media_key": "3_2043326494559326208",
+          "start": 23,
+          "url": "https://t.co/qafgIHukPo"
+        },
+        {
+          "display_url": "pic.x.com/qafgIHukPo",
+          "end": 46,
+          "expanded_url": "https://x.com/LMegurine03/status/2043326507213639778/photo/1",
+          "media_key": "3_2043326494865522688",
+          "start": 23,
+          "url": "https://t.co/qafgIHukPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043326507213639778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "补一下上次出去玩拍的😋@w123456wbw https://t.co/qafgIHukPo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1703,
+        "media_key": "3_2043326494924263424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtanwIa0AAuFeu.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1318,
+        "media_key": "3_2043326494559326208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtanuxaUAAqz-B.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1318,
+        "media_key": "3_2043326494865522688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtanv6agAAqV3H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043326494924263424",
+            "3_2043326494559326208",
+            "3_2043326494865522688"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043326507213639778",
+        "created_at": "2026-04-12T13:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043326507213639778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1295507211599278081",
+              "start": 11,
+              "username": "w123456wbw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qafgIHukPo",
+              "end": 46,
+              "expanded_url": "https://x.com/LMegurine03/status/2043326507213639778/photo/1",
+              "media_key": "3_2043326494924263424",
+              "start": 23,
+              "url": "https://t.co/qafgIHukPo"
+            },
+            {
+              "display_url": "pic.x.com/qafgIHukPo",
+              "end": 46,
+              "expanded_url": "https://x.com/LMegurine03/status/2043326507213639778/photo/1",
+              "media_key": "3_2043326494559326208",
+              "start": 23,
+              "url": "https://t.co/qafgIHukPo"
+            },
+            {
+              "display_url": "pic.x.com/qafgIHukPo",
+              "end": 46,
+              "expanded_url": "https://x.com/LMegurine03/status/2043326507213639778/photo/1",
+              "media_key": "3_2043326494865522688",
+              "start": 23,
+              "url": "https://t.co/qafgIHukPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043326507213639778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补一下上次出去玩拍的😋@w123456wbw https://t.co/qafgIHukPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4078,
+          "following_count": 7058,
+          "like_count": 7088,
+          "listed_count": 7,
+          "media_count": 1465,
+          "tweet_count": 6023
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T23:46:16.000Z",
+        "description": "电子信息工程系｜高频率刷推⚡｜180/75 ｜ GPA3.90 ｜MDD服药ing。。。",
+        "id": "1295507211599278081",
+        "location": "你心里🩵",
+        "name": "AZURE 🩷（邪恶版",
+        "pinned_tweet_id": "2026993947814609204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037483446336176128/KbAyqH55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 607,
+          "like_count": 13679,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 913
+        },
+        "username": "w123456wbw",
+        "verified": false
+      }
+    ]
+  }
+}

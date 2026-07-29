@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047343535968681984"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2047343539865182568",
+    "created_at": "2026-04-23T15:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047343539865182568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EKw6VGkzDl",
+          "end": 125,
+          "expanded_url": "https://x.com/LMegurine03/status/2047343539865182568/photo/1",
+          "media_key": "3_2047343535968681984",
+          "start": 102,
+          "url": "https://t.co/EKw6VGkzDl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047343539865182568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天大连德比战客场赢球了，现在是五连胜，几乎每场都能贡献高技术的进球，真的很出乎意料，恭喜！！\n当然，铁人队也制造了几次不小的威胁，整体打的还是比较稳健的，刚升超都是需要一个磨合期的，也希望不要因此气馁 https://t.co/EKw6VGkzDl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2047343535968681984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmgGUKbAAA1hBJ.jpg",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047343535968681984"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2047343539865182568",
+        "created_at": "2026-04-23T15:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047343539865182568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKw6VGkzDl",
+              "end": 125,
+              "expanded_url": "https://x.com/LMegurine03/status/2047343539865182568/photo/1",
+              "media_key": "3_2047343535968681984",
+              "start": 102,
+              "url": "https://t.co/EKw6VGkzDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047343539865182568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天大连德比战客场赢球了，现在是五连胜，几乎每场都能贡献高技术的进球，真的很出乎意料，恭喜！！\n当然，铁人队也制造了几次不小的威胁，整体打的还是比较稳健的，刚升超都是需要一个磨合期的，也希望不要因此气馁 https://t.co/EKw6VGkzDl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4048,
+          "following_count": 7123,
+          "like_count": 7151,
+          "listed_count": 7,
+          "media_count": 1509,
+          "tweet_count": 6092
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1939051524224884819",
+    "created_at": "2025-06-28T21:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T22:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939067811508154494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609380631917776896",
+          "start": 0,
+          "username": "_Yt8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939067811508154494",
+    "in_reply_to_user_id": "1609380631917776896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939067279762956312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Yt8964 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1939051524224884819",
+        "created_at": "2025-06-28T21:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T22:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939067811508154494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609380631917776896",
+              "start": 0,
+              "username": "_Yt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939067811508154494",
+        "in_reply_to_user_id": "1609380631917776896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939067279762956312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Yt8964 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609380631917776896",
+        "conversation_id": "1939051524224884819",
+        "created_at": "2025-06-28T21:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T22:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939067279762956312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939067279762956312",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939067178302501027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 看来是在东部了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜高中休学｜随机掉落日常｜坐标大连｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，欢迎私信聊天｜GAD，OCD，ADHD倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "realmadrid"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936924457009836032/9Fr65b0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 7432,
+          "like_count": 3410,
+          "listed_count": 4,
+          "media_count": 748,
+          "tweet_count": 3104
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T02:49:24.000Z",
+        "description": "願諸位多喜樂，長安寧\n铁道/摄影/音乐/音游\n里推@_Ty8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "_Ty8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yt8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yt8964",
+                "start": 0,
+                "url": "https://t.co/Ew8SXRZ4ZH"
+              }
+            ]
+          }
+        },
+        "id": "1609380631917776896",
+        "location": "宛平南路600號",
+        "name": "抹茶要樂奈",
+        "pinned_tweet_id": "1935005272550105173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925749620065320960/9l5tabww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 265,
+          "like_count": 14948,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1505
+        },
+        "url": "https://t.co/Ew8SXRZ4ZH",
+        "username": "_Yt8964",
+        "verified": false
+      }
+    ]
+  }
+}

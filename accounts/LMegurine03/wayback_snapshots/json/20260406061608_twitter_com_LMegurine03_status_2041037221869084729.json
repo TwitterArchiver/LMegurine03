@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      }
+    ],
+    "conversation_id": "2041037221869084729",
+    "created_at": "2026-04-06T06:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041037221869084729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/noclcn7m/statu…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/noclcn7m/status/2040975880672202931",
+          "start": 135,
+          "url": "https://t.co/esXCbqvY0F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041037221869084729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040975880672202931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一般来说不会这么离谱的，就是在佛教的概念当中，牛乳提炼有五个等级，从低到高分别是牛乳，酪，生酥，熟酥，醍醐，因此醍醐这个词也象征着知识和思想的深度，而灌顶字面意义就是指将液体浇在头上的宗教仪式，但是在实际形式不止如此，抽象的将智慧输入脑中的修行过程，也都包含在这个词里 https://t.co/esXCbqvY0F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2040975872799420416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMAviVaMAAjLch.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "2041037221869084729",
+        "created_at": "2026-04-06T06:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041037221869084729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noclcn7m/statu…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/noclcn7m/status/2040975880672202931",
+              "start": 135,
+              "url": "https://t.co/esXCbqvY0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041037221869084729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040975880672202931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一般来说不会这么离谱的，就是在佛教的概念当中，牛乳提炼有五个等级，从低到高分别是牛乳，酪，生酥，熟酥，醍醐，因此醍醐这个词也象征着知识和思想的深度，而灌顶字面意义就是指将液体浇在头上的宗教仪式，但是在实际形式不止如此，抽象的将智慧输入脑中的修行过程，也都包含在这个词里 https://t.co/esXCbqvY0F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040975872799420416"
+          ]
+        },
+        "author_id": "856841360590209026",
+        "conversation_id": "2040975880672202931",
+        "created_at": "2026-04-06T02:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040975880672202931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJOqoTgIAF",
+              "end": 30,
+              "expanded_url": "https://x.com/noclcn7m/status/2040975880672202931/photo/1",
+              "media_key": "3_2040975872799420416",
+              "start": 7,
+              "url": "https://t.co/bJOqoTgIAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040975880672202931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 49583,
+          "like_count": 211,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "类似凌波微步 https://t.co/bJOqoTgIAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4134,
+          "following_count": 7135,
+          "like_count": 7037,
+          "listed_count": 7,
+          "media_count": 1447,
+          "tweet_count": 5971
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-25T12:04:34.000Z",
+        "description": "“20年A股老韭菜，转战两性情感解码｜聊费洛蒙、吸引力真相、爱情开悟",
+        "id": "856841360590209026",
+        "location": "china",
+        "name": "费洛蒙双栖哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019042646086631425/Vbz4SQpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8451,
+          "following_count": 7105,
+          "like_count": 4447,
+          "listed_count": 19,
+          "media_count": 433,
+          "tweet_count": 5030
+        },
+        "username": "noclcn7m",
+        "verified": true
+      }
+    ]
+  }
+}

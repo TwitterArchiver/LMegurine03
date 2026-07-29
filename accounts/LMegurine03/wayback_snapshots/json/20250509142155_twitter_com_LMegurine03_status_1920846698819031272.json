@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1920491469657231764",
+    "created_at": "2025-05-09T14:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T15:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920846698819031272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1774068624220704768",
+          "start": 0,
+          "username": "kazaty100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920846698819031272",
+    "in_reply_to_user_id": "1774068624220704768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920845715032482001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazaty100 7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1920845706920648704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqg2_k1W4AAjfI9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1920491469657231764",
+        "created_at": "2025-05-09T14:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T15:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920846698819031272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1774068624220704768",
+              "start": 0,
+              "username": "kazaty100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920846698819031272",
+        "in_reply_to_user_id": "1774068624220704768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920845715032482001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazaty100 7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920845706920648704"
+          ]
+        },
+        "author_id": "1774068624220704768",
+        "conversation_id": "1920491469657231764",
+        "created_at": "2025-05-09T14:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T15:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920845715032482001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZVPWXNGTcQ",
+              "end": 36,
+              "expanded_url": "https://x.com/kazaty100/status/1920845715032482001/photo/1",
+              "media_key": "3_1920845706920648704",
+              "start": 13,
+              "url": "https://t.co/ZVPWXNGTcQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920845715032482001",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920491469657231764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 https://t.co/ZVPWXNGTcQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@FLjungberg08 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "FLjungberg08"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 7102,
+          "like_count": 2181,
+          "listed_count": 3,
+          "media_count": 551,
+          "tweet_count": 2288
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T13:38:41.000Z",
+        "description": "君指先跃动の光は、私の一生不変の信仰に、唯私の超電磁砲永世生き!",
+        "id": "1774068624220704768",
+        "name": "木更",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920125190861668352/lww2sJwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 132,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 76
+        },
+        "username": "kazaty100",
+        "verified": false
+      }
+    ]
+  }
+}

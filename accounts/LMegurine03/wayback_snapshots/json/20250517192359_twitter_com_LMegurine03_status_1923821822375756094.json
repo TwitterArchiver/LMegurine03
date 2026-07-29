@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1923668947460817023",
+    "created_at": "2025-05-17T19:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T20:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923821822375756094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1811713623435415552",
+          "start": 0,
+          "username": "Dodome2617"
+        },
+        {
+          "end": 25,
+          "id": "1753419726582345728",
+          "start": 12,
+          "username": "GravitySwiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923821822375756094",
+    "in_reply_to_user_id": "1811713623435415552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923820327009911266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodome2617 @GravitySwiss 一般情况下的话，就是禁止关注，再严重点，就是禁止点赞和发推，一般来说少则几个小时多则7天，至于会不会封号我也不清楚，但是还是要注意点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1923668947460817023",
+        "created_at": "2025-05-17T19:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T20:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923821822375756094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1811713623435415552",
+              "start": 0,
+              "username": "Dodome2617"
+            },
+            {
+              "end": 25,
+              "id": "1753419726582345728",
+              "start": 12,
+              "username": "GravitySwiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923821822375756094",
+        "in_reply_to_user_id": "1811713623435415552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923820327009911266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodome2617 @GravitySwiss 一般情况下的话，就是禁止关注，再严重点，就是禁止点赞和发推，一般来说少则几个小时多则7天，至于会不会封号我也不清楚，但是还是要注意点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811713623435415552",
+        "conversation_id": "1923668947460817023",
+        "created_at": "2025-05-17T19:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T20:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923820327009911266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 26,
+              "id": "1753419726582345728",
+              "start": 13,
+              "username": "GravitySwiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923820327009911266",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923740223256789440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 @GravitySwiss 话说关注太多账号会受什么限制？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 7268,
+          "like_count": 2334,
+          "listed_count": 3,
+          "media_count": 574,
+          "tweet_count": 2427
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T10:46:12.000Z",
+        "description": "@moxi_ocurmi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "moxi_ocurmi"
+              }
+            ]
+          }
+        },
+        "id": "1811713623435415552",
+        "location": "Adachi-ku, Tokyo",
+        "name": "我有罪",
+        "pinned_tweet_id": "1913812681372680632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870474612737495041/AMS3Ovy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 2581,
+          "like_count": 22862,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 3509
+        },
+        "username": "Dodome2617",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "open your eyes for the next ∅'s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "pinned_tweet_id": "1922321730225180923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 2725,
+          "like_count": 109529,
+          "listed_count": 17,
+          "media_count": 1446,
+          "tweet_count": 32327
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      }
+    ]
+  }
+}

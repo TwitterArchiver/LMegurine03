@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1927586713381282302",
+    "created_at": "2025-05-28T06:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T07:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927610389933732033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878290018521006080",
+          "start": 0,
+          "username": "tuzhimisaki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927610389933732033",
+    "in_reply_to_user_id": "1878290018521006080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 21,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927586713381282302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuzhimisaki2 いいえ 、違います"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1927586713381282302",
+        "created_at": "2025-05-28T06:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T07:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927610389933732033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878290018521006080",
+              "start": 0,
+              "username": "tuzhimisaki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927610389933732033",
+        "in_reply_to_user_id": "1878290018521006080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927586713381282302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuzhimisaki2 いいえ 、違います"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878290018521006080",
+        "conversation_id": "1927586713381282302",
+        "created_at": "2025-05-28T04:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T05:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927586713381282302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927586713381282302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，我是个傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQYyPs"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 7499,
+          "like_count": 2646,
+          "listed_count": 3,
+          "media_count": 640,
+          "tweet_count": 2632
+        },
+        "url": "https://t.co/TPt8JQYyPs",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T03:57:08.000Z",
+        "description": "坚决挺川 反对中国共产党 不友亚硝酸钠 里 @R18misaki1 @tuzhimisaki唯一指定大号 此账号作为本人露阴癖用途",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "R18misaki1"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "tuzhimisaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ddhmhSkB",
+                "end": 23,
+                "expanded_url": "http://discord.gg/ddhmhSkB",
+                "start": 0,
+                "url": "https://t.co/hA1VRtt031"
+              }
+            ]
+          }
+        },
+        "id": "1878290018521006080",
+        "location": "南京",
+        "name": "鳶沢みさき",
+        "pinned_tweet_id": "1927586713381282302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920713403389407233/OnE9BoqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 155,
+          "like_count": 908,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/hA1VRtt031",
+        "username": "tuzhimisaki2",
+        "verified": false
+      }
+    ]
+  }
+}

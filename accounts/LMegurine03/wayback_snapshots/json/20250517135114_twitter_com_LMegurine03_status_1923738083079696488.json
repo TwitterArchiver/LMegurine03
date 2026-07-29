@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1923720667238891539",
+    "created_at": "2025-05-17T13:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T14:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923738083079696488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923738083079696488",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923720667238891539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 其实不是没能力，而是没有忍耐和服从的能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1923720667238891539",
+        "created_at": "2025-05-17T13:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T14:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923738083079696488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923738083079696488",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923720667238891539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 其实不是没能力，而是没有忍耐和服从的能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1923720667238891539",
+        "created_at": "2025-05-17T12:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T13:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923720667238891539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923720667238891539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "血汗工厂真不是开玩笑，在工厂没能力就是原罪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜🏳️‍⚧️🏳️‍🌈friendly｜多数派别友好｜喜欢分享可爱的东西🥰｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@_temryava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "_temryava"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 7267,
+          "like_count": 2327,
+          "listed_count": 3,
+          "media_count": 574,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "⁺₊✶ 𝙴𝚝𝚎𝚛𝚗𝚊𝚕 𝚍𝚊𝚠𝚗 ⟡₊⁺",
+        "id": "1666599054917218305",
+        "name": "剃须，然后捡到河南井盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908387660873228288/LieoUHxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15741,
+          "following_count": 2773,
+          "like_count": 51753,
+          "listed_count": 20,
+          "media_count": 343,
+          "tweet_count": 15733
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2045487103598072031",
+    "created_at": "2026-04-19T14:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045873800626200659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1456872541952229379",
+          "start": 0,
+          "username": "txqv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045873800626200659",
+    "in_reply_to_user_id": "1456872541952229379",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045487103598072031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@txqv3 Hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2045487041136541696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMHoF-bwAAWUyU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2045487103598072031",
+        "created_at": "2026-04-19T14:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045873800626200659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1456872541952229379",
+              "start": 0,
+              "username": "txqv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045873800626200659",
+        "in_reply_to_user_id": "1456872541952229379",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045487103598072031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txqv3 Hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045487041136541696"
+          ]
+        },
+        "author_id": "1456872541952229379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045487103598072031",
+        "created_at": "2026-04-18T12:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045487103598072031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4FwdL0nvp",
+              "end": 44,
+              "expanded_url": "https://x.com/txqv3/status/2045487103598072031/photo/1",
+              "media_key": "3_2045487041136541696",
+              "start": 21,
+              "url": "https://t.co/G4FwdL0nvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045487103598072031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 26654,
+          "like_count": 59,
+          "quote_count": 29,
+          "reply_count": 38,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢百合的主要原因是想操两个，欢乐成双 https://t.co/G4FwdL0nvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 亲友@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4038,
+          "following_count": 7090,
+          "like_count": 7096,
+          "listed_count": 7,
+          "media_count": 1471,
+          "tweet_count": 6034
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "蓝v互关，底层农村人，初中辍学并非做题家，在家梦游多年不知所谓，基本每天长时间推特在线，会分享一些自己的魔改手办收藏，可以进群玩，对各种卡牌也很有兴趣，有所收藏，逃避人生高手，另外我被全身烧伤过，身体残疾，状态很差，有没有给我施舍点的……",
+        "id": "1456872541952229379",
+        "location": "未知",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "2041902245084852236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 847,
+          "like_count": 63614,
+          "listed_count": 4,
+          "media_count": 1176,
+          "tweet_count": 16866
+        },
+        "username": "txqv3",
+        "verified": true
+      }
+    ]
+  }
+}

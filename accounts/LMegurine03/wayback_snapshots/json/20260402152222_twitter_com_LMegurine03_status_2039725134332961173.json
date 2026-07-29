@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2039670711204405597",
+    "created_at": "2026-04-02T15:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039725134332961173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816123872087007235",
+          "start": 0,
+          "username": "jim71351321670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039725134332961173",
+    "in_reply_to_user_id": "1816123872087007235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039670711204405597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jim71351321670 很温和的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2039670711204405597",
+        "created_at": "2026-04-02T15:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039725134332961173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816123872087007235",
+              "start": 0,
+              "username": "jim71351321670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039725134332961173",
+        "in_reply_to_user_id": "1816123872087007235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039670711204405597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jim71351321670 很温和的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2039670709581119488"
+          ]
+        },
+        "author_id": "1816123872087007235",
+        "conversation_id": "2039670711204405597",
+        "created_at": "2026-04-02T11:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039670711204405597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039670711204405597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 539,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "［公投（見者都可以進行投票）］你們覺得我是什麼樣的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/55｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu34 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu34"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03（互fo",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4143,
+          "following_count": 7138,
+          "like_count": 6921,
+          "listed_count": 7,
+          "media_count": 1434,
+          "tweet_count": 5922
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T14:51:17.000Z",
+        "description": "Chinese/mnber/English/Japanese\n  平壤江東郡現任執事【2025-2028】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "on-tract.com",
+                "end": 23,
+                "expanded_url": "http://on-tract.com",
+                "start": 0,
+                "url": "https://t.co/m4LSYIdv0q"
+              }
+            ]
+          }
+        },
+        "id": "1816123872087007235",
+        "location": "Kaohsiung, Taiwan",
+        "name": "冉冉面（s版）🇨🇳🇹🇼",
+        "pinned_tweet_id": "2019415026894008823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968738138823737344/_2fdpg7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 639,
+          "like_count": 14503,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 2956
+        },
+        "url": "https://t.co/m4LSYIdv0q",
+        "username": "jim71351321670",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1928480161785344082",
+    "created_at": "2025-05-30T19:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T20:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928531339734647243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684590603680755712",
+          "start": 0,
+          "username": "huigui173385"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928531339734647243",
+    "in_reply_to_user_id": "1684590603680755712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928480161785344082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huigui173385 确实有很多这样的，像我之前问关于自杀干预的问题也是不行，因为涉及到伦理或者具体责任归属的问题，或者干脆就是违反法律法规，这样的事情是不得不限制的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928480153375813632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsNWe2JbMAATMKM.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1928480161785344082",
+        "created_at": "2025-05-30T19:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T20:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928531339734647243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684590603680755712",
+              "start": 0,
+              "username": "huigui173385"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928531339734647243",
+        "in_reply_to_user_id": "1684590603680755712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928480161785344082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huigui173385 确实有很多这样的，像我之前问关于自杀干预的问题也是不行，因为涉及到伦理或者具体责任归属的问题，或者干脆就是违反法律法规，这样的事情是不得不限制的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928480153375813632"
+          ]
+        },
+        "author_id": "1684590603680755712",
+        "conversation_id": "1928480161785344082",
+        "created_at": "2025-05-30T15:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T16:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928480161785344082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEK91fOB3l",
+              "end": 37,
+              "expanded_url": "https://x.com/huigui173385/status/1928480161785344082/photo/1",
+              "media_key": "3_1928480153375813632",
+              "start": 14,
+              "url": "https://t.co/wEK91fOB3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928480161785344082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美国ai也有不能问的事啊😅 https://t.co/wEK91fOB3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜休学中｜随机掉落日常｜日本語の勉強中｜多数派别友好｜深柜mtx🏳️‍⚧️｜欢迎互fo，100%互ban｜ADHD，焦虑和强迫倾向（存疑）｜可能有点攻击性，如有误伤抱歉｜欢迎私信，希望和大家做朋友~ 逃生舱@SChiharu20 主人@horizon_tem 持续追踪@Sakura_mo_li",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "SChiharu20"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "horizon_tem"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "Sakura_mo_li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Genova，Italia ",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 7500,
+          "like_count": 2673,
+          "listed_count": 3,
+          "media_count": 644,
+          "tweet_count": 2672
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T15:44:49.000Z",
+        "description": "光复中华民国，光复三民主义（民族，民权，民生），讲事实不造谣。",
+        "id": "1684590603680755712",
+        "location": "中國江蘇省南京市",
+        "name": "民族正氣🇹🇼🇮🇱",
+        "pinned_tweet_id": "1918191945324892652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916458605571948546/5D83FtCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 159,
+          "like_count": 262,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1566
+        },
+        "username": "huigui173385",
+        "verified": false
+      }
+    ]
+  }
+}
