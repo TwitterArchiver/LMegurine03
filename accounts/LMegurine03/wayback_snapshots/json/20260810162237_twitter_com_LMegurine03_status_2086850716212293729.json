@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086850287952875520",
+        "3_2086850378302410752",
+        "3_2086850473575981056",
+        "3_2086850566408548353"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2086850716212293729",
+    "created_at": "2026-08-10T16:22:37.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086850716212293729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oidoZN4k7h",
+          "end": 146,
+          "expanded_url": "https://x.com/LMegurine03/status/2086850716212293729/photo/1",
+          "media_key": "3_2086850287952875520",
+          "start": 123,
+          "url": "https://t.co/oidoZN4k7h"
+        },
+        {
+          "display_url": "pic.x.com/oidoZN4k7h",
+          "end": 146,
+          "expanded_url": "https://x.com/LMegurine03/status/2086850716212293729/photo/1",
+          "media_key": "3_2086850378302410752",
+          "start": 123,
+          "url": "https://t.co/oidoZN4k7h"
+        },
+        {
+          "display_url": "pic.x.com/oidoZN4k7h",
+          "end": 146,
+          "expanded_url": "https://x.com/LMegurine03/status/2086850716212293729/photo/1",
+          "media_key": "3_2086850473575981056",
+          "start": 123,
+          "url": "https://t.co/oidoZN4k7h"
+        },
+        {
+          "display_url": "pic.x.com/oidoZN4k7h",
+          "end": 146,
+          "expanded_url": "https://x.com/LMegurine03/status/2086850716212293729/photo/1",
+          "media_key": "3_2086850566408548353",
+          "start": 123,
+          "url": "https://t.co/oidoZN4k7h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086850716212293729",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086850287952875520"
+      },
+      {
+        "media_key": "3_2086850378302410752"
+      },
+      {
+        "media_key": "3_2086850473575981056"
+      },
+      {
+        "media_key": "3_2086850566408548353"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广角看一下城区西部的方向，光影从云层上面投下来还是挺有压迫感的，不过还是觉得稍稍有点欠曝（？\n下面的是理工大学的原址（现在只有少部分培训还没搬走）和旁边的实验小学，也是来自日治时期比较年代的建筑，尽管夹在楼群当中有些突兀，但很幸运的可以保留下来 https://t.co/oidoZN4k7h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2086850287952875520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX7R8DaUAAyUBq.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2086850378302410752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX7XMoa0AAnVPn.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2296,
+        "media_key": "3_2086850473575981056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX7cvjaIAAylRN.jpg",
+        "width": 4080
+      },
+      {
+        "height": 2296,
+        "media_key": "3_2086850566408548353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX7iJYasAEIWTx.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086850287952875520",
+            "3_2086850378302410752",
+            "3_2086850473575981056",
+            "3_2086850566408548353"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2086850716212293729",
+        "created_at": "2026-08-10T16:22:37.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086850716212293729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oidoZN4k7h",
+              "end": 146,
+              "expanded_url": "https://x.com/LMegurine03/status/2086850716212293729/photo/1",
+              "media_key": "3_2086850287952875520",
+              "start": 123,
+              "url": "https://t.co/oidoZN4k7h"
+            },
+            {
+              "display_url": "pic.x.com/oidoZN4k7h",
+              "end": 146,
+              "expanded_url": "https://x.com/LMegurine03/status/2086850716212293729/photo/1",
+              "media_key": "3_2086850378302410752",
+              "start": 123,
+              "url": "https://t.co/oidoZN4k7h"
+            },
+            {
+              "display_url": "pic.x.com/oidoZN4k7h",
+              "end": 146,
+              "expanded_url": "https://x.com/LMegurine03/status/2086850716212293729/photo/1",
+              "media_key": "3_2086850473575981056",
+              "start": 123,
+              "url": "https://t.co/oidoZN4k7h"
+            },
+            {
+              "display_url": "pic.x.com/oidoZN4k7h",
+              "end": 146,
+              "expanded_url": "https://x.com/LMegurine03/status/2086850716212293729/photo/1",
+              "media_key": "3_2086850566408548353",
+              "start": 123,
+              "url": "https://t.co/oidoZN4k7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086850716212293729",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086850287952875520"
+          },
+          {
+            "media_key": "3_2086850378302410752"
+          },
+          {
+            "media_key": "3_2086850473575981056"
+          },
+          {
+            "media_key": "3_2086850566408548353"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广角看一下城区西部的方向，光影从云层上面投下来还是挺有压迫感的，不过还是觉得稍稍有点欠曝（？\n下面的是理工大学的原址（现在只有少部分培训还没搬走）和旁边的实验小学，也是来自日治时期比较年代的建筑，尽管夹在楼群当中有些突兀，但很幸运的可以保留下来 https://t.co/oidoZN4k7h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2086850716212293729",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 7245,
+          "like_count": 8495,
+          "listed_count": 9,
+          "media_count": 1934,
+          "tweet_count": 7265
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

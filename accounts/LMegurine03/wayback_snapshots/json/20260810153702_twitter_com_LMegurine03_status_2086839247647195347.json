@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2086839247647195347",
+    "created_at": "2026-08-10T15:37:02.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086839247647195347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "youtu.be/mgM5T_9l6Z8?si…",
+          "end": 112,
+          "expanded_url": "https://youtu.be/mgM5T_9l6Z8?si=3oqulxW6ZF-PmOXU",
+          "start": 89,
+          "status": 200,
+          "unwound_url": "https://www.youtube.com/watch?si=3oqulxW6ZF-PmOXU&v=mgM5T_9l6Z8&feature=youtu.be",
+          "url": "https://t.co/tdadSkC3CW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086839247647195347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 15\n\n我喜欢的由别的艺术家翻唱的歌\n\nSummertime\n\n（这个版本是来自hanser和三无的翻唱，是一首基调非常轻快可爱的歌曲，也是我比较早喜欢的日语歌之一了\n\nhttps://t.co/tdadSkC3CW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2086839247647195347",
+        "created_at": "2026-08-10T15:37:02.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086839247647195347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "youtu.be/mgM5T_9l6Z8?si…",
+              "end": 112,
+              "expanded_url": "https://youtu.be/mgM5T_9l6Z8?si=3oqulxW6ZF-PmOXU",
+              "start": 89,
+              "status": 200,
+              "unwound_url": "https://www.youtube.com/watch?si=3oqulxW6ZF-PmOXU&v=mgM5T_9l6Z8&feature=youtu.be",
+              "url": "https://t.co/tdadSkC3CW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086839247647195347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 15\n\n我喜欢的由别的艺术家翻唱的歌\n\nSummertime\n\n（这个版本是来自hanser和三无的翻唱，是一首基调非常轻快可爱的歌曲，也是我比较早喜欢的日语歌之一了\n\nhttps://t.co/tdadSkC3CW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2086839247647195347",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4490,
+          "following_count": 7244,
+          "like_count": 8495,
+          "listed_count": 9,
+          "media_count": 1925,
+          "tweet_count": 7253
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

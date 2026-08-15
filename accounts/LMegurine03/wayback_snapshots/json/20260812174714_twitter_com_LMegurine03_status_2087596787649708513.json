@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2087587102565474722",
+    "created_at": "2026-08-12T17:47:14.000Z",
+    "display_text_range": [
+      32,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087596787649708513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491035972749852673",
+          "start": 0,
+          "username": "humou15095026"
+        },
+        {
+          "end": 31,
+          "id": "1095998402817454087",
+          "start": 15,
+          "username": "Liechtensteinal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087596787649708513",
+    "in_reply_to_user_id": "1491035972749852673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087596644498018778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@humou15095026 @Liechtensteinal 不是同学，是推友（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2087587102565474722",
+        "created_at": "2026-08-12T17:47:14.000Z",
+        "display_text_range": [
+          32,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087596787649708513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491035972749852673",
+              "start": 0,
+              "username": "humou15095026"
+            },
+            {
+              "end": 31,
+              "id": "1095998402817454087",
+              "start": 15,
+              "username": "Liechtensteinal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087596787649708513",
+        "in_reply_to_user_id": "1491035972749852673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087596644498018778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@humou15095026 @Liechtensteinal 不是同学，是推友（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491035972749852673",
+        "conversation_id": "2087587102565474722",
+        "created_at": "2026-08-12T17:46:40.000Z",
+        "display_text_range": [
+          30,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087596644498018778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            },
+            {
+              "end": 29,
+              "id": "1095998402817454087",
+              "start": 13,
+              "username": "Liechtensteinal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087596644498018778",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087593566298320912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 @Liechtensteinal 和你一起玩的是同学吗？羡慕你还能找到一起玩的搭子。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2087596787649708513",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4490,
+          "following_count": 7229,
+          "like_count": 8574,
+          "listed_count": 9,
+          "media_count": 1946,
+          "tweet_count": 7310
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-08T13:07:55.000Z",
+        "description": "无",
+        "id": "1491035972749852673",
+        "is_identity_verified": false,
+        "location": "Kowloon City District",
+        "most_recent_tweet_id": "2087596644498018778",
+        "name": "000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491035972749852673/1747699413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869219430061981696/93MKb2wF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 245,
+          "like_count": 703,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "humou15095026",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-14T10:49:16.000Z",
+        "description": "ISTP/Minarchy/Individualism/Pro-Life/Antifeminism/Non populist anti-elitism/Libertarian Zionism🇮🇱/💛🖤@Panpkin0973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "Panpkin0973"
+              }
+            ]
+          }
+        },
+        "id": "1095998402817454087",
+        "is_identity_verified": false,
+        "location": "Watertown, SD",
+        "most_recent_tweet_id": "2087506548499112394",
+        "name": "列支敦士登匿名用户🇺🇸🇮🇱🗽",
+        "pinned_tweet_id": "2055647614742212771",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095998402817454087/1781783349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883580647337558016/wFl9Uhk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5077,
+          "following_count": 1796,
+          "like_count": 74494,
+          "listed_count": 21,
+          "media_count": 1476,
+          "tweet_count": 20193
+        },
+        "url": "",
+        "username": "Liechtensteinal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

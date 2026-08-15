@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2086848098345832731",
+    "created_at": "2026-08-12T16:35:21.000Z",
+    "display_text_range": [
+      17,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087578698086240272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786732256708751361",
+          "start": 0,
+          "username": "nguyenluyentinh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087578698086240272",
+    "in_reply_to_user_id": "1786732256708751361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087567569100439771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nguyenluyentinh 嗯，謝謝你😊\n這個不是在青島，是在大連，市區也是有很多的丘陵，塔是大連的電視塔，後面看到的橋是大連的星海灣大橋，是市區很核心的地帶（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2086848098345832731",
+        "created_at": "2026-08-12T16:35:21.000Z",
+        "display_text_range": [
+          17,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087578698086240272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786732256708751361",
+              "start": 0,
+              "username": "nguyenluyentinh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087578698086240272",
+        "in_reply_to_user_id": "1786732256708751361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087567569100439771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nguyenluyentinh 嗯，謝謝你😊\n這個不是在青島，是在大連，市區也是有很多的丘陵，塔是大連的電視塔，後面看到的橋是大連的星海灣大橋，是市區很核心的地帶（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786732256708751361",
+        "conversation_id": "2086848098345832731",
+        "created_at": "2026-08-12T15:51:08.000Z",
+        "display_text_range": [
+          13,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087567569100439771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087567569100439771",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086848098345832731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 组相影的真係好有感觉！虽然今日係多云，但能见度真係好高，隔住几重山都睇到海，真係好开阔。睇啲红顶嘅建筑同埋个地形，好似係青岛喎？图一嗰个塔好显眼，睇落好似係太平山嗰边？图三最正，远处见到跨海大桥（係咪胶州湾大桥？）同对面高楼大厦（好似係黄岛／西海岸新区），视野真係一流，有种『红瓦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2087578698086240272",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4490,
+          "following_count": 7235,
+          "like_count": 8566,
+          "listed_count": 9,
+          "media_count": 1939,
+          "tweet_count": 7294
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T12:19:08.000Z",
+        "description": "淨𪜀人物政𧵑𥘀－音！！。姑𪜀𠬠𥪝各城員𧵑勾落部樂珥吧制𥱬－些電 hẻitage 技咦 sunbủst gibson 黎婆幽羅 stanđả，樂具特淨達别名𪜀『gīta』（ギー太？）。姑空常固點卒於場（默𠶢欺特鍊練𠁦格，姑固体達特仍結果當經鍔）吧易被仍次零精爫分心（主要𪜀仍次咍𠊛姑朱𪜀當腰吧易",
+        "id": "1786732256708751361",
+        "is_identity_verified": false,
+        "location": "北垓市",
+        "most_recent_tweet_id": "2087568162250522751",
+        "name": "𧵆原練淨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786732256708751361/1760439952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087549443470204928/wYiVWEhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 99,
+          "like_count": 13904,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 3439
+        },
+        "url": "",
+        "username": "nguyenluyentinh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

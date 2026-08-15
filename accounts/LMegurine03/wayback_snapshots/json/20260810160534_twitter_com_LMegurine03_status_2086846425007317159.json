@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086846332829102080"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2086846425007317159",
+    "created_at": "2026-08-10T16:05:34.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086846425007317159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/piBCCAO0IM",
+          "end": 62,
+          "expanded_url": "https://x.com/LMegurine03/status/2086846425007317159/video/1",
+          "media_key": "13_2086846332829102080",
+          "start": 39,
+          "url": "https://t.co/piBCCAO0IM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086846425007317159",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2086846332829102080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "3号线下行大连站进站……最后这一段高架弯道还挺多的，进站前很早就开始减速了（ https://t.co/piBCCAO0IM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44971,
+        "height": 720,
+        "media_key": "13_2086846332829102080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086846332829102080/img/fqBRrbrgM85Q1y3G.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086846332829102080/vid/avc1/480x270/OX8kbysKi6EDFBFx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086846332829102080/vid/avc1/640x360/6Sp7DG8jL9Pb33Ov.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086846332829102080/vid/avc1/1280x720/DgqnFXC5WVdSqAEk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086846332829102080/pl/sxVG9PlVZdQntDJ5.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086846332829102080"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2086846425007317159",
+        "created_at": "2026-08-10T16:05:34.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086846425007317159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/piBCCAO0IM",
+              "end": 62,
+              "expanded_url": "https://x.com/LMegurine03/status/2086846425007317159/video/1",
+              "media_key": "13_2086846332829102080",
+              "start": 39,
+              "url": "https://t.co/piBCCAO0IM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086846425007317159",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086846332829102080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3号线下行大连站进站……最后这一段高架弯道还挺多的，进站前很早就开始减速了（ https://t.co/piBCCAO0IM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2086846425007317159",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 7245,
+          "like_count": 8495,
+          "listed_count": 9,
+          "media_count": 1931,
+          "tweet_count": 7262
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
