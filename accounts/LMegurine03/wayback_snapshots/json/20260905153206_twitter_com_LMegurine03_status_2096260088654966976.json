@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096260074616639488"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2096260088654966976",
+    "created_at": "2026-09-05T15:32:06.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096260088654966976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9otvUfvtK8",
+          "end": 111,
+          "expanded_url": "https://x.com/LMegurine03/status/2096260088654966976/photo/1",
+          "media_key": "3_2096260074616639488",
+          "start": 88,
+          "url": "https://t.co/9otvUfvtK8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096260088654966976",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096260074616639488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天吃的海鲜丼定食😋\n由于是新店开业的原因，其实并没有想的那么贵，也就是50块左右的样子，另外非常好评的就是，这里面的甜虾虽然不大，但是虾尾的壳全都去掉了，吃的时候非常方便（ https://t.co/9otvUfvtK8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2636,
+        "media_key": "3_2096260074616639488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdpbnBb0AAuFT5.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096260074616639488"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096260088654966976",
+        "created_at": "2026-09-05T15:32:06.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096260088654966976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9otvUfvtK8",
+              "end": 111,
+              "expanded_url": "https://x.com/LMegurine03/status/2096260088654966976/photo/1",
+              "media_key": "3_2096260074616639488",
+              "start": 88,
+              "url": "https://t.co/9otvUfvtK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096260088654966976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096260074616639488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃的海鲜丼定食😋\n由于是新店开业的原因，其实并没有想的那么贵，也就是50块左右的样子，另外非常好评的就是，这里面的甜虾虽然不大，但是虾尾的壳全都去掉了，吃的时候非常方便（ https://t.co/9otvUfvtK8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2096260088654966976",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 6898,
+          "like_count": 8889,
+          "listed_count": 9,
+          "media_count": 2090,
+          "tweet_count": 7603
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

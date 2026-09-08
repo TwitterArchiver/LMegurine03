@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095178611372507137",
+        "13_2095178799621320704"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2095179022774976681",
+    "created_at": "2026-09-02T15:56:20.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095179022774976681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGSqkTuVR9",
+          "end": 136,
+          "expanded_url": "https://x.com/LMegurine03/status/2095179022774976681/video/1",
+          "media_key": "13_2095178611372507137",
+          "start": 113,
+          "url": "https://t.co/tGSqkTuVR9"
+        },
+        {
+          "display_url": "pic.x.com/tGSqkTuVR9",
+          "end": 136,
+          "expanded_url": "https://x.com/LMegurine03/status/2095179022774976681/video/1",
+          "media_key": "13_2095178799621320704",
+          "start": 113,
+          "url": "https://t.co/tGSqkTuVR9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095179022774976681",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2095178611372507137"
+      },
+      {
+        "media_key": "13_2095178799621320704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这两段是铁路经过虎跳峡金沙江大桥拍到的，这一段铁路是单线铁路，列车在这里停车待避，也正好有机会可以拍的尽可能完整一些，只不过很可惜还是有一些云雾，看不清玉龙雪山的全貌，只能看到最高4500米左右的山体，即便如此，也很是壮观了 https://t.co/tGSqkTuVR9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20572,
+        "height": 1280,
+        "media_key": "13_2095178611372507137",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095178611372507137/img/7k0bz46o6fHXFBAp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095178611372507137/vid/avc1/320x568/eme4j1lEX7KssdQF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095178611372507137/vid/avc1/480x852/E7t_eNWSeLw80Oz2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095178611372507137/vid/avc1/720x1280/KEW0UCxPtNBnBBK9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095178611372507137/pl/9_49CEIX5vKEbl2R.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 118588,
+        "height": 720,
+        "media_key": "13_2095178799621320704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095178799621320704/img/Nzn3_p1Pb5mAYDU0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095178799621320704/vid/avc1/480x270/KYAy72WZM060tGZp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095178799621320704/vid/avc1/640x360/WeEOyEKYVEwIYjh0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095178799621320704/vid/avc1/1280x720/9Ppuaqs24NzNGVG1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095178799621320704/pl/KvXZ8zcCrRoNaI-s.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095178611372507137",
+            "13_2095178799621320704"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2095179022774976681",
+        "created_at": "2026-09-02T15:56:20.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095179022774976681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGSqkTuVR9",
+              "end": 136,
+              "expanded_url": "https://x.com/LMegurine03/status/2095179022774976681/video/1",
+              "media_key": "13_2095178611372507137",
+              "start": 113,
+              "url": "https://t.co/tGSqkTuVR9"
+            },
+            {
+              "display_url": "pic.x.com/tGSqkTuVR9",
+              "end": 136,
+              "expanded_url": "https://x.com/LMegurine03/status/2095179022774976681/video/1",
+              "media_key": "13_2095178799621320704",
+              "start": 113,
+              "url": "https://t.co/tGSqkTuVR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095179022774976681",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095178611372507137"
+          },
+          {
+            "media_key": "13_2095178799621320704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两段是铁路经过虎跳峡金沙江大桥拍到的，这一段铁路是单线铁路，列车在这里停车待避，也正好有机会可以拍的尽可能完整一些，只不过很可惜还是有一些云雾，看不清玉龙雪山的全貌，只能看到最高4500米左右的山体，即便如此，也很是壮观了 https://t.co/tGSqkTuVR9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2095179022774976681",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4465,
+          "following_count": 6975,
+          "like_count": 8794,
+          "listed_count": 9,
+          "media_count": 2051,
+          "tweet_count": 7518
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

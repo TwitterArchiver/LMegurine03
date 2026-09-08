@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093585174202372096",
+        "3_2093585188840476673",
+        "3_2093585204464193536",
+        "3_2093585223212810240"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2093585239562227940",
+    "created_at": "2026-08-29T06:23:12.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T07:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093585239562227940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vAUCeWt15n",
+          "end": 105,
+          "expanded_url": "https://x.com/LMegurine03/status/2093585239562227940/photo/1",
+          "media_key": "3_2093585174202372096",
+          "start": 82,
+          "url": "https://t.co/vAUCeWt15n"
+        },
+        {
+          "display_url": "pic.x.com/vAUCeWt15n",
+          "end": 105,
+          "expanded_url": "https://x.com/LMegurine03/status/2093585239562227940/photo/1",
+          "media_key": "3_2093585188840476673",
+          "start": 82,
+          "url": "https://t.co/vAUCeWt15n"
+        },
+        {
+          "display_url": "pic.x.com/vAUCeWt15n",
+          "end": 105,
+          "expanded_url": "https://x.com/LMegurine03/status/2093585239562227940/photo/1",
+          "media_key": "3_2093585204464193536",
+          "start": 82,
+          "url": "https://t.co/vAUCeWt15n"
+        },
+        {
+          "display_url": "pic.x.com/vAUCeWt15n",
+          "end": 105,
+          "expanded_url": "https://x.com/LMegurine03/status/2093585239562227940/photo/1",
+          "media_key": "3_2093585223212810240",
+          "start": 82,
+          "url": "https://t.co/vAUCeWt15n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093585239562227940",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093585174202372096"
+      },
+      {
+        "media_key": "3_2093585188840476673"
+      },
+      {
+        "media_key": "3_2093585204464193536"
+      },
+      {
+        "media_key": "3_2093585223212810240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重庆各式各样的大桥，前面两张是南纪门大桥，上面是10号线专用的，小塔看起来似乎不一样高……\n后面也可以看到重庆长江大桥，菜园坝大桥，最后那个是靠近下浩里的南山立交 https://t.co/vAUCeWt15n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2266,
+        "media_key": "3_2093585174202372096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3on6dbUAA5shX.jpg",
+        "width": 3232
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2093585188840476673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3oow_bEAENR-y.jpg",
+        "width": 2304
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2093585204464193536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3oprMaEAAQvSl.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2093585223212810240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3oqxCbQAAjizB.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093585174202372096",
+            "3_2093585188840476673",
+            "3_2093585204464193536",
+            "3_2093585223212810240"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2093585239562227940",
+        "created_at": "2026-08-29T06:23:12.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093585239562227940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vAUCeWt15n",
+              "end": 105,
+              "expanded_url": "https://x.com/LMegurine03/status/2093585239562227940/photo/1",
+              "media_key": "3_2093585174202372096",
+              "start": 82,
+              "url": "https://t.co/vAUCeWt15n"
+            },
+            {
+              "display_url": "pic.x.com/vAUCeWt15n",
+              "end": 105,
+              "expanded_url": "https://x.com/LMegurine03/status/2093585239562227940/photo/1",
+              "media_key": "3_2093585188840476673",
+              "start": 82,
+              "url": "https://t.co/vAUCeWt15n"
+            },
+            {
+              "display_url": "pic.x.com/vAUCeWt15n",
+              "end": 105,
+              "expanded_url": "https://x.com/LMegurine03/status/2093585239562227940/photo/1",
+              "media_key": "3_2093585204464193536",
+              "start": 82,
+              "url": "https://t.co/vAUCeWt15n"
+            },
+            {
+              "display_url": "pic.x.com/vAUCeWt15n",
+              "end": 105,
+              "expanded_url": "https://x.com/LMegurine03/status/2093585239562227940/photo/1",
+              "media_key": "3_2093585223212810240",
+              "start": 82,
+              "url": "https://t.co/vAUCeWt15n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093585239562227940",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093585174202372096"
+          },
+          {
+            "media_key": "3_2093585188840476673"
+          },
+          {
+            "media_key": "3_2093585204464193536"
+          },
+          {
+            "media_key": "3_2093585223212810240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重庆各式各样的大桥，前面两张是南纪门大桥，上面是10号线专用的，小塔看起来似乎不一样高……\n后面也可以看到重庆长江大桥，菜园坝大桥，最后那个是靠近下浩里的南山立交 https://t.co/vAUCeWt15n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2093585239562227940",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 7063,
+          "like_count": 8659,
+          "listed_count": 9,
+          "media_count": 1986,
+          "tweet_count": 7367
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

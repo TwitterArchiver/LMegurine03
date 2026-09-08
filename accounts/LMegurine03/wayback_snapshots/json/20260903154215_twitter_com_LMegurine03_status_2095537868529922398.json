@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095537832177934336",
+        "3_2095537851056496640"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2095537868529922398",
+    "created_at": "2026-09-03T15:42:15.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095537868529922398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iuVVGJQdfe",
+          "end": 168,
+          "expanded_url": "https://x.com/LMegurine03/status/2095537868529922398/photo/1",
+          "media_key": "3_2095537832177934336",
+          "start": 145,
+          "url": "https://t.co/iuVVGJQdfe"
+        },
+        {
+          "display_url": "pic.x.com/iuVVGJQdfe",
+          "end": 168,
+          "expanded_url": "https://x.com/LMegurine03/status/2095537868529922398/photo/1",
+          "media_key": "3_2095537851056496640",
+          "start": 145,
+          "url": "https://t.co/iuVVGJQdfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095537868529922398",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095537832177934336"
+      },
+      {
+        "media_key": "3_2095537851056496640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "继续发上次的图片……这是前一天晚上拍到的梅里雪山，天气反倒更好一些，从左到右三座山峰分别是缅茨姆（6054m），吉娃仁安（5470m），巴乌八蒙（6000m）到的时候已经非常晚了，只能大概看到一个轮廓，那天傍晚的时候其实是可以看到很完整的，真的很可惜没有早点赶到……高原的天气真的好难预测 https://t.co/iuVVGJQdfe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2095537832177934336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTYjkRboAAeEV6.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1980,
+        "media_key": "3_2095537851056496640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTYkqmboAAbxi0.jpg",
+        "width": 3300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095537832177934336",
+            "3_2095537851056496640"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2095537868529922398",
+        "created_at": "2026-09-03T15:42:15.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095537868529922398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuVVGJQdfe",
+              "end": 168,
+              "expanded_url": "https://x.com/LMegurine03/status/2095537868529922398/photo/1",
+              "media_key": "3_2095537832177934336",
+              "start": 145,
+              "url": "https://t.co/iuVVGJQdfe"
+            },
+            {
+              "display_url": "pic.x.com/iuVVGJQdfe",
+              "end": 168,
+              "expanded_url": "https://x.com/LMegurine03/status/2095537868529922398/photo/1",
+              "media_key": "3_2095537851056496640",
+              "start": 145,
+              "url": "https://t.co/iuVVGJQdfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095537868529922398",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095537832177934336"
+          },
+          {
+            "media_key": "3_2095537851056496640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续发上次的图片……这是前一天晚上拍到的梅里雪山，天气反倒更好一些，从左到右三座山峰分别是缅茨姆（6054m），吉娃仁安（5470m），巴乌八蒙（6000m）到的时候已经非常晚了，只能大概看到一个轮廓，那天傍晚的时候其实是可以看到很完整的，真的很可惜没有早点赶到……高原的天气真的好难预测 https://t.co/iuVVGJQdfe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2095537868529922398",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4464,
+          "following_count": 6954,
+          "like_count": 8845,
+          "listed_count": 9,
+          "media_count": 2064,
+          "tweet_count": 7558
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

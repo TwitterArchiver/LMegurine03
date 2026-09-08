@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096279096770924545",
+        "3_2096279112839311360"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2096279131306778630",
+    "created_at": "2026-09-05T16:47:46.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096279131306778630"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZXYGeiHYR",
+          "end": 164,
+          "expanded_url": "https://x.com/LMegurine03/status/2096279131306778630/photo/1",
+          "media_key": "3_2096279096770924545",
+          "start": 141,
+          "url": "https://t.co/JZXYGeiHYR"
+        },
+        {
+          "display_url": "pic.x.com/JZXYGeiHYR",
+          "end": 164,
+          "expanded_url": "https://x.com/LMegurine03/status/2096279131306778630/photo/1",
+          "media_key": "3_2096279112839311360",
+          "start": 141,
+          "url": "https://t.co/JZXYGeiHYR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096279131306778630",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096279096770924545"
+      },
+      {
+        "media_key": "3_2096279112839311360"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是丽江古城里面的一些小细节，第一个那个就是雨链，雨天的时候水会汇集在这里面落下去，印象当中还是日式庭院会多一些，第一次在国内见到……第二个就是古城里面的水井，是这种露天的水池的形态，城镇当中也有广泛存在于路侧的沟渠，因地形原因可以快捷输水，定期会通过它们将水漫上街道，被称作洗街 https://t.co/JZXYGeiHYR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096279096770924545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd6u2EbkAEWxaQ.jpg",
+        "width": 2131
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2096279112839311360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd6vx7bsAAIcPH.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096279096770924545",
+            "3_2096279112839311360"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2096279131306778630",
+        "created_at": "2026-09-05T16:47:46.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096279131306778630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZXYGeiHYR",
+              "end": 164,
+              "expanded_url": "https://x.com/LMegurine03/status/2096279131306778630/photo/1",
+              "media_key": "3_2096279096770924545",
+              "start": 141,
+              "url": "https://t.co/JZXYGeiHYR"
+            },
+            {
+              "display_url": "pic.x.com/JZXYGeiHYR",
+              "end": 164,
+              "expanded_url": "https://x.com/LMegurine03/status/2096279131306778630/photo/1",
+              "media_key": "3_2096279112839311360",
+              "start": 141,
+              "url": "https://t.co/JZXYGeiHYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096279131306778630",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096279096770924545"
+          },
+          {
+            "media_key": "3_2096279112839311360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是丽江古城里面的一些小细节，第一个那个就是雨链，雨天的时候水会汇集在这里面落下去，印象当中还是日式庭院会多一些，第一次在国内见到……第二个就是古城里面的水井，是这种露天的水池的形态，城镇当中也有广泛存在于路侧的沟渠，因地形原因可以快捷输水，定期会通过它们将水漫上街道，被称作洗街 https://t.co/JZXYGeiHYR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2096279131306778630",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 6898,
+          "like_count": 8897,
+          "listed_count": 9,
+          "media_count": 2111,
+          "tweet_count": 7626
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096872482380873728",
+        "3_2096872501070774272",
+        "3_2096872519403986944"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2096872533379485705",
+    "created_at": "2026-09-07T08:05:44.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096872533379485705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/47QhhqeeEL",
+          "end": 142,
+          "expanded_url": "https://x.com/LMegurine03/status/2096872533379485705/photo/1",
+          "media_key": "3_2096872482380873728",
+          "start": 119,
+          "url": "https://t.co/47QhhqeeEL"
+        },
+        {
+          "display_url": "pic.x.com/47QhhqeeEL",
+          "end": 142,
+          "expanded_url": "https://x.com/LMegurine03/status/2096872533379485705/photo/1",
+          "media_key": "3_2096872501070774272",
+          "start": 119,
+          "url": "https://t.co/47QhhqeeEL"
+        },
+        {
+          "display_url": "pic.x.com/47QhhqeeEL",
+          "end": 142,
+          "expanded_url": "https://x.com/LMegurine03/status/2096872533379485705/photo/1",
+          "media_key": "3_2096872519403986944",
+          "start": 119,
+          "url": "https://t.co/47QhhqeeEL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096872533379485705",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096872482380873728"
+      },
+      {
+        "media_key": "3_2096872501070774272"
+      },
+      {
+        "media_key": "3_2096872519403986944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是丽江古城的大水车，周围的建筑都是白墙青瓦的样式，中间穿插着木质的门窗，之前是地震还是火灾来着还损毁了不少，现在有很多都是重建的……来这边玩的时候一定要注意住在古城里面石板路的起伏非常大，拉手提箱会非常累的，不过有些民宿是会提供手推车 https://t.co/47QhhqeeEL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2296,
+        "media_key": "3_2096872482380873728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmWabuagAA3PA_.jpg",
+        "width": 4080
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2096872501070774272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmWbhWbwAAiBCr.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2096872519403986944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmWclpaYAAzzww.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096872482380873728",
+            "3_2096872501070774272",
+            "3_2096872519403986944"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2096872533379485705",
+        "created_at": "2026-09-07T08:05:44.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096872533379485705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47QhhqeeEL",
+              "end": 142,
+              "expanded_url": "https://x.com/LMegurine03/status/2096872533379485705/photo/1",
+              "media_key": "3_2096872482380873728",
+              "start": 119,
+              "url": "https://t.co/47QhhqeeEL"
+            },
+            {
+              "display_url": "pic.x.com/47QhhqeeEL",
+              "end": 142,
+              "expanded_url": "https://x.com/LMegurine03/status/2096872533379485705/photo/1",
+              "media_key": "3_2096872501070774272",
+              "start": 119,
+              "url": "https://t.co/47QhhqeeEL"
+            },
+            {
+              "display_url": "pic.x.com/47QhhqeeEL",
+              "end": 142,
+              "expanded_url": "https://x.com/LMegurine03/status/2096872533379485705/photo/1",
+              "media_key": "3_2096872519403986944",
+              "start": 119,
+              "url": "https://t.co/47QhhqeeEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096872533379485705",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096872482380873728"
+          },
+          {
+            "media_key": "3_2096872501070774272"
+          },
+          {
+            "media_key": "3_2096872519403986944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是丽江古城的大水车，周围的建筑都是白墙青瓦的样式，中间穿插着木质的门窗，之前是地震还是火灾来着还损毁了不少，现在有很多都是重建的……来这边玩的时候一定要注意住在古城里面石板路的起伏非常大，拉手提箱会非常累的，不过有些民宿是会提供手推车 https://t.co/47QhhqeeEL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2096872533379485705",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4469,
+          "following_count": 6865,
+          "like_count": 8942,
+          "listed_count": 9,
+          "media_count": 2145,
+          "tweet_count": 7678
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

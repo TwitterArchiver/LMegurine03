@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095198210256232448"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2094322362103775429",
+    "created_at": "2026-09-02T17:12:36.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T18:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095198218342805839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2062219341240684544",
+          "start": 0,
+          "username": "auchless"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TblRw6cT26",
+          "end": 41,
+          "expanded_url": "https://x.com/LMegurine03/status/2095198218342805839/photo/1",
+          "media_key": "3_2095198210256232448",
+          "start": 18,
+          "url": "https://t.co/TblRw6cT26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095198218342805839",
+    "in_reply_to_user_id": "2062219341240684544",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095198210256232448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094680885333541217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auchless 确实一模一样😋 https://t.co/TblRw6cT26"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2095198210256232448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROjq-BbYAA0jYs.jpg",
+        "width": 773
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2094680866257797120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHNJlcagAA78XP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095198210256232448"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2094322362103775429",
+        "created_at": "2026-09-02T17:12:36.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095198218342805839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2062219341240684544",
+              "start": 0,
+              "username": "auchless"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TblRw6cT26",
+              "end": 41,
+              "expanded_url": "https://x.com/LMegurine03/status/2095198218342805839/photo/1",
+              "media_key": "3_2095198210256232448",
+              "start": 18,
+              "url": "https://t.co/TblRw6cT26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095198218342805839",
+        "in_reply_to_user_id": "2062219341240684544",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095198210256232448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094680885333541217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auchless 确实一模一样😋 https://t.co/TblRw6cT26"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094680866257797120"
+          ]
+        },
+        "author_id": "2062219341240684544",
+        "conversation_id": "2094322362103775429",
+        "created_at": "2026-09-01T06:56:55.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094680885333541217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Knqti74clA",
+              "end": 46,
+              "expanded_url": "https://x.com/auchless/status/2094680885333541217/photo/1",
+              "media_key": "3_2094680866257797120",
+              "start": 23,
+              "url": "https://t.co/Knqti74clA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094680885333541217",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094680866257797120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094322362103775429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 不止是指示牌😋😋😋 https://t.co/Knqti74clA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2095198218342805839",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4465,
+          "following_count": 6975,
+          "like_count": 8799,
+          "listed_count": 9,
+          "media_count": 2062,
+          "tweet_count": 7534
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T17:06:31.000Z",
+        "description": "介绍吗……貌似没有哦😢",
+        "id": "2062219341240684544",
+        "is_identity_verified": false,
+        "location": "Guangzhou Baiyun Int’l Airport",
+        "most_recent_tweet_id": "2095073525573034023",
+        "name": "空航方南国中",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062219341240684544/1787602499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062219844280279040/NwbIUoIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 35,
+          "like_count": 2652,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "auchless",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

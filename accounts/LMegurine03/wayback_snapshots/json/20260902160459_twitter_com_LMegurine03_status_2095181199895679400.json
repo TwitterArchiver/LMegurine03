@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095181187010678784"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2095181199895679400",
+    "created_at": "2026-09-02T16:04:59.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095181199895679400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jVCyUoiUzi",
+          "end": 147,
+          "expanded_url": "https://x.com/LMegurine03/status/2095181199895679400/photo/1",
+          "media_key": "3_2095181187010678784",
+          "start": 124,
+          "url": "https://t.co/jVCyUoiUzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095181199895679400",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095181187010678784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香格里拉站广场看到的石卡雪山……这个车站真的特别奇怪，两侧都没有任何通道能够在近处穿越铁路，最短绕行路线也要有5公里左右才能到车站的另一边，而另一边距离香格里拉市区其实只有1公里多一点点而已了，或许将来东侧也会有规划，但现在这样，其实真的挺不方便 https://t.co/jVCyUoiUzi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2095181187010678784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROUMFfaUAAeQ2V.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095181187010678784"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2095181199895679400",
+        "created_at": "2026-09-02T16:04:59.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095181199895679400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVCyUoiUzi",
+              "end": 147,
+              "expanded_url": "https://x.com/LMegurine03/status/2095181199895679400/photo/1",
+              "media_key": "3_2095181187010678784",
+              "start": 124,
+              "url": "https://t.co/jVCyUoiUzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095181199895679400",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095181187010678784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香格里拉站广场看到的石卡雪山……这个车站真的特别奇怪，两侧都没有任何通道能够在近处穿越铁路，最短绕行路线也要有5公里左右才能到车站的另一边，而另一边距离香格里拉市区其实只有1公里多一点点而已了，或许将来东侧也会有规划，但现在这样，其实真的挺不方便 https://t.co/jVCyUoiUzi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2095181199895679400",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4465,
+          "following_count": 6975,
+          "like_count": 8795,
+          "listed_count": 9,
+          "media_count": 2055,
+          "tweet_count": 7522
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

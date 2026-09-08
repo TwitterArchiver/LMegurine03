@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2095557473239548046",
+    "created_at": "2026-09-03T17:00:09.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T18:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095557473239548046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2095556045540397561",
+          "start": 97,
+          "url": "https://t.co/WtrhRq1RHZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095557473239548046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095556045540397561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在这里边可以看到经幡塔，上面悬挂着各种各样的经幡，是长条形的彩旗，有蓝，白，红，绿，黄五种颜色，顺序也要严格遵守，上面写着各种经文和宗教图腾，人们相信只要经幡被风吹动，就是向神明传达美好的愿望 https://t.co/WtrhRq1RHZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2636,
+        "media_key": "3_2095555995841998848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTpE1MaMAAT3o3.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2095556009775480832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTpFpGaQAA_429.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2095556022022897664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTpGWubAAASAcP.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2095556034911952896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTpHGvaYAAHFG4.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2095557473239548046",
+        "created_at": "2026-09-03T17:00:09.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T18:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095557473239548046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2095556045540397561",
+              "start": 97,
+              "url": "https://t.co/WtrhRq1RHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095557473239548046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095556045540397561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在这里边可以看到经幡塔，上面悬挂着各种各样的经幡，是长条形的彩旗，有蓝，白，红，绿，黄五种颜色，顺序也要严格遵守，上面写着各种经文和宗教图腾，人们相信只要经幡被风吹动，就是向神明传达美好的愿望 https://t.co/WtrhRq1RHZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095555995841998848",
+            "3_2095556009775480832",
+            "3_2095556022022897664",
+            "3_2095556034911952896"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2095556045540397561",
+        "created_at": "2026-09-03T16:54:29.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095556045540397561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcP5xUc7Je",
+              "end": 80,
+              "expanded_url": "https://x.com/LMegurine03/status/2095556045540397561/photo/1",
+              "media_key": "3_2095555995841998848",
+              "start": 57,
+              "url": "https://t.co/HcP5xUc7Je"
+            },
+            {
+              "display_url": "pic.x.com/HcP5xUc7Je",
+              "end": 80,
+              "expanded_url": "https://x.com/LMegurine03/status/2095556045540397561/photo/1",
+              "media_key": "3_2095556009775480832",
+              "start": 57,
+              "url": "https://t.co/HcP5xUc7Je"
+            },
+            {
+              "display_url": "pic.x.com/HcP5xUc7Je",
+              "end": 80,
+              "expanded_url": "https://x.com/LMegurine03/status/2095556045540397561/photo/1",
+              "media_key": "3_2095556022022897664",
+              "start": 57,
+              "url": "https://t.co/HcP5xUc7Je"
+            },
+            {
+              "display_url": "pic.x.com/HcP5xUc7Je",
+              "end": 80,
+              "expanded_url": "https://x.com/LMegurine03/status/2095556045540397561/photo/1",
+              "media_key": "3_2095556034911952896",
+              "start": 57,
+              "url": "https://t.co/HcP5xUc7Je"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095556045540397561",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095555995841998848"
+          },
+          {
+            "media_key": "3_2095556009775480832"
+          },
+          {
+            "media_key": "3_2095556022022897664"
+          },
+          {
+            "media_key": "3_2095556034911952896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是纳帕海，一片规模不小的高山草甸，有些地方由于排水不畅会积水成湖，并且区域很有季节性，形成了独特的湿地草原景观 https://t.co/HcP5xUc7Je"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2095557473239548046",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4466,
+          "following_count": 6955,
+          "like_count": 8849,
+          "listed_count": 9,
+          "media_count": 2080,
+          "tweet_count": 7575
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

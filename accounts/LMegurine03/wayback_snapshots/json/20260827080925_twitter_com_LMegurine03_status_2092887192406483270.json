@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2092851111090856118",
+    "created_at": "2026-08-27T08:09:25.000Z",
+    "display_text_range": [
+      11,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092887192406483270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1506637610352984065",
+          "start": 0,
+          "username": "JarrettYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092887192406483270",
+    "in_reply_to_user_id": "1506637610352984065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092886042298949691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JarrettYe 对哦，可以试试的，我这边输入的确实可能不是特别多，确实有潜力提升一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2092851111090856118",
+        "created_at": "2026-08-27T08:09:25.000Z",
+        "display_text_range": [
+          11,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092887192406483270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506637610352984065",
+              "start": 0,
+              "username": "JarrettYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092887192406483270",
+        "in_reply_to_user_id": "1506637610352984065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092886042298949691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JarrettYe 对哦，可以试试的，我这边输入的确实可能不是特别多，确实有潜力提升一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506637610352984065",
+        "conversation_id": "2092851111090856118",
+        "created_at": "2026-08-27T08:04:51.000Z",
+        "display_text_range": [
+          13,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092886042298949691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092886042298949691",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092851111090856118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 试试沉浸式语言学习？我没看教材和网课，靠看生肉+背单词也过了 N2。大量输入是提高语言水平的最好方法。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2092887192406483270",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 7065,
+          "like_count": 8619,
+          "listed_count": 9,
+          "media_count": 1970,
+          "tweet_count": 7350
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-23T14:23:05.000Z",
+        "description": "Die-hard fan of spaced repetition. Creator of FSRS. \nInfluencer on ZhiHu with 145k+ followers. \nResearch Engineer at MaiMemo Inc. \nFounder of Thoughts Memo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "l-m-sherlock.github.io",
+                "end": 23,
+                "expanded_url": "https://l-m-sherlock.github.io",
+                "start": 0,
+                "url": "https://t.co/VQgi3Ir9oX"
+              }
+            ]
+          }
+        },
+        "id": "1506637610352984065",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2092886042298949691",
+        "name": "Jarrett Ye",
+        "pinned_tweet_id": "2092810604893577680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506637610352984065/1758647676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569996533449523200/kDUdelDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7956,
+          "following_count": 439,
+          "like_count": 25087,
+          "listed_count": 49,
+          "media_count": 602,
+          "tweet_count": 2846
+        },
+        "url": "https://t.co/VQgi3Ir9oX",
+        "username": "JarrettYe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

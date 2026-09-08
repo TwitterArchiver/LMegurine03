@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2092933529802060184",
+    "created_at": "2026-08-29T06:53:37.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T07:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093592892082381065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786596099479977984",
+          "start": 0,
+          "username": "Kurikawayuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093592892082381065",
+    "in_reply_to_user_id": "1786596099479977984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092933529802060184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kurikawayuyu 可爱😊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092933520406740992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuX8q5aAAAQfKf.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2092933529802060184",
+        "created_at": "2026-08-29T06:53:37.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093592892082381065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786596099479977984",
+              "start": 0,
+              "username": "Kurikawayuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093592892082381065",
+        "in_reply_to_user_id": "1786596099479977984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092933529802060184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kurikawayuyu 可爱😊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092933520406740992"
+          ]
+        },
+        "author_id": "1786596099479977984",
+        "conversation_id": "2092933529802060184",
+        "created_at": "2026-08-27T11:13:32.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092933529802060184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl8wWd8cTz",
+              "end": 62,
+              "expanded_url": "https://x.com/Kurikawayuyu/status/2092933529802060184/photo/1",
+              "media_key": "3_2092933520406740992",
+              "start": 39,
+              "url": "https://t.co/Yl8wWd8cTz"
+            },
+            {
+              "display_url": "x.com/lmegurine03/st…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/lmegurine03/status/2092865730253623663",
+              "start": 63,
+              "url": "https://t.co/SPmSTbylfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092933529802060184",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092933520406740992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2347,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092865730253623663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道那些夏天\n就像青春一样回不来\n（该照片摄于离安河桥北有一段距离的附近） https://t.co/Yl8wWd8cTz https://t.co/SPmSTbylfu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2093592892082381065",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 7063,
+          "like_count": 8663,
+          "listed_count": 9,
+          "media_count": 2002,
+          "tweet_count": 7392
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T03:18:09.000Z",
+        "description": "WasedaU B1 Appl.Chem. pre-CCHOer/JpCHOer\nOrg. Inorg. Compute. Mandarin/Shanghainese/English/Japanese.\nbf&my dom @Sulfonion_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "Sulfonion_"
+              }
+            ]
+          }
+        },
+        "id": "1786596099479977984",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2093579947663384690",
+        "name": "狗栗栗🇯🇵",
+        "pinned_tweet_id": "1971151253674786841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786596099479977984/1714793184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070954959907225600/aN9JLO54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4716,
+          "following_count": 974,
+          "like_count": 17007,
+          "listed_count": 25,
+          "media_count": 115,
+          "tweet_count": 1613
+        },
+        "url": "",
+        "username": "Kurikawayuyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

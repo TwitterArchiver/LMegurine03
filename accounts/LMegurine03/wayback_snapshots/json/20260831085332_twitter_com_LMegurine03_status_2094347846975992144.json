@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094347800498896897",
+        "3_2094347814398758912",
+        "3_2094347833151504385"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2094347846975992144",
+    "created_at": "2026-08-31T08:53:32.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T09:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094347846975992144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rvQMkkXjP7",
+          "end": 120,
+          "expanded_url": "https://x.com/LMegurine03/status/2094347846975992144/photo/1",
+          "media_key": "3_2094347800498896897",
+          "start": 97,
+          "url": "https://t.co/rvQMkkXjP7"
+        },
+        {
+          "display_url": "pic.x.com/rvQMkkXjP7",
+          "end": 120,
+          "expanded_url": "https://x.com/LMegurine03/status/2094347846975992144/photo/1",
+          "media_key": "3_2094347814398758912",
+          "start": 97,
+          "url": "https://t.co/rvQMkkXjP7"
+        },
+        {
+          "display_url": "pic.x.com/rvQMkkXjP7",
+          "end": 120,
+          "expanded_url": "https://x.com/LMegurine03/status/2094347846975992144/photo/1",
+          "media_key": "3_2094347833151504385",
+          "start": 97,
+          "url": "https://t.co/rvQMkkXjP7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094347846975992144",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094347800498896897"
+      },
+      {
+        "media_key": "3_2094347814398758912"
+      },
+      {
+        "media_key": "3_2094347833151504385"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是在那天住的公寓上面拍的，房间的条件很一般，就是在一个非常旧的公寓楼里面的小房间，但是风景非常好，可以看到南二环和昆明站，远处的视野也很开阔，不过可惜只有一个单向的窗户，看不到北侧那边的城区 https://t.co/rvQMkkXjP7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2094347800498896897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCeOmzbgAE-rFP.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2094347814398758912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCePalakAA00rs.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2094347833151504385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCeQgcawAEItQP.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094347800498896897",
+            "3_2094347814398758912",
+            "3_2094347833151504385"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2094347846975992144",
+        "created_at": "2026-08-31T08:53:32.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094347846975992144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvQMkkXjP7",
+              "end": 120,
+              "expanded_url": "https://x.com/LMegurine03/status/2094347846975992144/photo/1",
+              "media_key": "3_2094347800498896897",
+              "start": 97,
+              "url": "https://t.co/rvQMkkXjP7"
+            },
+            {
+              "display_url": "pic.x.com/rvQMkkXjP7",
+              "end": 120,
+              "expanded_url": "https://x.com/LMegurine03/status/2094347846975992144/photo/1",
+              "media_key": "3_2094347814398758912",
+              "start": 97,
+              "url": "https://t.co/rvQMkkXjP7"
+            },
+            {
+              "display_url": "pic.x.com/rvQMkkXjP7",
+              "end": 120,
+              "expanded_url": "https://x.com/LMegurine03/status/2094347846975992144/photo/1",
+              "media_key": "3_2094347833151504385",
+              "start": 97,
+              "url": "https://t.co/rvQMkkXjP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094347846975992144",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094347800498896897"
+          },
+          {
+            "media_key": "3_2094347814398758912"
+          },
+          {
+            "media_key": "3_2094347833151504385"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是在那天住的公寓上面拍的，房间的条件很一般，就是在一个非常旧的公寓楼里面的小房间，但是风景非常好，可以看到南二环和昆明站，远处的视野也很开阔，不过可惜只有一个单向的窗户，看不到北侧那边的城区 https://t.co/rvQMkkXjP7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2094347846975992144",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4459,
+          "following_count": 6980,
+          "like_count": 8748,
+          "listed_count": 9,
+          "media_count": 2030,
+          "tweet_count": 7472
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095166918164701184",
+        "3_2095166933243252736",
+        "3_2095166949982683136",
+        "3_2095166969456869376"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2095166983000252438",
+    "created_at": "2026-09-02T15:08:29.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095166983000252438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GTENZcQpW7",
+          "end": 111,
+          "expanded_url": "https://x.com/LMegurine03/status/2095166983000252438/photo/1",
+          "media_key": "3_2095166918164701184",
+          "start": 88,
+          "url": "https://t.co/GTENZcQpW7"
+        },
+        {
+          "display_url": "pic.x.com/GTENZcQpW7",
+          "end": 111,
+          "expanded_url": "https://x.com/LMegurine03/status/2095166983000252438/photo/1",
+          "media_key": "3_2095166933243252736",
+          "start": 88,
+          "url": "https://t.co/GTENZcQpW7"
+        },
+        {
+          "display_url": "pic.x.com/GTENZcQpW7",
+          "end": 111,
+          "expanded_url": "https://x.com/LMegurine03/status/2095166983000252438/photo/1",
+          "media_key": "3_2095166949982683136",
+          "start": 88,
+          "url": "https://t.co/GTENZcQpW7"
+        },
+        {
+          "display_url": "pic.x.com/GTENZcQpW7",
+          "end": 111,
+          "expanded_url": "https://x.com/LMegurine03/status/2095166983000252438/photo/1",
+          "media_key": "3_2095166969456869376",
+          "start": 88,
+          "url": "https://t.co/GTENZcQpW7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095166983000252438",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095166918164701184"
+      },
+      {
+        "media_key": "3_2095166933243252736"
+      },
+      {
+        "media_key": "3_2095166949982683136"
+      },
+      {
+        "media_key": "3_2095166969456869376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大丽铁路上看到的苍山，是一组连续条带状的山岭组成，最高峰4122米，和山下洱海的水面有两千米以上的高差，中间狭窄的平缓地带就是大理城区和大理古城所在的范围，也分布着诸多的古镇 https://t.co/GTENZcQpW7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2095166918164701184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROHNh5bYAAVxDu.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2095166933243252736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROHOaEb0AA06ig.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2095166949982683136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROHPYbbQAARrB9.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2095166969456869376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROHQg-bwAAyLWz.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095166918164701184",
+            "3_2095166933243252736",
+            "3_2095166949982683136",
+            "3_2095166969456869376"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2095166983000252438",
+        "created_at": "2026-09-02T15:08:29.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095166983000252438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTENZcQpW7",
+              "end": 111,
+              "expanded_url": "https://x.com/LMegurine03/status/2095166983000252438/photo/1",
+              "media_key": "3_2095166918164701184",
+              "start": 88,
+              "url": "https://t.co/GTENZcQpW7"
+            },
+            {
+              "display_url": "pic.x.com/GTENZcQpW7",
+              "end": 111,
+              "expanded_url": "https://x.com/LMegurine03/status/2095166983000252438/photo/1",
+              "media_key": "3_2095166933243252736",
+              "start": 88,
+              "url": "https://t.co/GTENZcQpW7"
+            },
+            {
+              "display_url": "pic.x.com/GTENZcQpW7",
+              "end": 111,
+              "expanded_url": "https://x.com/LMegurine03/status/2095166983000252438/photo/1",
+              "media_key": "3_2095166949982683136",
+              "start": 88,
+              "url": "https://t.co/GTENZcQpW7"
+            },
+            {
+              "display_url": "pic.x.com/GTENZcQpW7",
+              "end": 111,
+              "expanded_url": "https://x.com/LMegurine03/status/2095166983000252438/photo/1",
+              "media_key": "3_2095166969456869376",
+              "start": 88,
+              "url": "https://t.co/GTENZcQpW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095166983000252438",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095166918164701184"
+          },
+          {
+            "media_key": "3_2095166933243252736"
+          },
+          {
+            "media_key": "3_2095166949982683136"
+          },
+          {
+            "media_key": "3_2095166969456869376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大丽铁路上看到的苍山，是一组连续条带状的山岭组成，最高峰4122米，和山下洱海的水面有两千米以上的高差，中间狭窄的平缓地带就是大理城区和大理古城所在的范围，也分布着诸多的古镇 https://t.co/GTENZcQpW7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2095166983000252438",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4466,
+          "following_count": 6976,
+          "like_count": 8793,
+          "listed_count": 9,
+          "media_count": 2041,
+          "tweet_count": 7507
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

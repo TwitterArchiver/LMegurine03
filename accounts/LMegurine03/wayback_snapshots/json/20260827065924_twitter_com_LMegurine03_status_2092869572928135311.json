@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092869505034989568",
+        "3_2092869521682120704",
+        "3_2092869541147934720",
+        "3_2092869557614702592"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2092869572928135311",
+    "created_at": "2026-08-27T06:59:24.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092869572928135311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vvwcTE9S8t",
+          "end": 72,
+          "expanded_url": "https://x.com/LMegurine03/status/2092869572928135311/photo/1",
+          "media_key": "3_2092869505034989568",
+          "start": 49,
+          "url": "https://t.co/vvwcTE9S8t"
+        },
+        {
+          "display_url": "pic.x.com/vvwcTE9S8t",
+          "end": 72,
+          "expanded_url": "https://x.com/LMegurine03/status/2092869572928135311/photo/1",
+          "media_key": "3_2092869521682120704",
+          "start": 49,
+          "url": "https://t.co/vvwcTE9S8t"
+        },
+        {
+          "display_url": "pic.x.com/vvwcTE9S8t",
+          "end": 72,
+          "expanded_url": "https://x.com/LMegurine03/status/2092869572928135311/photo/1",
+          "media_key": "3_2092869541147934720",
+          "start": 49,
+          "url": "https://t.co/vvwcTE9S8t"
+        },
+        {
+          "display_url": "pic.x.com/vvwcTE9S8t",
+          "end": 72,
+          "expanded_url": "https://x.com/LMegurine03/status/2092869572928135311/photo/1",
+          "media_key": "3_2092869557614702592",
+          "start": 49,
+          "url": "https://t.co/vvwcTE9S8t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092869572928135311",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092869505034989568"
+      },
+      {
+        "media_key": "3_2092869521682120704"
+      },
+      {
+        "media_key": "3_2092869541147934720"
+      },
+      {
+        "media_key": "3_2092869557614702592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "进大巴山之后云层覆盖就很厚了，什么也看不到，然后再见到地面，就直接来到了西安，下面应该是渭河那边 https://t.co/vvwcTE9S8t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2636,
+        "media_key": "3_2092869505034989568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtdufDbsAAWPo9.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2092869521682120704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtdvdEawAAaZvp.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2092869541147934720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtdwllbgAAkuCy.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2092869557614702592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtdxi7acAATBMw.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092869505034989568",
+            "3_2092869521682120704",
+            "3_2092869541147934720",
+            "3_2092869557614702592"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2092869572928135311",
+        "created_at": "2026-08-27T06:59:24.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092869572928135311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvwcTE9S8t",
+              "end": 72,
+              "expanded_url": "https://x.com/LMegurine03/status/2092869572928135311/photo/1",
+              "media_key": "3_2092869505034989568",
+              "start": 49,
+              "url": "https://t.co/vvwcTE9S8t"
+            },
+            {
+              "display_url": "pic.x.com/vvwcTE9S8t",
+              "end": 72,
+              "expanded_url": "https://x.com/LMegurine03/status/2092869572928135311/photo/1",
+              "media_key": "3_2092869521682120704",
+              "start": 49,
+              "url": "https://t.co/vvwcTE9S8t"
+            },
+            {
+              "display_url": "pic.x.com/vvwcTE9S8t",
+              "end": 72,
+              "expanded_url": "https://x.com/LMegurine03/status/2092869572928135311/photo/1",
+              "media_key": "3_2092869541147934720",
+              "start": 49,
+              "url": "https://t.co/vvwcTE9S8t"
+            },
+            {
+              "display_url": "pic.x.com/vvwcTE9S8t",
+              "end": 72,
+              "expanded_url": "https://x.com/LMegurine03/status/2092869572928135311/photo/1",
+              "media_key": "3_2092869557614702592",
+              "start": 49,
+              "url": "https://t.co/vvwcTE9S8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092869572928135311",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092869505034989568"
+          },
+          {
+            "media_key": "3_2092869521682120704"
+          },
+          {
+            "media_key": "3_2092869541147934720"
+          },
+          {
+            "media_key": "3_2092869557614702592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进大巴山之后云层覆盖就很厚了，什么也看不到，然后再见到地面，就直接来到了西安，下面应该是渭河那边 https://t.co/vvwcTE9S8t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2092869572928135311",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 7066,
+          "like_count": 8611,
+          "listed_count": 9,
+          "media_count": 1966,
+          "tweet_count": 7340
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
