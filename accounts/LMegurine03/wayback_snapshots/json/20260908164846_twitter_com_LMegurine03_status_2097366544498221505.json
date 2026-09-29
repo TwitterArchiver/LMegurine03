@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097366507298988032",
+        "3_2097366526756364288"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2097366544498221505",
+    "created_at": "2026-09-08T16:48:46.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097366544498221505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nuX2hVXjV1",
+          "end": 163,
+          "expanded_url": "https://x.com/LMegurine03/status/2097366544498221505/photo/1",
+          "media_key": "3_2097366507298988032",
+          "start": 140,
+          "url": "https://t.co/nuX2hVXjV1"
+        },
+        {
+          "display_url": "pic.x.com/nuX2hVXjV1",
+          "end": 163,
+          "expanded_url": "https://x.com/LMegurine03/status/2097366544498221505/photo/1",
+          "media_key": "3_2097366526756364288",
+          "start": 140,
+          "url": "https://t.co/nuX2hVXjV1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097366544498221505",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097366507298988032"
+      },
+      {
+        "media_key": "3_2097366526756364288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洱海廊桥……沿着湖边有一条非常完整的公路，40公里从大理市区到上关，上面只能步行和骑行，边上有各种各样的古镇和水边的平台，我们租车子骑了其中的6-7公里往返，去程断断续续还比较舒服，回程因为马上要下雨了，所以一次性骑到底的差不多用了23分钟，第一次骑这么远，回去之后其实特别疲惫 https://t.co/nuX2hVXjV1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2097366507298988032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtXud9boAAYLsi.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2097366526756364288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtXvmcboAA3Yno.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097366507298988032",
+            "3_2097366526756364288"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2097366544498221505",
+        "created_at": "2026-09-08T16:48:46.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097366544498221505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nuX2hVXjV1",
+              "end": 163,
+              "expanded_url": "https://x.com/LMegurine03/status/2097366544498221505/photo/1",
+              "media_key": "3_2097366507298988032",
+              "start": 140,
+              "url": "https://t.co/nuX2hVXjV1"
+            },
+            {
+              "display_url": "pic.x.com/nuX2hVXjV1",
+              "end": 163,
+              "expanded_url": "https://x.com/LMegurine03/status/2097366544498221505/photo/1",
+              "media_key": "3_2097366526756364288",
+              "start": 140,
+              "url": "https://t.co/nuX2hVXjV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097366544498221505",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097366507298988032"
+          },
+          {
+            "media_key": "3_2097366526756364288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洱海廊桥……沿着湖边有一条非常完整的公路，40公里从大理市区到上关，上面只能步行和骑行，边上有各种各样的古镇和水边的平台，我们租车子骑了其中的6-7公里往返，去程断断续续还比较舒服，回程因为马上要下雨了，所以一次性骑到底的差不多用了23分钟，第一次骑这么远，回去之后其实特别疲惫 https://t.co/nuX2hVXjV1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2097366544498221505",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 6820,
+          "like_count": 8994,
+          "listed_count": 10,
+          "media_count": 2178,
+          "tweet_count": 7714
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

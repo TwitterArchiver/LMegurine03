@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098495229242626048",
+        "3_2098495243914215425",
+        "3_2098495257235361792",
+        "3_2098495272662028288"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2098495283537772606",
+    "created_at": "2026-09-11T19:33:58.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098495283537772606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HPdr1uhd0q",
+          "end": 163,
+          "expanded_url": "https://x.com/LMegurine03/status/2098495283537772606/photo/1",
+          "media_key": "3_2098495229242626048",
+          "start": 140,
+          "url": "https://t.co/HPdr1uhd0q"
+        },
+        {
+          "display_url": "pic.x.com/HPdr1uhd0q",
+          "end": 163,
+          "expanded_url": "https://x.com/LMegurine03/status/2098495283537772606/photo/1",
+          "media_key": "3_2098495243914215425",
+          "start": 140,
+          "url": "https://t.co/HPdr1uhd0q"
+        },
+        {
+          "display_url": "pic.x.com/HPdr1uhd0q",
+          "end": 163,
+          "expanded_url": "https://x.com/LMegurine03/status/2098495283537772606/photo/1",
+          "media_key": "3_2098495257235361792",
+          "start": 140,
+          "url": "https://t.co/HPdr1uhd0q"
+        },
+        {
+          "display_url": "pic.x.com/HPdr1uhd0q",
+          "end": 163,
+          "expanded_url": "https://x.com/LMegurine03/status/2098495283537772606/photo/1",
+          "media_key": "3_2098495272662028288",
+          "start": 140,
+          "url": "https://t.co/HPdr1uhd0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098495283537772606",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098495229242626048"
+      },
+      {
+        "media_key": "3_2098495243914215425"
+      },
+      {
+        "media_key": "3_2098495257235361792"
+      },
+      {
+        "media_key": "3_2098495272662028288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个是麻园，滇缅铁路刚出昆明这一段的一个站点，原来是一个很繁华的集镇，但随着城市的扩展铁路的变迁就成为城市当中的小公园，现在还可以看到原来的站房，道岔还有平交道口，铁路是米轨制式，和东侧废弃的北站一样都是铁路历史景观，一个很有意思的地方……有一个歌手叫麻园诗人，应该也是这个地方 https://t.co/HPdr1uhd0q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098495229242626048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9aSu3b0AA4Lvy.jpg",
+        "width": 2131
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098495243914215425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9aTlhagAEsj4_.jpg",
+        "width": 2131
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098495257235361792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9aUXJbEAAz5nu.jpg",
+        "width": 2131
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098495272662028288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9aVQnbUAAZDFO.jpg",
+        "width": 2131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098495229242626048",
+            "3_2098495243914215425",
+            "3_2098495257235361792",
+            "3_2098495272662028288"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2098495283537772606",
+        "created_at": "2026-09-11T19:33:58.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098495283537772606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPdr1uhd0q",
+              "end": 163,
+              "expanded_url": "https://x.com/LMegurine03/status/2098495283537772606/photo/1",
+              "media_key": "3_2098495229242626048",
+              "start": 140,
+              "url": "https://t.co/HPdr1uhd0q"
+            },
+            {
+              "display_url": "pic.x.com/HPdr1uhd0q",
+              "end": 163,
+              "expanded_url": "https://x.com/LMegurine03/status/2098495283537772606/photo/1",
+              "media_key": "3_2098495243914215425",
+              "start": 140,
+              "url": "https://t.co/HPdr1uhd0q"
+            },
+            {
+              "display_url": "pic.x.com/HPdr1uhd0q",
+              "end": 163,
+              "expanded_url": "https://x.com/LMegurine03/status/2098495283537772606/photo/1",
+              "media_key": "3_2098495257235361792",
+              "start": 140,
+              "url": "https://t.co/HPdr1uhd0q"
+            },
+            {
+              "display_url": "pic.x.com/HPdr1uhd0q",
+              "end": 163,
+              "expanded_url": "https://x.com/LMegurine03/status/2098495283537772606/photo/1",
+              "media_key": "3_2098495272662028288",
+              "start": 140,
+              "url": "https://t.co/HPdr1uhd0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098495283537772606",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098495229242626048"
+          },
+          {
+            "media_key": "3_2098495243914215425"
+          },
+          {
+            "media_key": "3_2098495257235361792"
+          },
+          {
+            "media_key": "3_2098495272662028288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是麻园，滇缅铁路刚出昆明这一段的一个站点，原来是一个很繁华的集镇，但随着城市的扩展铁路的变迁就成为城市当中的小公园，现在还可以看到原来的站房，道岔还有平交道口，铁路是米轨制式，和东侧废弃的北站一样都是铁路历史景观，一个很有意思的地方……有一个歌手叫麻园诗人，应该也是这个地方 https://t.co/HPdr1uhd0q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2098495283537772606",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4476,
+          "following_count": 6726,
+          "like_count": 9060,
+          "listed_count": 10,
+          "media_count": 2231,
+          "tweet_count": 7804
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097372296856174592"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2097372360433369483",
+    "created_at": "2026-09-08T17:11:52.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097372360433369483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ixT0wzre5H",
+          "end": 46,
+          "expanded_url": "https://x.com/LMegurine03/status/2097372360433369483/video/1",
+          "media_key": "13_2097372296856174592",
+          "start": 23,
+          "url": "https://t.co/ixT0wzre5H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097372360433369483",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2097372296856174592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在树林中听水波的声音，真的是一个很独特的体验 https://t.co/ixT0wzre5H"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10480,
+        "height": 720,
+        "media_key": "13_2097372296856174592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097372296856174592/img/oIBIh6_oTJrjrCeb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097372296856174592/vid/avc1/480x270/n2s_W3OVZ-B0NmVN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097372296856174592/vid/avc1/640x360/mguryb_Ve_7gFo2U.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097372296856174592/vid/avc1/1280x720/b78BB__ma1laqhDm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097372296856174592/pl/1YU7guAlhYhqHyxH.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097372296856174592"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2097372360433369483",
+        "created_at": "2026-09-08T17:11:52.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097372360433369483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ixT0wzre5H",
+              "end": 46,
+              "expanded_url": "https://x.com/LMegurine03/status/2097372360433369483/video/1",
+              "media_key": "13_2097372296856174592",
+              "start": 23,
+              "url": "https://t.co/ixT0wzre5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097372360433369483",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097372296856174592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在树林中听水波的声音，真的是一个很独特的体验 https://t.co/ixT0wzre5H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2097372360433369483",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 6820,
+          "like_count": 8997,
+          "listed_count": 10,
+          "media_count": 2184,
+          "tweet_count": 7721
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

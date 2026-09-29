@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099167357256212480",
+        "3_2099167366693449728",
+        "13_2099167404396056576",
+        "13_2099167570331041792"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2099167758265286969",
+    "created_at": "2026-09-13T16:06:08.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099167758265286969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8wdsv3FjNN",
+          "end": 96,
+          "expanded_url": "https://x.com/LMegurine03/status/2099167758265286969/video/1",
+          "media_key": "3_2099167357256212480",
+          "start": 73,
+          "url": "https://t.co/8wdsv3FjNN"
+        },
+        {
+          "display_url": "pic.x.com/8wdsv3FjNN",
+          "end": 96,
+          "expanded_url": "https://x.com/LMegurine03/status/2099167758265286969/video/1",
+          "media_key": "3_2099167366693449728",
+          "start": 73,
+          "url": "https://t.co/8wdsv3FjNN"
+        },
+        {
+          "display_url": "pic.x.com/8wdsv3FjNN",
+          "end": 96,
+          "expanded_url": "https://x.com/LMegurine03/status/2099167758265286969/video/1",
+          "media_key": "13_2099167404396056576",
+          "start": 73,
+          "url": "https://t.co/8wdsv3FjNN"
+        },
+        {
+          "display_url": "pic.x.com/8wdsv3FjNN",
+          "end": 96,
+          "expanded_url": "https://x.com/LMegurine03/status/2099167758265286969/video/1",
+          "media_key": "13_2099167570331041792",
+          "start": 73,
+          "url": "https://t.co/8wdsv3FjNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099167758265286969",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099167357256212480"
+      },
+      {
+        "media_key": "3_2099167366693449728"
+      },
+      {
+        "media_key": "13_2099167404396056576"
+      },
+      {
+        "media_key": "13_2099167570331041792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是从金沙滩的海岸线返程……可以很清楚的看到有索道连接着的莲花山观景台，也能看到金沙滩，银沙滩和付家庄山海相间的海岸，外海还有几个形态各异的小岛 https://t.co/8wdsv3FjNN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2099167357256212480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSG9lu1aIAAdWh0.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2099167366693449728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSG9mR_a8AAzLKm.jpg",
+        "width": 1920
+      },
+      {
+        "duration_ms": 69822,
+        "height": 720,
+        "media_key": "13_2099167404396056576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099167404396056576/img/FJkMQxBhdpCTo0FK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099167404396056576/vid/avc1/480x270/IujIw0AAy88gtPqF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099167404396056576/vid/avc1/640x360/n9JkbXqUxZMY9ieX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099167404396056576/vid/avc1/1280x720/zaifng5K5XYq7Vm2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099167404396056576/pl/ThKBatwMTiQomdD_.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 71819,
+        "height": 720,
+        "media_key": "13_2099167570331041792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099167570331041792/img/SORQp_SIUbvo-Upt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099167570331041792/vid/avc1/480x270/XmVgWpLIdLvhWmUB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099167570331041792/vid/avc1/640x360/7UAELyqGMvAKu5Fh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099167570331041792/vid/avc1/1280x720/fjk-JS-0GNU2LJqd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099167570331041792/pl/dA1zF6CRL-Qykai0.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099167357256212480",
+            "3_2099167366693449728",
+            "13_2099167404396056576",
+            "13_2099167570331041792"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2099167758265286969",
+        "created_at": "2026-09-13T16:06:08.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099167758265286969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wdsv3FjNN",
+              "end": 96,
+              "expanded_url": "https://x.com/LMegurine03/status/2099167758265286969/video/1",
+              "media_key": "3_2099167357256212480",
+              "start": 73,
+              "url": "https://t.co/8wdsv3FjNN"
+            },
+            {
+              "display_url": "pic.x.com/8wdsv3FjNN",
+              "end": 96,
+              "expanded_url": "https://x.com/LMegurine03/status/2099167758265286969/video/1",
+              "media_key": "3_2099167366693449728",
+              "start": 73,
+              "url": "https://t.co/8wdsv3FjNN"
+            },
+            {
+              "display_url": "pic.x.com/8wdsv3FjNN",
+              "end": 96,
+              "expanded_url": "https://x.com/LMegurine03/status/2099167758265286969/video/1",
+              "media_key": "13_2099167404396056576",
+              "start": 73,
+              "url": "https://t.co/8wdsv3FjNN"
+            },
+            {
+              "display_url": "pic.x.com/8wdsv3FjNN",
+              "end": 96,
+              "expanded_url": "https://x.com/LMegurine03/status/2099167758265286969/video/1",
+              "media_key": "13_2099167570331041792",
+              "start": 73,
+              "url": "https://t.co/8wdsv3FjNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099167758265286969",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099167357256212480"
+          },
+          {
+            "media_key": "3_2099167366693449728"
+          },
+          {
+            "media_key": "13_2099167404396056576"
+          },
+          {
+            "media_key": "13_2099167570331041792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是从金沙滩的海岸线返程……可以很清楚的看到有索道连接着的莲花山观景台，也能看到金沙滩，银沙滩和付家庄山海相间的海岸，外海还有几个形态各异的小岛 https://t.co/8wdsv3FjNN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2099167758265286969",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 6693,
+          "like_count": 9113,
+          "listed_count": 10,
+          "media_count": 2261,
+          "tweet_count": 7849
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

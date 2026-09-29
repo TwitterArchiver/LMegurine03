@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097362297786441732",
+        "3_2097362322021081088"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2097362340136312847",
+    "created_at": "2026-09-08T16:32:03.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097362340136312847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cDUyCoFp8B",
+          "end": 106,
+          "expanded_url": "https://x.com/LMegurine03/status/2097362340136312847/photo/1",
+          "media_key": "3_2097362297786441732",
+          "start": 83,
+          "url": "https://t.co/cDUyCoFp8B"
+        },
+        {
+          "display_url": "pic.x.com/cDUyCoFp8B",
+          "end": 106,
+          "expanded_url": "https://x.com/LMegurine03/status/2097362340136312847/photo/1",
+          "media_key": "3_2097362322021081088",
+          "start": 83,
+          "url": "https://t.co/cDUyCoFp8B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097362340136312847",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097362297786441732"
+      },
+      {
+        "media_key": "3_2097362322021081088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个就是大理的小吃店，这种像饼一样的东西叫粑粑（1声），口味可以是甜的或者咸的，对于西南这边来讲是很熟悉的名字，但是对北方人可能不太友好，读错就是另一个东西了（x） https://t.co/cDUyCoFp8B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2636,
+        "media_key": "3_2097362297786441732",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtT5cTboAQaIvW.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2097362322021081088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtT62la4AAe9WP.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097362297786441732",
+            "3_2097362322021081088"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097362340136312847",
+        "created_at": "2026-09-08T16:32:03.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097362340136312847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cDUyCoFp8B",
+              "end": 106,
+              "expanded_url": "https://x.com/LMegurine03/status/2097362340136312847/photo/1",
+              "media_key": "3_2097362297786441732",
+              "start": 83,
+              "url": "https://t.co/cDUyCoFp8B"
+            },
+            {
+              "display_url": "pic.x.com/cDUyCoFp8B",
+              "end": 106,
+              "expanded_url": "https://x.com/LMegurine03/status/2097362340136312847/photo/1",
+              "media_key": "3_2097362322021081088",
+              "start": 83,
+              "url": "https://t.co/cDUyCoFp8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097362340136312847",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097362297786441732"
+          },
+          {
+            "media_key": "3_2097362322021081088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个就是大理的小吃店，这种像饼一样的东西叫粑粑（1声），口味可以是甜的或者咸的，对于西南这边来讲是很熟悉的名字，但是对北方人可能不太友好，读错就是另一个东西了（x） https://t.co/cDUyCoFp8B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2097362340136312847",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 6820,
+          "like_count": 8993,
+          "listed_count": 10,
+          "media_count": 2172,
+          "tweet_count": 7708
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

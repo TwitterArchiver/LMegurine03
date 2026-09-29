@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2098475581839131048",
+    "created_at": "2026-09-11T18:15:41.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T19:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098475581839131048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2098475351609627009",
+          "start": 20,
+          "url": "https://t.co/D2Rknua2c2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098475581839131048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098475351609627009",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶，这么多天前的帖子现在才发出来嘛（？ https://t.co/D2Rknua2c2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39590,
+        "height": 720,
+        "media_key": "13_2098473818331426817",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098473818331426817/img/Nee4O1R1tIvoKfCE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098473818331426817/vid/avc1/480x270/_bgHygW8DI3NsgkC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098473818331426817/vid/avc1/640x360/RLDkOx59uRfJs8JE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098473818331426817/vid/avc1/1280x720/tZvJRNEtyAD1NegO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098473818331426817/pl/scfNnA2zwVoB-ccJ.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 104954,
+        "height": 720,
+        "media_key": "13_2098474247710806016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098474247710806016/img/vbIKeQeWtHkafmau.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098474247710806016/vid/avc1/480x270/JrGB1s7D4zCGByyZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098474247710806016/vid/avc1/640x360/gHpbswGVDWr95sTE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098474247710806016/vid/avc1/1280x720/30RW7qjS_vm5ZUFE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098474247710806016/pl/4hyxHXsJFAEsD6Ed.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 83847,
+        "height": 720,
+        "media_key": "13_2098474737488027648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098474737488027648/img/AuMLpvfWsepDPCOq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098474737488027648/vid/avc1/480x270/8M4gtO4--Yz_iYik.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098474737488027648/vid/avc1/640x360/UnjwHAQqsNLWzJRI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098474737488027648/vid/avc1/1280x720/6aYwg2DY3Gblolvq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098474737488027648/pl/Wpga2qh6W5oTXmyq.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2098475581839131048",
+        "created_at": "2026-09-11T18:15:41.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098475581839131048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2098475351609627009",
+              "start": 20,
+              "url": "https://t.co/D2Rknua2c2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098475581839131048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098475351609627009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶，这么多天前的帖子现在才发出来嘛（？ https://t.co/D2Rknua2c2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098473818331426817",
+            "13_2098474247710806016",
+            "13_2098474737488027648"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2098475351609627009",
+        "created_at": "2026-09-11T18:14:46.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098475351609627009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1171043978201878528",
+              "start": 24,
+              "username": "Claris7070"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ainteQXCJB",
+              "end": 83,
+              "expanded_url": "https://x.com/LMegurine03/status/2098475351609627009/video/1",
+              "media_key": "13_2098473818331426817",
+              "start": 60,
+              "url": "https://t.co/ainteQXCJB"
+            },
+            {
+              "display_url": "pic.x.com/ainteQXCJB",
+              "end": 83,
+              "expanded_url": "https://x.com/LMegurine03/status/2098475351609627009/video/1",
+              "media_key": "13_2098474247710806016",
+              "start": 60,
+              "url": "https://t.co/ainteQXCJB"
+            },
+            {
+              "display_url": "pic.x.com/ainteQXCJB",
+              "end": 83,
+              "expanded_url": "https://x.com/LMegurine03/status/2098475351609627009/video/1",
+              "media_key": "13_2098474737488027648",
+              "start": 60,
+              "url": "https://t.co/ainteQXCJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098475351609627009",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098473818331426817"
+          },
+          {
+            "media_key": "13_2098474247710806016"
+          },
+          {
+            "media_key": "13_2098474737488027648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这边可以看到塔河湾的码头和地铁12号线，第一次和@Claris7070见面的时候就是去的这边玩，到现在已经快三个月了（ https://t.co/ainteQXCJB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2098475581839131048",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4476,
+          "following_count": 6725,
+          "like_count": 9052,
+          "listed_count": 10,
+          "media_count": 2212,
+          "tweet_count": 7784
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

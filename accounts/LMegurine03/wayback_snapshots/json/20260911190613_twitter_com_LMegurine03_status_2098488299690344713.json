@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098488133231030273"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2098488299690344713",
+    "created_at": "2026-09-11T19:06:13.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098488299690344713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sinKVb5L6j",
+          "end": 47,
+          "expanded_url": "https://x.com/LMegurine03/status/2098488299690344713/photo/1",
+          "media_key": "3_2098488133231030273",
+          "start": 24,
+          "url": "https://t.co/sinKVb5L6j"
+        },
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2098486741720346732",
+          "start": 48,
+          "url": "https://t.co/l6b2AjTELc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098488299690344713",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098488133231030273"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098486741720346732",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那天吃饭的地方就在这里……有一种热带的感觉（？ https://t.co/sinKVb5L6j https://t.co/l6b2AjTELc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2636,
+        "media_key": "3_2098488133231030273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9T1sKbsAEvcTg.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2098486263884152832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9SI4TaAAAzBwg.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2098486409250361345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9SRV1aUAEV0jD.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2098486542293676032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9SZFdaMAAf91d.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2098486641572937728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9Se3TbgAA9zwS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098488133231030273"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2098488299690344713",
+        "created_at": "2026-09-11T19:06:13.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098488299690344713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sinKVb5L6j",
+              "end": 47,
+              "expanded_url": "https://x.com/LMegurine03/status/2098488299690344713/photo/1",
+              "media_key": "3_2098488133231030273",
+              "start": 24,
+              "url": "https://t.co/sinKVb5L6j"
+            },
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2098486741720346732",
+              "start": 48,
+              "url": "https://t.co/l6b2AjTELc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098488299690344713",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098488133231030273"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098486741720346732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那天吃饭的地方就在这里……有一种热带的感觉（？ https://t.co/sinKVb5L6j https://t.co/l6b2AjTELc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098486263884152832",
+            "3_2098486409250361345",
+            "3_2098486542293676032",
+            "3_2098486641572937728"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098486741720346732",
+        "created_at": "2026-09-11T19:00:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098486741720346732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdFAsEHvX9",
+              "end": 164,
+              "expanded_url": "https://x.com/LMegurine03/status/2098486741720346732/photo/1",
+              "media_key": "3_2098486263884152832",
+              "start": 141,
+              "url": "https://t.co/DdFAsEHvX9"
+            },
+            {
+              "display_url": "pic.x.com/DdFAsEHvX9",
+              "end": 164,
+              "expanded_url": "https://x.com/LMegurine03/status/2098486741720346732/photo/1",
+              "media_key": "3_2098486409250361345",
+              "start": 141,
+              "url": "https://t.co/DdFAsEHvX9"
+            },
+            {
+              "display_url": "pic.x.com/DdFAsEHvX9",
+              "end": 164,
+              "expanded_url": "https://x.com/LMegurine03/status/2098486741720346732/photo/1",
+              "media_key": "3_2098486542293676032",
+              "start": 141,
+              "url": "https://t.co/DdFAsEHvX9"
+            },
+            {
+              "display_url": "pic.x.com/DdFAsEHvX9",
+              "end": 164,
+              "expanded_url": "https://x.com/LMegurine03/status/2098486741720346732/photo/1",
+              "media_key": "3_2098486641572937728",
+              "start": 141,
+              "url": "https://t.co/DdFAsEHvX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098486741720346732",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098486263884152832"
+          },
+          {
+            "media_key": "3_2098486409250361345"
+          },
+          {
+            "media_key": "3_2098486542293676032"
+          },
+          {
+            "media_key": "3_2098486641572937728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是在昆明吃的两种米线，第一个是过桥米线，就是汤，食材和米线都是分开的，需要自己将它们都加进去烫一下，有火腿，鸭肉，蟹柳还有小酥肉，蛋可能是鹌鹑蛋，然后加上花瓣和薄荷叶等一些小配菜，有的配菜我不愿吃，但是整体味道还是不错的……右边那个是昭通羊肉米线，更加简单直接，口感也同样很顺滑 https://t.co/DdFAsEHvX9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2098488299690344713",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4476,
+          "following_count": 6725,
+          "like_count": 9055,
+          "listed_count": 10,
+          "media_count": 2222,
+          "tweet_count": 7795
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2097382463572168880",
+    "created_at": "2026-09-08T17:52:01.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097382463572168880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LMegurine03/st…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/LMegurine03/status/2097373338188513467",
+          "start": 133,
+          "url": "https://t.co/fxeiFrW3zQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097382463572168880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097373338188513467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一直很好奇大理这边的佛教到底属于什么类型……一般是叫阿吒力教，属于密宗的一种，其中特点有大黑天的信仰比较典型，还有就是和国家政治的绑定比较密切，和藏传密教，缅甸密教，还有唐代密教有一些关联性，和南传佛教也有交流，但和它们彼此又根本不能等同……这个定位就很耐人寻味了 https://t.co/fxeiFrW3zQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2164,
+        "media_key": "3_2097373261273436161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtd3mebEAEFiNg.jpg",
+        "width": 3848
+      },
+      {
+        "height": 1852,
+        "media_key": "3_2097373279397048320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtd4p_bcAA6j12.jpg",
+        "width": 3294
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2097373297965232128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtd5vKbcAAwy7Q.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2097373315463876608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtd6wWbkAAHvVf.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2097382463572168880",
+        "created_at": "2026-09-08T17:52:01.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097382463572168880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LMegurine03/st…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/LMegurine03/status/2097373338188513467",
+              "start": 133,
+              "url": "https://t.co/fxeiFrW3zQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097382463572168880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097373338188513467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直很好奇大理这边的佛教到底属于什么类型……一般是叫阿吒力教，属于密宗的一种，其中特点有大黑天的信仰比较典型，还有就是和国家政治的绑定比较密切，和藏传密教，缅甸密教，还有唐代密教有一些关联性，和南传佛教也有交流，但和它们彼此又根本不能等同……这个定位就很耐人寻味了 https://t.co/fxeiFrW3zQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097373261273436161",
+            "3_2097373279397048320",
+            "3_2097373297965232128",
+            "3_2097373315463876608"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2097373338188513467",
+        "created_at": "2026-09-08T17:15:45.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097373338188513467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wmvy9LmxY3",
+              "end": 37,
+              "expanded_url": "https://x.com/LMegurine03/status/2097373338188513467/photo/1",
+              "media_key": "3_2097373261273436161",
+              "start": 14,
+              "url": "https://t.co/Wmvy9LmxY3"
+            },
+            {
+              "display_url": "pic.x.com/Wmvy9LmxY3",
+              "end": 37,
+              "expanded_url": "https://x.com/LMegurine03/status/2097373338188513467/photo/1",
+              "media_key": "3_2097373279397048320",
+              "start": 14,
+              "url": "https://t.co/Wmvy9LmxY3"
+            },
+            {
+              "display_url": "pic.x.com/Wmvy9LmxY3",
+              "end": 37,
+              "expanded_url": "https://x.com/LMegurine03/status/2097373338188513467/photo/1",
+              "media_key": "3_2097373297965232128",
+              "start": 14,
+              "url": "https://t.co/Wmvy9LmxY3"
+            },
+            {
+              "display_url": "pic.x.com/Wmvy9LmxY3",
+              "end": 37,
+              "expanded_url": "https://x.com/LMegurine03/status/2097373338188513467/photo/1",
+              "media_key": "3_2097373315463876608",
+              "start": 14,
+              "url": "https://t.co/Wmvy9LmxY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097373338188513467",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097373261273436161"
+          },
+          {
+            "media_key": "3_2097373279397048320"
+          },
+          {
+            "media_key": "3_2097373297965232128"
+          },
+          {
+            "media_key": "3_2097373315463876608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的有一种宗教秘境的感觉（ https://t.co/Wmvy9LmxY3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2097382463572168880",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4464,
+          "following_count": 6821,
+          "like_count": 9000,
+          "listed_count": 10,
+          "media_count": 2195,
+          "tweet_count": 7733
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

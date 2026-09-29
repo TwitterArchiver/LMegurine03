@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098483235932291072",
+        "3_2098483246657081344",
+        "3_2098483258917081088",
+        "3_2098483271697149952"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098483283239784459",
+    "created_at": "2026-09-11T18:46:17.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T19:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098483283239784459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yzIcWItTLE",
+          "end": 109,
+          "expanded_url": "https://x.com/LMegurine03/status/2098483283239784459/photo/1",
+          "media_key": "3_2098483235932291072",
+          "start": 86,
+          "url": "https://t.co/yzIcWItTLE"
+        },
+        {
+          "display_url": "pic.x.com/yzIcWItTLE",
+          "end": 109,
+          "expanded_url": "https://x.com/LMegurine03/status/2098483283239784459/photo/1",
+          "media_key": "3_2098483246657081344",
+          "start": 86,
+          "url": "https://t.co/yzIcWItTLE"
+        },
+        {
+          "display_url": "pic.x.com/yzIcWItTLE",
+          "end": 109,
+          "expanded_url": "https://x.com/LMegurine03/status/2098483283239784459/photo/1",
+          "media_key": "3_2098483258917081088",
+          "start": 86,
+          "url": "https://t.co/yzIcWItTLE"
+        },
+        {
+          "display_url": "pic.x.com/yzIcWItTLE",
+          "end": 109,
+          "expanded_url": "https://x.com/LMegurine03/status/2098483283239784459/photo/1",
+          "media_key": "3_2098483271697149952",
+          "start": 86,
+          "url": "https://t.co/yzIcWItTLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098483283239784459",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098483235932291072"
+      },
+      {
+        "media_key": "3_2098483246657081344"
+      },
+      {
+        "media_key": "3_2098483258917081088"
+      },
+      {
+        "media_key": "3_2098483271697149952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个是大理的火锅，可以算是真正意义上的菌汤火锅，鸡汤锅底配上各种各样的菌类，无论是喝汤还是涮肉吃，都特别让人上瘾……这个锅底不煮到一定时间还不让吃，不熟可能真的会有危险（ https://t.co/yzIcWItTLE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2636,
+        "media_key": "3_2098483235932291072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9PYoTbQAAO6Ak.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2098483246657081344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9PZQQakAAlb_v.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2098483258917081088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9PZ97bUAAUKrm.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2636,
+        "media_key": "3_2098483271697149952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9PatibsAAQYc_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098483235932291072",
+            "3_2098483246657081344",
+            "3_2098483258917081088",
+            "3_2098483271697149952"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098483283239784459",
+        "created_at": "2026-09-11T18:46:17.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098483283239784459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzIcWItTLE",
+              "end": 109,
+              "expanded_url": "https://x.com/LMegurine03/status/2098483283239784459/photo/1",
+              "media_key": "3_2098483235932291072",
+              "start": 86,
+              "url": "https://t.co/yzIcWItTLE"
+            },
+            {
+              "display_url": "pic.x.com/yzIcWItTLE",
+              "end": 109,
+              "expanded_url": "https://x.com/LMegurine03/status/2098483283239784459/photo/1",
+              "media_key": "3_2098483246657081344",
+              "start": 86,
+              "url": "https://t.co/yzIcWItTLE"
+            },
+            {
+              "display_url": "pic.x.com/yzIcWItTLE",
+              "end": 109,
+              "expanded_url": "https://x.com/LMegurine03/status/2098483283239784459/photo/1",
+              "media_key": "3_2098483258917081088",
+              "start": 86,
+              "url": "https://t.co/yzIcWItTLE"
+            },
+            {
+              "display_url": "pic.x.com/yzIcWItTLE",
+              "end": 109,
+              "expanded_url": "https://x.com/LMegurine03/status/2098483283239784459/photo/1",
+              "media_key": "3_2098483271697149952",
+              "start": 86,
+              "url": "https://t.co/yzIcWItTLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098483283239784459",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098483235932291072"
+          },
+          {
+            "media_key": "3_2098483246657081344"
+          },
+          {
+            "media_key": "3_2098483258917081088"
+          },
+          {
+            "media_key": "3_2098483271697149952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是大理的火锅，可以算是真正意义上的菌汤火锅，鸡汤锅底配上各种各样的菌类，无论是喝汤还是涮肉吃，都特别让人上瘾……这个锅底不煮到一定时间还不让吃，不熟可能真的会有危险（ https://t.co/yzIcWItTLE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2098483283239784459",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4476,
+          "following_count": 6725,
+          "like_count": 9055,
+          "listed_count": 10,
+          "media_count": 2217,
+          "tweet_count": 7790
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

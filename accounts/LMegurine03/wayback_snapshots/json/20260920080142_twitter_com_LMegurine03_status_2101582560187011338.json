@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101581986339147776",
+        "13_2101582161577209856",
+        "13_2101582309397012480",
+        "13_2101582483909435392"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2101582560187011338",
+    "created_at": "2026-09-20T08:01:42.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T09:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101582560187011338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9rpTdFmeVK",
+          "end": 87,
+          "expanded_url": "https://x.com/LMegurine03/status/2101582560187011338/video/1",
+          "media_key": "13_2101581986339147776",
+          "start": 64,
+          "url": "https://t.co/9rpTdFmeVK"
+        },
+        {
+          "display_url": "pic.x.com/9rpTdFmeVK",
+          "end": 87,
+          "expanded_url": "https://x.com/LMegurine03/status/2101582560187011338/video/1",
+          "media_key": "13_2101582161577209856",
+          "start": 64,
+          "url": "https://t.co/9rpTdFmeVK"
+        },
+        {
+          "display_url": "pic.x.com/9rpTdFmeVK",
+          "end": 87,
+          "expanded_url": "https://x.com/LMegurine03/status/2101582560187011338/video/1",
+          "media_key": "13_2101582309397012480",
+          "start": 64,
+          "url": "https://t.co/9rpTdFmeVK"
+        },
+        {
+          "display_url": "pic.x.com/9rpTdFmeVK",
+          "end": 87,
+          "expanded_url": "https://x.com/LMegurine03/status/2101582560187011338/video/1",
+          "media_key": "13_2101582483909435392",
+          "start": 64,
+          "url": "https://t.co/9rpTdFmeVK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101582560187011338",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2101581986339147776"
+      },
+      {
+        "media_key": "13_2101582161577209856"
+      },
+      {
+        "media_key": "13_2101582309397012480"
+      },
+      {
+        "media_key": "13_2101582483909435392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这次是航拍大黑石山坡上的千手观音和228国道，北面就是临海的悬崖，不过因为需要直面阳光以及地形遮挡的问题，飞行过程相对比较困难 https://t.co/9rpTdFmeVK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86900,
+        "height": 720,
+        "media_key": "13_2101581986339147776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101581986339147776/img/dTjGsYSVYYMGv3Uw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101581986339147776/vid/avc1/480x270/0x4m1u8cmIGQuNC0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101581986339147776/vid/avc1/640x360/zCQ0jrWwqOZaOLwx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101581986339147776/vid/avc1/1280x720/SSlDSbong2wlTOpw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101581986339147776/pl/sLYlcwFiMFTN09jq.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 133909,
+        "height": 720,
+        "media_key": "13_2101582161577209856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101582161577209856/img/_uNhe2eyZoAcgsD8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101582161577209856/vid/avc1/480x270/xC1bMLccaLRifi0O.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101582161577209856/vid/avc1/640x360/hctXAzRmL0W4wymK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101582161577209856/vid/avc1/1280x720/keeTifc2zvV7zQb-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101582161577209856/pl/Phmj9WWLdkxUjyns.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 127918,
+        "height": 720,
+        "media_key": "13_2101582309397012480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101582309397012480/img/UfhRrsVNeAYO0zHC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101582309397012480/vid/avc1/480x270/uy8JvKhZn-hOgnQA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101582309397012480/vid/avc1/640x360/wEvl9z5Wv7asBeb9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101582309397012480/vid/avc1/1280x720/IJBkAmrgCq9w71AD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101582309397012480/pl/yUn56W1VAVkvL92w.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 138483,
+        "height": 720,
+        "media_key": "13_2101582483909435392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101582483909435392/img/H2o58Hoygs7a18UM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101582483909435392/vid/avc1/480x270/ZWqUyn3nwrSnds6e.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101582483909435392/vid/avc1/640x360/mzMYPJppa97BnzXN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101582483909435392/vid/avc1/1280x720/TY5CISMLqT6rIqdx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101582483909435392/pl/xrdjcTvUgJVO6BdZ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101581986339147776",
+            "13_2101582161577209856",
+            "13_2101582309397012480",
+            "13_2101582483909435392"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2101582560187011338",
+        "created_at": "2026-09-20T08:01:42.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101582560187011338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rpTdFmeVK",
+              "end": 87,
+              "expanded_url": "https://x.com/LMegurine03/status/2101582560187011338/video/1",
+              "media_key": "13_2101581986339147776",
+              "start": 64,
+              "url": "https://t.co/9rpTdFmeVK"
+            },
+            {
+              "display_url": "pic.x.com/9rpTdFmeVK",
+              "end": 87,
+              "expanded_url": "https://x.com/LMegurine03/status/2101582560187011338/video/1",
+              "media_key": "13_2101582161577209856",
+              "start": 64,
+              "url": "https://t.co/9rpTdFmeVK"
+            },
+            {
+              "display_url": "pic.x.com/9rpTdFmeVK",
+              "end": 87,
+              "expanded_url": "https://x.com/LMegurine03/status/2101582560187011338/video/1",
+              "media_key": "13_2101582309397012480",
+              "start": 64,
+              "url": "https://t.co/9rpTdFmeVK"
+            },
+            {
+              "display_url": "pic.x.com/9rpTdFmeVK",
+              "end": 87,
+              "expanded_url": "https://x.com/LMegurine03/status/2101582560187011338/video/1",
+              "media_key": "13_2101582483909435392",
+              "start": 64,
+              "url": "https://t.co/9rpTdFmeVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101582560187011338",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101581986339147776"
+          },
+          {
+            "media_key": "13_2101582161577209856"
+          },
+          {
+            "media_key": "13_2101582309397012480"
+          },
+          {
+            "media_key": "13_2101582483909435392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次是航拍大黑石山坡上的千手观音和228国道，北面就是临海的悬崖，不过因为需要直面阳光以及地形遮挡的问题，飞行过程相对比较困难 https://t.co/9rpTdFmeVK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2101582560187011338",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1789407748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4472,
+          "following_count": 6456,
+          "like_count": 9171,
+          "listed_count": 10,
+          "media_count": 2279,
+          "tweet_count": 7888
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

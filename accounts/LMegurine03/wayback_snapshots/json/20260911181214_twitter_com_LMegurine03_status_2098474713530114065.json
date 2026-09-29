@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098471770441519104",
+        "3_2098473818302095360",
+        "3_2098473975726927872",
+        "13_2098474253062750208"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2098474713530114065",
+    "created_at": "2026-09-11T18:12:14.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T19:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098474713530114065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zwFmHCIx8w",
+          "end": 95,
+          "expanded_url": "https://x.com/LMegurine03/status/2098474713530114065/video/1",
+          "media_key": "3_2098471770441519104",
+          "start": 72,
+          "url": "https://t.co/zwFmHCIx8w"
+        },
+        {
+          "display_url": "pic.x.com/zwFmHCIx8w",
+          "end": 95,
+          "expanded_url": "https://x.com/LMegurine03/status/2098474713530114065/video/1",
+          "media_key": "3_2098473818302095360",
+          "start": 72,
+          "url": "https://t.co/zwFmHCIx8w"
+        },
+        {
+          "display_url": "pic.x.com/zwFmHCIx8w",
+          "end": 95,
+          "expanded_url": "https://x.com/LMegurine03/status/2098474713530114065/video/1",
+          "media_key": "3_2098473975726927872",
+          "start": 72,
+          "url": "https://t.co/zwFmHCIx8w"
+        },
+        {
+          "display_url": "pic.x.com/zwFmHCIx8w",
+          "end": 95,
+          "expanded_url": "https://x.com/LMegurine03/status/2098474713530114065/video/1",
+          "media_key": "13_2098474253062750208",
+          "start": 72,
+          "url": "https://t.co/zwFmHCIx8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098474713530114065",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098471770441519104"
+      },
+      {
+        "media_key": "3_2098473818302095360"
+      },
+      {
+        "media_key": "3_2098473975726927872"
+      },
+      {
+        "media_key": "13_2098474253062750208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这一段是安全距离内尽可能的接近大桥的主跨，沿着大桥的东部边缘返航……车流灯光海水的运动尽收眼底，像在触摸整个城市的律动，有一种难以言表的满足感 https://t.co/zwFmHCIx8w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2098471770441519104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9E9QBaEAASXEh.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2098473818302095360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9G0c5aoAAMepi.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2098473975726927872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9G9nWa8AAwYW7.jpg",
+        "width": 1920
+      },
+      {
+        "duration_ms": 121951,
+        "height": 720,
+        "media_key": "13_2098474253062750208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098474253062750208/img/N2AcF4YSP_z0Xx-Q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098474253062750208/vid/avc1/480x270/-9wOczrg4WgmiDa8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098474253062750208/vid/avc1/640x360/3rqBFPswD5yPPg47.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098474253062750208/vid/avc1/1280x720/bm-6C6OwJ3LfdZxz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098474253062750208/pl/hEtF-rYvizGs07TH.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098471770441519104",
+            "3_2098473818302095360",
+            "3_2098473975726927872",
+            "13_2098474253062750208"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2098474713530114065",
+        "created_at": "2026-09-11T18:12:14.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098474713530114065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwFmHCIx8w",
+              "end": 95,
+              "expanded_url": "https://x.com/LMegurine03/status/2098474713530114065/video/1",
+              "media_key": "3_2098471770441519104",
+              "start": 72,
+              "url": "https://t.co/zwFmHCIx8w"
+            },
+            {
+              "display_url": "pic.x.com/zwFmHCIx8w",
+              "end": 95,
+              "expanded_url": "https://x.com/LMegurine03/status/2098474713530114065/video/1",
+              "media_key": "3_2098473818302095360",
+              "start": 72,
+              "url": "https://t.co/zwFmHCIx8w"
+            },
+            {
+              "display_url": "pic.x.com/zwFmHCIx8w",
+              "end": 95,
+              "expanded_url": "https://x.com/LMegurine03/status/2098474713530114065/video/1",
+              "media_key": "3_2098473975726927872",
+              "start": 72,
+              "url": "https://t.co/zwFmHCIx8w"
+            },
+            {
+              "display_url": "pic.x.com/zwFmHCIx8w",
+              "end": 95,
+              "expanded_url": "https://x.com/LMegurine03/status/2098474713530114065/video/1",
+              "media_key": "13_2098474253062750208",
+              "start": 72,
+              "url": "https://t.co/zwFmHCIx8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098474713530114065",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098471770441519104"
+          },
+          {
+            "media_key": "3_2098473818302095360"
+          },
+          {
+            "media_key": "3_2098473975726927872"
+          },
+          {
+            "media_key": "13_2098474253062750208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这一段是安全距离内尽可能的接近大桥的主跨，沿着大桥的东部边缘返航……车流灯光海水的运动尽收眼底，像在触摸整个城市的律动，有一种难以言表的满足感 https://t.co/zwFmHCIx8w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2098474713530114065",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4476,
+          "following_count": 6725,
+          "like_count": 9051,
+          "listed_count": 10,
+          "media_count": 2211,
+          "tweet_count": 7781
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

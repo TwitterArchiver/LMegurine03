@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2099202196529361307",
+    "created_at": "2026-09-13T18:22:59.000Z",
+    "display_text_range": [
+      0,
+      167
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T19:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099202196529361307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "[Mnet M COUNTDOWN 282회]중에서",
+          "display_url": "youtu.be/XGBhs2xPYiU?si…",
+          "end": 167,
+          "expanded_url": "https://youtu.be/XGBhs2xPYiU?si=g0S7R-C2eI3Ax198",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2099202201084452864/PEZjXkHL?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2099202201084452864/PEZjXkHL?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 144,
+          "status": 200,
+          "title": "[STAR ZOOM IN] THE legendary song of BIGBANG, 'Fantastic Baby' BOOM! Shakalaka♬ 160610 EP.98",
+          "unwound_url": "https://www.youtube.com/watch?si=g0S7R-C2eI3Ax198&v=XGBhs2xPYiU&feature=youtu.be",
+          "url": "https://t.co/qJRyixMz25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099202196529361307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day 24 来自我会可惜他们解散的乐队的歌\n\nFantastic Baby\n\n其实现实当中BigBang这个组合并没有解散，但是是我能想到最接近这种状态的组合了……他们五个人当年就厉害在于每个人都可以拥有歌曲当中独属于自己的一段，这样的歌曲才是有灵魂的，而不是可以随意替换的工业零件\n\nhttps://t.co/qJRyixMz25"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2099202196529361307",
+        "created_at": "2026-09-13T18:22:59.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099202196529361307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "[Mnet M COUNTDOWN 282회]중에서",
+              "display_url": "youtu.be/XGBhs2xPYiU?si…",
+              "end": 167,
+              "expanded_url": "https://youtu.be/XGBhs2xPYiU?si=g0S7R-C2eI3Ax198",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2099202201084452864/PEZjXkHL?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2099202201084452864/PEZjXkHL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 144,
+              "status": 200,
+              "title": "[STAR ZOOM IN] THE legendary song of BIGBANG, 'Fantastic Baby' BOOM! Shakalaka♬ 160610 EP.98",
+              "unwound_url": "https://www.youtube.com/watch?si=g0S7R-C2eI3Ax198&v=XGBhs2xPYiU&feature=youtu.be",
+              "url": "https://t.co/qJRyixMz25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099202196529361307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day 24 来自我会可惜他们解散的乐队的歌\n\nFantastic Baby\n\n其实现实当中BigBang这个组合并没有解散，但是是我能想到最接近这种状态的组合了……他们五个人当年就厉害在于每个人都可以拥有歌曲当中独属于自己的一段，这样的歌曲才是有灵魂的，而不是可以随意替换的工业零件\n\nhttps://t.co/qJRyixMz25"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2099202196529361307",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 6666,
+          "like_count": 9121,
+          "listed_count": 10,
+          "media_count": 2265,
+          "tweet_count": 7873
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

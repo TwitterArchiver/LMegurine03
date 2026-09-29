@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097371738241982464",
+        "3_2097371760161443840",
+        "3_2097371781359443968",
+        "3_2097371805405376512"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2097371820894912593",
+    "created_at": "2026-09-08T17:09:44.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097371820894912593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4I3W29OcI",
+          "end": 89,
+          "expanded_url": "https://x.com/LMegurine03/status/2097371820894912593/photo/1",
+          "media_key": "3_2097371738241982464",
+          "start": 66,
+          "url": "https://t.co/x4I3W29OcI"
+        },
+        {
+          "display_url": "pic.x.com/x4I3W29OcI",
+          "end": 89,
+          "expanded_url": "https://x.com/LMegurine03/status/2097371820894912593/photo/1",
+          "media_key": "3_2097371760161443840",
+          "start": 66,
+          "url": "https://t.co/x4I3W29OcI"
+        },
+        {
+          "display_url": "pic.x.com/x4I3W29OcI",
+          "end": 89,
+          "expanded_url": "https://x.com/LMegurine03/status/2097371820894912593/photo/1",
+          "media_key": "3_2097371781359443968",
+          "start": 66,
+          "url": "https://t.co/x4I3W29OcI"
+        },
+        {
+          "display_url": "pic.x.com/x4I3W29OcI",
+          "end": 89,
+          "expanded_url": "https://x.com/LMegurine03/status/2097371820894912593/photo/1",
+          "media_key": "3_2097371805405376512",
+          "start": 66,
+          "url": "https://t.co/x4I3W29OcI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097371820894912593",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097371738241982464"
+      },
+      {
+        "media_key": "3_2097371760161443840"
+      },
+      {
+        "media_key": "3_2097371781359443968"
+      },
+      {
+        "media_key": "3_2097371805405376512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是大理崇圣寺的三塔，是历史上南诏国的佛教中心，属于大理密教，也是天龙八部当中天龙寺的原型，面朝洱海背倚苍山，是大理的城市名片之一 https://t.co/x4I3W29OcI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2097371738241982464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtce8vbYAAICVH.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2097371760161443840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtcgOZb0AAoiUl.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2634,
+        "media_key": "3_2097371781359443968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtchdXboAAEY4H.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2097371805405376512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtci28bcAAVm-J.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097371738241982464",
+            "3_2097371760161443840",
+            "3_2097371781359443968",
+            "3_2097371805405376512"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2097371820894912593",
+        "created_at": "2026-09-08T17:09:44.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097371820894912593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4I3W29OcI",
+              "end": 89,
+              "expanded_url": "https://x.com/LMegurine03/status/2097371820894912593/photo/1",
+              "media_key": "3_2097371738241982464",
+              "start": 66,
+              "url": "https://t.co/x4I3W29OcI"
+            },
+            {
+              "display_url": "pic.x.com/x4I3W29OcI",
+              "end": 89,
+              "expanded_url": "https://x.com/LMegurine03/status/2097371820894912593/photo/1",
+              "media_key": "3_2097371760161443840",
+              "start": 66,
+              "url": "https://t.co/x4I3W29OcI"
+            },
+            {
+              "display_url": "pic.x.com/x4I3W29OcI",
+              "end": 89,
+              "expanded_url": "https://x.com/LMegurine03/status/2097371820894912593/photo/1",
+              "media_key": "3_2097371781359443968",
+              "start": 66,
+              "url": "https://t.co/x4I3W29OcI"
+            },
+            {
+              "display_url": "pic.x.com/x4I3W29OcI",
+              "end": 89,
+              "expanded_url": "https://x.com/LMegurine03/status/2097371820894912593/photo/1",
+              "media_key": "3_2097371805405376512",
+              "start": 66,
+              "url": "https://t.co/x4I3W29OcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097371820894912593",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097371738241982464"
+          },
+          {
+            "media_key": "3_2097371760161443840"
+          },
+          {
+            "media_key": "3_2097371781359443968"
+          },
+          {
+            "media_key": "3_2097371805405376512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是大理崇圣寺的三塔，是历史上南诏国的佛教中心，属于大理密教，也是天龙八部当中天龙寺的原型，面朝洱海背倚苍山，是大理的城市名片之一 https://t.co/x4I3W29OcI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2097371820894912593",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1784141419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 6820,
+          "like_count": 8996,
+          "listed_count": 10,
+          "media_count": 2183,
+          "tweet_count": 7720
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
