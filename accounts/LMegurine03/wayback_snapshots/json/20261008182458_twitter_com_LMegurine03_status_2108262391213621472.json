@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2107891404311802263",
+    "created_at": "2026-10-08T18:24:58.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T19:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108262391213621472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699273459325390848",
+          "start": 0,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108262391213621472",
+    "in_reply_to_user_id": "1699273459325390848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108002394617577632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DurantRaym93677 60次嘛，那很多了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2107891404311802263",
+        "created_at": "2026-10-08T18:24:58.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T19:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108262391213621472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108262391213621472",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108002394617577632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 60次嘛，那很多了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699273459325390848",
+        "conversation_id": "2107891404311802263",
+        "created_at": "2026-10-08T01:11:50.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T02:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108002394617577632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108002394617577632",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107891404311802263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 在里面打出来过的次数吗🐱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2108262391213621472",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1789407748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 5797,
+          "like_count": 9374,
+          "listed_count": 10,
+          "media_count": 2390,
+          "tweet_count": 8053
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼🔑裏: @AmmieColl84391 / 🌠サブ: @AuroraYume (フォロー大歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @Chiyorin0908",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "AuroraYume"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "enchenia"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "Chiyorin0908"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2108188777198076122",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991375034833883218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699273459325390848/1738540793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3824,
+          "following_count": 4428,
+          "like_count": 54879,
+          "listed_count": 20,
+          "media_count": 666,
+          "tweet_count": 13434
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

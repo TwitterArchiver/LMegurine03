@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107873442049720321",
+        "3_2107873538200031232",
+        "3_2107873600028258304",
+        "3_2107873672056946688"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2107873717447798975",
+    "created_at": "2026-10-07T16:40:31.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T17:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107873717447798975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oGcufH32Dn",
+          "end": 84,
+          "expanded_url": "https://x.com/LMegurine03/status/2107873717447798975/photo/1",
+          "media_key": "3_2107873442049720321",
+          "start": 61,
+          "url": "https://t.co/oGcufH32Dn"
+        },
+        {
+          "display_url": "pic.x.com/oGcufH32Dn",
+          "end": 84,
+          "expanded_url": "https://x.com/LMegurine03/status/2107873717447798975/photo/1",
+          "media_key": "3_2107873538200031232",
+          "start": 61,
+          "url": "https://t.co/oGcufH32Dn"
+        },
+        {
+          "display_url": "pic.x.com/oGcufH32Dn",
+          "end": 84,
+          "expanded_url": "https://x.com/LMegurine03/status/2107873717447798975/photo/1",
+          "media_key": "3_2107873600028258304",
+          "start": 61,
+          "url": "https://t.co/oGcufH32Dn"
+        },
+        {
+          "display_url": "pic.x.com/oGcufH32Dn",
+          "end": 84,
+          "expanded_url": "https://x.com/LMegurine03/status/2107873717447798975/photo/1",
+          "media_key": "3_2107873672056946688",
+          "start": 61,
+          "url": "https://t.co/oGcufH32Dn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107873717447798975",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107873442049720321"
+      },
+      {
+        "media_key": "3_2107873538200031232"
+      },
+      {
+        "media_key": "3_2107873600028258304"
+      },
+      {
+        "media_key": "3_2107873672056946688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是整个城市西侧的风景，可以看到星海湾大桥和城市西部的山地，叫得上名的山峰几乎都能看见，最远能够看到44公里以外的老铁山 https://t.co/oGcufH32Dn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2107873442049720321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCrukDagAEr8tz.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2107873538200031232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCr0KPb0AANbov.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2296,
+        "media_key": "3_2107873600028258304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCr3wkbsAAH-HH.jpg",
+        "width": 4080
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2107873672056946688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCr785aQAAsMTf.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107873442049720321",
+            "3_2107873538200031232",
+            "3_2107873600028258304",
+            "3_2107873672056946688"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2107873717447798975",
+        "created_at": "2026-10-07T16:40:31.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T17:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107873717447798975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGcufH32Dn",
+              "end": 84,
+              "expanded_url": "https://x.com/LMegurine03/status/2107873717447798975/photo/1",
+              "media_key": "3_2107873442049720321",
+              "start": 61,
+              "url": "https://t.co/oGcufH32Dn"
+            },
+            {
+              "display_url": "pic.x.com/oGcufH32Dn",
+              "end": 84,
+              "expanded_url": "https://x.com/LMegurine03/status/2107873717447798975/photo/1",
+              "media_key": "3_2107873538200031232",
+              "start": 61,
+              "url": "https://t.co/oGcufH32Dn"
+            },
+            {
+              "display_url": "pic.x.com/oGcufH32Dn",
+              "end": 84,
+              "expanded_url": "https://x.com/LMegurine03/status/2107873717447798975/photo/1",
+              "media_key": "3_2107873600028258304",
+              "start": 61,
+              "url": "https://t.co/oGcufH32Dn"
+            },
+            {
+              "display_url": "pic.x.com/oGcufH32Dn",
+              "end": 84,
+              "expanded_url": "https://x.com/LMegurine03/status/2107873717447798975/photo/1",
+              "media_key": "3_2107873672056946688",
+              "start": 61,
+              "url": "https://t.co/oGcufH32Dn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107873717447798975",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107873442049720321"
+          },
+          {
+            "media_key": "3_2107873538200031232"
+          },
+          {
+            "media_key": "3_2107873600028258304"
+          },
+          {
+            "media_key": "3_2107873672056946688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是整个城市西侧的风景，可以看到星海湾大桥和城市西部的山地，叫得上名的山峰几乎都能看见，最远能够看到44公里以外的老铁山 https://t.co/oGcufH32Dn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2107873717447798975",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1789407748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 5816,
+          "like_count": 9361,
+          "listed_count": 10,
+          "media_count": 2339,
+          "tweet_count": 7987
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "2103735930146451540",
+    "created_at": "2026-09-29T19:23:31.000Z",
+    "display_text_range": [
+      14,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T20:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105015637303292275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082975744050003968",
+          "start": 0,
+          "username": "StukdeeGorye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105015637303292275",
+    "in_reply_to_user_id": "2082975744050003968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103799431325946324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StukdeeGorye 本来也想爽一把来着，课没调好，昨天上了一节eju，假期没连上（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "2103735930146451540",
+        "created_at": "2026-09-29T19:23:31.000Z",
+        "display_text_range": [
+          14,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T20:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105015637303292275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082975744050003968",
+              "start": 0,
+              "username": "StukdeeGorye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105015637303292275",
+        "in_reply_to_user_id": "2082975744050003968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103799431325946324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StukdeeGorye 本来也想爽一把来着，课没调好，昨天上了一节eju，假期没连上（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082975744050003968",
+        "conversation_id": "2103735930146451540",
+        "created_at": "2026-09-26T10:50:45.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103799431325946324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103799431325946324",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103735930146451540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 这也太爽了吧！！！(´o̴̶̷̤ㅂo̴̶̷̤`)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2105015637303292275",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1789407748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4476,
+          "following_count": 6125,
+          "like_count": 9309,
+          "listed_count": 10,
+          "media_count": 2328,
+          "tweet_count": 7969
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T23:46:45.000Z",
+        "description": "hello呀，我是小克❤️，喜欢研究稀奇古怪的东西(((o(*ﾟ▽ﾟ*)o)))\n喜欢游戏制作（虽然还没有成品），闲暇时喜欢研究古籍，喜欢玩minecraft，是特仑苏🥛和明治巧克力🍫（特浓牛奶味最好吃）的忠实粉丝\n偶尔尝试画画\n喜欢猫咪（猫咪快点统治世界吧！！！）\n欢迎互fo、聊天私信Oᴗoಣ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stukdee.is-a.dev",
+                "end": 23,
+                "expanded_url": "https://stukdee.is-a.dev",
+                "start": 0,
+                "url": "https://t.co/Rtb8Ao7X5L"
+              }
+            ]
+          }
+        },
+        "id": "2082975744050003968",
+        "is_identity_verified": false,
+        "location": "喵星球",
+        "most_recent_tweet_id": "2104102161013698818",
+        "name": "Stukdee Gorye",
+        "pinned_tweet_id": "2088913158211866746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082975744050003968/1787444241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082976349258756096/OMOfV4IQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 343,
+          "like_count": 1782,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 901
+        },
+        "url": "https://t.co/Rtb8Ao7X5L",
+        "username": "StukdeeGorye",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

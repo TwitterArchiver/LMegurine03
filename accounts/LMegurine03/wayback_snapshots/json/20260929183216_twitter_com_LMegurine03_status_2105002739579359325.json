@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105002723678814208"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2105002739579359325",
+    "created_at": "2026-09-29T18:32:16.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T19:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105002739579359325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1171043978201878528",
+          "start": 10,
+          "username": "Claris7070"
+        },
+        {
+          "end": 33,
+          "id": "1295507211599278081",
+          "start": 23,
+          "username": "AZURE_UwU"
+        },
+        {
+          "end": 47,
+          "id": "1591959828573757440",
+          "start": 35,
+          "username": "a2517337359"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5aXnkutv8M",
+          "end": 71,
+          "expanded_url": "https://x.com/LMegurine03/status/2105002739579359325/photo/1",
+          "media_key": "3_2105002723678814208",
+          "start": 48,
+          "url": "https://t.co/5aXnkutv8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105002739579359325",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105002723678814208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美味😋\nwith \n@Claris7070 \n@AZURE_UwU \n@a2517337359 https://t.co/5aXnkutv8M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_2105002723678814208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZ40wwbAAAbM30.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105002723678814208"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105002739579359325",
+        "created_at": "2026-09-29T18:32:16.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T19:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105002739579359325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1171043978201878528",
+              "start": 10,
+              "username": "Claris7070"
+            },
+            {
+              "end": 33,
+              "id": "1295507211599278081",
+              "start": 23,
+              "username": "AZURE_UwU"
+            },
+            {
+              "end": 47,
+              "id": "1591959828573757440",
+              "start": 35,
+              "username": "a2517337359"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5aXnkutv8M",
+              "end": 71,
+              "expanded_url": "https://x.com/LMegurine03/status/2105002739579359325/photo/1",
+              "media_key": "3_2105002723678814208",
+              "start": 48,
+              "url": "https://t.co/5aXnkutv8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105002739579359325",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105002723678814208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美味😋\nwith \n@Claris7070 \n@AZURE_UwU \n@a2517337359 https://t.co/5aXnkutv8M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2105002739579359325",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1789407748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 6124,
+          "like_count": 9306,
+          "listed_count": 10,
+          "media_count": 2326,
+          "tweet_count": 7962
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtf（？）\n可以叫我 绮绫/70  欢迎来戳☺️同类互fo喵",
+        "id": "1171043978201878528",
+        "is_identity_verified": false,
+        "location": "unknown",
+        "most_recent_tweet_id": "2104942710805389670",
+        "name": "Claris🍥",
+        "pinned_tweet_id": "2079267056227438963",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171043978201878528/1786718213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 523,
+          "like_count": 1773,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 3372
+        },
+        "url": "",
+        "username": "Claris7070",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-17T23:46:16.000Z",
+        "description": "电子信息工程系｜生产日期06😋",
+        "id": "1295507211599278081",
+        "is_identity_verified": false,
+        "location": "你心里🩵",
+        "most_recent_tweet_id": "2104921124509528453",
+        "name": "AZURE 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1295507211599278081/1775725470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104239628719108096/uuLMLGKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 884,
+          "like_count": 25971,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "AZURE_UwU",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T01:03:22.000Z",
+        "description": "04年小朋友😚？｜🏳️‍⚧️HRT：2026.3.17|INFP | 不知道开发什么｜喜欢可爱的东西｜精神状态超好｜想交更多的朋友！\n最好的姐妹 大姐大@Yunmengyue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Yunmengyue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizuki30870",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizuki30870",
+                "start": 0,
+                "url": "https://t.co/dKXzgYeQRH"
+              }
+            ]
+          }
+        },
+        "id": "1591959828573757440",
+        "is_identity_verified": false,
+        "location": "1.2km",
+        "most_recent_tweet_id": "2104948012544033092",
+        "name": "水希ちゃん🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591959828573757440/1768892982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081195740932825088/jl5H_BPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 335,
+          "like_count": 2202,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/dKXzgYeQRH",
+        "username": "a2517337359",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

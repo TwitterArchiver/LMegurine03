@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107881179701760000",
+        "3_2107881225650348032",
+        "3_2107881323746738176",
+        "3_2107881406743650304"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2107881460602732873",
+    "created_at": "2026-10-07T17:11:17.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T18:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107881460602732873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QMzhZu4HA4",
+          "end": 43,
+          "expanded_url": "https://x.com/LMegurine03/status/2107881460602732873/photo/1",
+          "media_key": "3_2107881179701760000",
+          "start": 20,
+          "url": "https://t.co/QMzhZu4HA4"
+        },
+        {
+          "display_url": "pic.x.com/QMzhZu4HA4",
+          "end": 43,
+          "expanded_url": "https://x.com/LMegurine03/status/2107881460602732873/photo/1",
+          "media_key": "3_2107881225650348032",
+          "start": 20,
+          "url": "https://t.co/QMzhZu4HA4"
+        },
+        {
+          "display_url": "pic.x.com/QMzhZu4HA4",
+          "end": 43,
+          "expanded_url": "https://x.com/LMegurine03/status/2107881460602732873/photo/1",
+          "media_key": "3_2107881323746738176",
+          "start": 20,
+          "url": "https://t.co/QMzhZu4HA4"
+        },
+        {
+          "display_url": "pic.x.com/QMzhZu4HA4",
+          "end": 43,
+          "expanded_url": "https://x.com/LMegurine03/status/2107881460602732873/photo/1",
+          "media_key": "3_2107881406743650304",
+          "start": 20,
+          "url": "https://t.co/QMzhZu4HA4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107881460602732873",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107881179701760000"
+      },
+      {
+        "media_key": "3_2107881225650348032"
+      },
+      {
+        "media_key": "3_2107881323746738176"
+      },
+      {
+        "media_key": "3_2107881406743650304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夜晚的河口湾大桥，一个很有特点的立交桥 https://t.co/QMzhZu4HA4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2107881179701760000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCyw9Da0AArOtY.jpg",
+        "width": 2106
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2107881225650348032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCyzoOaoAA-yMV.jpg",
+        "width": 2106
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2107881323746738176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCy5VqawAAih9b.jpg",
+        "width": 2106
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2107881406743650304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCy-K2bIAAB3bU.jpg",
+        "width": 2106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107881179701760000",
+            "3_2107881225650348032",
+            "3_2107881323746738176",
+            "3_2107881406743650304"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2107881460602732873",
+        "created_at": "2026-10-07T17:11:17.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T18:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107881460602732873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMzhZu4HA4",
+              "end": 43,
+              "expanded_url": "https://x.com/LMegurine03/status/2107881460602732873/photo/1",
+              "media_key": "3_2107881179701760000",
+              "start": 20,
+              "url": "https://t.co/QMzhZu4HA4"
+            },
+            {
+              "display_url": "pic.x.com/QMzhZu4HA4",
+              "end": 43,
+              "expanded_url": "https://x.com/LMegurine03/status/2107881460602732873/photo/1",
+              "media_key": "3_2107881225650348032",
+              "start": 20,
+              "url": "https://t.co/QMzhZu4HA4"
+            },
+            {
+              "display_url": "pic.x.com/QMzhZu4HA4",
+              "end": 43,
+              "expanded_url": "https://x.com/LMegurine03/status/2107881460602732873/photo/1",
+              "media_key": "3_2107881323746738176",
+              "start": 20,
+              "url": "https://t.co/QMzhZu4HA4"
+            },
+            {
+              "display_url": "pic.x.com/QMzhZu4HA4",
+              "end": 43,
+              "expanded_url": "https://x.com/LMegurine03/status/2107881460602732873/photo/1",
+              "media_key": "3_2107881406743650304",
+              "start": 20,
+              "url": "https://t.co/QMzhZu4HA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107881460602732873",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107881179701760000"
+          },
+          {
+            "media_key": "3_2107881225650348032"
+          },
+          {
+            "media_key": "3_2107881323746738176"
+          },
+          {
+            "media_key": "3_2107881406743650304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夜晚的河口湾大桥，一个很有特点的立交桥 https://t.co/QMzhZu4HA4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2107881460602732873",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1789407748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 5816,
+          "like_count": 9361,
+          "listed_count": 10,
+          "media_count": 2348,
+          "tweet_count": 7996
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

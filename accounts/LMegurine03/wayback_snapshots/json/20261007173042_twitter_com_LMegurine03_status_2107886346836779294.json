@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1877035470615638016",
+    "conversation_id": "1909615625351364662",
+    "created_at": "2026-10-07T17:30:42.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T18:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107886346836779294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723715289723092992",
+          "start": 0,
+          "username": "CharmingFurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107886346836779294",
+    "in_reply_to_user_id": "1723715289723092992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107871228581359875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharmingFurina 嗯，你好呀🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877035470615638016",
+        "conversation_id": "1909615625351364662",
+        "created_at": "2026-10-07T17:30:42.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T18:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107886346836779294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723715289723092992",
+              "start": 0,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107886346836779294",
+        "in_reply_to_user_id": "1723715289723092992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107871228581359875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharmingFurina 嗯，你好呀🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723715289723092992",
+        "conversation_id": "1909615625351364662",
+        "created_at": "2026-10-07T16:30:37.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T17:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107871228581359875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107871228581359875",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909615625351364662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMegurine03 好久不見呀~"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2107886346836779294",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1789407748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 5816,
+          "like_count": 9362,
+          "listed_count": 10,
+          "media_count": 2356,
+          "tweet_count": 8005
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-12T14:52:12.000Z",
+        "description": "中推第一芙廚🥰/重慶07男高/高三/理科生/日常清水推/🇹🇼右翼中華民國派❂(RKMT)/183cm 62kg/澀澀/數學/語言文字學/中華&印度文化圈研究/喜歡東亞、東南亞/原神、崩鐵/友LGBT/漢英日韓泰法語ok/會發自拍🥰/小帳@Furina_Thailand/妹妹@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "Furina_Thailand"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "LiciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/charmingfurina",
+                "end": 23,
+                "expanded_url": "http://ngl.link/charmingfurina",
+                "start": 0,
+                "url": "https://t.co/Y8AOwF1U2q"
+              }
+            ]
+          }
+        },
+        "id": "1723715289723092992",
+        "is_identity_verified": false,
+        "location": "Palais Mermonia, Fontaine",
+        "most_recent_tweet_id": "2107871782686667050",
+        "name": "💙迷人的芙芙💙",
+        "pinned_tweet_id": "1929101204237287777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723715289723092992/1743173318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958894650598858753/c_kIQugG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 3694,
+          "like_count": 85268,
+          "listed_count": 11,
+          "media_count": 1329,
+          "tweet_count": 18673
+        },
+        "url": "https://t.co/Y8AOwF1U2q",
+        "username": "CharmingFurina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

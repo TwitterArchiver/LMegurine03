@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107864546845302784",
+        "3_2107864566537601024",
+        "3_2107864584065613825",
+        "3_2107864609252360193"
+      ]
+    },
+    "author_id": "1877035470615638016",
+    "conversation_id": "2107864625564000716",
+    "created_at": "2026-10-07T16:04:23.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T17:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107864625564000716"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J4jrpasteJ",
+          "end": 120,
+          "expanded_url": "https://x.com/LMegurine03/status/2107864625564000716/photo/1",
+          "media_key": "3_2107864546845302784",
+          "start": 97,
+          "url": "https://t.co/J4jrpasteJ"
+        },
+        {
+          "display_url": "pic.x.com/J4jrpasteJ",
+          "end": 120,
+          "expanded_url": "https://x.com/LMegurine03/status/2107864625564000716/photo/1",
+          "media_key": "3_2107864566537601024",
+          "start": 97,
+          "url": "https://t.co/J4jrpasteJ"
+        },
+        {
+          "display_url": "pic.x.com/J4jrpasteJ",
+          "end": 120,
+          "expanded_url": "https://x.com/LMegurine03/status/2107864625564000716/photo/1",
+          "media_key": "3_2107864584065613825",
+          "start": 97,
+          "url": "https://t.co/J4jrpasteJ"
+        },
+        {
+          "display_url": "pic.x.com/J4jrpasteJ",
+          "end": 120,
+          "expanded_url": "https://x.com/LMegurine03/status/2107864625564000716/photo/1",
+          "media_key": "3_2107864609252360193",
+          "start": 97,
+          "url": "https://t.co/J4jrpasteJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107864625564000716",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107864546845302784"
+      },
+      {
+        "media_key": "3_2107864566537601024"
+      },
+      {
+        "media_key": "3_2107864584065613825"
+      },
+      {
+        "media_key": "3_2107864609252360193"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这次依旧是御景62层的机位，这就是大连几乎只有在秋冬才能看到的偏北风天气，天空中几乎没有云，即使有云也会被吹的很散，能见度非常高，能看到最远的地平线甚至能接近70-80公里，在高空看会非常通透 https://t.co/J4jrpasteJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2107864546845302784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCjoy1aoAABlV7.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2107864566537601024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCjp8MbQAAkmS_.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2107864584065613825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCjq9fbgAEKFI4.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2107864609252360193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCjsbUawAEnWHk.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107864546845302784",
+            "3_2107864566537601024",
+            "3_2107864584065613825",
+            "3_2107864609252360193"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "2107864625564000716",
+        "created_at": "2026-10-07T16:04:23.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T17:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107864625564000716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J4jrpasteJ",
+              "end": 120,
+              "expanded_url": "https://x.com/LMegurine03/status/2107864625564000716/photo/1",
+              "media_key": "3_2107864546845302784",
+              "start": 97,
+              "url": "https://t.co/J4jrpasteJ"
+            },
+            {
+              "display_url": "pic.x.com/J4jrpasteJ",
+              "end": 120,
+              "expanded_url": "https://x.com/LMegurine03/status/2107864625564000716/photo/1",
+              "media_key": "3_2107864566537601024",
+              "start": 97,
+              "url": "https://t.co/J4jrpasteJ"
+            },
+            {
+              "display_url": "pic.x.com/J4jrpasteJ",
+              "end": 120,
+              "expanded_url": "https://x.com/LMegurine03/status/2107864625564000716/photo/1",
+              "media_key": "3_2107864584065613825",
+              "start": 97,
+              "url": "https://t.co/J4jrpasteJ"
+            },
+            {
+              "display_url": "pic.x.com/J4jrpasteJ",
+              "end": 120,
+              "expanded_url": "https://x.com/LMegurine03/status/2107864625564000716/photo/1",
+              "media_key": "3_2107864609252360193",
+              "start": 97,
+              "url": "https://t.co/J4jrpasteJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107864625564000716",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107864546845302784"
+          },
+          {
+            "media_key": "3_2107864566537601024"
+          },
+          {
+            "media_key": "3_2107864584065613825"
+          },
+          {
+            "media_key": "3_2107864609252360193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次依旧是御景62层的机位，这就是大连几乎只有在秋冬才能看到的偏北风天气，天空中几乎没有云，即使有云也会被吹的很散，能见度非常高，能看到最远的地平线甚至能接近70-80公里，在高空看会非常通透 https://t.co/J4jrpasteJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "is_identity_verified": false,
+        "location": "Castilla, Madrid",
+        "most_recent_tweet_id": "2107864625564000716",
+        "name": "Luka Megurine 03🍥",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877035470615638016/1789407748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 5816,
+          "like_count": 9361,
+          "listed_count": 10,
+          "media_count": 2333,
+          "tweet_count": 7981
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
